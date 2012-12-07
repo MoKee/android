@@ -8,12 +8,12 @@
            fetch=".."
            review="review.cyanogenmod.org" />
 
-  <remote  name="mokee"
+  <remote  name="origin"
            fetch="ssh://review.mfunz.com:29418"
            review="review.mfunz.com" />
 
   <default revision="refs/heads/jellybean"
-           remote="mokee"
+           remote="origin"
            sync-c="true"
            sync-j="16" />
 
