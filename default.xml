@@ -9,7 +9,7 @@
            review="review.cyanogenmod.org" />
 
   <remote  name="mokee"
-           fetch="ssh://review.mfunz.com:29418/"
+           fetch="ssh://review.mfunz.com:29418"
            review="review.mfunz.com" />
 
   <default revision="refs/heads/jellybean"
@@ -17,11 +17,11 @@
            sync-c="true"
            sync-j="16" />
 
-  <project path="build" name="MoKee/android_build" revision="refs/heads/jb_mkt" >
+  <project path="build" name="MoKee/android_build" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="android" name="CyanogenMod/android" />
+  <project path="android" name="MoKee/android" revision="refs/heads/jb_mkt" />
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" />
   <project path="bionic" name="CyanogenMod/android_bionic" />
