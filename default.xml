@@ -5,15 +5,15 @@
            fetch="https://android.googlesource.com" />
 
   <remote  name="github"
-           fetch=".."
+           fetch="http://github.com/"
            review="review.cyanogenmod.org" />
 
-  <remote  name="origin"
+  <remote  name="mokee"
            fetch="ssh://review.mfunz.com:29418"
            review="review.mfunz.com" />
 
   <default revision="refs/heads/jellybean"
-           remote="origin"
+           remote="mokee"
            sync-c="true"
            sync-j="16" />
 
