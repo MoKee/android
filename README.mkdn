@@ -31,7 +31,7 @@ familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository using the MoKee trees, use a command like this:
 
-    repo init -u git://github.com/martincz/android.git -b jb_mkt
+    repo init -u ssh://[username]@review.mfunz.com:29418/MoKee/android.git -b jb_mkt
 
 Then to sync up:
 
