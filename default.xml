@@ -40,6 +40,7 @@
   <project path="device/generic/goldfish" name="github/CyanogenMod/android_device_generic_goldfish" />
   <project path="device/google/accessory/arduino" name="github/CyanogenMod/android_device_google_accessory_arduino" />
   <project path="device/google/accessory/demokit" name="github/CyanogenMod/android_device_google_accessory_demokit" />
+  <project path="device/moto/common" name="github/CyanogenMod/android_device_moto_common" />
   <project path="device/sample" name="github/CyanogenMod/android_device_sample" />
   <project path="device/ti/panda" name="github/CyanogenMod/android_device_ti_panda" />
   <project path="docs/source.android.com" name="github/CyanogenMod/android_docs_source.android.com" />
@@ -339,4 +340,18 @@
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="github/CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="github/CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <project path="vendor/tmobile/products/themes" name="github/CyanogenMod/android_vendor_tmobile_products_themes" />
+  <project path="packages/apps/MotoFM" name="github/maniac103/android_packages_apps_MotoFM" />
+  <project path="packages/apps/MotoFMService" name="github/maniac103/android_packages_apps_MotoFMService" revision="gingerbread" />
+  <project path="packages/apps/Usb" name="github/CyanogenDefy/android_packages_apps_Usb" remote="github" revision="ics" />
+  <project path="vendor/motorola" name="github/Quarx2k/proprietary_vendor_motorola" />
+  <project path="device/moto/jordan-common" name="github/Quarx2k/android_device_moto_jordan-common" revision="jb_2ndboot" />
+  <project path="device/moto/mb526" name="github/Quarx2k/android_device_moto_mb526"  />
+  <project path="device/moto/mb520" name="github/CyanogenKobe/android_device_moto_mb520"/>
+  <project path="packages/apps/DroidSSHd" name="github/tpruvot/android_external_droidsshd" />
+  <project path="external/bootmenu" name="github/Quarx2k/android_external_bootmenu" />
+  <project path="external/hostapd" name="github/tpruvot/android_external_hostapd" remote="github" revision="ics" />
+  <project path="packages/apps/HwaSettings" name="github/royale1223/HwaSettings" revision="master" />
+  <project path="jordan-kernel" name="github/Quarx2k/jordan-kernel" revision="2.6.32" />
+  <project path="system/wlan/ti" name="github/tpruvot/android_system_wlan_ti" revision="gingerbread" />
+  <project path="prebuilts/gcc/linux-x86/arm/android-toolchain-eabi-linaro-4.7" name="github/Quarx2k/android-toolchain-eabi-linaro-4.7" revision="4.7-2012.10" />
 </manifest>
