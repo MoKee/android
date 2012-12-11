@@ -303,6 +303,8 @@
   <project path="packages/wallpapers/NoiseField" name="github/CyanogenMod/android_packages_wallpapers_NoiseField" />
   <project path="packages/wallpapers/PhaseBeam" name="github/CyanogenMod/android_packages_wallpapers_PhaseBeam" />
   <project path="pdk" name="github/CyanogenMod/android_pdk" />
+  
+  <!-- from Google AOSP -->
   <project path="prebuilt" name="platform/prebuilt" remote="aosp" revision="jb-dev" />
   <project path="prebuilts/eclipse" name="platform/prebuilts/eclipse" remote="aosp" revision="jb-dev" />
   <project path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" name="github/CyanogenMod/android_prebuilts_gcc_darwin-x86_arm_arm-eabi-4.6" />
@@ -324,6 +326,8 @@
   <project path="prebuilts/ndk" name="platform/prebuilts/ndk" remote="aosp" revision="jb-dev" />
   <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" remote="aosp" revision="jb-dev" />
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" remote="aosp" revision="jb-dev" />
+
+
   <project path="prebuilts/tools" name="github/CyanogenMod/android_prebuilts_tools" />
   <project path="sdk" name="github/CyanogenMod/android_sdk" />
   <project path="system/bluetooth" name="github/CyanogenMod/android_system_bluetooth" />
