@@ -358,5 +358,5 @@
   <project path="prebuilts/gcc/linux-x86/arm/android-toolchain-eabi-linaro-4.7" name="github/Quarx2k/android-toolchain-eabi-linaro-4.7" revision="4.7-2012.10" />
 
   <!-- from MoKee -->
-  <project path="vendor/motorola" name="MoKee/proprietary_vendor_motorola" />
+  <project path="vendor/motorola" name="MoKee/proprietary_vendor_motorola" revision="refs/heads/jb_mkt" />
 </manifest>
