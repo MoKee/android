@@ -327,7 +327,6 @@
   <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" remote="aosp" revision="jb-dev" />
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" remote="aosp" revision="jb-dev" />
 
-
   <project path="prebuilts/tools" name="github/CyanogenMod/android_prebuilts_tools" />
   <project path="sdk" name="github/CyanogenMod/android_sdk" />
   <project path="system/bluetooth" name="github/CyanogenMod/android_system_bluetooth" />
@@ -347,7 +346,6 @@
   <project path="packages/apps/MotoFM" name="github/maniac103/android_packages_apps_MotoFM" />
   <project path="packages/apps/MotoFMService" name="github/maniac103/android_packages_apps_MotoFMService" revision="gingerbread" />
   <project path="packages/apps/Usb" name="github/CyanogenDefy/android_packages_apps_Usb" remote="github" revision="ics" />
-  <project path="vendor/motorola" name="github/Quarx2k/proprietary_vendor_motorola" />
   <project path="device/moto/jordan-common" name="github/Quarx2k/android_device_moto_jordan-common" revision="jb_2ndboot" />
   <project path="device/moto/mb526" name="github/Quarx2k/android_device_moto_mb526"  />
   <project path="device/moto/mb520" name="github/CyanogenKobe/android_device_moto_mb520"/>
@@ -358,4 +356,7 @@
   <project path="jordan-kernel" name="github/Quarx2k/jordan-kernel" revision="2.6.32" />
   <project path="system/wlan/ti" name="github/tpruvot/android_system_wlan_ti" revision="gingerbread" />
   <project path="prebuilts/gcc/linux-x86/arm/android-toolchain-eabi-linaro-4.7" name="github/Quarx2k/android-toolchain-eabi-linaro-4.7" revision="4.7-2012.10" />
+
+  <!-- from MoKee -->
+  <project path="vendor/motorola" name="MoKee/proprietary_vendor_motorola" />
 </manifest>
