@@ -356,8 +356,9 @@
   <!-- MoKee Project -->
 
   <!-- devices paired -->
-  <project path="device/motorola/jordan-common" name="MoKee/android_device_motorola_jordan-common" revision="jb_mkt" />
+  <project path="vendor/mokee" name="MoKee/android_vendor_mokee" revision="refs/heads/jb_mkt"  />
   <project path="vendor/motorola" name="MoKee/proprietary_vendor_motorola" revision="refs/heads/jb_mkt" />
+  <project path="device/motorola/jordan-common" name="MoKee/android_device_motorola_jordan-common" revision="refs/heads/jb_mkt" />
   <project path="device/motorola/jordanplus" name="MoKee/android_device_motorola_jordanplus" revision="refs/heads/jb_mkt" />
 
 </manifest>
