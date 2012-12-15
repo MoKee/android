@@ -349,7 +349,6 @@
   <project path="external/bootmenu" name="github/Quarx2k/android_external_bootmenu" />
   <project path="external/hostapd" name="github/tpruvot/android_external_hostapd" remote="github" revision="ics" />
   <project path="packages/apps/HwaSettings" name="github/royale1223/HwaSettings" revision="master" />
-  <project path="jordan-kernel" name="github/Quarx2k/jordan-kernel" revision="2.6.32" />
   <project path="system/wlan/ti" name="github/tpruvot/android_system_wlan_ti" revision="gingerbread" />
   <project path="prebuilts/gcc/linux-x86/arm/android-toolchain-eabi-linaro-4.7" name="github/Quarx2k/android-toolchain-eabi-linaro-4.7" revision="4.7-2012.10" />
 
