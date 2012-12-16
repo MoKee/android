@@ -20,7 +20,7 @@
            sync-c="true"
            sync-j="16" />
 
-  <project path="build" name="github/CyanogenMod/android_build" >
+  <project path="build" name="MoKee/android_build" revision="refs/heads/jb_mkt">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
