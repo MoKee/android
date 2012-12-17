@@ -247,8 +247,6 @@
   <project path="packages/apps/CellBroadcastReceiver" name="github/CyanogenMod/android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="github/CyanogenMod/android_packages_apps_CertInstaller" />
   <project path="packages/apps/CMFileManager" name="github/CyanogenMod/android_packages_apps_CMFileManager" />
-  <project path="packages/apps/CMUpdater" name="github/CyanogenMod/android_packages_apps_CMUpdater" />
-  <project path="packages/apps/CMWallpapers" name="github/CyanogenMod/android_packages_apps_CMWallpapers" />
   <project path="packages/apps/Contacts" name="github/CyanogenMod/android_packages_apps_Contacts" />
   <project path="packages/apps/DeskClock" name="github/CyanogenMod/android_packages_apps_DeskClock" />
   <project path="packages/apps/DSPManager" name="github/CyanogenMod/android_packages_apps_DSPManager" />
@@ -266,7 +264,6 @@
   <project path="packages/apps/Nfc" name="github/CyanogenMod/android_packages_apps_Nfc" />
   <project path="packages/apps/PackageInstaller" name="github/CyanogenMod/android_packages_apps_PackageInstaller" />
   <project path="packages/apps/Phone" name="github/CyanogenMod/android_packages_apps_Phone" />
-  <project path="packages/apps/Protips" name="github/CyanogenMod/android_packages_apps_Protips" />
   <project path="packages/apps/Provision" name="github/CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/QuickSearchBox" name="github/CyanogenMod/android_packages_apps_QuickSearchBox" />
   <project path="packages/apps/Settings" name="github/CyanogenMod/android_packages_apps_Settings" />
