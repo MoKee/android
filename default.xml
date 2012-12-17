@@ -363,6 +363,7 @@
 
   <project path="vendor/samsung/maguro" name="MoKee/android_vendor_samsung_maguro" revision="refs/heads/jb_mkt" />
   <project path="device/samsung/maguro" name="MoKee/android_device_samsung_maguro" revision="refs/heads/jb_mkt" />
+  <project path="device/samsung/tuna" name="MoKee/android_device_samsung_tuna" revision="refs/heads/jb_mkt" />
 
   <project path="device/lge/p970" name="MoKee/android_device_lge_p970" revision="refs/heads/jb_mkt" />
   <project path="vendor/lge/p970" name="MoKee/android_vendor_lge_p970" revision="refs/heads/jb_mkt"/>
