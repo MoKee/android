@@ -35,13 +35,10 @@
   <project path="dalvik" name="github/CyanogenMod/android_dalvik" />
   <project path="development" name="github/CyanogenMod/android_development" />
   <project path="device/common" name="github/CyanogenMod/android_device_common" />
-  <project path="device/generic/armv7-a-neon" name="github/CyanogenMod/android_device_generic_armv7-a-neon" />
-  <project path="device/generic/armv7-a" name="github/CyanogenMod/android_device_generic_armv7-a" />
   <project path="device/generic/goldfish" name="github/CyanogenMod/android_device_generic_goldfish" />
   <project path="device/google/accessory/arduino" name="github/CyanogenMod/android_device_google_accessory_arduino" />
   <project path="device/google/accessory/demokit" name="github/CyanogenMod/android_device_google_accessory_demokit" />
   <project path="device/sample" name="github/CyanogenMod/android_device_sample" />
-  <project path="device/ti/panda" name="github/CyanogenMod/android_device_ti_panda" />
   <project path="docs/source.android.com" name="github/CyanogenMod/android_docs_source.android.com" />
   <project path="external/aac" name="github/CyanogenMod/android_external_aac" />
   <project path="external/android-mock" name="github/CyanogenMod/android_external_android-mock" />
@@ -358,6 +355,10 @@
   <project path="vendor/samsung/maguro" name="MoKee/android_vendor_samsung_maguro" revision="refs/heads/jb_mkt" />
   <project path="device/samsung/maguro" name="MoKee/android_device_samsung_maguro" revision="refs/heads/jb_mkt" />
   <project path="device/samsung/tuna" name="MoKee/android_device_samsung_tuna" revision="refs/heads/jb_mkt" />
+
+  <project path="device/generic/armv7-a-neon" name="MoKee/android_device_generic_armv7-a-neon" revision="refs/heads/jb_mkt" />
+  <project path="device/generic/armv7-a" name="MoKee/android_device_generic_armv7-a" revision="refs/heads/jb_mkt" />
+  <project path="device/ti/panda" name="MoKee/android_device_ti_panda" revision="refs/heads/jb_mkt" />
 
   <project path="device/lge/p970" name="MoKee/android_device_lge_p970" revision="refs/heads/jb_mkt" />
   <project path="vendor/lge/p970" name="MoKee/android_vendor_lge_p970" revision="refs/heads/jb_mkt"/>
