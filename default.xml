@@ -346,7 +346,7 @@
 
   <project path="hardware/ti/wlan" name="MoKee/android_hardware_ti_wlan" revision="refs/heads/jb_mkt" />
 
-  <project path="system/core" name="github/CyanogenMod/android_system_core" revision="refs/heads/jb_mkt" />
+  <project path="system/core" name="MoKee/android_system_core" revision="refs/heads/jb_mkt" />
 
   <!-- Devices Paired -->
   <project path="vendor/mk" name="MoKee/android_vendor_mk" revision="refs/heads/jb_mkt" />
