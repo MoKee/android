@@ -259,7 +259,6 @@
   <project path="packages/apps/PackageInstaller" name="github/CyanogenMod/android_packages_apps_PackageInstaller" />
   <project path="packages/apps/Phone" name="github/CyanogenMod/android_packages_apps_Phone" />
   <project path="packages/apps/Provision" name="github/CyanogenMod/android_packages_apps_Provision" />
-  <project path="packages/apps/QuickSearchBox" name="github/CyanogenMod/android_packages_apps_QuickSearchBox" />
   <project path="packages/apps/SoundRecorder" name="github/CyanogenMod/android_packages_apps_SoundRecorder" />
   <project path="packages/apps/SpareParts" name="github/CyanogenMod/android_packages_apps_SpareParts" />
   <project path="packages/apps/SpeechRecorder" name="github/CyanogenMod/android_packages_apps_SpeechRecorder" />
