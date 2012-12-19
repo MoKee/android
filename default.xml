@@ -344,7 +344,7 @@
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" revision="refs/heads/jb_mkt" />
   <project path="packages/providers/CalendarProvider" name="MoKee/android_packages_providers_CalendarProvider" revision="refs/heads/jb_mkt" />
 
-  <project path="hardware/ti/wlan" name="github/CyanogenMod/android_hardware_ti_wlan" revision="refs/heads/jb_mkt" />
+  <project path="hardware/ti/wlan" name="MoKee/android_hardware_ti_wlan" revision="refs/heads/jb_mkt" />
 
   <!-- Devices Paired -->
   <project path="vendor/mk" name="MoKee/android_vendor_mk" revision="refs/heads/jb_mkt" />
