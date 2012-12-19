@@ -197,7 +197,6 @@
   <project path="external/zlib" name="github/CyanogenMod/android_external_zlib" />
   <project path="external/zxing" name="github/CyanogenMod/android_external_zxing" />
   <project path="frameworks/av" name="github/CyanogenMod/android_frameworks_av" />
-  <project path="frameworks/base" name="github/CyanogenMod/android_frameworks_base" />
   <project path="frameworks/compile/libbcc" name="github/CyanogenMod/android_frameworks_compile_libbcc" />
   <project path="frameworks/compile/linkloader" name="github/CyanogenMod/android_frameworks_compile_linkloader" />
   <project path="frameworks/compile/mclinker" name="github/CyanogenMod/android_frameworks_compile_mclinker" />
@@ -261,7 +260,6 @@
   <project path="packages/apps/Phone" name="github/CyanogenMod/android_packages_apps_Phone" />
   <project path="packages/apps/Provision" name="github/CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/QuickSearchBox" name="github/CyanogenMod/android_packages_apps_QuickSearchBox" />
-  <project path="packages/apps/Settings" name="github/CyanogenMod/android_packages_apps_Settings" />
   <project path="packages/apps/SoundRecorder" name="github/CyanogenMod/android_packages_apps_SoundRecorder" />
   <project path="packages/apps/SpareParts" name="github/CyanogenMod/android_packages_apps_SpareParts" />
   <project path="packages/apps/SpeechRecorder" name="github/CyanogenMod/android_packages_apps_SpeechRecorder" />
@@ -343,6 +341,9 @@
   <!-- MoKee Project -->
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" revision="refs/heads/jb_mkt" />
   <project path="packages/providers/CalendarProvider" name="MoKee/android_packages_providers_CalendarProvider" revision="refs/heads/jb_mkt" />
+  <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" revision="refs/heads/jb_mkt" />
+
+  <project path="frameworks/base" name="MoKee/android_frameworks_base" revision="refs/heads/jb_mkt" />
 
   <project path="hardware/ti/wlan" name="MoKee/android_hardware_ti_wlan" revision="refs/heads/jb_mkt" />
 
