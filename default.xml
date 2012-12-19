@@ -293,7 +293,6 @@
   <project path="prebuilts/tools" name="github/CyanogenMod/android_prebuilts_tools" />
   <project path="sdk" name="github/CyanogenMod/android_sdk" />
   <project path="system/bluetooth" name="github/CyanogenMod/android_system_bluetooth" />
-  <project path="system/core" name="github/CyanogenMod/android_system_core" />
   <project path="system/extras" name="github/CyanogenMod/android_system_extras" />
   <project path="system/media" name="github/CyanogenMod/android_system_media" />
   <project path="system/netd" name="github/CyanogenMod/android_system_netd" />
@@ -346,6 +345,8 @@
   <project path="frameworks/base" name="MoKee/android_frameworks_base" revision="refs/heads/jb_mkt" />
 
   <project path="hardware/ti/wlan" name="MoKee/android_hardware_ti_wlan" revision="refs/heads/jb_mkt" />
+
+  <project path="system/core" name="github/CyanogenMod/android_system_core" revision="refs/heads/jb_mkt" />
 
   <!-- Devices Paired -->
   <project path="vendor/mk" name="MoKee/android_vendor_mk" revision="refs/heads/jb_mkt" />
