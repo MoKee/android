@@ -303,10 +303,10 @@
   <project path="vendor/tmobile/products/themes" name="github/CyanogenMod/android_vendor_tmobile_products_themes" />
   <project path="packages/apps/MotoFM" name="github/maniac103/android_packages_apps_MotoFM" />
   <project path="packages/apps/MotoFMService" name="github/maniac103/android_packages_apps_MotoFMService" revision="gingerbread" />
-  <project path="packages/apps/Usb" name="github/CyanogenDefy/android_packages_apps_Usb" remote="github" revision="ics" />
+  <project path="packages/apps/Usb" name="github/CyanogenDefy/android_packages_apps_Usb" remote="mokee" revision="ics" />
   <project path="packages/apps/DroidSSHd" name="github/tpruvot/android_external_droidsshd" />
   <project path="external/bootmenu" name="github/Quarx2k/android_external_bootmenu" />
-  <project path="external/hostapd" name="github/tpruvot/android_external_hostapd" remote="github" revision="ics" />
+  <project path="external/hostapd" name="github/tpruvot/android_external_hostapd" remote="mokee" revision="ics" />
   <project path="packages/apps/HwaSettings" name="github/royale1223/HwaSettings" revision="master" />
   <project path="system/wlan/ti" name="github/tpruvot/android_system_wlan_ti" revision="gingerbread" />
   <project path="prebuilts/gcc/linux-x86/arm/android-toolchain-eabi-linaro-4.7" name="github/Quarx2k/android-toolchain-eabi-linaro-4.7" revision="4.7-2012.10" />
