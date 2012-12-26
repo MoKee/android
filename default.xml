@@ -252,7 +252,6 @@
   <project path="packages/apps/KeyChain" name="github/CyanogenMod/android_packages_apps_KeyChain" />
   <project path="packages/apps/Launcher2" name="github/CyanogenMod/android_packages_apps_Launcher2" />
   <project path="packages/apps/LegacyCamera" name="github/CyanogenMod/android_packages_apps_LegacyCamera" />
-  <project path="packages/apps/Mms" name="github/CyanogenMod/android_packages_apps_Mms" />
   <project path="packages/apps/Music" name="github/CyanogenMod/android_packages_apps_Music" />
   <project path="packages/apps/MusicFX" name="github/CyanogenMod/android_packages_apps_MusicFX" />
   <project path="packages/apps/Nfc" name="github/CyanogenMod/android_packages_apps_Nfc" />
@@ -340,6 +339,7 @@
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" revision="refs/heads/jb_mkt" />
   <project path="packages/providers/CalendarProvider" name="MoKee/android_packages_providers_CalendarProvider" revision="refs/heads/jb_mkt" />
   <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" revision="refs/heads/jb_mkt" />
+  <project path="packages/apps/Mms" name="MoKee/android_packages_apps_Mms" revision="refs/heads/jb_mkt" />
 
   <project path="frameworks/base" name="MoKee/android_frameworks_base" revision="refs/heads/jb_mkt" />
 
