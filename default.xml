@@ -20,7 +20,7 @@
            sync-c="true"
            sync-j="16" />
 
-  <project path="build" name="github/android_build">
+  <project path="build" name="github/CyanogenMod/android_build">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
