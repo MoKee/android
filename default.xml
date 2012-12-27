@@ -358,6 +358,9 @@
   <project path="vendor/samsung/maguro" name="MoKee/android_vendor_samsung_maguro" revision="refs/heads/jb_mkt" />
   <project path="device/samsung/maguro" name="MoKee/android_device_samsung_maguro" revision="refs/heads/jb_mkt" />
   <project path="device/samsung/tuna" name="MoKee/android_device_samsung_tuna" revision="refs/heads/jb_mkt" />
+  <project path="vendor/samsung/d2vzw" name="MoKee/android_vendor_samsung_d2vzw" revision="refs/heads/jb_mkt" />
+  <project path="device/samsung/d2vzw" name="MoKee/android_device_samsung_d2vzw" revision="refs/heads/jb_mkt" />
+  <project path="device/samsung/d2-common" name="MoKee/android_device_samsung_d2-common" revision="refs/heads/jb_mkt" />
 
   <project path="device/generic/armv7-a-neon" name="MoKee/android_device_generic_armv7-a-neon" revision="refs/heads/jb_mkt" />
   <project path="device/generic/armv7-a" name="MoKee/android_device_generic_armv7-a" revision="refs/heads/jb_mkt" />
