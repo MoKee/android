@@ -269,7 +269,6 @@
   <project path="packages/apps/Bluetooth" name="github/CyanogenMod/android_packages_apps_Bluetooth" />
   <project path="packages/apps/Browser" name="github/CyanogenMod/android_packages_apps_Browser" />
   <project path="packages/apps/Calculator" name="github/CyanogenMod/android_packages_apps_Calculator" />
-  <project path="packages/apps/Calendar" name="github/CyanogenMod/android_packages_apps_Calendar" />
   <project path="packages/apps/Camera" name="github/CyanogenMod/android_packages_apps_Camera" />
   <project path="packages/apps/CellBroadcastReceiver" name="github/CyanogenMod/android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="github/CyanogenMod/android_packages_apps_CertInstaller" />
@@ -312,7 +311,6 @@
   <project path="packages/inputmethods/OpenWnn" name="github/CyanogenMod/android_packages_inputmethods_OpenWnn" />
   <project path="packages/inputmethods/PinyinIME" name="github/CyanogenMod/android_packages_inputmethods_PinyinIME" />
   <project path="packages/providers/ApplicationsProvider" name="github/CyanogenMod/android_packages_providers_ApplicationsProvider" />
-  <project path="packages/providers/CalendarProvider" name="github/CyanogenMod/android_packages_providers_CalendarProvider" />
   <project path="packages/providers/ContactsProvider" name="github/CyanogenMod/android_packages_providers_ContactsProvider" />
   <project path="packages/providers/DownloadProvider" name="github/CyanogenMod/android_packages_providers_DownloadProvider" />
   <project path="packages/providers/DrmProvider" name="github/CyanogenMod/android_packages_providers_DrmProvider" />
@@ -380,8 +378,13 @@
   <!-- from Google AOSP End -->
 
   <!-- MoKee Packages Start -->
+  <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" revision="refs/heads/jb-mr1_mkt" />
   <!-- MoKee Packages End -->
+
+  <!-- MoKee Provider Start -->
+  <project path="packages/providers/CalendarProvider" name="MoKee/android_packages_providers_CalendarProvider" revision="refs/heads/jb-mr1_mkt" />
+  <!-- MoKee Provider End -->
 
   <!-- Devices Paired Start -->
   <project path="vendor/mk" name="MoKee/android_vendor_mk" revision="refs/heads/jb-mr1_mkt" />
