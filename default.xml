@@ -382,5 +382,9 @@
 
   <!-- Devices Paired Start -->
   <project path="vendor/mk" name="MoKee/android_vendor_mk" revision="refs/heads/jb-mr1_mkt" />
+
+  <project path="vendor/samsung/maguro" name="MoKee/android_vendor_samsung_maguro" revision="refs/heads/jb-mr1_mkt" />
+  <project path="device/samsung/maguro" name="MoKee/android_device_samsung_maguro" revision="refs/heads/jb-mr1_mkt" />
+  <project path="device/samsung/tuna" name="MoKee/android_device_samsung_tuna" revision="refs/heads/jb-mr1_mkt" />
   <!-- Devices Paired End -->
 </manifest>
