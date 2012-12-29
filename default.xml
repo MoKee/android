@@ -214,7 +214,6 @@
   <project path="external/zlib" name="github/CyanogenMod/android_external_zlib" />
   <project path="external/zxing" name="github/CyanogenMod/android_external_zxing" />
   <project path="frameworks/av" name="github/CyanogenMod/android_frameworks_av" />
-  <project path="frameworks/base" name="github/CyanogenMod/android_frameworks_base" />
   <project path="frameworks/compile/libbcc" name="github/CyanogenMod/android_frameworks_compile_libbcc" />
   <project path="frameworks/compile/linkloader" name="github/CyanogenMod/android_frameworks_compile_linkloader" />
   <project path="frameworks/compile/llvm-ndk-cc" name="github/CyanogenMod/android_frameworks_compile_llvm-ndk-cc" />
@@ -301,9 +300,7 @@
   <project path="packages/apps/Torch" name="github/CyanogenMod/android_packages_apps_Torch" />
   <project path="packages/apps/Trebuchet" name="github/CyanogenMod/android_packages_apps_Trebuchet" />
   <project path="packages/experimental" name="github/CyanogenMod/android_packages_experimental" />
-  <project path="packages/inputmethods/LatinIME" name="github/CyanogenMod/android_packages_inputmethods_LatinIME" />
   <project path="packages/inputmethods/OpenWnn" name="github/CyanogenMod/android_packages_inputmethods_OpenWnn" />
-  <project path="packages/inputmethods/PinyinIME" name="github/CyanogenMod/android_packages_inputmethods_PinyinIME" />
   <project path="packages/providers/ApplicationsProvider" name="github/CyanogenMod/android_packages_providers_ApplicationsProvider" />
   <project path="packages/providers/ContactsProvider" name="github/CyanogenMod/android_packages_providers_ContactsProvider" />
   <project path="packages/providers/DownloadProvider" name="github/CyanogenMod/android_packages_providers_DownloadProvider" />
@@ -379,6 +376,10 @@
   <!-- MoKee Provider Start -->
   <project path="packages/providers/CalendarProvider" name="MoKee/android_packages_providers_CalendarProvider" revision="refs/heads/jb-mr1_mkt" />
   <!-- MoKee Provider End -->
+
+  <!-- MoKee Frameworks Start -->
+  <project path="frameworks/base" name="MoKee/android_frameworks_base" revision="refs/heads/jb-mr1_mkt" />
+  <!-- MoKee Frameworks End -->
 
   <!-- Devices Paired Start -->
   <project path="vendor/mk" name="MoKee/android_vendor_mk" revision="refs/heads/jb-mr1_mkt" />
