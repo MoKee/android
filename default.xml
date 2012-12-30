@@ -293,7 +293,6 @@
   <project path="packages/apps/SmartCardService" name="github/CyanogenMod/android_packages_apps_SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="github/CyanogenMod/android_packages_apps_SoundRecorder" />
   <project path="packages/apps/SpareParts" name="github/CyanogenMod/android_packages_apps_SpareParts" />
-  <project path="packages/apps/SpeechRecorder" name="github/CyanogenMod/android_packages_apps_SpeechRecorder" />
   <project path="packages/apps/Stk" name="github/CyanogenMod/android_packages_apps_Stk" />
   <project path="packages/apps/Superuser" name="github/CyanogenMod/android_packages_apps_Superuser" />
   <project path="packages/apps/Tag" name="github/CyanogenMod/android_packages_apps_Tag" />
