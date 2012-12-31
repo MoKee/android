@@ -281,6 +281,7 @@
   <project path="packages/apps/KeyChain" name="github/CyanogenMod/android_packages_apps_KeyChain" />
   <project path="packages/apps/Launcher2" name="github/CyanogenMod/android_packages_apps_Launcher2" />
   <project path="packages/apps/LegacyCamera" name="github/CyanogenMod/android_packages_apps_LegacyCamera" />
+  <project path="packages/apps/LockClock" name="github/CyanogenMod/android_packages_apps_LockClock" />
   <project path="packages/apps/Music" name="github/CyanogenMod/android_packages_apps_Music" />
   <project path="packages/apps/MusicFX" name="github/CyanogenMod/android_packages_apps_MusicFX" />
   <project path="packages/apps/Nfc" name="github/CyanogenMod/android_packages_apps_Nfc" />
