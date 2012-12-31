@@ -129,7 +129,6 @@
   <project path="external/libnl-headers" name="github/CyanogenMod/android_external_libnl-headers" />
   <project path="external/libogg" name="github/CyanogenMod/android_external_libogg" />
   <project path="external/libpcap" name="github/CyanogenMod/android_external_libpcap" />
-  <project path="external/libphonenumber" name="github/CyanogenMod/android_external_libphonenumber" />
   <project path="external/libpng" name="github/CyanogenMod/android_external_libpng" />
   <project path="external/libppp" name="github/CyanogenMod/android_external_libppp" />
   <project path="external/libselinux" name="github/CyanogenMod/android_external_libselinux" />
@@ -370,6 +369,7 @@
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Mms" name="MoKee/android_packages_apps_Mms" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" revision="refs/heads/jb-mr1_mkt" />
+  <project path="external/libphonenumber" name="MoKee/android_external_libphonenumber" revision="refs/heads/jb-mr1_mkt" />
   <!-- MoKee Packages End -->
 
   <!-- MoKee Provider Start -->
