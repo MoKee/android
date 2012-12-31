@@ -266,7 +266,6 @@
   <project path="packages/apps/Apollo" name="github/CyanogenMod/android_packages_apps_Apollo" />
   <project path="packages/apps/BasicSmsReceiver" name="github/CyanogenMod/android_packages_apps_BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="github/CyanogenMod/android_packages_apps_Bluetooth" />
-  <project path="packages/apps/Browser" name="github/CyanogenMod/android_packages_apps_Browser" />
   <project path="packages/apps/Calculator" name="github/CyanogenMod/android_packages_apps_Calculator" />
   <project path="packages/apps/Camera" name="github/CyanogenMod/android_packages_apps_Camera" />
   <project path="packages/apps/CellBroadcastReceiver" name="github/CyanogenMod/android_packages_apps_CellBroadcastReceiver" />
@@ -367,6 +366,7 @@
   <!-- from Google AOSP End -->
 
   <!-- MoKee Packages Start -->
+  <project path="packages/apps/Browser" name="MoKee/android_packages_apps_Browser" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Mms" name="MoKee/android_packages_apps_Mms" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" revision="refs/heads/jb-mr1_mkt" />
