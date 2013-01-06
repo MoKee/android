@@ -393,5 +393,7 @@
 
   <project path="vendor/lge/mako" name="MoKee/android_vendor_lge_mako" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/lge/mako" name="MoKee/android_device_lge_mako" revision="refs/heads/jb-mr1_mkt" />
+  <project path="vendor/lge/p970" name="MoKee/android_vendor_lge_p970" revision="refs/heads/jb-mr1_mkt"/>
+  <project path="device/lge/p970" name="MoKee/android_device_lge_p970" revision="refs/heads/jb-mr1_mkt" />
   <!-- Devices Paired End -->
 </manifest>
