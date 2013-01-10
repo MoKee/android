@@ -30,7 +30,6 @@
   <project path="bionic" name="github/CyanogenMod/android_bionic" />
   <project path="bootable/bootloader/legacy" name="github/CyanogenMod/android_bootable_bootloader_legacy" />
   <project path="bootable/diskinstaller" name="github/CyanogenMod/android_bootable_diskinstaller" />
-  <project path="bootable/recovery" name="github/CyanogenMod/android_bootable_recovery" />
   <project path="dalvik" name="github/CyanogenMod/android_dalvik" />
   <project path="development" name="github/CyanogenMod/android_development" />
   <project path="device/common" name="github/CyanogenMod/android_device_common" />
@@ -363,7 +362,11 @@
   <project path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" name="platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" groups="linux,x86" remote="aosp" revision="jb-mr1-release" />
   <!-- from Google AOSP End -->
 
-  <!-- MoKee Packages Start -->
+  <!-- MoKee Bootable Start -->
+  <project path="bootable/recovery" name="MoKee/android_bootable_recovery" revision="refs/heads/jb-mr1_mkt" />
+  <!-- MoKee Bootable Start -->
+
+  <!-- MoKee Packages End -->
   <project path="packages/apps/Browser" name="MoKee/android_packages_apps_Browser" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Contacts" name="MoKee/android_packages_apps_Contacts" revision="refs/heads/jb-mr1_mkt" />
