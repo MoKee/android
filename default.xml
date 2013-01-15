@@ -283,7 +283,6 @@
   <project path="packages/apps/Music" name="github/CyanogenMod/android_packages_apps_Music" />
   <project path="packages/apps/MusicFX" name="github/CyanogenMod/android_packages_apps_MusicFX" />
   <project path="packages/apps/Nfc" name="github/CyanogenMod/android_packages_apps_Nfc" />
-  <project path="packages/apps/PackageInstaller" name="github/CyanogenMod/android_packages_apps_PackageInstaller" />
   <project path="packages/apps/Provision" name="github/CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/SmartCardService" name="github/CyanogenMod/android_packages_apps_SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="github/CyanogenMod/android_packages_apps_SoundRecorder" />
@@ -372,6 +371,7 @@
   <project path="packages/apps/Contacts" name="MoKee/android_packages_apps_Contacts" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Mms" name="MoKee/android_packages_apps_Mms" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Notepad" name="MoKee/android_packages_apps_Notepad" revision="refs/heads/jb-mr1_mkt" />
+  <project path="packages/apps/PackageInstaller" name="MoKee/android_packages_apps_PackageInstaller" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Phone" name="MoKee/android_packages_apps_Phone" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" revision="refs/heads/jb-mr1_mkt" />
   <!-- MoKee Packages End -->
