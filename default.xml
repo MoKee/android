@@ -15,6 +15,9 @@
            fetch="ssh://review.mfunz.com:29418"
            review="review.mfunz.com" />
 
+  <remote  name="omapzoom"
+           fetch="ssh://review.mfunz.com:29418/omapzoom/" />
+
   <default revision="refs/heads/cm-10.1"
            remote="mokee"
            sync-c="true"
@@ -399,5 +402,18 @@
   <project path="device/lge/mako" name="MoKee/android_device_lge_mako" revision="refs/heads/jb-mr1_mkt" />
   <project path="vendor/lge/p970" name="MoKee/android_vendor_lge_p970" revision="refs/heads/jb-mr1_mkt"/>
   <project path="device/lge/p970" name="MoKee/android_device_lge_p970" revision="refs/heads/jb-mr1_mkt" />
+
+  <project path="vendor/motorola/common" name="MoKee/android_vendor_motorola_common" revision="jb-mr1" />
+  <project path="device/motorola/common" name="MoKee/android_device_omap4_motorola_common" revision="mr1-staging" />
+  <project path="vendor/motorola/edison" name="MoKee/android_vendor_motorola_edison" revision="refs/heads/jb-mr1_mkt" />
+  <project path="device/motorola/edison" name="MoKee/android_device_motorola_edison" revision="refs/heads/jb-mr1_mkt" />
   <!-- Devices Paired End -->
+
+  <!-- TI Addons Start-->
+  <project path="device/ti/common-open" name="device/ti/common-open" remote="omapzoom" revision="p-jb-mr1-release" />
+  <project path="device/ti/proprietary-open" name="device/ti/proprietary-open" remote="omapzoom" revision="p-jb-mr1-release" />
+  <project path="external/bltsville" name="platform/external/bltsville" remote="omapzoom" revision="master"/>
+  <project path="external/crda" name="platform/external/crda" remote="omapzoom" revision="p-ics-mr0" />
+  <project path="external/wpa_supplicant_8_ti" name="platform/external/wpa_supplicant_8_ti" remote="omapzoom" revision="jb-mr1-release" />
+  <!-- TI Addons End-->
 </manifest>
