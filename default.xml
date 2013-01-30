@@ -258,9 +258,7 @@
   <project path="hardware/ril" name="github/CyanogenMod/android_hardware_ril" />
   <project path="hardware/samsung_slsi/exynos5" name="github/CyanogenMod/android_hardware_samsung_slsi_exynos5" />
   <project path="hardware/ti/omap3" name="github/CyanogenMod/android_hardware_ti_omap3" />
-  <project path="hardware/ti/omap4xxx" name="github/CyanogenMod/android_hardware_ti_omap4xxx" />
   <project path="hardware/ti/wlan" name="github/CyanogenMod/android_hardware_ti_wlan" />
-  <project path="hardware/ti/wpan" name="github/CyanogenMod/android_hardware_ti_wpan" />
   <project path="libcore" name="github/CyanogenMod/android_libcore" />
   <project path="libnativehelper" name="github/CyanogenMod/android_libnativehelper" />
   <project path="packages/apps/Apollo" name="github/CyanogenMod/android_packages_apps_Apollo" />
@@ -413,6 +411,8 @@
   <!-- Devices Paired End -->
 
   <!-- TI Addons Start -->
-  <project path="external/wpa_supplicant_8_ti" name="platform/external/wpa_supplicant_8_ti" remote="omapzoom" revision="jb-mr1-release" />
+  <project path="external/wpa_supplicant_8_ti" name="platform/external/wpa_supplicant_8_ti" remote="omapzoom" revision="p-jb-mr1-release" />
+  <project path="hardware/ti/omap4xxx" name="github/STS-Dev-Team/android_hardware_ti_omap4xxx" />
+  <project path="hardware/ti/wpan" name="github/Hashcode/android_hardware_ti_wpan.git"/>
   <!-- TI Addons End-->
 </manifest>
