@@ -214,7 +214,6 @@
   <project path="external/yaffs2" name="github/CyanogenMod/android_external_yaffs2" />
   <project path="external/zlib" name="github/CyanogenMod/android_external_zlib" />
   <project path="external/zxing" name="github/CyanogenMod/android_external_zxing" />
-  <project path="frameworks/av" name="github/CyanogenMod/android_frameworks_av" />
   <project path="frameworks/compile/libbcc" name="github/CyanogenMod/android_frameworks_compile_libbcc" />
   <project path="frameworks/compile/linkloader" name="github/CyanogenMod/android_frameworks_compile_linkloader" />
   <project path="frameworks/compile/llvm-ndk-cc" name="github/CyanogenMod/android_frameworks_compile_llvm-ndk-cc" />
@@ -318,7 +317,6 @@
   <project path="packages/wallpapers/PhaseBeam" name="github/CyanogenMod/android_packages_wallpapers_PhaseBeam" />
 
   <project path="system/bluetooth" name="github/CyanogenMod/android_system_bluetooth" />
-  <project path="system/core" name="github/CyanogenMod/android_system_core" />
   <project path="system/extras" name="github/CyanogenMod/android_system_extras" />
   <project path="system/media" name="github/CyanogenMod/android_system_media" />
   <project path="system/netd" name="github/CyanogenMod/android_system_netd" />
@@ -388,8 +386,13 @@
   <!-- MoKee Provider End -->
 
   <!-- MoKee Frameworks Start -->
+  <project path="frameworks/av" name="MoKee/android_frameworks_av" revision="refs/heads/jb-mr1_mkt" />
   <project path="frameworks/base" name="MoKee/android_frameworks_base" revision="refs/heads/jb-mr1_mkt" />
   <!-- MoKee Frameworks End -->
+
+  <!-- MoKee System Start -->
+  <project path="system/core" name="MoKee/android_system_core" revision="refs/heads/jb-mr1_mkt" />
+  <!-- MoKee System End -->
 
   <!-- Devices Paired Start -->
   <project path="vendor/mk" name="MoKee/android_vendor_mk" revision="refs/heads/jb-mr1_mkt" />
@@ -409,11 +412,7 @@
   <project path="device/motorola/edison" name="MoKee/android_device_motorola_edison" revision="refs/heads/jb-mr1_mkt" />
   <!-- Devices Paired End -->
 
-  <!-- TI Addons Start-->
-  <project path="device/ti/common-open" name="device/ti/common-open" remote="omapzoom" revision="p-jb-mr1-release" />
-  <project path="device/ti/proprietary-open" name="device/ti/proprietary-open" remote="omapzoom" revision="p-jb-mr1-release" />
-  <project path="external/bltsville" name="platform/external/bltsville" remote="omapzoom" revision="master"/>
-  <project path="external/crda" name="platform/external/crda" remote="omapzoom" revision="p-ics-mr0" />
+  <!-- TI Addons Start -->
   <project path="external/wpa_supplicant_8_ti" name="platform/external/wpa_supplicant_8_ti" remote="omapzoom" revision="jb-mr1-release" />
   <!-- TI Addons End-->
 </manifest>
