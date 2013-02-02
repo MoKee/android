@@ -408,6 +408,11 @@
   <project path="device/motorola/common" name="MoKee/android_device_omap4_motorola_common" revision="refs/heads/jb-mr1_mkt" />
   <project path="vendor/motorola/edison" name="MoKee/android_vendor_motorola_edison" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/motorola/edison" name="MoKee/android_device_motorola_edison" revision="refs/heads/jb-mr1_mkt" />
+
+  <project path="device/htc/common" name="MoKee/android_device_htc_common" revision="refs/heads/jb-mr1_mkt" />
+  <project path="device/htc/msm7x30-common" name="MoKee/android_device_htc_msm7x30-common" revision="refs/heads/jb-mr1_mkt" />
+  <project path="vendor/htc/saga" name="MoKee/android_vendor_htc_saga" revision="refs/heads/jb-mr1_mkt" />
+  <project path="device/htc/saga" name="MoKee/android_device_htc_saga" revision="refs/heads/jb-mr1_mkt" />
   <!-- Devices Paired End -->
 
   <!-- TI Addons Start -->
