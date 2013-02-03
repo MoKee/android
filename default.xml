@@ -332,7 +332,7 @@
   <project path="gdk" name="platform/gdk" remote="aosp" revision="jb-mr1-release" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="jb-mr1-release" />
   <project path="pdk" name="platform/pdk" remote="aosp" revision="jb-mr1-release" />
-  <project path="sdk" name="CyanogenMod/android_sdk" />
+  <project path="sdk" name="platform/sdk" remote="aosp" revision="jb-mr1-release" />
   <project path="tools/build" name="platform/tools/build" remote="aosp" revision="jb-mr1-release" />
   <project path="tools/motodev" name="platform/tools/motodev" remote="aosp" revision="jb-mr1-release" />
   <project path="prebuilts/misc" name="platform/prebuilts/misc" remote="aosp" revision="jb-mr1-release" />
