@@ -31,7 +31,6 @@
 
   <project path="abi/cpp" name="github/CyanogenMod/android_abi_cpp" />
   <project path="bionic" name="github/CyanogenMod/android_bionic" />
-  <project path="bootable/bootloader/legacy" name="github/CyanogenMod/android_bootable_bootloader_legacy" />
   <project path="bootable/diskinstaller" name="github/CyanogenMod/android_bootable_diskinstaller" />
   <project path="dalvik" name="github/CyanogenMod/android_dalvik" />
   <project path="development" name="github/CyanogenMod/android_development" />
