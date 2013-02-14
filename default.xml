@@ -208,6 +208,7 @@
   <project path="external/webrtc" name="github/CyanogenMod/android_external_webrtc" />
   <project path="external/wpa_supplicant_6" name="github/CyanogenMod/android_external_wpa_supplicant_6" />
   <project path="external/wpa_supplicant_8" name="github/CyanogenMod/android_external_wpa_supplicant_8" />
+  <project path="external/wpa_supplicant_8_ti" name="CyanogenMod/android_external_wpa_supplicant_8_ti" />
   <project path="external/xmlwriter" name="github/CyanogenMod/android_external_xmlwriter" />
   <project path="external/xmp_toolkit" name="github/CyanogenMod/android_external_xmp_toolkit" />
   <project path="external/yaffs2" name="github/CyanogenMod/android_external_yaffs2" />
@@ -410,7 +411,6 @@
   <!-- Devices Paired End -->
 
   <!-- TI Addons Start -->
-  <project path="external/wpa_supplicant_8_ti" name="platform/external/wpa_supplicant_8_ti" remote="omapzoom" revision="p-jb-mr1-release" />
   <project path="hardware/ti/omap4xxx" name="github/STS-Dev-Team/android_hardware_ti_omap4xxx" />
   <project path="hardware/ti/wpan" name="github/Hashcode/android_hardware_ti_wpan.git"/>
   <!-- TI Addons End-->
