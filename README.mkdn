@@ -11,7 +11,7 @@ You can do this by using these commands:
     (Go to repo you are patching, make your changes and commit)
     cmgerrit <for(new)/changes(patch set)> <branch/change-id> 
 
-    repo start jellybean .
+    repo start jb-mr1_mkt .
     (Make your changes and commit)
     repo upload .
 Note: "." meaning current directory
