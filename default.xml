@@ -42,6 +42,11 @@
   <project path="device/google/accessory/demokit" name="github/CyanogenMod/android_device_google_accessory_demokit" groups="device" />
   <project path="device/sample" name="github/CyanogenMod/android_device_sample" groups="device" />
   <project path="device/ti/panda" name="github/CyanogenMod/android_device_ti_panda" groups="device" />
+
+  <!-- before the next M release, fork this. -->
+  <project path="external/koush/Superuser" name="github/koush/Superuser" revision="master" />
+  <project path="external/koush/Widgets" name="github/koush/Widgets" revision="master" />
+
   <project path="external/aac" name="github/CyanogenMod/android_external_aac" />
   <project path="external/android-clat" name="github/CyanogenMod/android_external_android-clat" />
   <project path="external/android-mock" name="github/CyanogenMod/android_external_android-mock" />
@@ -287,7 +292,6 @@
   <project path="packages/apps/SoundRecorder" name="github/CyanogenMod/android_packages_apps_SoundRecorder" />
   <project path="packages/apps/SpareParts" name="github/CyanogenMod/android_packages_apps_SpareParts" />
   <project path="packages/apps/Stk" name="github/CyanogenMod/android_packages_apps_Stk" />
-  <project path="packages/apps/Superuser" name="github/CyanogenMod/android_packages_apps_Superuser" />
   <project path="packages/apps/Tag" name="github/CyanogenMod/android_packages_apps_Tag" />
   <project path="packages/apps/Torch" name="github/CyanogenMod/android_packages_apps_Torch" />
   <project path="packages/apps/Trebuchet" name="github/CyanogenMod/android_packages_apps_Trebuchet" />
@@ -318,7 +322,6 @@
   <project path="system/media" name="github/CyanogenMod/android_system_media" />
   <project path="system/netd" name="github/CyanogenMod/android_system_netd" />
   <project path="system/security" name="github/CyanogenMod/android_system_security" />
-  <project path="system/su" name="github/CyanogenMod/android_system_su" />
   <project path="system/vold" name="github/CyanogenMod/android_system_vold" />
   <project path="vendor/qcom/opensource/v8" name="github/CyanogenMod/android_vendor_qcom_opensource_v8" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="github/CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
