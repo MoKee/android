@@ -44,8 +44,8 @@
   <project path="device/ti/panda" name="github/CyanogenMod/android_device_ti_panda" groups="device" />
 
   <!-- before the next M release, fork this. -->
-  <project path="external/koush/Superuser" name="github/koush/Superuser" revision="master" />
-  <project path="external/koush/Widgets" name="github/koush/Widgets" revision="master" />
+  <project path="external/koush/Superuser" name="CyanogenMod/Superuser" />
+  <project path="external/koush/Widgets" name="CyanogenMod/Widgets" />
 
   <project path="external/aac" name="github/CyanogenMod/android_external_aac" />
   <project path="external/android-clat" name="github/CyanogenMod/android_external_android-clat" />
