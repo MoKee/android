@@ -209,7 +209,6 @@
   <project path="external/webp" name="github/CyanogenMod/android_external_webp" />
   <project path="external/webrtc" name="github/CyanogenMod/android_external_webrtc" />
   <project path="external/wpa_supplicant_6" name="github/CyanogenMod/android_external_wpa_supplicant_6" />
-  <project path="external/wpa_supplicant_8" name="github/CyanogenMod/android_external_wpa_supplicant_8" />
   <project path="external/wpa_supplicant_8_ti" name="github/CyanogenMod/android_external_wpa_supplicant_8_ti" />
   <project path="external/xmlwriter" name="github/CyanogenMod/android_external_xmlwriter" />
   <project path="external/xmp_toolkit" name="github/CyanogenMod/android_external_xmp_toolkit" />
@@ -379,6 +378,7 @@
 
   <!-- MoKee External Start -->
   <project path="external/libphonenumber" name="MoKee/android_external_libphonenumber" revision="refs/heads/jb-mr1_mkt" />
+  <project path="external/wpa_supplicant_8" name="MoKee/android_external_wpa_supplicant_8" revision="refs/heads/jb-mr1_mkt" />
   <!-- MoKee External End -->
 
   <!-- MoKee Provider Start -->
