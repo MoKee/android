@@ -264,7 +264,6 @@
   <project path="hardware/ti/wpan" name="github/CyanogenMod/android_hardware_ti_wpan"/>
   <project path="libcore" name="github/CyanogenMod/android_libcore" />
   <project path="libnativehelper" name="github/CyanogenMod/android_libnativehelper" />
-  <project path="packages/apps/Apollo" name="github/CyanogenMod/android_packages_apps_Apollo" />
   <project path="packages/apps/BasicSmsReceiver" name="github/CyanogenMod/android_packages_apps_BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="github/CyanogenMod/android_packages_apps_Bluetooth" />
   <project path="packages/apps/Calculator" name="github/CyanogenMod/android_packages_apps_Calculator" />
@@ -366,6 +365,7 @@
   <!-- MoKee Bootable End -->
 
   <!-- MoKee Packages Start -->
+  <project path="packages/apps/Apollo" name="MoKee/android_packages_apps_Apollo" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Browser" name="MoKee/android_packages_apps_Browser" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Contacts" name="MoKee/android_packages_apps_Contacts" revision="refs/heads/jb-mr1_mkt" />
