@@ -408,10 +408,14 @@
   <project path="vendor/lge/p970" name="MoKee/android_vendor_lge_p970" revision="refs/heads/jb-mr1_mkt"/>
   <project path="device/lge/p970" name="MoKee/android_device_lge_p970" revision="refs/heads/jb-mr1_mkt" />
 
-  <project path="vendor/motorola/omap4-common" name="MoKee/android_vendor_motorola_common" revision="refs/heads/jb-mr1_mkt" />
-  <project path="device/motorola/omap4-common" name="MoKee/android_device_omap4_motorola_common" revision="refs/heads/jb-mr1_mkt" />
+  <project path="device/motorola/omap4-common" name="MoKee/android_device_motorola_omap4-common" revision="refs/heads/jb-mr1_mkt" />
+  <project path="vendor/motorola/omap4-common" name="MoKee/android_vendor_motorola_omap4-common" revision="refs/heads/jb-mr1_mkt" />
   <project path="vendor/motorola/edison" name="MoKee/android_vendor_motorola_edison" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/motorola/edison" name="MoKee/android_device_motorola_edison" revision="refs/heads/jb-mr1_mkt" />
+  <project path="vendor/motorola/spyder" name="MoKee/android_vendor_motorola_spyder" revision="refs/heads/jb-mr1_mkt" />
+  <project path="device/motorola/spyder" name="MoKee/android_device_motorola_spyder" revision="refs/heads/jb-mr1_mkt" />
+  <project path="vendor/motorola/umts_spyder" name="MoKee/android_vendor_motorola_umts_spyder" revision="refs/heads/jb-mr1_mkt" />
+  <project path="device/motorola/umts_spyder" name="MoKee/android_device_motorola_umts_spyder" revision="refs/heads/jb-mr1_mkt" />
   <!-- Devices Paired End -->
 
 </manifest>
