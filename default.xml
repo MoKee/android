@@ -147,6 +147,7 @@
   <project path="external/littlemock" name="github/CyanogenMod/android_external_littlemock" />
   <project path="external/llvm" name="github/CyanogenMod/android_external_llvm" />
   <project path="external/lohit-fonts" name="github/CyanogenMod/android_external_lohit-fonts" />
+  <project path="external/libphonenumber" name="github/CyanogenMod/android_external_libphonenumber" />
   <project path="external/lsof" name="github/CyanogenMod/android_external_lsof" />
   <project path="external/lzo" name="github/CyanogenMod/android_external_lzo" />
   <project path="external/markdown" name="github/CyanogenMod/android_external_markdown" />
@@ -376,7 +377,6 @@
   <!-- MoKee Packages End -->
 
   <!-- MoKee External Start -->
-  <project path="external/libphonenumber" name="MoKee/android_external_libphonenumber" revision="refs/heads/jb-mr1_mkt" />
   <project path="external/wpa_supplicant_8" name="MoKee/android_external_wpa_supplicant_8" revision="refs/heads/jb-mr1_mkt" />
   <project path="external/wpa_supplicant_8_ti" name="MoKee/android_external_wpa_supplicant_8_ti" revision="refs/heads/jb-mr1_mkt" />
   <!-- MoKee External End -->
