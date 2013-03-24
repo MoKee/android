@@ -215,6 +215,7 @@
   <project path="external/yaffs2" name="github/CyanogenMod/android_external_yaffs2" />
   <project path="external/zlib" name="github/CyanogenMod/android_external_zlib" />
   <project path="external/zxing" name="github/CyanogenMod/android_external_zxing" />
+  <project path="frameworks/av" name="github/CyanogenMod/android_frameworks_av" />
   <project path="frameworks/compile/libbcc" name="github/CyanogenMod/android_frameworks_compile_libbcc" />
   <project path="frameworks/compile/linkloader" name="github/CyanogenMod/android_frameworks_compile_linkloader" />
   <project path="frameworks/compile/llvm-ndk-cc" name="github/CyanogenMod/android_frameworks_compile_llvm-ndk-cc" />
@@ -386,7 +387,6 @@
   <!-- MoKee Provider End -->
 
   <!-- MoKee Frameworks Start -->
-  <project path="frameworks/av" name="MoKee/android_frameworks_av" revision="refs/heads/jb-mr1_mkt" />
   <project path="frameworks/base" name="MoKee/android_frameworks_base" revision="refs/heads/jb-mr1_mkt" />
   <!-- MoKee Frameworks End -->
 
