@@ -401,12 +401,17 @@
   <project path="device/samsung/maguro" name="MoKee/android_device_samsung_maguro" revision="refs/heads/jb-mr1_mkt" />
   <project path="vendor/samsung/toro" name="MoKee/android_vendor_samsung_toro" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/toro" name="MoKee/android_device_samsung_toro" revision="refs/heads/jb-mr1_mkt" />
+  <project path="vendor/samsung/toroplus" name="MoKee/android_vendor_samsung_toroplus" revision="refs/heads/jb-mr1_mkt" />
+  <project path="device/samsung/toroplus" name="MoKee/android_device_samsung_toroplus" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/tuna" name="MoKee/android_device_samsung_tuna" revision="refs/heads/jb-mr1_mkt" />
 
   <project path="vendor/lge/mako" name="MoKee/android_vendor_lge_mako" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/lge/mako" name="MoKee/android_device_lge_mako" revision="refs/heads/jb-mr1_mkt" />
-  <project path="vendor/lge/p970" name="MoKee/android_vendor_lge_p970" revision="refs/heads/jb-mr1_mkt"/>
+  <project path="vendor/lge/p970" name="MoKee/android_vendor_lge_p970" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/lge/p970" name="MoKee/android_device_lge_p970" revision="refs/heads/jb-mr1_mkt" />
+  <project path="vendor/lge/p990" name="MoKee/android_vendor_lge_p990" revision="refs/heads/jb-mr1_mkt" />
+  <project path="device/lge/p990" name="MoKee/android_device_lge_p990" revision="refs/heads/jb-mr1_mkt" />
+  <project path="device/lge/star-common" name="MoKee/android_device_lge_star-common" revision="refs/heads/jb-mr1_mkt" />
 
   <project path="device/motorola/omap4-common" name="MoKee/android_device_motorola_omap4-common" revision="refs/heads/jb-mr1_mkt" />
   <project path="vendor/motorola/omap4-common" name="MoKee/android_vendor_motorola_omap4-common" revision="refs/heads/jb-mr1_mkt" />
