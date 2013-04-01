@@ -292,7 +292,6 @@
   <project path="packages/apps/Stk" name="github/CyanogenMod/android_packages_apps_Stk" />
   <project path="packages/apps/Tag" name="github/CyanogenMod/android_packages_apps_Tag" />
   <project path="packages/apps/Torch" name="github/CyanogenMod/android_packages_apps_Torch" />
-  <project path="packages/apps/Trebuchet" name="github/CyanogenMod/android_packages_apps_Trebuchet" />
   <project path="packages/experimental" name="github/CyanogenMod/android_packages_experimental" />
   <project path="packages/inputmethods/OpenWnn" name="github/CyanogenMod/android_packages_inputmethods_OpenWnn" />
   <project path="packages/providers/ApplicationsProvider" name="github/CyanogenMod/android_packages_providers_ApplicationsProvider" />
@@ -375,6 +374,7 @@
   <project path="packages/apps/PackageInstaller" name="MoKee/android_packages_apps_PackageInstaller" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Phone" name="MoKee/android_packages_apps_Phone" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" revision="refs/heads/jb-mr1_mkt" />
+  <project path="packages/apps/Trebuchet" name="MoKee/android_packages_apps_Trebuchet" revision="refs/heads/jb-mr1_mkt" />
   <!-- MoKee Packages End -->
 
   <!-- MoKee External Start -->
