@@ -37,3 +37,45 @@ Then to sync up:
 
     repo sync
 
+Start Work
+----------
+
+To got to work more faster,we introduced new build script to help you start compiling.
+
+Go to root path of our project,we assume that your source is under 
+(/mokee):
+
+    cd /mokee
+    
+then feel free to use build script:
+
+    ./mk [Device] [Variable]
+    
+ --Device      your device name
+ --Variable    addition operations like:
+               fix - compile without any cleanning due to you're doing a build fix
+               clean - do 'make installclean' before compile
+               sync - do 'repo sync' before compile
+e.g. 0. your device is maguro and run without any variable,it will clean up your build.prop only:
+        ./mk maguro
+     1. want to sync source before start:
+        ./mk maguro sync
+     2. do a clean compile without deleting whole prebult libs:
+        ./mk maguro clean
+     3. you're fixing a build and want to resume the build,it build quicker without any clean:
+        ./mk maguro fix
+     4. you can also do it all at one time:
+        ./mk maguro sync clean
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

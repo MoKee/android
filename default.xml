@@ -22,6 +22,7 @@
 
   <project path="build" name="MoKee/android_build" revision="refs/heads/jb-mr1_mkt">
     <copyfile src="core/root.mk" dest="Makefile" />
+    <copyfile src="build-script" dest="mk" />
   </project>
 
   <project path="android" name="MoKee/android" revision="refs/heads/jb-mr1_mkt" />
