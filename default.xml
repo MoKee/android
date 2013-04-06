@@ -387,6 +387,10 @@
   <project path="packages/providers/CalendarProvider" name="MoKee/android_packages_providers_CalendarProvider" revision="refs/heads/jb-mr1_mkt" />
   <!-- MoKee Provider End -->
 
+  <!-- MoKee Hardware Start -->
+  <project path="hardware/samsung" name="MoKee/android_hardware_samsung" revision="refs/heads/jb-mr1_mkt" />
+  <!-- MoKee Hardware End -->
+
   <!-- MoKee Frameworks Start -->
   <project path="frameworks/base" name="MoKee/android_frameworks_base" revision="refs/heads/jb-mr1_mkt" />
   <!-- MoKee Frameworks End -->
