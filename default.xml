@@ -405,6 +405,8 @@
   <project path="vendor/samsung/toroplus" name="MoKee/android_vendor_samsung_toroplus" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/toroplus" name="MoKee/android_device_samsung_toroplus" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/tuna" name="MoKee/android_device_samsung_tuna" revision="refs/heads/jb-mr1_mkt" />
+  <project path="vendor/samsung/n7100" name="MoKee/android_vendor_samsung_n7100" revision="refs/heads/jb-mr1_mkt" />
+  <project path="device/samsung/n7100" name="MoKee/android_device_samsung_n7100" revision="refs/heads/jb-mr1_mkt" />
 
   <project path="vendor/lge/mako" name="MoKee/android_vendor_lge_mako" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/lge/mako" name="MoKee/android_device_lge_mako" revision="refs/heads/jb-mr1_mkt" />
