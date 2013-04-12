@@ -15,6 +15,12 @@
            fetch="ssh://review.mfunz.com:29418"
            review="review.mfunz.com" />
 
+  <remote  name="sm"
+           fetch="git://github.com/SaberMod/" />
+
+  <remote  name="cr"
+           fetch="git://github.com/CarbonDev/" />
+
   <default revision="refs/heads/cm-10.1"
            remote="mokee"
            sync-c="true"
@@ -399,6 +405,10 @@
   <!-- MoKee System Start -->
   <project path="system/core" name="MoKee/android_system_core" revision="refs/heads/jb-mr1_mkt" />
   <!-- MoKee System End -->
+
+  <!-- Mokee Gcc Start -->
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" name="android_prebuilts_gcc_linux-x86_arm_sabermod-arm-eabi-4.7" remote="sm" revision="master-crunchbang" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7" name="android_prebuilts_gcc_linux-x86_arm_sabermod-arm-linux-androideabi-4.7" remote="sm" revision="master-crunchbang" />
 
   <!-- Devices Paired Start -->
   <project path="vendor/mk" name="MoKee/android_vendor_mk" revision="refs/heads/jb-mr1_mkt" />
