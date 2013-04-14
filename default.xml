@@ -272,7 +272,6 @@
   <project path="packages/apps/CellBroadcastReceiver" name="github/CyanogenMod/android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="github/CyanogenMod/android_packages_apps_CertInstaller" />
   <project path="packages/apps/CMFileManager" name="github/CyanogenMod/android_packages_apps_CMFileManager" />
-  <project path="packages/apps/DeskClock" name="github/CyanogenMod/android_packages_apps_DeskClock" />
   <project path="packages/apps/DSPManager" name="github/CyanogenMod/android_packages_apps_DSPManager" />
   <project path="packages/apps/Email" name="github/CyanogenMod/android_packages_apps_Email" />
   <project path="packages/apps/Exchange" name="github/CyanogenMod/android_packages_apps_Exchange" />
@@ -370,6 +369,7 @@
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Camera" name="MoKee/android_packages_apps_Camera" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Contacts" name="MoKee/android_packages_apps_Contacts" revision="refs/heads/jb-mr1_mkt" />
+  <project path="packages/apps/DeskClock" name="MoKee/android_packages_apps_DeskClock" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Mms" name="MoKee/android_packages_apps_Mms" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Notepad" name="MoKee/android_packages_apps_Notepad" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/PackageInstaller" name="MoKee/android_packages_apps_PackageInstaller" revision="refs/heads/jb-mr1_mkt" />
