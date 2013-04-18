@@ -104,6 +104,7 @@
   <project path="external/guava" name="github/CyanogenMod/android_external_guava" />
   <project path="external/hamcrest" name="github/CyanogenMod/android_external_hamcrest" />
   <project path="external/harfbuzz" name="github/CyanogenMod/android_external_harfbuzz" />
+  <project path="external/heimdall" name="github/CyanogenMod/android_external_heimdall" />
   <project path="external/htop" name="github/CyanogenMod/android_external_htop" />
   <project path="external/hyphenation" name="github/CyanogenMod/android_external_hyphenation" />
   <project path="external/icu4c" name="github/CyanogenMod/android_external_icu4c" />
