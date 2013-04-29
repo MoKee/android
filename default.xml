@@ -377,8 +377,8 @@
   <project path="packages/apps/Phone" name="MoKee/android_packages_apps_Phone" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/QuickSearchBox" name="MoKee/android_packages_apps_QuickSearchBox" remote="mokee" revision="jb-mr1_mkt" />
   <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" revision="refs/heads/jb-mr1_mkt" />
-  <project path="packages/apps/Trebuchet" name="MoKee/android_packages_apps_Trebuchet" revision="refs/heads/jb-mr1_mkt" />
-<project path="packages/apps/PermissionManager" name="MoKee/android_packages_apps_PermissionManager" revision="refs/heads/jb-mr1_mkt" />
+  <project path="packages/apps/MoKeeLauncher" name="MoKee/android_packages_apps_MoKeeLauncher" revision="refs/heads/jb-mr1_mkt" />
+  <project path="packages/apps/PermissionManager" name="MoKee/android_packages_apps_PermissionManager" revision="refs/heads/jb-mr1_mkt" />
   <!-- MoKee Packages End -->
 
   <!-- MoKee External Start -->
