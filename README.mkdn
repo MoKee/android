@@ -25,7 +25,7 @@ To view the status of your and others' patches, visit [MoKee Code Review](http:/
 
 Getting Started
 ---------------
-
+asdasd
 To get started with Android/MoKee, you'll need to get
 familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
