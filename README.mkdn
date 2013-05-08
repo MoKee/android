@@ -1,4 +1,4 @@
-MoKee
+MoKee OpenSource
 ===========
 
 Submitting Patches
@@ -27,7 +27,7 @@ Getting Started
 ---------------
 
 To get started with Android/MoKee, you'll need to get
-familiar with [Git and Repo](http://source.android.com/download/using-repo).
+familiar with [Repo](https://source.android.com/source/using-repo.html) and [Version Control with Git](https://source.android.com/source/version-control.html).
 
 To initialize your local repository using the MoKee trees, use a command like this:
 
