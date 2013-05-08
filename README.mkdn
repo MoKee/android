@@ -9,7 +9,7 @@ You can do this by using these commands:
     (From root android directory)
     . build/envsetup.sh
     (Go to repo you are patching, make your changes and commit)
-    cmgerrit <for(new)/changes(patch set)> <branch/change-id> 
+    mkgerrit <for(new)/changes(patch set)> <branch/change-id> 
 
     repo start jb-mr1_mkt .
     (Make your changes and commit)
@@ -30,6 +30,10 @@ To get started with Android/MoKee, you'll need to get
 familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository using the MoKee trees, use a command like this:
+
+    repo init -u https://github.com/MoKee/android.git -b jb-mr1_mkt
+
+    or
 
     repo init -u ssh://[username]@review.mfunz.com:29418/MoKee/android.git -b jb-mr1_mkt
 
