@@ -269,6 +269,7 @@
   <project path="packages/apps/BasicSmsReceiver" name="android_packages_apps_BasicSmsReceiver" remote="cyanogen" />
   <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" remote="cyanogen" />
   <project path="packages/apps/Calculator" name="android_packages_apps_Calculator" remote="cyanogen" />
+  <project path="packages/apps/Camera" name="android_packages_apps_Camera" remote="cyanogen" />
   <project path="packages/apps/CellBroadcastReceiver" name="android_packages_apps_CellBroadcastReceiver" remote="cyanogen" />
   <project path="packages/apps/CertInstaller" name="android_packages_apps_CertInstaller" remote="cyanogen" />
   <project path="packages/apps/CMFileManager" name="android_packages_apps_CMFileManager" remote="cyanogen" />
@@ -367,7 +368,6 @@
   <project path="packages/apps/Apollo" name="MoKee/android_packages_apps_Apollo" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Browser" name="MoKee/android_packages_apps_Browser" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" revision="refs/heads/jb-mr1_mkt" />
-  <project path="packages/apps/Camera" name="MoKee/android_packages_apps_Camera" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Contacts" name="MoKee/android_packages_apps_Contacts" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/DeskClock" name="MoKee/android_packages_apps_DeskClock" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Mms" name="MoKee/android_packages_apps_Mms" revision="refs/heads/jb-mr1_mkt" />
