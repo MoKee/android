@@ -260,6 +260,7 @@
   <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="cyanogen" />
   <project path="hardware/ril" name="android_hardware_ril" remote="cyanogen" />
   <project path="hardware/samsung_slsi/exynos5" name="android_hardware_samsung_slsi_exynos5" remote="cyanogen" />
+  <project path="hardware/samsung" name="android_hardware_samsung" remote="cyanogen" />
   <project path="hardware/ti/omap3" name="android_hardware_ti_omap3" remote="cyanogen" />
   <project path="hardware/ti/omap4xxx" name="android_hardware_ti_omap4xxx" remote="cyanogen" />
   <project path="hardware/ti/wlan" name="android_hardware_ti_wlan" remote="cyanogen" />
@@ -388,10 +389,6 @@
   <!-- MoKee Provider Start -->
   <project path="packages/providers/CalendarProvider" name="MoKee/android_packages_providers_CalendarProvider" revision="refs/heads/jb-mr1_mkt" />
   <!-- MoKee Provider End -->
-
-  <!-- MoKee Hardware Start -->
-  <project path="hardware/samsung" name="MoKee/android_hardware_samsung" revision="refs/heads/jb-mr1_mkt" />
-  <!-- MoKee Hardware End -->
 
   <!-- MoKee Frameworks Start -->
   <project path="frameworks/base" name="MoKee/android_frameworks_base" revision="refs/heads/jb-mr1_mkt" />
