@@ -435,6 +435,11 @@
   <project path="device/motorola/spyder" name="MoKee/android_device_motorola_spyder" revision="refs/heads/jb-mr1_mkt" />
   <project path="vendor/motorola/umts_spyder" name="MoKee/android_vendor_motorola_umts_spyder" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/motorola/umts_spyder" name="MoKee/android_device_motorola_umts_spyder" revision="refs/heads/jb-mr1_mkt" />
+
+  <project path="vendor/huawei/viva" name="MoKee/android_vendor_huawei_viva" revision="refs/heads/jb-mr1_mkt" />
+  <project path="device/huawei/viva" name="MoKee/android_device_huawei_viva" revision="refs/heads/jb-mr1_mkt" />
+  <project path="vendor/huawei/front" name="MoKee/android_vendor_huawei_front" revision="refs/heads/jb-mr1_mkt" />
+  <project path="device/huawei/front" name="MoKee/android_device_huawei_front" revision="refs/heads/jb-mr1_mkt" />
   <!-- Devices Paired End -->
 
 </manifest>
