@@ -2,10 +2,10 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch="http://review.mfunz.com/p/aosp" />
+           fetch="git://review.mfunz.com/aosp" />
 
   <remote  name="cyanogen"
-           fetch="http://review.mfunz.com/p/github/CyanogenMod"
+           fetch="git://review.mfunz.com/github/CyanogenMod"
            review="review.cyanogenmod.org" />
 	   
   <remote  name="private"
