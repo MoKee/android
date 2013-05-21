@@ -439,6 +439,9 @@
   <project path="vendor/motorola/umts_spyder" name="MoKee/android_vendor_motorola_umts_spyder" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/motorola/umts_spyder" name="MoKee/android_device_motorola_umts_spyder" revision="refs/heads/jb-mr1_mkt" />
 
+  <project path="device/htc/villec2" name="MoKee/android_device_htc_villec2" revision="jb-mr1_mkt" />
+  <project path="vendor/htc/villec2" name="MoKee/android_vendor_htc_villec2" revision="jb-mr1_mkt" />
+
   <project path="vendor/huawei/viva" name="MoKee/android_vendor_huawei_viva" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/huawei/viva" name="MoKee/android_device_huawei_viva" revision="refs/heads/jb-mr1_mkt" />
   <project path="vendor/huawei/front" name="MoKee/android_vendor_huawei_front" revision="refs/heads/jb-mr1_mkt" />
