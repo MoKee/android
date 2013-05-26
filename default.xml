@@ -405,15 +405,18 @@
   <!-- Samsung -->
   <project path="vendor/samsung/aries-common" name="MoKee/android_vendor_samsung_aries-common" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/aries-common" name="MoKee/android_device_samsung_aries-common" revision="refs/heads/jb-mr1_mkt" />
+  <project path="device/samsung/galaxys2-common" name="MoKee/android_device_samsung_galaxys2-common" revision="refs/heads/jb-mr1_mkt" />
+  <project path="device/samsung/smdk4412-common" name="MoKee/android_device_samsung_smdk4412-common" revision="refs/heads/jb-mr1_mkt" />
+  <project path="vendor/samsung/galaxys2-common" name="MoKee/android_vendor_samsung_galaxys2-common" revision="refs/heads/jb-mr1_mkt" />
+  <project path="vendor/samsung/smdk4412-common" name="MoKee/android_vendor_samsung_smdk4412-common" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/maguro" name="MoKee/android_device_samsung_maguro" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/toro" name="MoKee/android_device_samsung_toro" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/toroplus" name="MoKee/android_device_samsung_toroplus" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/tuna" name="MoKee/android_device_samsung_tuna" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/i9100" name="MoKee/android_device_samsung_i9100" revision="refs/heads/jb-mr1_mkt" />
+  <project path="device/samsung/i9300" name="MoKee/android_device_samsung_i9300" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/n7100" name="MoKee/android_device_samsung_n7100" revision="refs/heads/jb-mr1_mkt" />
-  <project path="device/samsung/galaxys2-common" name="MoKee/android_device_samsung_galaxys2-common" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/galaxysmtd" name="MoKee/android_device_samsung_galaxysmtd" revision="refs/heads/jb-mr1_mkt" />
-  <project path="device/samsung/smdk4412-common" name="MoKee/android_device_samsung_smdk4412-common" revision="refs/heads/jb-mr1_mkt" />
 
   <!-- LGE -->
   <project path="device/lge/mako" name="MoKee/android_device_lge_mako" revision="refs/heads/jb-mr1_mkt" />
