@@ -232,7 +232,6 @@
   <project path="frameworks/opt/mailcommon" name="android_frameworks_opt_mailcommon" remote="cyanogen" />
   <project path="frameworks/opt/mms" name="android_frameworks_opt_mms" remote="cyanogen" />
   <project path="frameworks/opt/photoviewer" name="android_frameworks_opt_photoviewer" remote="cyanogen" />
-  <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="cyanogen" />
   <project path="frameworks/opt/vcard" name="android_frameworks_opt_vcard" remote="cyanogen" />
   <project path="frameworks/rs" name="android_frameworks_rs" remote="cyanogen" />
   <project path="frameworks/support" name="android_frameworks_support" remote="cyanogen" />
@@ -392,6 +391,7 @@
 
   <!-- MoKee Frameworks Start -->
   <project path="frameworks/base" name="MoKee/android_frameworks_base" revision="refs/heads/jb-mr1_mkt" />
+  <project path="frameworks/opt/telephony" name="MoKee/android_frameworks_opt_telephony" revision="refs/heads/jb-mr1_mkt" />
   <!-- MoKee Frameworks End -->
 
   <!-- MoKee System Start -->
