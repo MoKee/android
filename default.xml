@@ -44,7 +44,6 @@
   <project path="device/sample" name="android_device_sample" remote="cyanogen" groups="device" />
   <project path="device/ti/panda" name="android_device_ti_panda" remote="cyanogen" groups="device" />
 
-  <project path="external/koush/Superuser" name="Superuser" remote="cyanogen" />
   <project path="external/koush/Widgets" name="Widgets" remote="cyanogen" />
 
   <project path="external/aac" name="android_external_aac" remote="cyanogen" />
@@ -384,6 +383,7 @@
   <!-- MoKee External Start -->
   <project path="external/wpa_supplicant_8" name="MoKee/android_external_wpa_supplicant_8" revision="refs/heads/jb-mr1_mkt" />
   <project path="external/wpa_supplicant_8_ti" name="MoKee/android_external_wpa_supplicant_8_ti" revision="refs/heads/jb-mr1_mkt" />
+  <project path="external/koush/Superuser" name="MoKee/android_external_koush_Superuser" revision="refs/heads/jb-mr1_mkt" />
   <!-- MoKee External End -->
 
   <!-- MoKee Provider Start -->
