@@ -6,7 +6,11 @@
 
   <remote  name="cyanogen"
            fetch="git://review.mfunz.com/github/CyanogenMod"
-           review="review.cyanogenmod.org" />
+           review="review.mfunz.org" />
+
+  <remote  name="local"
+           fetch="git://review.mfunz.com/github"
+           review="review.mfunz.org" />
 	   
   <remote  name="private"
            fetch="ssh://git@github.com" />
