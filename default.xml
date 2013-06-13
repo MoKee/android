@@ -444,6 +444,7 @@
   <project path="device/motorola/edison" name="MoKee/android_device_motorola_edison" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/motorola/spyder" name="MoKee/android_device_motorola_spyder" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/motorola/umts_spyder" name="MoKee/android_device_motorola_umts_spyder" revision="refs/heads/jb-mr1_mkt" />
+  <project path="device/motorola/olympus" name="MoKee/android_device_motorola_olympus" revision="jb-mr1_mkt" />
 
   <!-- HTC -->
   <project path="device/htc/villec2" name="MoKee/android_device_htc_villec2" revision="jb-mr1_mkt" />
