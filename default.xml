@@ -100,6 +100,7 @@
   <project path="external/gcc-demangle" name="android_external_gcc-demangle" remote="cyanogen" />
   <project path="external/genext2fs" name="android_external_genext2fs" remote="cyanogen" />
   <project path="external/giflib" name="android_external_giflib" remote="cyanogen" />
+  <project path="external/google" name="android_external_google" remote="cyanogen" />
   <project path="external/google-diff-match-patch" name="android_external_google-diff-match-patch" remote="cyanogen" />
   <project path="external/grub" name="android_external_grub" remote="cyanogen" />
   <project path="external/gtest" name="android_external_gtest" remote="cyanogen" />
