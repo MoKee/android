@@ -40,7 +40,6 @@
   <project path="device/generic/armv7-a-neon" name="android_device_generic_armv7-a-neon" remote="cyanogen" />
   <project path="device/generic/armv7-a" name="android_device_generic_armv7-a" remote="cyanogen" />
   <project path="device/generic/common" name="android_device_generic_common" remote="cyanogen" />
-  <project path="device/generic/goldfish" name="android_device_generic_goldfish" remote="cyanogen" />
   <project path="device/generic/mips" name="android_device_generic_mips" remote="cyanogen" />
   <project path="device/generic/x86" name="android_device_generic_x86" remote="cyanogen" />
   <project path="device/google/accessory/arduino" name="android_device_google_accessory_arduino" remote="cyanogen" groups="device" />
@@ -408,6 +407,7 @@
   <!-- Devices Paired Start -->
   <!-- Common -->
   <project path="vendor/mk" name="MoKee/android_vendor_mk" revision="refs/heads/jb-mr1_mkt" />
+  <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" revision="refs/heads/jb-mr1_mkt" />
 
   <!-- Samsung -->
   <project path="device/samsung/aries-common" name="MoKee/android_device_samsung_aries-common" revision="refs/heads/jb-mr1_mkt" />
