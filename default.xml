@@ -452,6 +452,9 @@
   <project path="device/motorola/olympus" name="MoKee/android_device_motorola_olympus" revision="jb-mr1_mkt" />
 
   <!-- HTC -->
+  <project path="device/htc/m7-common" name="MoKee/android_device_htc_m7-common" revision="jb-mr1_mkt" />
+  <project path="device/htc/m7tmo" name="MoKee/android_device_htc_m7tmo" revision="jb-mr1_mkt" />
+  <project path="device/htc/msm8960-common" name="MoKee/android_device_htc_msm8960-common" revision="jb-mr1_mkt" />
   <project path="device/htc/villec2" name="MoKee/android_device_htc_villec2" revision="jb-mr1_mkt" />
 
   <!-- Huawei -->
