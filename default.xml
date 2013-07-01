@@ -419,6 +419,7 @@
   <project path="device/samsung/omap4-common" name="MoKee/android_device_samsung_omap4-common" revision="refs/heads/jb-mr1_mkt" />
   <project path="vendor/samsung/omap4-common" name="MoKee/android_vendor_samsung_omap4-common" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/smdk4412-qcom-common" name="MoKee/android_device_samsung_smdk4412-qcom-common" revision="refs/heads/jb-mr1_mkt" />
+  <project path="device/samsung/msm8660-common" name="MoKee/android_device_samsung_msm8660-common" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/msm8960-common" name="MoKee/android_device_samsung_msm8960-common" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/qcom-common" name="MoKee/android_device_samsung_qcom-common" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/jf-common" name="MoKee/android_device_samsung_jf-common" revision="refs/heads/jb-mr1_mkt" />
