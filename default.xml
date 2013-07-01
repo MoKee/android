@@ -438,6 +438,7 @@
   <project path="device/samsung/p3100" name="MoKee/android_device_samsung_p3100" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/p3110" name="MoKee/android_device_samsung_p3110" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/jfltexx" name="MoKee/android_device_samsung_jfltexx" revision="refs/heads/jb-mr1_mkt" />
+  <project path="device/samsung/e120l" name="MoKee/android_device_samsung_e120l" revision="refs/heads/jb-mr1_mkt" />
 
   <!-- LGE -->
   <project path="device/lge/star-common" name="MoKee/android_device_lge_star-common" revision="refs/heads/jb-mr1_mkt" />
