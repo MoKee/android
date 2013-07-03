@@ -466,6 +466,10 @@
   <project path="device/htc/msm8960-common" name="MoKee/android_device_htc_msm8960-common" revision="jb-mr1_mkt" />
   <project path="device/htc/villec2" name="MoKee/android_device_htc_villec2" revision="jb-mr1_mkt" />
 
+  <!-- ASUS -->
+  <project path="device/asus/tilapia" name="MoKee/android_device_asus_tilapia" revision="jb-mr1_mkt" />
+  <project path="device/asus/grouper" name="MoKee/android_device_asus_grouper" revision="jb-mr1_mkt" />
+
   <!-- OPPO -->
   <project path="device/oppo/find5" name="MoKee/android_device_oppo_find5" revision="jb-mr1_mkt" />
 
