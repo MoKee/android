@@ -2,7 +2,8 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch="git://review.mfunz.com/aosp" />
+           fetch="https://android.googlesource.com"
+           review="android-review.googlesource.com" />
 
   <remote  name="cyanogen"
            fetch="git://review.mfunz.com/github/CyanogenMod"
