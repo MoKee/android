@@ -127,6 +127,8 @@
   <project path="external/jsr305" name="android_external_jsr305" remote="cyanogen" />
   <project path="external/junit" name="android_external_junit" remote="cyanogen" />
   <project path="external/kernel-headers" name="android_external_kernel-headers" remote="cyanogen" />
+  <project path="external/koush/ion" name="ion" remote="cyanogen" />
+  <project path="external/koush/AndroidAsync" name="AndroidAsync" remote="cyanogen" />
   <project path="external/libcap-ng" name="android_external_libcap-ng" remote="cyanogen" />
   <project path="external/libffi" name="android_external_libffi" remote="cyanogen" />
   <project path="external/libgsm" name="android_external_libgsm" remote="cyanogen" />
