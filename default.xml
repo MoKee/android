@@ -417,6 +417,7 @@
   <project path="device/samsung/aries-common" name="MoKee/android_device_samsung_aries-common" revision="refs/heads/jb-mr1_mkt" />
   <project path="vendor/samsung/aries-common" name="MoKee/android_vendor_samsung_aries-common" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/d2-common" name="MoKee/android_device_samsung_d2-common" revision="refs/heads/jb-mr1_mkt" />
+  <project path="vendor/samsung/d2-common" name="MoKee/android_vendor_samsung_d2-common" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/galaxys2-common" name="MoKee/android_device_samsung_galaxys2-common" revision="refs/heads/jb-mr1_mkt" />
   <project path="vendor/samsung/galaxys2-common" name="MoKee/android_vendor_samsung_galaxys2-common" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/jf-common" name="MoKee/android_device_samsung_jf-common" revision="refs/heads/jb-mr1_mkt" />
