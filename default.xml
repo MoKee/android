@@ -450,6 +450,7 @@
   <project path="device/lge/star-common" name="MoKee/android_device_lge_star-common" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/lge/iprj-common" name="MoKee/android_device_lge_iprj-common" revision="refs/heads/jb-mr1_mkt" />
 
+  <project path="device/lge/e975" name="MoKee/android_device_lge_e975" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/lge/lu6200" name="MoKee/android_device_lge_lu6200" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/lge/mako" name="MoKee/android_device_lge_mako" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/lge/p880" name="MoKee/android_device_lge_p880" revision="refs/heads/jb-mr1_mkt" />
