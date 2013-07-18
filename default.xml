@@ -445,7 +445,8 @@
   <project path="device/samsung/toro" name="MoKee/android_device_samsung_toro" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/toroplus" name="MoKee/android_device_samsung_toroplus" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/tuna" name="MoKee/android_device_samsung_tuna" revision="refs/heads/jb-mr1_mkt" />
-
+  <project path="device/samsung/d2spr" name="MoKee/android_device_samsung_d2spr" revision="refs/heads/jb-mr1_mkt" />
+  
   <!-- LGE -->
   <project path="device/lge/star-common" name="MoKee/android_device_lge_star-common" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/lge/iprj-common" name="MoKee/android_device_lge_iprj-common" revision="refs/heads/jb-mr1_mkt" />
