@@ -444,5 +444,9 @@
   <!-- Common -->
   <project path="vendor/mk" name="MoKee/android_vendor_mk" revision="refs/heads/jb-mr2_mkt" />
   <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" revision="refs/heads/jb-mr2_mkt" />
+
+  <!-- LGE -->
+  <project path="device/lge/e975" name="MoKee/android_device_lge_e975" revision="refs/heads/jb-mr1_mkt" />
+
   <!-- Devices Paired End -->
 </manifest>
