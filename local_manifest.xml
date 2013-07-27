@@ -29,7 +29,10 @@
   <remove-project name="MoKee/android_device_samsung_smdk4412-common" />
   <remove-project name="MoKee/android_vendor_samsung_galaxys2-common" />
   <remove-project name="MoKee/android_device_samsung_galaxys2-common" />
-
+  <remove-project name="MoKee/android_device_samsung_d2-common" />
+  <remove-project name="MoKee/android_device_samsung_d2spr" />
+  <remove-project name="MoKee/android_device_samsung_i9100g" />
+  <remove-project name="MoKee/android_device_samsung_i9305" />
 
   <!-- lg -->
   <remove-project name="MoKee/android_device_lge_p880" />
@@ -38,6 +41,8 @@
   <remove-project name="MoKee/android_device_lge_star-common" />
   <remove-project name="MoKee/android_device_lge_iprj-common" />
   <remove-project name="MoKee/android_device_lge_mako" />
+  <remove-project name="MoKee/android_device_lge_e975" />
+  <remove-project name="MoKee/android_device_lge_lu6200" />
 
   <!-- moto -->
   <remove-project name="MoKee/android_vendor_motorola_omap4-common" />
@@ -46,6 +51,7 @@
   <remove-project name="MoKee/android_device_motorola_spyder" />
   <remove-project name="MoKee/android_device_motorola_umts_spyder" />
   <remove-project name="MoKee/android_device_motorola_olympus" />
+  <remove-project name="MoKee/android_device_motorola_wingray" />
 
   <!-- htc -->
   <remove-project name="MoKee/android_device_htc_villec2" />
@@ -54,10 +60,17 @@
   <remove-project name="MoKee/android_device_htc_m7tmo" />
   <remove-project name="MoKee/android_vendor_htc_m7-common" />
   <remove-project name="MoKee/android_device_htc_m7-common" />
+  <remove-project name="MoKee/android_device_htc_dlx" />
 
-
-  <!--huawei -->
+  <!-- huawei -->
   <remove-project name="MoKee/android_device_huawei_viva" />
   <remove-project name="MoKee/android_device_huawei_front" />
+
+  <!-- asus -->
+  <remove-project name="MoKee/android_device_asus_grouper" />
+  <remove-project name="MoKee/android_device_asus_tilapia" />
+
+  <!-- oppo -->
+  <remove-project name="MoKee/android_device_oppo_find5" />
 
 </manifest>
