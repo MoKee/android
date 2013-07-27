@@ -447,6 +447,6 @@
 
   <!-- LGE -->
   <project path="device/lge/e975" name="MoKee/android_device_lge_e975" revision="refs/heads/jb-mr1_mkt" />
-
+  <project path="device/lge/mako" name="MoKee/android_device_lge_mako" revision="refs/heads/jb-mr1_mkt" />
   <!-- Devices Paired End -->
 </manifest>
