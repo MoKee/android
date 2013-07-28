@@ -20,331 +20,332 @@
            fetch=".."
            review="review.mfunz.com" />
 
-  <default revision="refs/heads/cm-10.2"
+  <default
+           revision="refs/heads/jb-mr2_mkt"
            remote="mokee"
            sync-c="true"
            sync-j="4" />
 
-  <project path="build" name="MoKee/android_build" groups="pdk" revision="refs/heads/jb-mr2_mkt" >
+  <project path="build" name="MoKee/android_build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <copyfile src="build-script" dest="mk" />
   </project>
 
-  <project path="android" name="MoKee/android" revision="refs/heads/jb-mr2_mkt" />
+  <project path="android" name="MoKee/android" />
 
-  <project path="abi/cpp" remote = "cyanogen" name="android_abi_cpp" groups="pdk" />
-  <project path="bionic" remote = "cyanogen" name="android_bionic" groups="pdk" />
-  <project path="bootable/diskinstaller" remote = "cyanogen" name="android_bootable_diskinstaller" />
+  <project path="abi/cpp" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_abi_cpp" groups="pdk" />
+  <project path="bionic" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_bionic" groups="pdk" />
+  <project path="bootable/diskinstaller" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_bootable_diskinstaller" />
   <project path="cts" name="platform/cts" remote="aosp" revision="refs/tags/android-4.3_r2.1" groups="cts" />
-  <project path="dalvik" remote = "cyanogen" name="android_dalvik" />
+  <project path="dalvik" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_dalvik" />
   <project path="developers/build" name="platform/developers/build" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
   <project path="developers/demos" name="platform/developers/demos" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
   <project path="developers/docs" name="platform/developers/docs" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
   <project path="developers/samples/android" name="platform/developers/samples/android" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
-  <project path="development" remote = "cyanogen" name="android_development" />
-  <project path="device/common" remote = "cyanogen" name="android_device_common" />
-  <project path="device/generic/armv7-a-neon" remote = "cyanogen" name="android_device_generic_armv7-a-neon" groups="pdk" />
-  <project path="device/generic/common" remote = "cyanogen" name="android_device_generic_common" groups="pdk" />
-  <project path="device/generic/mips" remote = "cyanogen" name="android_device_generic_mips" groups="pdk" />
-  <project path="device/generic/x86" remote = "cyanogen" name="android_device_generic_x86" groups="pdk" />
+  <project path="development" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_development" />
+  <project path="device/common" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_device_common" />
+  <project path="device/generic/armv7-a-neon" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_device_generic_armv7-a-neon" groups="pdk" />
+  <project path="device/generic/common" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_device_generic_common" groups="pdk" />
+  <project path="device/generic/mips" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_device_generic_mips" groups="pdk" />
+  <project path="device/generic/x86" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_device_generic_x86" groups="pdk" />
   <project path="device/generic/mini-emulator-armv7-a-neon" name="device/generic/mini-emulator-armv7-a-neon" groups="pdk" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
   <project path="device/generic/mini-emulator-mips" name="device/generic/mini-emulator-mips" groups="pdk" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
   <project path="device/generic/mini-emulator-x86" name="device/generic/mini-emulator-x86" groups="pdk" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
-  <project path="device/google/accessory/arduino" remote = "cyanogen" name="android_device_google_accessory_arduino" groups="device" />
-  <project path="device/google/accessory/demokit" remote = "cyanogen" name="android_device_google_accessory_demokit" groups="device" />
+  <project path="device/google/accessory/arduino" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_device_google_accessory_arduino" groups="device" />
+  <project path="device/google/accessory/demokit" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_device_google_accessory_demokit" groups="device" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
-  <project path="external/aac" remote = "cyanogen" name="android_external_aac" groups="pdk" />
-  <project path="external/android-clat" remote = "cyanogen" name="android_external_android-clat" />
-  <project path="external/android-mock" remote = "cyanogen" name="android_external_android-mock" />
-  <project path="external/ant-glob" remote = "cyanogen" name="android_external_ant-glob" />
-  <project path="external/antlr" remote = "cyanogen" name="android_external_antlr" />
-  <project path="external/apache-harmony" remote = "cyanogen" name="android_external_apache-harmony" />
-  <project path="external/apache-http" remote = "cyanogen" name="android_external_apache-http" />
-  <project path="external/apache-qp" remote = "cyanogen" name="android_external_apache-qp" />
-  <project path="external/apache-xml" remote = "cyanogen" name="android_external_apache-xml" />
-  <project path="external/arduino" remote = "cyanogen" name="android_external_arduino" />
-  <project path="external/bash" remote = "cyanogen" name="android_external_bash" />
-  <project path="external/bison" remote = "cyanogen" name="android_external_bison" groups="pdk" />
-  <project path="external/blktrace" remote = "cyanogen" name="android_external_blktrace" />
-  <project path="external/bluetooth/bluedroid" remote = "cyanogen" name="android_external_bluetooth_bluedroid" groups="pdk" />
-  <project path="external/bouncycastle" remote = "cyanogen" name="android_external_bouncycastle" />
-  <project path="external/bsdiff" remote = "cyanogen" name="android_external_bsdiff" groups="pdk" />
-  <project path="external/busybox" remote = "cyanogen" name="android_external_busybox" />
-  <project path="external/bzip2" remote = "cyanogen" name="android_external_bzip2" groups="pdk" />
+  <project path="external/aac" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_aac" groups="pdk" />
+  <project path="external/android-clat" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_android-clat" />
+  <project path="external/android-mock" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_android-mock" />
+  <project path="external/ant-glob" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_ant-glob" />
+  <project path="external/antlr" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_antlr" />
+  <project path="external/apache-harmony" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_apache-harmony" />
+  <project path="external/apache-http" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_apache-http" />
+  <project path="external/apache-qp" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_apache-qp" />
+  <project path="external/apache-xml" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_apache-xml" />
+  <project path="external/arduino" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_arduino" />
+  <project path="external/bash" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_bash" />
+  <project path="external/bison" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_bison" groups="pdk" />
+  <project path="external/blktrace" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_blktrace" />
+  <project path="external/bluetooth/bluedroid" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_bluetooth_bluedroid" groups="pdk" />
+  <project path="external/bouncycastle" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_bouncycastle" />
+  <project path="external/bsdiff" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_bsdiff" groups="pdk" />
+  <project path="external/busybox" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_busybox" />
+  <project path="external/bzip2" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_bzip2" groups="pdk" />
   <project path="external/ceres-solver" name="platform/external/ceres-solver" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
-  <project path="external/checkpolicy" remote = "cyanogen" name="android_external_checkpolicy" groups="pdk" />
-  <project path="external/chromium" remote = "cyanogen" name="android_external_chromium" />
-  <project path="external/chromium-trace" remote = "cyanogen" name="android_external_chromium-trace" groups="pdk" />
-  <project path="external/clang" remote = "cyanogen" name="android_external_clang" groups="pdk" />
-  <project path="external/compiler-rt" remote = "cyanogen" name="android_external_compiler-rt" groups="pdk" />
-  <project path="external/dexmaker" remote = "cyanogen" name="android_external_dexmaker" />
-  <project path="external/dhcpcd" remote = "cyanogen" name="android_external_dhcpcd" />
-  <project path="external/dnsmasq" remote = "cyanogen" name="android_external_dnsmasq" groups="pdk" />
-  <project path="external/doclava" remote = "cyanogen" name="android_external_doclava" />
-  <project path="external/dropbear" remote = "cyanogen" name="android_external_dropbear" />
-  <project path="external/e2fsprogs" remote = "cyanogen" name="android_external_e2fsprogs" groups="pdk" />
-  <project path="external/easymock" remote = "cyanogen" name="android_external_easymock" />
-  <project path="external/eclipse-basebuilder" remote = "cyanogen" name="android_external_eclipse-basebuilder" />
-  <project path="external/eclipse-windowbuilder" remote = "cyanogen" name="android_external_eclipse-windowbuilder" />
-  <project path="external/elfutils" remote = "cyanogen" name="android_external_elfutils" />
-  <project path="external/embunit" remote = "cyanogen" name="android_external_embunit" />
-  <project path="external/emma" remote = "cyanogen" name="android_external_emma" />
-  <project path="external/esd" remote = "cyanogen" name="android_external_esd" />
-  <project path="external/exfat" remote = "cyanogen" name="android_external_exfat" />
-  <project path="external/expat" remote = "cyanogen" name="android_external_expat" groups="pdk" />
-  <project path="external/eyes-free" remote = "cyanogen" name="android_external_eyes-free" />
-  <project path="external/fdlibm" remote = "cyanogen" name="android_external_fdlibm" />
-  <project path="external/flac" remote = "cyanogen" name="android_external_flac" groups="pdk" />
-  <project path="external/freetype" remote = "cyanogen" name="android_external_freetype" groups="pdk" />
-  <project path="external/fsck_msdos" remote = "cyanogen" name="android_external_fsck_msdos" />
-  <project path="external/fuse" remote = "cyanogen" name="android_external_fuse" />
-  <project path="external/ganymed-ssh2" remote = "cyanogen" name="android_external_ganymed-ssh2" />
-  <project path="external/gcc-demangle" remote = "cyanogen" name="android_external_gcc-demangle" groups="pdk" />
-  <project path="external/genext2fs" remote = "cyanogen" name="android_external_genext2fs" />
-  <project path="external/giflib" remote = "cyanogen" name="android_external_giflib" />
-  <project path="external/google" remote = "cyanogen" name="android_external_google" />
-  <project path="external/google-diff-match-patch" remote = "cyanogen" name="android_external_google-diff-match-patch" />
-  <project path="external/grub" remote = "cyanogen" name="android_external_grub" />
-  <project path="external/gson" remote = "cyanogen" name="android_external_gson" />
-  <project path="external/gtest" remote = "cyanogen" name="android_external_gtest" groups="pdk" />
-  <project path="external/guava" remote = "cyanogen" name="android_external_guava" />
-  <project path="external/hamcrest" remote = "cyanogen" name="android_external_hamcrest" />
-  <project path="external/harfbuzz" remote = "cyanogen" name="android_external_harfbuzz" />
+  <project path="external/checkpolicy" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_checkpolicy" groups="pdk" />
+  <project path="external/chromium" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_chromium" />
+  <project path="external/chromium-trace" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_chromium-trace" groups="pdk" />
+  <project path="external/clang" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_clang" groups="pdk" />
+  <project path="external/compiler-rt" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_compiler-rt" groups="pdk" />
+  <project path="external/dexmaker" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_dexmaker" />
+  <project path="external/dhcpcd" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_dhcpcd" />
+  <project path="external/dnsmasq" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_dnsmasq" groups="pdk" />
+  <project path="external/doclava" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_doclava" />
+  <project path="external/dropbear" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_dropbear" />
+  <project path="external/e2fsprogs" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_e2fsprogs" groups="pdk" />
+  <project path="external/easymock" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_easymock" />
+  <project path="external/eclipse-basebuilder" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_eclipse-basebuilder" />
+  <project path="external/eclipse-windowbuilder" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_eclipse-windowbuilder" />
+  <project path="external/elfutils" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_elfutils" />
+  <project path="external/embunit" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_embunit" />
+  <project path="external/emma" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_emma" />
+  <project path="external/esd" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_esd" />
+  <project path="external/exfat" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_exfat" />
+  <project path="external/expat" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_expat" groups="pdk" />
+  <project path="external/eyes-free" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_eyes-free" />
+  <project path="external/fdlibm" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_fdlibm" />
+  <project path="external/flac" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_flac" groups="pdk" />
+  <project path="external/freetype" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_freetype" groups="pdk" />
+  <project path="external/fsck_msdos" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_fsck_msdos" />
+  <project path="external/fuse" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_fuse" />
+  <project path="external/ganymed-ssh2" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_ganymed-ssh2" />
+  <project path="external/gcc-demangle" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_gcc-demangle" groups="pdk" />
+  <project path="external/genext2fs" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_genext2fs" />
+  <project path="external/giflib" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_giflib" />
+  <project path="external/google" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_google" />
+  <project path="external/google-diff-match-patch" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_google-diff-match-patch" />
+  <project path="external/grub" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_grub" />
+  <project path="external/gson" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_gson" />
+  <project path="external/gtest" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_gtest" groups="pdk" />
+  <project path="external/guava" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_guava" />
+  <project path="external/hamcrest" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_hamcrest" />
+  <project path="external/harfbuzz" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_harfbuzz" />
   <project path="external/harfbuzz_ng" name="platform/external/harfbuzz_ng" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
-  <project path="external/heimdall" remote = "cyanogen" name="android_external_heimdall" />
-  <project path="external/htop" remote = "cyanogen" name="android_external_htop" />
-  <project path="external/hyphenation" remote = "cyanogen" name="android_external_hyphenation" />
-  <project path="external/icu4c" remote = "cyanogen" name="android_external_icu4c" groups="pdk" />
-  <project path="external/iproute2" remote = "cyanogen" name="android_external_iproute2" groups="pdk" />
-  <project path="external/ipsec-tools" remote = "cyanogen" name="android_external_ipsec-tools" />
-  <project path="external/iptables" remote = "cyanogen" name="android_external_iptables" />
-  <project path="external/jack" remote = "cyanogen" name="android_external_jack" />
-  <project path="external/javasqlite" remote = "cyanogen" name="android_external_javasqlite" />
-  <project path="external/javassist" remote = "cyanogen" name="android_external_javassist" />
-  <project path="external/jdiff" remote = "cyanogen" name="android_external_jdiff" />
-  <project path="external/jhead" remote = "cyanogen" name="android_external_jhead" groups="pdk" />
-  <project path="external/jmdns" remote = "cyanogen" name="android_external_jmdns" />
-  <project path="external/jmonkeyengine" remote = "cyanogen" name="android_external_jmonkeyengine" />
-  <project path="external/jpeg" remote = "cyanogen" name="android_external_jpeg" groups="pdk" />
-  <project path="external/jsilver" remote = "cyanogen" name="android_external_jsilver" />
-  <project path="external/jsr305" remote = "cyanogen" name="android_external_jsr305" />
-  <project path="external/junit" remote = "cyanogen" name="android_external_junit" />
-  <project path="external/kernel-headers" remote = "cyanogen" name="android_external_kernel-headers" />
-  <project path="external/kissfft" remote = "cyanogen" name="android_external_kissfft" />
-  <project path="external/koush/ion" remote = "cyanogen" name="ion" />
-  <project path="external/koush/AndroidAsync" remote = "cyanogen" name="AndroidAsync" />
-  <project path="external/koush/Widgets" remote = "cyanogen" name="Widgets" />
-  <project path="external/libcap-ng" remote = "cyanogen" name="android_external_libcap-ng" />
-  <project path="external/libffi" remote = "cyanogen" name="android_external_libffi" />
-  <project path="external/libgsm" remote = "cyanogen" name="android_external_libgsm" groups="pdk" />
-  <project path="external/liblzf" remote = "cyanogen" name="android_external_liblzf" groups="pdk" />
-  <project path="external/libmtp" remote = "cyanogen" name="android_external_libmtp" />
-  <project path="external/libncurses" remote = "cyanogen" name="android_external_libncurses" />
-  <project path="external/libnfc-nci" remote = "cyanogen" name="android_external_libnfc-nci" groups="pdk" />
-  <project path="external/libnfc-nxp" remote = "cyanogen" name="android_external_libnfc-nxp" groups="pdk" />
-  <project path="external/libnl-headers" remote = "cyanogen" name="android_external_libnl-headers" groups="pdk" />
-  <project path="external/libogg" remote = "cyanogen" name="android_external_libogg" />
-  <project path="external/libpcap" remote = "cyanogen" name="android_external_libpcap" />
-  <project path="external/libphonenumber" remote = "cyanogen" name="android_external_libphonenumber" />
-  <project path="external/libpng" remote = "cyanogen" name="android_external_libpng" groups="pdk" />
-  <project path="external/libppp" remote = "cyanogen" name="android_external_libppp" />
-  <project path="external/libselinux" remote = "cyanogen" name="android_external_libselinux" groups="pdk" />
-  <project path="external/libsepol" remote = "cyanogen" name="android_external_libsepol" groups="pdk" />
-  <project path="external/libusb" remote = "cyanogen" name="android_external_libusb" />
-  <project path="external/libusb-compat" remote = "cyanogen" name="android_external_libusb-compat" />
-  <project path="external/libvorbis" remote = "cyanogen" name="android_external_libvorbis" />
-  <project path="external/libvpx" remote = "cyanogen" name="android_external_libvpx" groups="pdk" />
-  <project path="external/libxml2" remote = "cyanogen" name="android_external_libxml2" />
-  <project path="external/libxslt" remote = "cyanogen" name="android_external_libxslt" />
-  <project path="external/libyuv" remote = "cyanogen" name="android_external_libyuv" groups="libyuv" />
-  <project path="external/linux-tools-perf" remote = "cyanogen" name="android_external_linux-tools-perf" />
-  <project path="external/littlemock" remote = "cyanogen" name="android_external_littlemock" />
-  <project path="external/llvm" remote = "cyanogen" name="android_external_llvm" groups="pdk" />
-  <project path="external/lsof" remote = "cyanogen" name="android_external_lsof" />
-  <project path="external/lzo" remote = "cyanogen" name="android_external_lzo" />
+  <project path="external/heimdall" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_heimdall" />
+  <project path="external/htop" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_htop" />
+  <project path="external/hyphenation" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_hyphenation" />
+  <project path="external/icu4c" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_icu4c" groups="pdk" />
+  <project path="external/iproute2" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_iproute2" groups="pdk" />
+  <project path="external/ipsec-tools" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_ipsec-tools" />
+  <project path="external/iptables" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_iptables" />
+  <project path="external/jack" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_jack" />
+  <project path="external/javasqlite" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_javasqlite" />
+  <project path="external/javassist" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_javassist" />
+  <project path="external/jdiff" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_jdiff" />
+  <project path="external/jhead" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_jhead" groups="pdk" />
+  <project path="external/jmdns" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_jmdns" />
+  <project path="external/jmonkeyengine" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_jmonkeyengine" />
+  <project path="external/jpeg" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_jpeg" groups="pdk" />
+  <project path="external/jsilver" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_jsilver" />
+  <project path="external/jsr305" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_jsr305" />
+  <project path="external/junit" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_junit" />
+  <project path="external/kernel-headers" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_kernel-headers" />
+  <project path="external/kissfft" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_kissfft" />
+  <project path="external/koush/ion" remote = "cyanogen" revision="refs/heads/cm-10.2" name="ion" />
+  <project path="external/koush/AndroidAsync" remote = "cyanogen" revision="refs/heads/cm-10.2" name="AndroidAsync" />
+  <project path="external/koush/Widgets" remote = "cyanogen" revision="refs/heads/cm-10.2" name="Widgets" />
+  <project path="external/libcap-ng" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libcap-ng" />
+  <project path="external/libffi" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libffi" />
+  <project path="external/libgsm" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libgsm" groups="pdk" />
+  <project path="external/liblzf" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_liblzf" groups="pdk" />
+  <project path="external/libmtp" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libmtp" />
+  <project path="external/libncurses" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libncurses" />
+  <project path="external/libnfc-nci" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libnfc-nci" groups="pdk" />
+  <project path="external/libnfc-nxp" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libnfc-nxp" groups="pdk" />
+  <project path="external/libnl-headers" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libnl-headers" groups="pdk" />
+  <project path="external/libogg" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libogg" />
+  <project path="external/libpcap" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libpcap" />
+  <project path="external/libphonenumber" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libphonenumber" />
+  <project path="external/libpng" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libpng" groups="pdk" />
+  <project path="external/libppp" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libppp" />
+  <project path="external/libselinux" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libselinux" groups="pdk" />
+  <project path="external/libsepol" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libsepol" groups="pdk" />
+  <project path="external/libusb" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libusb" />
+  <project path="external/libusb-compat" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libusb-compat" />
+  <project path="external/libvorbis" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libvorbis" />
+  <project path="external/libvpx" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libvpx" groups="pdk" />
+  <project path="external/libxml2" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libxml2" />
+  <project path="external/libxslt" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libxslt" />
+  <project path="external/libyuv" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libyuv" groups="libyuv" />
+  <project path="external/linux-tools-perf" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_linux-tools-perf" />
+  <project path="external/littlemock" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_littlemock" />
+  <project path="external/llvm" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_llvm" groups="pdk" />
+  <project path="external/lsof" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_lsof" />
+  <project path="external/lzo" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_lzo" />
   <project path="external/marisa-trie" name="platform/external/marisa-trie" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
-  <project path="external/markdown" remote = "cyanogen" name="android_external_markdown" />
-  <project path="external/mdnsresponder" remote = "cyanogen" name="android_external_mdnsresponder" groups="pdk" />
-  <project path="external/mksh" remote = "cyanogen" name="android_external_mksh" groups="pdk" />
+  <project path="external/markdown" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_markdown" />
+  <project path="external/mdnsresponder" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_mdnsresponder" groups="pdk" />
+  <project path="external/mksh" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_mksh" groups="pdk" />
   <project path="external/mockito" name="platform/external/mockito" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
-  <project path="external/mockwebserver" remote = "cyanogen" name="android_external_mockwebserver" />
-  <project path="external/mp4parser" remote = "cyanogen" name="android_external_mp4parser" />
-  <project path="external/mtpd" remote = "cyanogen" name="android_external_mtpd" />
-  <project path="external/nano" remote = "cyanogen" name="android_external_nano" />
-  <project path="external/naver-fonts" remote = "cyanogen" name="android_external_naver-fonts" />
-  <project path="external/netcat" remote = "cyanogen" name="android_external_netcat" />
-  <project path="external/netperf" remote = "cyanogen" name="android_external_netperf" />
-  <project path="external/neven" remote = "cyanogen" name="android_external_neven" />
+  <project path="external/mockwebserver" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_mockwebserver" />
+  <project path="external/mp4parser" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_mp4parser" />
+  <project path="external/mtpd" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_mtpd" />
+  <project path="external/nano" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_nano" />
+  <project path="external/naver-fonts" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_naver-fonts" />
+  <project path="external/netcat" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_netcat" />
+  <project path="external/netperf" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_netperf" />
+  <project path="external/neven" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_neven" />
   <project path="external/nist-pkits" name="platform/external/nist-pkits" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
-  <project path="external/nist-sip" remote = "cyanogen" name="android_external_nist-sip" />
+  <project path="external/nist-sip" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_nist-sip" />
   <project path="external/noto-fonts" name="platform/external/noto-fonts" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
-  <project path="external/ntfs-3g" remote = "cyanogen" name="android_external_ntfs-3g" />
-  <project path="external/oauth" remote = "cyanogen" name="android_external_oauth" />
+  <project path="external/ntfs-3g" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_ntfs-3g" />
+  <project path="external/oauth" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_oauth" />
   <project path="external/objenesis" name="platform/external/objenesis" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
-  <project path="external/okhttp" remote = "cyanogen" name="android_external_okhttp" />
+  <project path="external/okhttp" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_okhttp" />
   <project path="external/open-vcdiff" name="platform/external/open-vcdiff" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
-  <project path="external/opencv" remote = "cyanogen" name="android_external_opencv" />
-  <project path="external/openfst" remote = "cyanogen" name="android_external_openfst" />
-  <project path="external/openssh" remote = "cyanogen" name="android_external_openssh" />
-  <project path="external/openssl" remote = "cyanogen" name="android_external_openssl" groups="pdk" />
-  <project path="external/openvpn" remote = "cyanogen" name="android_external_openvpn" />
-  <project path="external/oprofile" remote = "cyanogen" name="android_external_oprofile" />
-  <project path="external/ping" remote = "cyanogen" name="android_external_ping" />
-  <project path="external/ping6" remote = "cyanogen" name="android_external_ping6" />
-  <project path="external/powertop" remote = "cyanogen" name="android_external_powertop" />
-  <project path="external/ppp" remote = "cyanogen" name="android_external_ppp" />
-  <project path="external/proguard" remote = "cyanogen" name="android_external_proguard" groups="pdk-java" />
-  <project path="external/protobuf" remote = "cyanogen" name="android_external_protobuf" groups="pdk" />
-  <project path="external/qemu" remote = "cyanogen" name="android_external_qemu" />
-  <project path="external/qemu-pc-bios" remote = "cyanogen" name="android_external_qemu-pc-bios" />
-  <project path="external/qrngd" remote = "cyanogen" name="android_external_qrngd" />
-  <project path="external/quake" remote = "cyanogen" name="android_external_quake" />
-  <project path="external/regex-re2" remote = "cyanogen" name="android_external_regex-re2" />
-  <project path="external/replicaisland" remote = "cyanogen" name="android_external_replicaisland" />
+  <project path="external/opencv" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_opencv" />
+  <project path="external/openfst" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_openfst" />
+  <project path="external/openssh" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_openssh" />
+  <project path="external/openssl" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_openssl" groups="pdk" />
+  <project path="external/openvpn" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_openvpn" />
+  <project path="external/oprofile" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_oprofile" />
+  <project path="external/ping" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_ping" />
+  <project path="external/ping6" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_ping6" />
+  <project path="external/powertop" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_powertop" />
+  <project path="external/ppp" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_ppp" />
+  <project path="external/proguard" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_proguard" groups="pdk-java" />
+  <project path="external/protobuf" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_protobuf" groups="pdk" />
+  <project path="external/qemu" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_qemu" />
+  <project path="external/qemu-pc-bios" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_qemu-pc-bios" />
+  <project path="external/qrngd" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_qrngd" />
+  <project path="external/quake" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_quake" />
+  <project path="external/regex-re2" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_regex-re2" />
+  <project path="external/replicaisland" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_replicaisland" />
   <project path="external/robolectric" name="platform/external/robolectric" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
-  <project path="external/rsync" remote = "cyanogen" name="android_external_rsync" />
-  <project path="external/safe-iop" remote = "cyanogen" name="android_external_safe-iop" groups="pdk" />
-  <project path="external/sepolicy" remote = "cyanogen" name="android_external_sepolicy" groups="pdk" />
-  <project path="external/skia" remote = "cyanogen" name="android_external_skia" />
+  <project path="external/rsync" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_rsync" />
+  <project path="external/safe-iop" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_safe-iop" groups="pdk" />
+  <project path="external/sepolicy" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_sepolicy" groups="pdk" />
+  <project path="external/skia" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_skia" />
   <project path="external/smack" name="platform/external/smack" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
-  <project path="external/smali" remote = "cyanogen" name="android_external_smali" />
-  <project path="external/sonivox" remote = "cyanogen" name="android_external_sonivox" groups="pdk" />
-  <project path="external/speex" remote = "cyanogen" name="android_external_speex" groups="pdk" />
-  <project path="external/sqlite" remote = "cyanogen" name="android_external_sqlite" groups="pdk" />
-  <project path="external/srec" remote = "cyanogen" name="android_external_srec" />
-  <project path="external/srtp" remote = "cyanogen" name="android_external_srtp" />
-  <project path="external/stlport" remote = "cyanogen" name="android_external_stlport" groups="pdk" />
-  <project path="external/strace" remote = "cyanogen" name="android_external_strace" />
-  <project path="external/stressapptest" remote = "cyanogen" name="android_external_stressapptest" />
-  <project path="external/svox" remote = "cyanogen" name="android_external_svox" />
-  <project path="external/tagsoup" remote = "cyanogen" name="android_external_tagsoup" />
-  <project path="external/tcpdump" remote = "cyanogen" name="android_external_tcpdump" />
+  <project path="external/smali" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_smali" />
+  <project path="external/sonivox" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_sonivox" groups="pdk" />
+  <project path="external/speex" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_speex" groups="pdk" />
+  <project path="external/sqlite" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_sqlite" groups="pdk" />
+  <project path="external/srec" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_srec" />
+  <project path="external/srtp" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_srtp" />
+  <project path="external/stlport" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_stlport" groups="pdk" />
+  <project path="external/strace" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_strace" />
+  <project path="external/stressapptest" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_stressapptest" />
+  <project path="external/svox" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_svox" />
+  <project path="external/tagsoup" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_tagsoup" />
+  <project path="external/tcpdump" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_tcpdump" />
   <project path="external/timezonepicker-support" name="platform/external/timezonepicker-support" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
-  <project path="external/tinyalsa" remote = "cyanogen" name="android_external_tinyalsa" groups="pdk" />
-  <project path="external/tinyxml" remote = "cyanogen" name="android_external_tinyxml" groups="pdk" />
-  <project path="external/tinyxml2" remote = "cyanogen" name="android_external_tinyxml2" groups="pdk" />
-  <project path="external/tremolo" remote = "cyanogen" name="android_external_tremolo" groups="pdk" />
-  <project path="external/v8" remote = "cyanogen" name="android_external_v8" />
-  <project path="external/valgrind" remote = "cyanogen" name="android_external_valgrind" groups="pdk" />
-  <project path="external/vim" remote = "cyanogen" name="android_external_vim" />
-  <project path="external/webkit" remote = "cyanogen" name="android_external_webkit" />
-  <project path="external/webp" remote = "cyanogen" name="android_external_webp" />
-  <project path="external/webrtc" remote = "cyanogen" name="android_external_webrtc" groups="pdk" />
-  <project path="external/xmlwriter" remote = "cyanogen" name="android_external_xmlwriter" />
-  <project path="external/xmp_toolkit" remote = "cyanogen" name="android_external_xmp_toolkit" />
-  <project path="external/yaffs2" remote = "cyanogen" name="android_external_yaffs2" groups="pdk" />
-  <project path="external/zlib" remote = "cyanogen" name="android_external_zlib" groups="pdk" />
-  <project path="external/zxing" remote = "cyanogen" name="android_external_zxing" />
-  <project path="frameworks/av" remote = "cyanogen" name="android_frameworks_av" groups="pdk" />
-  <project path="frameworks/compile/libbcc" remote = "cyanogen" name="android_frameworks_compile_libbcc" groups="pdk" />
-  <project path="frameworks/compile/mclinker" remote = "cyanogen" name="android_frameworks_compile_mclinker" groups="pdk" />
-  <project path="frameworks/compile/slang" remote = "cyanogen" name="android_frameworks_compile_slang" groups="pdk" />
-  <project path="frameworks/ex" remote = "cyanogen" name="android_frameworks_ex" />
-  <project path="frameworks/mff" remote = "cyanogen" name="android_frameworks_mff" />
-  <project path="frameworks/ml" remote = "cyanogen" name="android_frameworks_ml" />
-  <project path="frameworks/native" remote = "cyanogen" name="android_frameworks_native" groups="pdk" />
-  <project path="frameworks/opt/calendar" remote = "cyanogen" name="android_frameworks_opt_calendar" />
-  <project path="frameworks/opt/carddav" remote = "cyanogen" name="android_frameworks_opt_carddav" />
-  <project path="frameworks/opt/colorpicker" remote = "cyanogen" name="android_frameworks_opt_colorpicker" />
-  <project path="frameworks/opt/datetimepicker" remote = "cyanogen" name="android_frameworks_opt_datetimepicker" />
-  <project path="frameworks/opt/emoji" remote = "cyanogen" name="android_frameworks_opt_emoji" />
-  <project path="frameworks/opt/inputmethodcommon" remote = "cyanogen" name="android_frameworks_opt_inputmethodcommon" />
-  <project path="frameworks/opt/mailcommon" remote = "cyanogen" name="android_frameworks_opt_mailcommon" />
-  <project path="frameworks/opt/mms" remote = "cyanogen" name="android_frameworks_opt_mms" />
-  <project path="frameworks/opt/net/voip" remote = "cyanogen" name="android_frameworks_opt_net_voip" />
-  <project path="frameworks/opt/photoviewer" remote = "cyanogen" name="android_frameworks_opt_photoviewer" />
-  <project path="frameworks/opt/timezonepicker" remote = "cyanogen" name="android_frameworks_opt_timezonepicker" />
-  <project path="frameworks/opt/vcard" remote = "cyanogen" name="android_frameworks_opt_vcard" />
-  <project path="frameworks/rs" remote = "cyanogen" name="android_frameworks_rs" groups="pdk" />
-  <project path="frameworks/support" remote = "cyanogen" name="android_frameworks_support" />
-  <project path="frameworks/testing" remote = "cyanogen" name="android_frameworks_testing" />
-  <project path="frameworks/volley" remote = "cyanogen" name="android_frameworks_volley" />
-  <project path="frameworks/webview" remote = "cyanogen" name="android_frameworks_webview" />
-  <project path="frameworks/wilhelm" remote = "cyanogen" name="android_frameworks_wilhelm" />
-  <project path="hardware/akm" remote = "cyanogen" name="android_hardware_akm" groups="pdk" />
-  <project path="hardware/broadcom/libbt" remote = "cyanogen" name="android_hardware_broadcom_libbt" groups="pdk" />
-  <project path="hardware/broadcom/wlan" remote = "cyanogen" name="android_hardware_broadcom_wlan" groups="broadcom_wlan" />
-  <project path="hardware/cm" remote = "cyanogen" name="android_hardware_cm" />
-  <project path="hardware/invensense" remote = "cyanogen" name="android_hardware_invensense" groups="invensense" />
-  <project path="hardware/libhardware" remote = "cyanogen" name="android_hardware_libhardware" groups="pdk" />
-  <project path="hardware/libhardware_legacy" remote = "cyanogen" name="android_hardware_libhardware_legacy" groups="pdk" />
-  <project path="hardware/msm7k" remote = "cyanogen" name="android_hardware_msm7k" />
-  <project path="hardware/qcom/audio" remote = "cyanogen" name="android_hardware_qcom_audio" groups="qcom" />
-  <project path="hardware/qcom/audio-caf" remote = "cyanogen" name="android_hardware_qcom_audio-caf" groups="caf" />
-  <project path="hardware/qcom/bt" remote = "cyanogen" name="android_hardware_qcom_bt" groups="qcom" />
-  <project path="hardware/qcom/display" remote = "cyanogen" name="android_hardware_qcom_display" groups="qcom" />
-  <project path="hardware/qcom/display-caf" remote = "cyanogen" name="android_hardware_qcom_display-caf" groups="caf" />
-  <project path="hardware/qcom/keymaster" remote = "cyanogen" name="android_hardware_qcom_keymaster" groups="qcom" />
-  <project path="hardware/qcom/media" remote = "cyanogen" name="android_hardware_qcom_media" groups="qcom" />
-  <project path="hardware/qcom/media-caf" remote = "cyanogen" name="android_hardware_qcom_media-caf" groups="caf" />
-  <project path="hardware/qcom/msm8960" remote = "cyanogen" name="android_hardware_qcom_msm8960" groups="qcom_msm8960" />
-  <project path="hardware/qcom/power" remote = "cyanogen" name="android_hardware_qcom_power" />
-  <project path="hardware/qcom/sensors" remote = "cyanogen" name="android_hardware_qcom_sensors" />
-  <project path="hardware/qcom/wlan" remote = "cyanogen" name="android_hardware_qcom_wlan" />
-  <project path="hardware/ril" remote = "cyanogen" name="android_hardware_ril" groups="pdk"  />
-  <project path="hardware/samsung_slsi/exynos5" remote = "cyanogen" name="android_hardware_samsung_slsi_exynos5" />
-  <project path="hardware/samsung" remote="cyanogen" name="android_hardware_samsung" />
-  <project path="hardware/ti/omap3" remote = "cyanogen" name="android_hardware_ti_omap3" />
-  <project path="hardware/ti/omap4xxx" remote = "cyanogen" name="android_hardware_ti_omap4xxx" />
-  <project path="hardware/ti/wlan" remote = "cyanogen" name="android_hardware_ti_wlan" />
-  <project path="hardware/ti/wpan" remote = "cyanogen" name="android_hardware_ti_wpan" />
-  <project path="libcore" remote = "cyanogen" name="android_libcore" />
-  <project path="libnativehelper" remote = "cyanogen" name="android_libnativehelper" groups="pdk-java" />
+  <project path="external/tinyalsa" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_tinyalsa" groups="pdk" />
+  <project path="external/tinyxml" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_tinyxml" groups="pdk" />
+  <project path="external/tinyxml2" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_tinyxml2" groups="pdk" />
+  <project path="external/tremolo" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_tremolo" groups="pdk" />
+  <project path="external/v8" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_v8" />
+  <project path="external/valgrind" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_valgrind" groups="pdk" />
+  <project path="external/vim" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_vim" />
+  <project path="external/webkit" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_webkit" />
+  <project path="external/webp" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_webp" />
+  <project path="external/webrtc" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_webrtc" groups="pdk" />
+  <project path="external/xmlwriter" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_xmlwriter" />
+  <project path="external/xmp_toolkit" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_xmp_toolkit" />
+  <project path="external/yaffs2" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_yaffs2" groups="pdk" />
+  <project path="external/zlib" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_zlib" groups="pdk" />
+  <project path="external/zxing" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_zxing" />
+  <project path="frameworks/av" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_av" groups="pdk" />
+  <project path="frameworks/compile/libbcc" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_compile_libbcc" groups="pdk" />
+  <project path="frameworks/compile/mclinker" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_compile_mclinker" groups="pdk" />
+  <project path="frameworks/compile/slang" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_compile_slang" groups="pdk" />
+  <project path="frameworks/ex" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_ex" />
+  <project path="frameworks/mff" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_mff" />
+  <project path="frameworks/ml" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_ml" />
+  <project path="frameworks/native" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_native" groups="pdk" />
+  <project path="frameworks/opt/calendar" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_opt_calendar" />
+  <project path="frameworks/opt/carddav" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_opt_carddav" />
+  <project path="frameworks/opt/colorpicker" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_opt_colorpicker" />
+  <project path="frameworks/opt/datetimepicker" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_opt_datetimepicker" />
+  <project path="frameworks/opt/emoji" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_opt_emoji" />
+  <project path="frameworks/opt/inputmethodcommon" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_opt_inputmethodcommon" />
+  <project path="frameworks/opt/mailcommon" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_opt_mailcommon" />
+  <project path="frameworks/opt/mms" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_opt_mms" />
+  <project path="frameworks/opt/net/voip" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_opt_net_voip" />
+  <project path="frameworks/opt/photoviewer" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_opt_photoviewer" />
+  <project path="frameworks/opt/timezonepicker" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_opt_timezonepicker" />
+  <project path="frameworks/opt/vcard" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_opt_vcard" />
+  <project path="frameworks/rs" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_rs" groups="pdk" />
+  <project path="frameworks/support" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_support" />
+  <project path="frameworks/testing" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_testing" />
+  <project path="frameworks/volley" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_volley" />
+  <project path="frameworks/webview" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_webview" />
+  <project path="frameworks/wilhelm" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_wilhelm" />
+  <project path="hardware/akm" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_akm" groups="pdk" />
+  <project path="hardware/broadcom/libbt" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_broadcom_libbt" groups="pdk" />
+  <project path="hardware/broadcom/wlan" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_broadcom_wlan" groups="broadcom_wlan" />
+  <project path="hardware/cm" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_cm" />
+  <project path="hardware/invensense" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_invensense" groups="invensense" />
+  <project path="hardware/libhardware" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_libhardware" groups="pdk" />
+  <project path="hardware/libhardware_legacy" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_libhardware_legacy" groups="pdk" />
+  <project path="hardware/msm7k" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_msm7k" />
+  <project path="hardware/qcom/audio" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_qcom_audio" groups="qcom" />
+  <project path="hardware/qcom/audio-caf" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_qcom_audio-caf" groups="caf" />
+  <project path="hardware/qcom/bt" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_qcom_bt" groups="qcom" />
+  <project path="hardware/qcom/display" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_qcom_display" groups="qcom" />
+  <project path="hardware/qcom/display-caf" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_qcom_display-caf" groups="caf" />
+  <project path="hardware/qcom/keymaster" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_qcom_keymaster" groups="qcom" />
+  <project path="hardware/qcom/media" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_qcom_media" groups="qcom" />
+  <project path="hardware/qcom/media-caf" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_qcom_media-caf" groups="caf" />
+  <project path="hardware/qcom/msm8960" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_qcom_msm8960" groups="qcom_msm8960" />
+  <project path="hardware/qcom/power" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_qcom_power" />
+  <project path="hardware/qcom/sensors" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_qcom_sensors" />
+  <project path="hardware/qcom/wlan" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_qcom_wlan" />
+  <project path="hardware/ril" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_ril" groups="pdk"  />
+  <project path="hardware/samsung_slsi/exynos5" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_samsung_slsi_exynos5" />
+  <project path="hardware/samsung" remote="cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_samsung" />
+  <project path="hardware/ti/omap3" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_ti_omap3" />
+  <project path="hardware/ti/omap4xxx" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_ti_omap4xxx" />
+  <project path="hardware/ti/wlan" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_ti_wlan" />
+  <project path="hardware/ti/wpan" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_ti_wpan" />
+  <project path="libcore" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_libcore" />
+  <project path="libnativehelper" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
-  <project path="packages/apps/BasicSmsReceiver" remote = "cyanogen" name="android_packages_apps_BasicSmsReceiver" />
-  <project path="packages/apps/Bluetooth" remote = "cyanogen" name="android_packages_apps_Bluetooth" />
-  <project path="packages/apps/Calculator" remote = "cyanogen" name="android_packages_apps_Calculator" />
-  <project path="packages/apps/CellBroadcastReceiver" remote = "cyanogen" name="android_packages_apps_CellBroadcastReceiver" />
-  <project path="packages/apps/CertInstaller" remote = "cyanogen" name="android_packages_apps_CertInstaller" />
-  <project path="packages/apps/CMFileManager" remote = "cyanogen" name="android_packages_apps_CMFileManager" />
-  <project path="packages/apps/ContactsCommon" remote = "cyanogen" name="android_packages_apps_ContactsCommon" />
-  <project path="packages/apps/DSPManager" remote = "cyanogen" name="android_packages_apps_DSPManager" />
-  <project path="packages/apps/Email" remote = "cyanogen" name="android_packages_apps_Email" />
-  <project path="packages/apps/Exchange" remote = "cyanogen" name="android_packages_apps_Exchange" />
-  <project path="packages/apps/Gallery" remote = "cyanogen" name="android_packages_apps_Gallery" />
-  <project path="packages/apps/Gallery2" remote = "cyanogen" name="android_packages_apps_Gallery2" />
-  <project path="packages/apps/HTMLViewer" remote = "cyanogen" name="android_packages_apps_HTMLViewer" />
-  <project path="packages/apps/KeyChain" remote = "cyanogen" name="android_packages_apps_KeyChain" />
-  <project path="packages/apps/LockClock" remote = "cyanogen" name="android_packages_apps_LockClock" />
-  <project path="packages/apps/MusicFX" remote = "cyanogen" name="android_packages_apps_MusicFX" />
-  <project path="packages/apps/Nfc" remote = "cyanogen" name="android_packages_apps_Nfc" />
-  <project path="packages/apps/OneTimeInitializer" remote = "cyanogen" name="android_packages_apps_OneTimeInitializer" />
-  <project path="packages/apps/PhoneCommon" remote = "cyanogen" name="android_packages_apps_PhoneCommon" />
-  <project path="packages/apps/Provision" remote = "cyanogen" name="android_packages_apps_Provision" />
-  <project path="packages/apps/SmartCardService" remote = "cyanogen" name="android_packages_apps_SmartCardService" />
-  <project path="packages/apps/SoundRecorder" remote = "cyanogen" name="android_packages_apps_SoundRecorder" />
-  <project path="packages/apps/SpeechRecorder" remote = "cyanogen" name="android_packages_apps_SpeechRecorder" />
-  <project path="packages/apps/Stk" remote = "cyanogen" name="android_packages_apps_Stk" />
-  <project path="packages/apps/Tag" remote = "cyanogen" name="android_packages_apps_Tag" />
-  <project path="packages/apps/Torch" remote = "cyanogen" name="android_packages_apps_Torch" />
-  <project path="packages/apps/VideoEditor" remote = "cyanogen" name="android_packages_apps_VideoEditor" />
-  <project path="packages/apps/VoiceDialer" remote = "cyanogen" name="android_packages_apps_VoiceDialer" />
-  <project path="packages/apps/VoicePlus" remote = "cyanogen" name="android_packages_apps_VoicePlus" />
-  <project path="packages/experimental" remote = "cyanogen" name="android_packages_experimental" />
-  <project path="packages/inputmethods/LatinIME" remote = "cyanogen" name="android_packages_inputmethods_LatinIME" />
-  <project path="packages/inputmethods/OpenWnn" remote = "cyanogen" name="android_packages_inputmethods_OpenWnn" />
-  <project path="packages/inputmethods/PinyinIME" remote = "cyanogen" name="android_packages_inputmethods_PinyinIME" />
-  <project path="packages/providers/ApplicationsProvider" remote = "cyanogen" name="android_packages_providers_ApplicationsProvider" />
-  <project path="packages/providers/ContactsProvider" remote = "cyanogen" name="android_packages_providers_ContactsProvider" />
-  <project path="packages/providers/DownloadProvider" remote = "cyanogen" name="android_packages_providers_DownloadProvider" />
-  <project path="packages/providers/DrmProvider" remote = "cyanogen" name="android_packages_providers_DrmProvider" />
-  <project path="packages/providers/MediaProvider" remote = "cyanogen" name="android_packages_providers_MediaProvider" />
-  <project path="packages/providers/PartnerBookmarksProvider" remote = "cyanogen" name="android_packages_providers_PartnerBookmarksProvider" />
-  <project path="packages/providers/TelephonyProvider" remote = "cyanogen" name="android_packages_providers_TelephonyProvider" />
-  <project path="packages/providers/UserDictionaryProvider" remote = "cyanogen" name="android_packages_providers_UserDictionaryProvider" />
-  <project path="packages/screensavers/Basic" remote = "cyanogen" name="android_packages_screensavers_Basic" />
-  <project path="packages/screensavers/PhotoTable" remote = "cyanogen" name="android_packages_screensavers_PhotoTable" />
-  <project path="packages/screensavers/WebView" remote = "cyanogen" name="android_packages_screensavers_WebView" />
-  <project path="packages/wallpapers/Basic" remote = "cyanogen" name="android_packages_wallpapers_Basic" />
-  <project path="packages/wallpapers/Galaxy4" remote = "cyanogen" name="android_packages_wallpapers_Galaxy4" />
-  <project path="packages/wallpapers/HoloSpiral" remote = "cyanogen" name="android_packages_wallpapers_HoloSpiral" />
-  <project path="packages/wallpapers/LivePicker" remote = "cyanogen" name="android_packages_wallpapers_LivePicker" />
-  <project path="packages/wallpapers/MagicSmoke" remote = "cyanogen" name="android_packages_wallpapers_MagicSmoke" />
-  <project path="packages/wallpapers/MusicVisualization" remote = "cyanogen" name="android_packages_wallpapers_MusicVisualization" />
-  <project path="packages/wallpapers/NoiseField" remote = "cyanogen" name="android_packages_wallpapers_NoiseField" />
-  <project path="packages/wallpapers/PhaseBeam" remote = "cyanogen" name="android_packages_wallpapers_PhaseBeam" />
+  <project path="packages/apps/BasicSmsReceiver" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_BasicSmsReceiver" />
+  <project path="packages/apps/Bluetooth" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_Bluetooth" />
+  <project path="packages/apps/Calculator" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_Calculator" />
+  <project path="packages/apps/CellBroadcastReceiver" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_CellBroadcastReceiver" />
+  <project path="packages/apps/CertInstaller" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_CertInstaller" />
+  <project path="packages/apps/CMFileManager" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_CMFileManager" />
+  <project path="packages/apps/ContactsCommon" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_ContactsCommon" />
+  <project path="packages/apps/DSPManager" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_DSPManager" />
+  <project path="packages/apps/Email" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_Email" />
+  <project path="packages/apps/Exchange" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_Exchange" />
+  <project path="packages/apps/Gallery" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_Gallery" />
+  <project path="packages/apps/Gallery2" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_Gallery2" />
+  <project path="packages/apps/HTMLViewer" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_HTMLViewer" />
+  <project path="packages/apps/KeyChain" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_KeyChain" />
+  <project path="packages/apps/LockClock" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_LockClock" />
+  <project path="packages/apps/MusicFX" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_MusicFX" />
+  <project path="packages/apps/Nfc" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_Nfc" />
+  <project path="packages/apps/OneTimeInitializer" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_OneTimeInitializer" />
+  <project path="packages/apps/PhoneCommon" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_PhoneCommon" />
+  <project path="packages/apps/Provision" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_Provision" />
+  <project path="packages/apps/SmartCardService" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_SmartCardService" />
+  <project path="packages/apps/SoundRecorder" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_SoundRecorder" />
+  <project path="packages/apps/SpeechRecorder" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_SpeechRecorder" />
+  <project path="packages/apps/Stk" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_Stk" />
+  <project path="packages/apps/Tag" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_Tag" />
+  <project path="packages/apps/Torch" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_Torch" />
+  <project path="packages/apps/VideoEditor" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_VideoEditor" />
+  <project path="packages/apps/VoiceDialer" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_VoiceDialer" />
+  <project path="packages/apps/VoicePlus" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_VoicePlus" />
+  <project path="packages/experimental" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_experimental" />
+  <project path="packages/inputmethods/LatinIME" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_inputmethods_LatinIME" />
+  <project path="packages/inputmethods/OpenWnn" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_inputmethods_OpenWnn" />
+  <project path="packages/inputmethods/PinyinIME" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_inputmethods_PinyinIME" />
+  <project path="packages/providers/ApplicationsProvider" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_providers_ApplicationsProvider" />
+  <project path="packages/providers/ContactsProvider" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_providers_ContactsProvider" />
+  <project path="packages/providers/DownloadProvider" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_providers_DownloadProvider" />
+  <project path="packages/providers/DrmProvider" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_providers_DrmProvider" />
+  <project path="packages/providers/MediaProvider" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_providers_MediaProvider" />
+  <project path="packages/providers/PartnerBookmarksProvider" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_providers_PartnerBookmarksProvider" />
+  <project path="packages/providers/TelephonyProvider" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_providers_TelephonyProvider" />
+  <project path="packages/providers/UserDictionaryProvider" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_providers_UserDictionaryProvider" />
+  <project path="packages/screensavers/Basic" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_screensavers_Basic" />
+  <project path="packages/screensavers/PhotoTable" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_screensavers_PhotoTable" />
+  <project path="packages/screensavers/WebView" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_screensavers_WebView" />
+  <project path="packages/wallpapers/Basic" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_wallpapers_Basic" />
+  <project path="packages/wallpapers/Galaxy4" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_wallpapers_Galaxy4" />
+  <project path="packages/wallpapers/HoloSpiral" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_wallpapers_HoloSpiral" />
+  <project path="packages/wallpapers/LivePicker" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_wallpapers_LivePicker" />
+  <project path="packages/wallpapers/MagicSmoke" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_wallpapers_MagicSmoke" />
+  <project path="packages/wallpapers/MusicVisualization" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_wallpapers_MusicVisualization" />
+  <project path="packages/wallpapers/NoiseField" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_wallpapers_NoiseField" />
+  <project path="packages/wallpapers/PhaseBeam" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_wallpapers_PhaseBeam" />
   <project path="pdk" name="platform/pdk" remote="aosp" revision="refs/tags/android-4.3_r2.1" groups="pdk" />
-  <project path="prebuilt" remote = "cyanogen" name="android_prebuilt" />
+  <project path="prebuilt" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_prebuilt" />
   <project path="prebuilts/clang/darwin-x86/3.1" name="platform/prebuilts/clang/darwin-x86/3.1" groups="darwin" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
   <project path="prebuilts/clang/darwin-x86/3.2" name="platform/prebuilts/clang/darwin-x86/3.2" groups="darwin" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
   <project path="prebuilts/clang/linux-x86/3.1" name="platform/prebuilts/clang/linux-x86/3.1" groups="linux" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
@@ -377,13 +378,13 @@
   <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" remote="aosp" revision="refs/tags/android-4.3_r2.1" groups="pdk" />
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" remote="aosp" revision="refs/tags/android-4.3_r2.1" groups="pdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" remote="aosp" revision="refs/tags/android-4.3_r2.1" groups="pdk,tools" />
-  <project path="sdk" remote = "cyanogen" name="android_sdk" />
-  <project path="system/bluetooth" remote = "cyanogen" name="android_system_bluetooth" groups="pdk" />
-  <project path="system/extras" remote = "cyanogen" name="android_system_extras" groups="pdk" />
-  <project path="system/media" remote = "cyanogen" name="android_system_media" groups="pdk" />
-  <project path="system/netd" remote = "cyanogen" name="android_system_netd" groups="pdk" />
-  <project path="system/security" remote = "cyanogen" name="android_system_security" groups="pdk" />
-  <project path="system/vold" remote = "cyanogen" name="android_system_vold" groups="pdk" />
+  <project path="sdk" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_sdk" />
+  <project path="system/bluetooth" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_system_bluetooth" groups="pdk" />
+  <project path="system/extras" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_system_extras" groups="pdk" />
+  <project path="system/media" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_system_media" groups="pdk" />
+  <project path="system/netd" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_system_netd" groups="pdk" />
+  <project path="system/security" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_system_security" groups="pdk" />
+  <project path="system/vold" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_system_vold" groups="pdk" />
   <project path="tools/adt/eclipse" name="platform/tools/adt/eclipse" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
   <project path="tools/adt/idea" name="platform/tools/adt/idea" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
   <project path="tools/base" name="platform/tools/base" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
@@ -393,59 +394,56 @@
   <project path="tools/external/gradle" name="platform/tools/external/gradle" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
   <project path="tools/idea" name="platform/tools/idea" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.3_r2.1" />
-  <project path="vendor/qcom/opensource/v8" remote = "cyanogen" name="android_vendor_qcom_opensource_v8" />
-  <project path="vendor/tmobile/apps/ThemeChooser" remote = "cyanogen" name="themes-platform-vendor-tmobile-apps-ThemeChooser" />
-  <project path="vendor/tmobile/libs/com.tmobile.themes" remote = "cyanogen" name="android_vendor_tmobile_libs_com.tmobile.themes" />
-  <project path="vendor/tmobile/providers/ThemeManager" remote = "cyanogen" name="android_vendor_tmobile_providers_ThemeManager" />
+  <project path="vendor/qcom/opensource/v8" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_vendor_qcom_opensource_v8" />
+  <project path="vendor/tmobile/apps/ThemeChooser" remote = "cyanogen" revision="refs/heads/cm-10.2" name="themes-platform-vendor-tmobile-apps-ThemeChooser" />
+  <project path="vendor/tmobile/libs/com.tmobile.themes" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_vendor_tmobile_libs_com.tmobile.themes" />
+  <project path="vendor/tmobile/providers/ThemeManager" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_vendor_tmobile_providers_ThemeManager" />
 
   <!-- MoKee Bootable Start -->
-  <project path="bootable/recovery" name="MoKee/android_bootable_recovery" revision="refs/heads/jb-mr2_mkt" />
+  <project path="bootable/recovery" name="MoKee/android_bootable_recovery" />
   <!-- MoKee Bootable End -->
 
   <!-- MoKee Packages Start -->
-  <project path="packages/apps/Apollo" name="MoKee/android_packages_apps_Apollo" revision="refs/heads/jb-mr2_mkt" />
-  <project path="packages/apps/Browser" name="MoKee/android_packages_apps_Browser" revision="refs/heads/jb-mr2_mkt" />
-  <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" revision="refs/heads/jb-mr2_mkt" />
-  <project path="packages/apps/Camera" name="MoKee/android_packages_apps_Camera" revision="refs/heads/jb-mr2_mkt" />
-  <project path="packages/apps/Contacts" name="MoKee/android_packages_apps_Contacts" revision="refs/heads/jb-mr2_mkt" />
-  <project path="packages/apps/DeskClock" name="MoKee/android_packages_apps_DeskClock" revision="refs/heads/jb-mr2_mkt" />
-  <project path="packages/apps/Dialer" name="MoKee/android_packages_apps_Dialer" revision="refs/heads/jb-mr2_mkt" />
-  <project path="packages/apps/Halo" name="MoKee/android_packages_apps_Halo" revision="refs/heads/jb-mr2_mkt" />
-  <project path="packages/apps/Mms" name="MoKee/android_packages_apps_Mms" revision="refs/heads/jb-mr2_mkt" />
-  <project path="packages/apps/MoKeeLauncher" name="MoKee/android_packages_apps_MoKeeLauncher" revision="refs/heads/jb-mr2_mkt" />
-  <project path="packages/apps/Notepad" name="MoKee/android_packages_apps_Notepad" revision="refs/heads/jb-mr2_mkt" />
-  <project path="packages/apps/PackageInstaller" name="MoKee/android_packages_apps_PackageInstaller" revision="refs/heads/jb-mr2_mkt" />
-  <project path="packages/apps/PermissionManager" name="MoKee/android_packages_apps_PermissionManager" revision="refs/heads/jb-mr2_mkt" />
-  <project path="packages/apps/Phone" name="MoKee/android_packages_apps_Phone" revision="refs/heads/jb-mr2_mkt" />
+  <project path="packages/apps/Apollo" name="MoKee/android_packages_apps_Apollo" />
+  <project path="packages/apps/Browser" name="MoKee/android_packages_apps_Browser" />
+  <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" />
+  <project path="packages/apps/Camera" name="MoKee/android_packages_apps_Camera" />
+  <project path="packages/apps/Contacts" name="MoKee/android_packages_apps_Contacts" />
+  <project path="packages/apps/DeskClock" name="MoKee/android_packages_apps_DeskClock" />
+  <project path="packages/apps/Dialer" name="MoKee/android_packages_apps_Dialer" />
+  <project path="packages/apps/Halo" name="MoKee/android_packages_apps_Halo" />
+  <project path="packages/apps/Mms" name="MoKee/android_packages_apps_Mms" />
+  <project path="packages/apps/MoKeeLauncher" name="MoKee/android_packages_apps_MoKeeLauncher" />
+  <project path="packages/apps/Notepad" name="MoKee/android_packages_apps_Notepad" />
+  <project path="packages/apps/PackageInstaller" name="MoKee/android_packages_apps_PackageInstaller" />
+  <project path="packages/apps/PermissionManager" name="MoKee/android_packages_apps_PermissionManager" />
+  <project path="packages/apps/Phone" name="MoKee/android_packages_apps_Phone" />
   <project path="packages/apps/QuickSearchBox" name="MoKee/android_packages_apps_QuickSearchBox" revision="jb-mr2_mkt" />
-  <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" revision="refs/heads/jb-mr2_mkt" />
+  <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" />
   <!-- MoKee Packages End -->
 
   <!-- MoKee External Start -->
-  <project path="external/wpa_supplicant_8" name="MoKee/android_external_wpa_supplicant_8" groups="pdk" revision="refs/heads/jb-mr2_mkt" />
-  <project path="external/wpa_supplicant_8_ti" name="MoKee/android_external_wpa_supplicant_8_ti" revision="refs/heads/jb-mr2_mkt" />
-  <project path="external/koush/Superuser" name="MoKee/android_external_koush_Superuser" revision="refs/heads/jb-mr2_mkt" />
+  <project path="external/wpa_supplicant_8" name="MoKee/android_external_wpa_supplicant_8" groups="pdk" />
+  <project path="external/wpa_supplicant_8_ti" name="MoKee/android_external_wpa_supplicant_8_ti" />
+  <project path="external/koush/Superuser" name="MoKee/android_external_koush_Superuser" />
   <!-- MoKee External End -->
 
   <!-- MoKee Provider Start -->
-  <project path="packages/providers/CalendarProvider" name="MoKee/android_packages_providers_CalendarProvider" revision="refs/heads/jb-mr2_mkt" />
+  <project path="packages/providers/CalendarProvider" name="MoKee/android_packages_providers_CalendarProvider" />
   <!-- MoKee Provider End -->
 
   <!-- MoKee Frameworks Start -->
-  <project path="frameworks/base" name="MoKee/android_frameworks_base" revision="refs/heads/jb-mr2_mkt" />
-  <project path="frameworks/opt/telephony" name="MoKee/android_frameworks_opt_telephony" groups="pdk" revision="refs/heads/jb-mr2_mkt" />
+  <project path="frameworks/base" name="MoKee/android_frameworks_base" />
+  <project path="frameworks/opt/telephony" name="MoKee/android_frameworks_opt_telephony" groups="pdk" />
   <!-- MoKee Frameworks End -->
 
   <!-- MoKee System Start -->
-  <project path="system/core" name="MoKee/android_system_core" groups="pdk" revision="refs/heads/jb-mr2_mkt" />
+  <project path="system/core" name="MoKee/android_system_core" groups="pdk" />
   <!-- MoKee System End -->
 
   <!-- Devices Paired Start -->
   <!-- Common -->
-  <project path="vendor/mk" name="MoKee/android_vendor_mk" revision="refs/heads/jb-mr2_mkt" />
-  <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" revision="refs/heads/jb-mr2_mkt" />
-
-  <!-- LGE -->
-  <project path="device/lge/mako" name="MoKee/android_device_lge_mako" revision="refs/heads/jb-mr2_mkt" />
+  <project path="vendor/mk" name="MoKee/android_vendor_mk" />
+  <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" />
   <!-- Devices Paired End -->
 </manifest>
