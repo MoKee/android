@@ -96,6 +96,7 @@
   <project path="external/eyes-free" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_eyes-free" />
   <project path="external/fdlibm" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_fdlibm" />
   <project path="external/flac" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_flac" groups="pdk" />
+  <project path="external/Focal" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_Focal" />
   <project path="external/freetype" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_freetype" groups="pdk" />
   <project path="external/fsck_msdos" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_fsck_msdos" />
   <project path="external/fuse" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_fuse" />
@@ -302,6 +303,7 @@
   <project path="packages/apps/DSPManager" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_DSPManager" />
   <project path="packages/apps/Email" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_Email" />
   <project path="packages/apps/Exchange" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_Exchange" />
+  <project path="packages/apps/Focal" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_Focal" />
   <project path="packages/apps/Gallery" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_Gallery" />
   <project path="packages/apps/Gallery2" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_Gallery2" />
   <project path="packages/apps/HTMLViewer" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_apps_HTMLViewer" />
