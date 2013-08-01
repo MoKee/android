@@ -416,7 +416,6 @@
   <project path="packages/apps/MoKeeLauncher" name="MoKee/android_packages_apps_MoKeeLauncher" />
   <project path="packages/apps/Notepad" name="MoKee/android_packages_apps_Notepad" />
   <project path="packages/apps/PackageInstaller" name="MoKee/android_packages_apps_PackageInstaller" />
-  <project path="packages/apps/PermissionManager" name="MoKee/android_packages_apps_PermissionManager" />
   <project path="packages/apps/Phone" name="MoKee/android_packages_apps_Phone" />
   <project path="packages/apps/QuickSearchBox" name="MoKee/android_packages_apps_QuickSearchBox" revision="jb-mr2_mkt" />
   <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" />
