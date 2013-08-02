@@ -275,6 +275,7 @@
   <project path="hardware/qcom/bt" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_qcom_bt" groups="qcom" />
   <project path="hardware/qcom/display" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_qcom_display" groups="qcom" />
   <project path="hardware/qcom/display-caf" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_qcom_display-caf" groups="caf" />
+  <project path="hardware/qcom/gps" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_qcom_gps" groups="qcom" />
   <project path="hardware/qcom/keymaster" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_qcom_keymaster" groups="qcom" />
   <project path="hardware/qcom/media" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_qcom_media" groups="qcom" />
   <project path="hardware/qcom/media-caf" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_qcom_media-caf" groups="caf" />
