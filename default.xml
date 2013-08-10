@@ -434,6 +434,7 @@
 
   <!-- MoKee Frameworks Start -->
   <project path="frameworks/base" name="MoKee/android_frameworks_base" />
+  <project path="frameworks/opt/hardware" name="MoKee/android_frameworks_opt_hardware" />
   <project path="frameworks/opt/telephony" name="MoKee/android_frameworks_opt_telephony" groups="pdk" />
   <project path="frameworks/support" name="MoKee/android_frameworks_support" />
   <!-- MoKee Frameworks End -->
