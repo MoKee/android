@@ -445,6 +445,8 @@
   <project path="device/samsung/n7100" name="MoKee/android_device_samsung_n7100" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/p3100" name="MoKee/android_device_samsung_p3100" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/p3110" name="MoKee/android_device_samsung_p3110" revision="refs/heads/jb-mr1_mkt" />
+  <project path="device/samsung/p5100" name="MoKee/android_device_samsung_p5100" revision="refs/heads/jb-mr1_mkt" />
+  <project path="device/samsung/p5110" name="MoKee/android_device_samsung_p5110" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/toro" name="MoKee/android_device_samsung_toro" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/toroplus" name="MoKee/android_device_samsung_toroplus" revision="refs/heads/jb-mr1_mkt" />
   <project path="device/samsung/tuna" name="MoKee/android_device_samsung_tuna" revision="refs/heads/jb-mr1_mkt" />
