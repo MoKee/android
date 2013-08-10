@@ -257,7 +257,7 @@
   <project path="frameworks/opt/timezonepicker" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_opt_timezonepicker" />
   <project path="frameworks/opt/vcard" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_opt_vcard" />
   <project path="frameworks/rs" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_rs" groups="pdk" />
-  <project path="frameworks/support" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_support" />
+
   <project path="frameworks/testing" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_testing" />
   <project path="frameworks/volley" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_volley" />
   <project path="frameworks/webview" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_webview" />
@@ -435,6 +435,7 @@
   <!-- MoKee Frameworks Start -->
   <project path="frameworks/base" name="MoKee/android_frameworks_base" />
   <project path="frameworks/opt/telephony" name="MoKee/android_frameworks_opt_telephony" groups="pdk" />
+  <project path="frameworks/support" name="MoKee/android_frameworks_support" />
   <!-- MoKee Frameworks End -->
 
   <!-- MoKee System Start -->
