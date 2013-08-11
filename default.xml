@@ -285,7 +285,6 @@
   <project path="hardware/qcom/wlan" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_qcom_wlan" />
   <project path="hardware/ril" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_ril" groups="pdk"  />
   <project path="hardware/samsung_slsi/exynos5" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_samsung_slsi_exynos5" />
-  <project path="hardware/samsung" remote="cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_samsung" />
   <project path="hardware/ti/omap3" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_ti_omap3" />
   <project path="hardware/ti/omap4xxx" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_ti_omap4xxx" />
   <project path="hardware/ti/wlan" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_hardware_ti_wlan" />
@@ -438,6 +437,10 @@
   <project path="frameworks/opt/telephony" name="MoKee/android_frameworks_opt_telephony" groups="pdk" />
   <project path="frameworks/support" name="MoKee/android_frameworks_support" />
   <!-- MoKee Frameworks End -->
+
+  <!-- MoKee Hardware Start -->
+  <project path="hardware/samsung" name="MoKee/android_hardware_samsung" />
+  <!-- MoKee Hardware End -->
 
   <!-- MoKee System Start -->
   <project path="system/core" name="MoKee/android_system_core" groups="pdk" />
