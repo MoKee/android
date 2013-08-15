@@ -147,11 +147,13 @@
   <project path="external/libogg" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libogg" />
   <project path="external/libpcap" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libpcap" />
   <project path="external/libphonenumber" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libphonenumber" />
+  <project path="external/libphonenumbergoogle" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libphonenumbergoogle" />
   <project path="external/libpng" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libpng" groups="pdk" />
   <project path="external/libppp" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libppp" />
   <project path="external/libselinux" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libselinux" groups="pdk" />
   <project path="external/libsepol" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libsepol" groups="pdk" />
   <project path="external/libusb" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libusb" />
+  <project path="external/libusbx" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libusbx" />
   <project path="external/libusb-compat" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libusb-compat" />
   <project path="external/libvorbis" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libvorbis" />
   <project path="external/libvpx" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_libvpx" groups="pdk" />
