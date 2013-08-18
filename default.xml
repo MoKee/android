@@ -329,7 +329,6 @@
   <project path="packages/inputmethods/PinyinIME" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_inputmethods_PinyinIME" />
   <project path="packages/providers/ApplicationsProvider" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_providers_ApplicationsProvider" />
   <project path="packages/providers/ContactsProvider" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_providers_ContactsProvider" />
-  <project path="packages/providers/DownloadProvider" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_providers_DownloadProvider" />
   <project path="packages/providers/DrmProvider" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_providers_DrmProvider" />
   <project path="packages/providers/MediaProvider" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_providers_MediaProvider" />
   <project path="packages/providers/PartnerBookmarksProvider" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_packages_providers_PartnerBookmarksProvider" />
@@ -405,7 +404,13 @@
   <project path="bootable/recovery" name="MoKee/android_bootable_recovery" />
   <!-- MoKee Bootable End -->
 
-  <!-- MoKee Packages Start -->
+  <!-- MoKee External Start -->
+  <project path="external/wpa_supplicant_8" name="MoKee/android_external_wpa_supplicant_8" groups="pdk" />
+  <project path="external/wpa_supplicant_8_ti" name="MoKee/android_external_wpa_supplicant_8_ti" />
+  <project path="external/koush/Superuser" name="MoKee/android_external_koush_Superuser" />
+  <!-- MoKee External End -->
+
+  <!-- MoKee Packages Apps Start -->
   <project path="packages/apps/Apollo" name="MoKee/android_packages_apps_Apollo" />
   <project path="packages/apps/Browser" name="MoKee/android_packages_apps_Browser" />
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" />
@@ -421,17 +426,12 @@
   <project path="packages/apps/Phone" name="MoKee/android_packages_apps_Phone" />
   <project path="packages/apps/QuickSearchBox" name="MoKee/android_packages_apps_QuickSearchBox" revision="jb-mr2_mkt" />
   <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" />
-  <!-- MoKee Packages End -->
+  <!-- MoKee Packages Apps End -->
 
-  <!-- MoKee External Start -->
-  <project path="external/wpa_supplicant_8" name="MoKee/android_external_wpa_supplicant_8" groups="pdk" />
-  <project path="external/wpa_supplicant_8_ti" name="MoKee/android_external_wpa_supplicant_8_ti" />
-  <project path="external/koush/Superuser" name="MoKee/android_external_koush_Superuser" />
-  <!-- MoKee External End -->
-
-  <!-- MoKee Provider Start -->
+  <!-- MoKee Packages Provider Start -->
   <project path="packages/providers/CalendarProvider" name="MoKee/android_packages_providers_CalendarProvider" />
-  <!-- MoKee Provider End -->
+  <project path="packages/providers/DownloadProvider" name="MoKee/android_packages_providers_DownloadProvider" />
+  <!-- MoKee Packages Provider End -->
 
   <!-- MoKee Frameworks Start -->
   <project path="frameworks/base" name="MoKee/android_frameworks_base" />
