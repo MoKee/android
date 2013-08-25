@@ -192,6 +192,7 @@
   <project path="external/openssl" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_openssl" groups="pdk" />
   <project path="external/openvpn" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_openvpn" />
   <project path="external/oprofile" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_oprofile" />
+  <project path="external/pigz" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_pigz" />
   <project path="external/ping" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_ping" />
   <project path="external/ping6" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_ping6" />
   <project path="external/powertop" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_powertop" />
