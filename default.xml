@@ -214,6 +214,7 @@
   <project path="external/smali" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_smali" />
   <project path="external/sonivox" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_sonivox" groups="pdk" />
   <project path="external/speex" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_speex" groups="pdk" />
+  <project path="external/spongycastle" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_spongycastle" groups="pdk" />
   <project path="external/sqlite" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_sqlite" groups="pdk" />
   <project path="external/srec" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_srec" />
   <project path="external/srtp" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_srtp" />
