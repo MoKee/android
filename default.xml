@@ -422,6 +422,7 @@
   <project path="packages/apps/Dialer" name="MoKee/android_packages_apps_Dialer" />
   <project path="packages/apps/Halo" name="MoKee/android_packages_apps_Halo" />
   <project path="packages/apps/Mms" name="MoKee/android_packages_apps_Mms" />
+  <project path="packages/apps/MoKeeHelper" name="MoKee/android_packages_apps_MoKeeHelper" />
   <project path="packages/apps/MoKeeLauncher" name="MoKee/android_packages_apps_MoKeeLauncher" />
   <project path="packages/apps/Notepad" name="MoKee/android_packages_apps_Notepad" />
   <project path="packages/apps/PackageInstaller" name="MoKee/android_packages_apps_PackageInstaller" />
