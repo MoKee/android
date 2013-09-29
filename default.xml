@@ -381,6 +381,7 @@
   <project path="packages/apps/DeskClock" name="MoKee/android_packages_apps_DeskClock" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Halo" name="MoKee/android_packages_apps_Halo" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Mms" name="MoKee/android_packages_apps_Mms" revision="refs/heads/jb-mr1_mkt" />
+  <project path="packages/apps/MoKeeHelper" name="MoKee/android_packages_apps_MoKeeHelper" />
   <project path="packages/apps/MoKeeLauncher" name="MoKee/android_packages_apps_MoKeeLauncher" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/Notepad" name="MoKee/android_packages_apps_Notepad" revision="refs/heads/jb-mr1_mkt" />
   <project path="packages/apps/PackageInstaller" name="MoKee/android_packages_apps_PackageInstaller" revision="refs/heads/jb-mr1_mkt" />
