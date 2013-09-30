@@ -428,6 +428,7 @@
   <project path="packages/apps/PackageInstaller" name="MoKee/android_packages_apps_PackageInstaller" />
   <project path="packages/apps/Phone" name="MoKee/android_packages_apps_Phone" />
   <project path="packages/apps/QuickSearchBox" name="MoKee/android_packages_apps_QuickSearchBox" revision="jb-mr2_mkt" />
+  <project path="packages/apps/PermissionManager" name="MoKee/android_packages_apps_PermissionManager" revision="jb-mr2_mkt" />
   <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" />
   <project path="packages/apps/Gallery2" name="MoKee/android_packages_apps_Gallery2" />
   <!-- MoKee Packages Apps End -->
