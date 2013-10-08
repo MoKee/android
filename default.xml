@@ -79,6 +79,7 @@
   <project path="external/chromium-trace" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_chromium-trace" groups="pdk" />
   <project path="external/clang" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_clang" groups="pdk" />
   <project path="external/compiler-rt" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_compiler-rt" groups="pdk" />
+  <project path="external/crda" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_crda" />
   <project path="external/dexmaker" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_dexmaker" />
   <project path="external/dhcpcd" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_dhcpcd" />
   <project path="external/dnsmasq" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_dnsmasq" groups="pdk" />
@@ -387,7 +388,7 @@
   <project path="system/extras" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_system_extras" groups="pdk" />
   <project path="system/media" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_system_media" groups="pdk" />
   <project path="system/netd" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_system_netd" groups="pdk" />
-  <project path="system/qcom" remote = "cyanogen" revision="refs/heads/cm-10.2" name="CyanogenMod/android_system_qcom" groups="qcom" />
+  <project path="system/qcom" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_system_qcom" groups="qcom" />
   <project path="system/security" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_system_security" groups="pdk" />
   <project path="system/vold" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_system_vold" groups="pdk" />
   <project path="tools/adt/eclipse" name="platform/tools/adt/eclipse" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
