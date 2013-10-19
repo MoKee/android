@@ -42,7 +42,6 @@
   <project path="developers/demos" name="platform/developers/demos" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="developers/docs" name="platform/developers/docs" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="developers/samples/android" name="platform/developers/samples/android" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
-  <project path="development" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_development" />
   <project path="device/common" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_device_common" />
   <project path="device/generic/armv7-a-neon" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_device_generic_armv7-a-neon" groups="pdk" />
   <project path="device/generic/common" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_device_generic_common" groups="pdk" />
@@ -409,6 +408,10 @@
   <!-- MoKee Bootable Start -->
   <project path="bootable/recovery" name="MoKee/android_bootable_recovery" />
   <!-- MoKee Bootable End -->
+
+  <!-- MoKee Developmente Start -->
+  <project path="development" name="MoKee/android_development" />
+  <!-- MoKee Developmente End -->
 
   <!-- MoKee External Start -->
   <project path="external/wpa_supplicant_8" name="MoKee/android_external_wpa_supplicant_8" groups="pdk" />
