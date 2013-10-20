@@ -261,7 +261,6 @@
   <project path="frameworks/opt/net/voip" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_opt_net_voip" />
   <project path="frameworks/opt/photoviewer" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_opt_photoviewer" />
   <project path="frameworks/opt/timezonepicker" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_opt_timezonepicker" />
-  <project path="frameworks/opt/telephony-msim" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_opt_telephony-msim" groups="pdk" />
   <project path="frameworks/opt/vcard" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_opt_vcard" />
   <project path="frameworks/rs" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_frameworks_rs" groups="pdk" />
 
