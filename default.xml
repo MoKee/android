@@ -95,6 +95,7 @@
   <project path="external/exfat" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_exfat" />
   <project path="external/expat" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_expat" groups="pdk" />
   <project path="external/eyes-free" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_eyes-free" />
+  <project path="external/f2fs-tools" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_f2fs-tools" />
   <project path="external/fdlibm" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_fdlibm" />
   <project path="external/flac" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_flac" groups="pdk" />
   <project path="external/freetype" remote = "cyanogen" revision="refs/heads/cm-10.2" name="android_external_freetype" groups="pdk" />
@@ -449,7 +450,7 @@
   <!-- MoKee Frameworks Start -->
   <project path="frameworks/base" name="MoKee/android_frameworks_base" />
   <project path="frameworks/opt/hardware" name="MoKee/android_frameworks_opt_hardware" />
-  <project path="frameworks/opt/telephony" name="MoKee/android_frameworks_opt_telephony" groups="pdk" />
+  <project path="frameworks/opt/telephony" name="MoKee/android_frameworks_opt_telephony" />
   <project path="frameworks/support" name="MoKee/android_frameworks_support" />
   <!-- MoKee Frameworks End -->
 
