@@ -10,7 +10,7 @@
            review="review.mfunz.com" />
 
   <remote  name="local"
-           fetch="git://review.mfunz.com/github"
+           fetch="git://review.mfunz.com/"
            review="review.mfunz.com" />
 	   
   <remote  name="private"
