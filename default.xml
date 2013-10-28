@@ -307,7 +307,6 @@
   <project path="packages/apps/CellBroadcastReceiver" remote = "cyanogen" revision="refs/heads/cm-10.2" name="github/CyanogenMod/android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" remote = "cyanogen" revision="refs/heads/cm-10.2" name="github/CyanogenMod/android_packages_apps_CertInstaller" />
   <project path="packages/apps/CMFileManager" remote = "cyanogen" revision="refs/heads/cm-10.2" name="github/CyanogenMod/android_packages_apps_CMFileManager" />
-  <project path="packages/apps/ContactsCommon" remote = "cyanogen" revision="refs/heads/cm-10.2" name="github/CyanogenMod/android_packages_apps_ContactsCommon" />
   <project path="packages/apps/DSPManager" remote = "cyanogen" revision="refs/heads/cm-10.2" name="github/CyanogenMod/android_packages_apps_DSPManager" />
   <project path="packages/apps/Email" remote = "cyanogen" revision="refs/heads/cm-10.2" name="github/CyanogenMod/android_packages_apps_Email" />
   <project path="packages/apps/Exchange" remote = "cyanogen" revision="refs/heads/cm-10.2" name="github/CyanogenMod/android_packages_apps_Exchange" />
@@ -427,6 +426,7 @@
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" />
   <project path="packages/apps/Camera" name="MoKee/android_packages_apps_Camera" />
   <project path="packages/apps/Contacts" name="MoKee/android_packages_apps_Contacts" />
+  <project path="packages/apps/ContactsCommon" name="MoKee/android_packages_apps_ContactsCommon" />
   <project path="packages/apps/DeskClock" name="MoKee/android_packages_apps_DeskClock" />
   <project path="packages/apps/Dialer" name="MoKee/android_packages_apps_Dialer" />
   <project path="packages/apps/Halo" name="MoKee/android_packages_apps_Halo" />
