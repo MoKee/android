@@ -323,7 +323,6 @@
   <project path="packages/apps/SpeechRecorder" remote = "cyanogen" revision="refs/heads/cm-10.2" name="github/CyanogenMod/android_packages_apps_SpeechRecorder" />
   <project path="packages/apps/Stk" remote = "cyanogen" revision="refs/heads/cm-10.2" name="github/CyanogenMod/android_packages_apps_Stk" />
   <project path="packages/apps/Tag" remote = "cyanogen" revision="refs/heads/cm-10.2" name="github/CyanogenMod/android_packages_apps_Tag" />
-  <project path="packages/apps/Torch" remote = "cyanogen" revision="refs/heads/cm-10.2" name="github/CyanogenMod/android_packages_apps_Torch" />
   <project path="packages/apps/VideoEditor" remote = "cyanogen" revision="refs/heads/cm-10.2" name="github/CyanogenMod/android_packages_apps_VideoEditor" />
   <project path="packages/apps/VoiceDialer" remote = "cyanogen" revision="refs/heads/cm-10.2" name="github/CyanogenMod/android_packages_apps_VoiceDialer" />
   <project path="packages/apps/VoicePlus" remote = "cyanogen" revision="refs/heads/cm-10.2" name="github/CyanogenMod/android_packages_apps_VoicePlus" />
@@ -437,9 +436,9 @@
   <project path="packages/apps/Notepad" name="MoKee/android_packages_apps_Notepad" />
   <project path="packages/apps/PackageInstaller" name="MoKee/android_packages_apps_PackageInstaller" />
   <project path="packages/apps/Phone" name="MoKee/android_packages_apps_Phone" />
-  <project path="packages/apps/QuickSearchBox" name="MoKee/android_packages_apps_QuickSearchBox" revision="jb-mr2_mkt" />
-  <project path="packages/apps/PermissionsManager" name="MoKee/android_packages_apps_PermissionsManager" revision="jb-mr2_mkt" />
+  <project path="packages/apps/QuickSearchBox" name="MoKee/android_packages_apps_QuickSearchBox" />
   <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" />
+  <project path="packages/apps/Torch" name="MoKee/android_packages_apps_Torch" />
   <project path="packages/apps/Gallery2" name="MoKee/android_packages_apps_Gallery2" />
   <!-- MoKee Packages Apps End -->
 
