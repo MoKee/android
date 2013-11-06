@@ -3,14 +3,15 @@ MoKee OpenSource
 
 Submitting Patches
 ------------------
-Patches are always welcomed!  Please submit your patches via MoKee Gerrit! You can do this by using these commands:
+Patches are always welcomed!  Please submit your patches via MoKee OpenSource Gerrit!
+You can do this by using these commands:
 
     (From root android directory)
     . build/envsetup.sh
     (Go to repo you are patching, make your changes and commit)
     mkgerrit <for(new)/changes(patch set)> <branch/change-id> 
 
-    repo start jb-mr2_mkt .
+    repo start kk_mkt .
     (Make your changes and commit)
     repo upload .
 
@@ -37,11 +38,11 @@ familiar with [Repo](https://source.android.com/source/using-repo.html) and [Ver
 
 To initialize your local repository using the MoKee trees, use a command like this:
 
-    repo init -u https://github.com/MoKee/android.git -b jb-mr2_mkt
+    repo init -u https://github.com/MoKee/android.git -b kk_mkt
 
  or
 
-    repo init -u ssh://[username]@review.mfunz.com:29418/MoKee/android.git -b jb-mr2_mkt
+    repo init -u ssh://[username]@review.mfunz.com:29418/MoKee/android.git -b kk_mkt
 
 Then to sync up:
 
