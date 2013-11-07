@@ -3,8 +3,7 @@ MoKee OpenSource
 
 Submitting Patches
 ------------------
-Patches are always welcomed!  Please submit your patches via MoKee OpenSource Gerrit!
-You can do this by using these commands:
+Patches are always welcomed!  Please submit your patches via MoKee Gerrit! You can do this by using these commands:
 
     (From root android directory)
     . build/envsetup.sh
