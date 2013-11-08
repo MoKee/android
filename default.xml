@@ -367,7 +367,6 @@
   <project path="packages/screensavers/Basic" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_screensavers_Basic" />
   <project path="packages/screensavers/PhotoTable" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_screensavers_PhotoTable" />
   <project path="packages/screensavers/WebView" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_screensavers_WebView" />
-  <project path="packages/services/Telephony" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_services_Telephony" />
   <project path="packages/wallpapers/Basic" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_wallpapers_Basic" />
   <project path="packages/wallpapers/Galaxy4" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_wallpapers_Galaxy4" />
   <project path="packages/wallpapers/HoloSpiral" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_wallpapers_HoloSpiral" />
@@ -486,6 +485,10 @@
   <project path="packages/providers/CalendarProvider" name="MoKee/android_packages_providers_CalendarProvider" />
   <project path="packages/providers/DownloadProvider" name="MoKee/android_packages_providers_DownloadProvider" />
   <!-- MoKee Packages Provider End -->
+
+  <!-- MoKee Packages Service Start -->
+  <project path="packages/services/Telephony" name="MoKee/android_packages_services_Telephony" />
+  <!-- MoKee Packages Service End -->
 
   <!-- MoKee Frameworks Start -->
   <project path="frameworks/base" name="MoKee/android_frameworks_base" />
