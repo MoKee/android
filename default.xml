@@ -36,7 +36,7 @@
   <project path="abi/cpp" remote = "cyanogen" revision="refs/heads/cm-10.2" name="github/CyanogenMod/android_abi_cpp" groups="pdk" />
   <project path="bionic" remote = "cyanogen" revision="refs/heads/cm-10.2" name="github/CyanogenMod/android_bionic" groups="pdk" />
   <project path="bootable/diskinstaller" remote = "cyanogen" revision="refs/heads/cm-10.2" name="github/CyanogenMod/android_bootable_diskinstaller" />
-  <project path="cts" name="platform/cts" remote="aosp" revision="refs/tags/android-4.3.1_r1" groups="cts" />
+  <project path="cts" name="platform/cts" remote="aosp" revision="jb-mr2.0-cts-release" groups="cts" />
   <project path="dalvik" remote = "cyanogen" revision="refs/heads/cm-10.2" name="github/CyanogenMod/android_dalvik" />
   <project path="developers/build" name="platform/developers/build" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="developers/demos" name="platform/developers/demos" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
