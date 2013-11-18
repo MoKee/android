@@ -456,6 +456,7 @@
   <!-- MoKee External Start -->
   <project path="external/wpa_supplicant_8" name="MoKee/android_external_wpa_supplicant_8" groups="pdk" />
   <project path="external/koush/Superuser" name="MoKee/android_external_koush_Superuser" />
+  <project path="external/mokee/MoKeeHelper" name="MoKee/android_external_mokee_MoKeeHelper" />
   <!-- MoKee External End -->
 
   <!-- MoKee Packages Apps Start -->
@@ -472,7 +473,6 @@
   <project path="packages/apps/Launcher3" name="MoKee/android_packages_apps_Launcher3" />
   <project path="packages/apps/LockClock" name="MoKee/android_packages_apps_LockClock" />
   <project path="packages/apps/Mms" name="MoKee/android_packages_apps_Mms" />
-  <project path="packages/apps/MoKeeHelper" name="MoKee/android_packages_apps_MoKeeHelper" />
   <project path="packages/apps/MoKeeSetupWizard" name="MoKee/android_packages_apps_MoKeeSetupWizard" />
   <project path="packages/apps/Notepad" name="MoKee/android_packages_apps_Notepad" />
   <project path="packages/apps/PackageInstaller" name="MoKee/android_packages_apps_PackageInstaller" />
