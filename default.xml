@@ -103,6 +103,7 @@
   <project path="external/chromium_org/v8" name="platform/external/chromium_org/v8" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="external/clang" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_clang" groups="pdk" />
   <project path="external/compiler-rt" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_compiler-rt" groups="pdk" />
+  <project path="external/connectivity" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_connectivity" />
   <project path="external/crda" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_crda" />
   <project path="external/dexmaker" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_dexmaker" />
   <project path="external/dhcpcd" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_dhcpcd" />
