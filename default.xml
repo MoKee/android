@@ -353,7 +353,7 @@
   <project path="packages/apps/UnifiedEmail" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_apps_UnifiedEmail" />
   <project path="packages/apps/VideoEditor" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_apps_VideoEditor" />
   <project path="packages/apps/VoiceDialer" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_apps_VoiceDialer" />
-  <!-- Removed pending the re-addition of the synthetic SMS APIs project path="packages/apps/VoicePlus" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_apps_VoicePlus" /-->
+  <project path="packages/apps/VoicePlus" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_apps_VoicePlus" />
   <project path="packages/experimental" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_experimental" />
   <project path="packages/inputmethods/LatinIME" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_inputmethods_LatinIME" />
   <project path="packages/inputmethods/OpenWnn" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_inputmethods_OpenWnn" />
