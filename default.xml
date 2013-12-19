@@ -461,6 +461,7 @@
   <project path="external/koush/Superuser" name="MoKee/android_external_koush_Superuser" />
   <project path="external/mokee/MoKeeHelper" name="MoKee/android_external_mokee_MoKeeHelper" />
   <project path="external/mokee/xdelta3" name="MoKee/android_external_mokee_xdelta3" />
+  <project path="external/mokee/tools" name="MoKee/android_external_mokee_tools" />
   <!-- MoKee External End -->
 
   <!-- MoKee Packages Apps Start -->
