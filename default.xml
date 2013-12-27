@@ -457,6 +457,7 @@
   <!-- MoKee Development End -->
 
   <!-- MoKee External Start -->
+  <project path="external/wpa_supplicant_8" name="MoKee/android_external_ir" />
   <project path="external/wpa_supplicant_8" name="MoKee/android_external_wpa_supplicant_8" groups="pdk" />
   <project path="external/koush/Superuser" name="MoKee/android_external_koush_Superuser" />
   <project path="external/mokee/MoKeeHelper" name="MoKee/android_external_mokee_MoKeeHelper" />
