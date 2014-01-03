@@ -510,10 +510,9 @@
   <project path="system/core" name="MoKee/android_system_core" groups="pdk" />
   <!-- MoKee System End -->
 
-  <!-- Devices Paired Start -->
-  <!-- Other -->
+  <!-- Other Start -->
   <project path="art" name="MoKee/android_art" />
   <project path="vendor/mk" name="MoKee/android_vendor_mk" />
   <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" />
-  <!-- Devices Paired End -->
+  <!-- Other End -->
 </manifest>
