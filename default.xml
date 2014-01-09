@@ -274,7 +274,6 @@
   <project path="external/yaffs2" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_yaffs2" groups="pdk" />
   <project path="external/zlib" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_zlib" groups="pdk" />
   <project path="external/zxing" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_zxing" />
-  <project path="frameworks/av" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_frameworks_av" groups="pdk" />
   <project path="frameworks/compile/libbcc" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_frameworks_compile_libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_frameworks_compile_mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_frameworks_compile_slang" groups="pdk" />
@@ -496,6 +495,7 @@
   <!-- MoKee Packages Service End -->
 
   <!-- MoKee Frameworks Start -->
+  <project path="frameworks/av" name="MoKee/android_frameworks_av" groups="pdk" />
   <project path="frameworks/base" name="MoKee/android_frameworks_base" />
   <project path="frameworks/opt/hardware" name="MoKee/android_frameworks_opt_hardware" />
   <project path="frameworks/opt/telephony" name="MoKee/android_frameworks_opt_telephony" />
