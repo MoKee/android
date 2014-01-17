@@ -460,7 +460,7 @@
   <project path="external/mokee/xdelta3" name="MoKee/android_external_mokee_xdelta3" />
   <project path="external/mokee/tools" name="MoKee/android_external_mokee_tools" revision="refs/heads/master"/>
   <project path="external/wpa_supplicant_8" name="MoKee/android_external_wpa_supplicant_8" groups="pdk" />
-  <project path="external/wpa_supplicant_8_ti" name="MoKee/android_external_wpa_supplicant_8_ti" groups="pdk" />
+  <project path="external/wpa_supplicant_8_ti" name="MoKee/android_external_wpa_supplicant_8_ti" />
   <!-- MoKee External End -->
 
   <!-- MoKee Packages Apps Start -->
