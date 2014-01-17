@@ -441,7 +441,6 @@
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="vendor/cyngn" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_vendor_cyngn" />
-  <project path="vendor/tmobile/apps/ThemeChooser" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
 
@@ -514,6 +513,8 @@
   <!-- Other Start -->
   <project path="art" name="MoKee/android_art" />
   <project path="vendor/mk" name="MoKee/android_vendor_mk" />
+  <project path="vendor/tmobile/apps/ThemeChooser" name="MoKee/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" />
   <!-- Other End -->
+
 </manifest>
