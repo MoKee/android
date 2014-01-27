@@ -232,6 +232,7 @@
   <project path="external/protobuf" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_protobuf" groups="pdk" />
   <project path="external/qemu" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_qemu" />
   <project path="external/qemu-pc-bios" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_qemu-pc-bios" />
+  <project path="external/qrngd" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_qrngd" />
   <project path="external/regex-re2" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_regex-re2" />
   <project path="external/replicaisland" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_replicaisland" />
   <project path="external/robolectric" name="platform/external/robolectric" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
