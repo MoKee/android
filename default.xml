@@ -478,6 +478,7 @@
   <project path="packages/apps/LockClock" name="MoKee/android_packages_apps_LockClock" />
   <project path="packages/apps/Mms" name="MoKee/android_packages_apps_Mms" />
   <project path="packages/apps/MoKeeGenius" name="MoKee/android_packages_apps_MoKeeGenius" />
+  <project path="packages/apps/MoKeeLauncher" name="MoKee/android_packages_apps_MoKeeLauncher" />
   <project path="packages/apps/MoKeeScreenRecorder" name="MoKee/android_packages_apps_MoKeeScreenRecorder" />
   <project path="packages/apps/MoKeeSetupWizard" name="MoKee/android_packages_apps_MoKeeSetupWizard" />
   <project path="packages/apps/Notepad" name="MoKee/android_packages_apps_Notepad" />
