@@ -20,6 +20,10 @@
            fetch=".."
            review="review.mfunz.com" />
 
+  <remote  name="omnirom"
+           review="gerrit.omnirom.org"
+           fetch="https://github.com/omnirom" />
+
   <default
            revision="refs/heads/kk_mkt"
            remote="mokee"
@@ -337,7 +341,7 @@
   <project path="packages/apps/CellBroadcastReceiver" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_apps_CertInstaller" />
   <project path="packages/apps/CMFileManager" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_apps_CMFileManager" />
-  <project path="packages/apps/DSPManager" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_apps_DSPManager" />
+  <project path="packages/apps/DSPManager" remote="omnirom" revision="android-4.4" name="android_packages_apps_DSPManager" />
   <project path="packages/apps/Email" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_apps_Email" />
   <project path="packages/apps/Exchange" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_apps_Exchange" />
   <project path="packages/apps/HTMLViewer" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_apps_HTMLViewer" />
