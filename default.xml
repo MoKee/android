@@ -268,8 +268,6 @@
   <project path="external/vim" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_vim" />
   <project path="external/webp" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_webp" />
   <project path="external/webrtc" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_webrtc" groups="pdk" />
-  <project path="external/whispersystems/TextSecure" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_whispersystems_TextSecure" />
-  <project path="external/whispersystems/WhisperPush" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_whispersystems_WhisperPush" />
   <project path="external/xmlwriter" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_xmlwriter" />
   <project path="external/xmp_toolkit" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_xmp_toolkit" />
   <project path="external/yaffs2" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_yaffs2" groups="pdk" />
@@ -422,7 +420,6 @@
   <project path="prebuilts/python/linux-x86/2.7.5" name="platform/prebuilts/python/linux-x86/2.7.5" groups="linux" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" remote="aosp" revision="refs/tags/android-4.4.2_r2" groups="pdk" />
   <project path="prebuilts/runtime" name="platform/prebuilts/runtime" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
-  <!-- apparently, requesting the tag is randomly returning bad results on this  one... fix whenever we update tags. see external/noto-fonts -->
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" remote="aosp" revision="refs/tags/android-4.4.2_r2" groups="pdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" remote="aosp" revision="refs/tags/android-4.4.2_r2" groups="pdk,tools" />
   <project path="sdk" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_sdk" />
@@ -442,7 +439,6 @@
   <project path="tools/idea" name="platform/tools/idea" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
-  <project path="vendor/cyngn" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_vendor_cyngn" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
 
