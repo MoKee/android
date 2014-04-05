@@ -230,6 +230,7 @@
   <project path="external/ppp" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_ppp" />
   <project path="external/proguard" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_proguard" groups="pdk-java" />
   <project path="external/protobuf" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_protobuf" groups="pdk" />
+  <project path="external/protobuf-c" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_protobuf-c" />
   <project path="external/qemu" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_qemu" />
   <project path="external/qemu-pc-bios" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_qemu-pc-bios" />
   <project path="external/qrngd" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_qrngd" />
