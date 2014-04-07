@@ -59,33 +59,6 @@ First, go to the root path of your project. We assume that your source is under
     
 then feel free to use the build script:
 
-    ./mk [Device] [Variable]
-    
-**Device**: your device name
+    ./mk
 
-**Variable**: additional operations like:
-
-* fix - compile without any cleaning if you are doing a build fix
-* clean - do 'make installclean' before compile
-* sync - do 'repo sync' before compile
-
-####Example:
-Your device is maguro and if you run without any variable, it will clean up your build.prop only:
-
-    ./mk maguro
-
-You want to sync source before starting:
-
-    ./mk maguro sync
-
-Do a clean compile without deleting whole prebuilt libs:
-
-    ./mk maguro clean
-
-You are fixing a build and want to resume the build, it will build quicker without any cleaning up:
-
-    ./mk maguro fix
-
-You can also do it all at once:
-
-    ./mk maguro sync clean
+The script is interactive so everything else is self-explanatory.
