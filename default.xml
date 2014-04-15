@@ -308,7 +308,6 @@
   <project path="hardware/cm" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_hardware_cm" />
   <project path="hardware/invensense" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_hardware_invensense" groups="invensense" />
   <project path="hardware/libhardware" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_hardware_libhardware" groups="pdk" />
-  <project path="hardware/libhardware_legacy" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_hardware_libhardware_legacy" groups="pdk" />
   <project path="hardware/qcom/audio" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_hardware_qcom_audio" groups="qcom" />
   <project path="hardware/qcom/bt" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_hardware_qcom_bt" groups="qcom" />
   <project path="hardware/qcom/camera" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_hardware_qcom_camera" groups="qcom" />
@@ -500,6 +499,7 @@
   <!-- MoKee Frameworks End -->
 
   <!-- MoKee Hardware Start -->
+  <project path="hardware/libhardware_legacy" name="MoKee/android_hardware_libhardware_legacy" groups="pdk" />
   <project path="hardware/qcom/audio-caf" name="MoKee/android_hardware_qcom_audio-caf" groups="caf" />
   <project path="hardware/samsung_slsi/exynos5" name="MoKee/android_hardware_samsung_slsi_exynos5" />
   <!-- MoKee Hardware End -->
