@@ -283,7 +283,6 @@
   <project path="frameworks/ex" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_frameworks_ex" />
   <project path="frameworks/mff" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_frameworks_mff" />
   <project path="frameworks/ml" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_frameworks_ml" />
-  <project path="frameworks/native" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_frameworks_native" groups="pdk" />
   <project path="frameworks/opt/calendar" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_frameworks_opt_calendar" />
   <project path="frameworks/opt/carddav" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_frameworks_opt_carddav" />
   <project path="frameworks/opt/colorpicker" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_frameworks_opt_colorpicker" />
@@ -494,6 +493,7 @@
   <!-- MoKee Frameworks Start -->
   <project path="frameworks/av" name="MoKee/android_frameworks_av" groups="pdk" />
   <project path="frameworks/base" name="MoKee/android_frameworks_base" />
+  <project path="frameworks/native" name="MoKee/android_frameworks_native" groups="pdk" />
   <project path="frameworks/opt/hardware" name="MoKee/android_frameworks_opt_hardware" />
   <project path="frameworks/opt/telephony" name="MoKee/android_frameworks_opt_telephony" />
   <project path="frameworks/support" name="MoKee/android_frameworks_support" />
