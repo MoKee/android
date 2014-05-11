@@ -116,6 +116,7 @@
   <project path="external/droiddriver" name="platform/external/droiddriver" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="external/e2fsprogs" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_e2fsprogs" groups="pdk" />
   <project path="external/easymock" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_easymock" />
+  <project path="external/ebtables" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_ebtables" />
   <project path="external/eclipse-basebuilder" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_eclipse-basebuilder" />
   <project path="external/eclipse-windowbuilder" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_eclipse-windowbuilder" />
   <project path="external/elfutils" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_elfutils" />
