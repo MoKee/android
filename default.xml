@@ -461,6 +461,7 @@
   <project path="external/consumerir" name="MoKee/android_external_consumerir" />
   <project path="external/koush/Superuser" name="MoKee/android_external_koush_Superuser" />
   <project path="external/mokee/MoKeeHelper" name="MoKee/android_external_mokee_MoKeeHelper" />
+  <project path="external/mokee/MoKeeSDKs" name="MoKee/android_external_mokee_MoKeeSDKs" />
   <project path="external/mokee/tools" name="MoKee/android_external_mokee_tools" revision="refs/heads/master"/>
   <project path="external/wpa_supplicant_8" name="MoKee/android_external_wpa_supplicant_8" groups="pdk" />
   <project path="external/wpa_supplicant_8_ti" name="MoKee/android_external_wpa_supplicant_8_ti" />
