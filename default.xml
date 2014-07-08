@@ -166,6 +166,7 @@
   <project path="external/jpeg" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_jpeg" groups="pdk" />
   <project path="external/jsilver" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_jsilver" />
   <project path="external/jsr305" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_jsr305" />
+  <project path="external/jsr330" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_jsr330" />
   <project path="external/junit" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_junit" />
   <project path="external/kernel-headers" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_kernel-headers" />
   <project path="external/kissfft" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_kissfft" />
