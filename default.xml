@@ -157,6 +157,7 @@
   <project path="external/iptables" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_iptables" />
   <project path="external/iputils" name="platform/external/iputils" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
   <project path="external/jack" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_jack" />
+  <project path="external/JakeWharton/butterknife" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_JakeWharton_butterknife" />
   <project path="external/javasqlite" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_javasqlite" />
   <project path="external/javassist" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_javassist" />
   <project path="external/jdiff" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_jdiff" />
@@ -166,6 +167,7 @@
   <project path="external/jpeg" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_jpeg" groups="pdk" />
   <project path="external/jsilver" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_jsilver" />
   <project path="external/jsr305" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_jsr305" />
+  <project path="external/jsr308" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_jsr308" />
   <project path="external/jsr330" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_jsr330" />
   <project path="external/junit" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_junit" />
   <project path="external/kernel-headers" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_kernel-headers" />
@@ -261,6 +263,8 @@
   <project path="external/speex" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_speex" groups="pdk" />
   <project path="external/spongycastle" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_spongycastle" groups="pdk" />
   <project path="external/sqlite" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_sqlite" groups="pdk" />
+  <project path="external/square/dagger" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_square_dagger" />
+  <project path="external/square/javawriter" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_square_javawriter" />
   <project path="external/srec" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_srec" />
   <project path="external/srtp" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_srtp" />
   <project path="external/stagefright-plugins" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_stagefright-plugins" />
