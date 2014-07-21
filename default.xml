@@ -277,7 +277,7 @@
   <project path="external/tcpdump" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_tcpdump" />
   <project path="external/timezonepicker-support" name="platform/external/timezonepicker-support" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/tinyalsa" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_tinyalsa" groups="pdk" />
-  <project path="external/tinycompress" name="platform/external/tinycompress" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
+  <project path="external/tinycompress" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_tinycompress" groups="pdk" />
   <project path="external/tinyxml" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_tinyxml" groups="pdk" />
   <project path="external/tinyxml2" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_tinyxml2" groups="pdk" />
   <project path="external/tremolo" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_tremolo" groups="pdk" />
