@@ -317,7 +317,6 @@
   <project path="frameworks/rs" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_frameworks_rs" groups="pdk" />
   <project path="frameworks/testing" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_frameworks_testing" />
   <project path="frameworks/volley" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_frameworks_volley" />
-  <project path="frameworks/webview" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_frameworks_webview" />
   <project path="frameworks/wilhelm" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_frameworks_wilhelm" />
   <project path="hardware/akm" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_hardware_akm" groups="pdk" />
   <project path="hardware/broadcom/libbt" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_hardware_broadcom_libbt" groups="pdk" />
@@ -512,6 +511,7 @@
   <!-- MoKee Frameworks Start -->
   <project path="frameworks/av" name="MoKee/android_frameworks_av" groups="pdk" />
   <project path="frameworks/base" name="MoKee/android_frameworks_base" />
+  <project path="frameworks/webview" name="MoKee/android_frameworks_webview" />
   <project path="frameworks/native" name="MoKee/android_frameworks_native" groups="pdk" />
   <project path="frameworks/opt/hardware" name="MoKee/android_frameworks_opt_hardware" />
   <project path="frameworks/opt/telephony" name="MoKee/android_frameworks_opt_telephony" />
