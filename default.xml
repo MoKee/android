@@ -218,7 +218,7 @@
   <project path="external/mdnsresponder" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_mdnsresponder" groups="pdk" />
   <project path="external/mesa3d" name="platform/external/mesa3d" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/mksh" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_mksh" groups="pdk" />
-  <project path="external/mockito" name="platform/external/mockito" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
+  <project path="external/mockito" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_mockito" />
   <project path="external/mockwebserver" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_mockwebserver" />
   <project path="external/mp4parser" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_mp4parser" />
   <project path="external/mtpd" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_mtpd" />
