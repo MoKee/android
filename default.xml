@@ -352,7 +352,6 @@
   <project path="packages/apps/Calculator" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_apps_Calculator" />
   <project path="packages/apps/CellBroadcastReceiver" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_apps_CertInstaller" />
-  <project path="packages/apps/CMFileManager" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_apps_CMFileManager" />
   <project path="packages/apps/DSPManager" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_apps_DSPManager" />
   <project path="packages/apps/Email" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_apps_Email" />
   <project path="packages/apps/Exchange" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_apps_Exchange" />
@@ -480,6 +479,7 @@
   <project path="packages/apps/Browser" name="MoKee/android_packages_apps_Browser" />
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" />
   <project path="packages/apps/Camera2" name="MoKee/android_packages_apps_Camera2" />
+  <project path="packages/apps/CMFileManager" name="MoKee/android_packages_apps_CMFileManager" />
   <project path="packages/apps/Contacts" name="MoKee/android_packages_apps_Contacts" />
   <project path="packages/apps/ContactsCommon" name="MoKee/android_packages_apps_ContactsCommon" />
   <project path="packages/apps/DeskClock" name="MoKee/android_packages_apps_DeskClock" />
