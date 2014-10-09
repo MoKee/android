@@ -311,7 +311,6 @@
   <project path="frameworks/opt/net/voip" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_frameworks_opt_net_voip" />
   <project path="frameworks/opt/photoviewer" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_frameworks_opt_photoviewer" />
   <project path="frameworks/opt/timezonepicker" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_frameworks_opt_timezonepicker" />
-  <project path="frameworks/opt/telephony-msim" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_frameworks_opt_telephony-msim" />
   <project path="frameworks/opt/vcard" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_frameworks_opt_vcard" />
   <project path="frameworks/opt/widget" name="platform/frameworks/opt/widget" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="frameworks/rs" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_frameworks_rs" groups="pdk" />
@@ -515,6 +514,7 @@
   <project path="frameworks/native" name="MoKee/android_frameworks_native" groups="pdk" />
   <project path="frameworks/opt/hardware" name="MoKee/android_frameworks_opt_hardware" />
   <project path="frameworks/opt/telephony" name="MoKee/android_frameworks_opt_telephony" />
+  <project path="frameworks/opt/telephony-msim" name="MoKee/android_frameworks_opt_telephony-msim" />
   <project path="frameworks/support" name="MoKee/android_frameworks_support" />
   <!-- MoKee Frameworks End -->
 
