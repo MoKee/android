@@ -337,7 +337,6 @@
   <project path="hardware/qcom/power" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_hardware_qcom_power" />
   <project path="hardware/qcom/sensors" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_hardware_qcom_sensors" />
   <project path="hardware/qcom/wlan" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_hardware_qcom_wlan" />
-  <project path="hardware/ril" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_hardware_ril" groups="pdk"  />
   <project path="hardware/ti/omap3" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_hardware_ti_omap3" />
   <project path="hardware/ti/omap4xxx" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_hardware_ti_omap4xxx" />
   <project path="hardware/ti/wlan" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_hardware_ti_wlan" />
@@ -521,6 +520,7 @@
   <!-- MoKee Hardware Start -->
   <project path="hardware/libhardware_legacy" name="MoKee/android_hardware_libhardware_legacy" groups="pdk" />
   <project path="hardware/qcom/audio-caf" name="MoKee/android_hardware_qcom_audio-caf" groups="caf" />
+  <project path="hardware/ril" name="MoKee/android_hardware_ril" groups="pdk"  />
   <project path="hardware/samsung_slsi/exynos5" name="MoKee/android_hardware_samsung_slsi_exynos5" />
   <!-- MoKee Hardware End -->
 
