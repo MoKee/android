@@ -362,7 +362,6 @@
   <project path="packages/apps/SmartCardService" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_apps_SmartCardService" />
   <project path="packages/apps/SoundRecorder" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_apps_SoundRecorder" />
   <project path="packages/apps/SpeechRecorder" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_apps_SpeechRecorder" />
-  <project path="packages/apps/Stk" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_apps_Stk" />
   <project path="packages/apps/Tag" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_apps_Tag" />
   <project path="packages/apps/UnifiedEmail" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_apps_UnifiedEmail" />
   <project path="packages/apps/VideoEditor" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_packages_apps_VideoEditor" />
@@ -492,6 +491,7 @@
   <project path="packages/apps/MoKeeSetupWizard" name="MoKee/android_packages_apps_MoKeeSetupWizard" />
   <project path="packages/apps/PackageInstaller" name="MoKee/android_packages_apps_PackageInstaller" />
   <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" />
+  <project path="packages/apps/Stk" name="MoKee/android_packages_apps_Stk" />
   <project path="packages/apps/ThemeChooser" name="MoKee/android_packages_apps_ThemeChooser" />
   <project path="packages/apps/Torch" name="MoKee/android_packages_apps_Torch" />
   <!-- MoKee Packages Apps End -->
