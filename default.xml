@@ -284,6 +284,7 @@
   <project path="external/tinyxml" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_tinyxml" groups="pdk" />
   <project path="external/tinyxml2" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_tinyxml2" groups="pdk" />
   <project path="external/tremolo" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_tremolo" groups="pdk" />
+  <project path="external/unrar" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_unrar" />
   <project path="external/v8" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_v8" />
   <project path="external/valgrind" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_valgrind" groups="pdk" />
   <project path="external/vim" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_vim" />
@@ -292,6 +293,7 @@
   <project path="external/xmlwriter" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_xmlwriter" />
   <project path="external/xmp_toolkit" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_xmp_toolkit" />
   <project path="external/yaffs2" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_yaffs2" groups="pdk" />
+  <project path="external/zip" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_zip" />
   <project path="external/zlib" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_zlib" groups="pdk" />
   <project path="external/zxing" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_external_zxing" />
   <project path="frameworks/compile/libbcc" remote="cyanogen" revision="refs/heads/cm-11.0" name="github/CyanogenMod/android_frameworks_compile_libbcc" groups="pdk" />
