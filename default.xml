@@ -375,12 +375,15 @@
   <project path="hardware/libhardware_legacy" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_hardware_libhardware_legacy" groups="pdk" />
   <project path="hardware/nvidia/audio" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_hardware_nvidia_audio" groups="nvidia_audio" />
   <project path="hardware/nvidia/tegra124" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_hardware_nvidia_tegra124" groups="tegra124" />
-  <project path="hardware/qcom/audio" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_hardware_qcom_audio" groups="qcom" />
+  <project path="hardware/qcom/audio/default" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_hardware_qcom_audio" groups="qcom,qcom_audio" />
   <project path="hardware/qcom/bt" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_hardware_qcom_bt" groups="qcom" />
-  <project path="hardware/qcom/display" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_hardware_qcom_display" groups="qcom" />
+  <project path="hardware/qcom/display" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_hardware_qcom_display" groups="qcom,qcom_display" />
   <project path="hardware/qcom/gps" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_hardware_qcom_gps" groups="qcom" />
   <project path="hardware/qcom/keymaster" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_hardware_qcom_keymaster" groups="qcom" />
-  <project path="hardware/qcom/media" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_hardware_qcom_media" groups="qcom" />
+  <project path="hardware/qcom/media/default" remote="cyanogen" revision="refs/heads/cm-12.0-aosp" name="github/CyanogenMod/android_hardware_qcom_media" groups="qcom" />
+  <project path="hardware/qcom/media/msm8960" remote="cyanogen" revision="refs/heads/cm-12.0-aosp" name="github/CyanogenMod/android_hardware_qcom_media" groups="qcom" />
+  <project path="hardware/qcom/media/msm8974" remote="cyanogen" revision="refs/heads/cm-12.0-aosp" name="github/CyanogenMod/android_hardware_qcom_media" groups="qcom" />
+  <project path="hardware/qcom/media/msm8084" remote="cyanogen" revision="refs/heads/cm-12.0-aosp" name="github/CyanogenMod/android_hardware_qcom_media" groups="qcom" />
   <project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" groups="qcom_msm8960" remote="aosp" revision="refs/tags/android-5.0.0_r2" />
   <project path="hardware/qcom/msm8x26" name="platform/hardware/qcom/msm8x26" groups="qcom_msm8x26" remote="aosp" revision="refs/tags/android-5.0.0_r2" />
   <project path="hardware/qcom/msm8x27" name="platform/hardware/qcom/msm8x27" groups="qcom_msm8x27" remote="aosp" revision="refs/tags/android-5.0.0_r2" />
