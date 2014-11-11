@@ -454,7 +454,7 @@
   <project path="packages/screensavers/PhotoTable" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_packages_screensavers_PhotoTable" />
   <project path="packages/screensavers/WebView" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_packages_screensavers_WebView" />
   <project path="packages/services/Mms" name="MoKee/android_packages_services_Mms" />
-  <project path="packages/services/Telecomm" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_packages_services_Telecomm" />
+  <project path="packages/services/Telecomm" name="MoKee/android_packages_services_Telecomm" />
   <project path="packages/services/Telephony" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_packages_services_Telephony" />
   <project path="packages/wallpapers/Basic" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_packages_wallpapers_Basic" />
   <project path="packages/wallpapers/Galaxy4" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_packages_wallpapers_Galaxy4" />
