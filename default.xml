@@ -347,7 +347,7 @@
   <project path="frameworks/opt/colorpicker" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_frameworks_opt_colorpicker" />
   <project path="frameworks/opt/datetimepicker" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_frameworks_opt_datetimepicker" />
   <project path="frameworks/opt/emoji" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_frameworks_opt_emoji" />
-  <project path="frameworks/opt/hardware" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_frameworks_opt_hardware" />
+  <project path="frameworks/opt/hardware" name="MoKee/android_frameworks_opt_hardware" />
   <project path="frameworks/opt/inputmethodcommon" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_frameworks_opt_inputmethodcommon" />
   <project path="frameworks/opt/mms" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_frameworks_opt_mms" />
   <project path="frameworks/opt/net/ethernet" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_frameworks_opt_net_ethernet" />
@@ -406,7 +406,7 @@
   <project path="packages/apps/Browser" name="MoKee/android_packages_apps_Browser" />
   <project path="packages/apps/Calculator" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_packages_apps_Calculator" />
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" />
-  <project path="packages/apps/Camera2" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_packages_apps_Camera2" />
+  <project path="packages/apps/Camera2" name="MoKee/android_packages_apps_Camera2" />
   <project path="packages/apps/CellBroadcastReceiver" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_packages_apps_CertInstaller" />
   <project path="packages/apps/Contacts" remote="cyanogen" revision="refs/heads/cm-12.0" name="github/CyanogenMod/android_packages_apps_Contacts" />
