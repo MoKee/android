@@ -379,8 +379,8 @@
   <project path="hardware/nvidia/audio" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_hardware_nvidia_audio" groups="nvidia_audio" />
   <project path="hardware/nvidia/tegra124" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_hardware_nvidia_tegra124" groups="tegra124" />
   <project path="hardware/qcom/audio/default" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_hardware_qcom_audio" groups="qcom,qcom_audio" />
-  <project path="hardware/qcom/audio-caf/legacy" remote="cyanogen" revision="cm-12.0-caf-8960" name="github/CyanogenMod/android_hardware_qcom_audio" groups="qcom,qcom_audio" />
-  <project path="hardware/qcom/audio-caf/default" remote="cyanogen" revision="cm-12.0-caf-8974" name="github/CyanogenMod/android_hardware_qcom_audio" groups="qcom,qcom_audio" />
+  <project path="hardware/qcom/audio-caf/msm8960" remote="cyanogen" revision="cm-12.0-caf-8960" name="github/CyanogenMod/android_hardware_qcom_audio" groups="qcom,qcom_audio" />
+  <project path="hardware/qcom/audio-caf/msm8974" remote="cyanogen" revision="cm-12.0-caf-8974" name="github/CyanogenMod/android_hardware_qcom_audio" groups="qcom,qcom_audio" />
   <project path="hardware/qcom/bt" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_hardware_qcom_bt" groups="qcom" />
   <project path="hardware/qcom/display" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_hardware_qcom_display" groups="qcom,qcom_display" />
   <project path="hardware/qcom/display-caf/msm8960" remote="cyanogen" revision="cm-12.0-caf-8960" name="github/CyanogenMod/android_hardware_qcom_display" groups="qcom,qcom_display" />
