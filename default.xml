@@ -360,7 +360,7 @@
   <project path="frameworks/opt/net/wifi" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_frameworks_opt_net_wifi" groups="pdk" />
   <project path="frameworks/opt/photoviewer" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_frameworks_opt_photoviewer" />
   <project path="frameworks/opt/setupwizard" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_frameworks_opt_setupwizard" groups="pdk-cw-fs" />
-  <project path="frameworks/opt/telephony" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_frameworks_opt_telephony" groups="pdk" />
+  <project path="frameworks/opt/telephony" name="MoKee/android_frameworks_opt_telephony" groups="pdk" />
   <project path="frameworks/opt/timezonepicker" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_frameworks_opt_timezonepicker" />
   <project path="frameworks/opt/vcard" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_frameworks_opt_vcard" />
   <project path="frameworks/opt/widget" name="platform/frameworks/opt/widget" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
