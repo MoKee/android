@@ -430,10 +430,10 @@
   <project path="packages/apps/HTMLViewer" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_HTMLViewer" />
   <project path="packages/apps/InCallUI" name="MoKee/android_packages_apps_InCallUI" />
   <project path="packages/apps/KeyChain" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_KeyChain" />
-  <project path="packages/apps/Launcher3" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_Launcher3" />
   <project path="packages/apps/LockClock" name="MoKee/android_packages_apps_LockClock" />
   <project path="packages/apps/Mms" name="MoKee/android_packages_apps_Mms" />
   <project path="packages/apps/MoKeeHome" name="MoKee/android_packages_apps_MoKeeHome" />
+  <project path="packages/apps/MoKeeLauncher" name="MoKee/android_packages_apps_MoKeeLauncher" />
   <!--<project path="packages/apps/MoKeeSetupWizard" name="MoKee/android_packages_apps_MoKeeSetupWizard" />-->
   <project path="packages/apps/Nfc" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_Nfc" />
   <project path="packages/apps/OMA-DM" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_OMA-DM" />
