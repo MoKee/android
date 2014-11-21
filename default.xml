@@ -237,6 +237,7 @@
   <project path="external/libxslt" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_libxslt" />
   <project path="external/libyuv" name="platform/external/libyuv" groups="libyuv,pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/linux-tools-perf" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_linux-tools-perf" groups="pdk-cw-fs" />
+  <project path="external/libtruezip" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_libtruezip" />
   <project path="external/littlemock" name="platform/external/littlemock" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/lldb" name="platform/external/lldb" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/llvm" name="platform/external/llvm" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
@@ -320,6 +321,7 @@
   <project path="external/tinyxml" name="platform/external/tinyxml" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/tinyxml2" name="platform/external/tinyxml2" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/tremolo" name="platform/external/tremolo" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
+  <project path="external/unrar" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_unrar" />
   <project path="external/valgrind" name="platform/external/valgrind" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/vixl" name="platform/external/vixl" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/vim" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_vim" />
@@ -330,6 +332,7 @@
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/yaffs2" name="platform/external/yaffs2" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/zlib" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_zlib" groups="pdk" />
+  <project path="external/zip" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_zip" />
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="frameworks/av" name="MoKee/android_frameworks_av" groups="pdk" />
@@ -419,6 +422,7 @@
   <project path="packages/apps/Camera2" name="MoKee/android_packages_apps_Camera2" />
   <project path="packages/apps/CellBroadcastReceiver" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_CertInstaller" />
+  <project path="packages/apps/CMFileManager" name="MoKee/android_packages_apps_CMFileManager" />
   <project path="packages/apps/Contacts" name="MoKee/android_packages_apps_Contacts" />
   <project path="packages/apps/ContactsCommon" name="MoKee/android_packages_apps_ContactsCommon" />
   <project path="packages/apps/DeskClock" name="MoKee/android_packages_apps_DeskClock" />
@@ -432,7 +436,7 @@
   <project path="packages/apps/KeyChain" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_KeyChain" />
   <project path="packages/apps/LockClock" name="MoKee/android_packages_apps_LockClock" />
   <project path="packages/apps/Mms" name="MoKee/android_packages_apps_Mms" />
-  <project path="packages/apps/MoKeeHome" name="MoKee/android_packages_apps_MoKeeHome" />
+  <!--<project path="packages/apps/MoKeeHome" name="MoKee/android_packages_apps_MoKeeHome" />-->
   <project path="packages/apps/MoKeeLauncher" name="MoKee/android_packages_apps_MoKeeLauncher" />
   <!--<project path="packages/apps/MoKeeSetupWizard" name="MoKee/android_packages_apps_MoKeeSetupWizard" />-->
   <project path="packages/apps/Nfc" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_Nfc" />
