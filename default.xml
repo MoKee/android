@@ -533,7 +533,9 @@
 
   <!-- Other Start -->
   <project path="art" name="MoKee/android_art" />
-  <project path="vendor/mk" name="MoKee/android_vendor_mk" />
+  <project path="vendor/mk" name="MoKee/android_vendor_mk" >
+    <copyfile src="bootimage/Android.mk" dest="kernel/Android.mk" />
+  </project>
   <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" />
   <!-- Other End -->
 
