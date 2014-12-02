@@ -31,7 +31,7 @@
 
   <project path="abi/cpp" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_abi_cpp" groups="pdk" />
   <project path="art" name="MoKee/android_art" groups="pdk" />
-  <project path="bionic" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_bionic" groups="pdk" />
+  <project path="bionic" name="MoKee/android_bionic" groups="pdk" />
   <project path="bootable/recovery" name="MoKee/android_bootable_recovery" groups="pdk" />
   <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
   <project path="dalvik" name="platform/dalvik" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.0_r7" />
