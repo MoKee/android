@@ -372,7 +372,7 @@
   <project path="frameworks/support" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_frameworks_support" />
   <project path="frameworks/testing" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_frameworks_testing" />
   <project path="frameworks/volley" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_frameworks_volley" />
-  <project path="frameworks/webview" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_frameworks_webview" />
+  <project path="frameworks/webview" name="MoKee/android_frameworks_webview" />
   <project path="frameworks/wilhelm" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_frameworks_wilhelm" />
   <project path="hardware/akm" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_hardware_akm" groups="pdk" />
   <project path="hardware/broadcom/libbt" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_hardware_broadcom_libbt" groups="pdk" />
