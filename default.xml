@@ -487,7 +487,7 @@
   <project path="packages/apps/Gallery2" name="MoKee/android_packages_apps_Gallery2" />
   <project path="packages/apps/InCallUI" name="MoKee/android_packages_apps_InCallUI" />
   <project path="packages/apps/LockClock" name="MoKee/android_packages_apps_LockClock" />
-  <project path="packages/apps/Mms" name="MoKee/android_packages_apps_Mms" />
+  <project path="packages/apps/Mms" name="MoKee/android_packages_apps_Mms-caf" />
   <project path="packages/apps/MoKeeHome" name="MoKee/android_packages_apps_MoKeeHome" />
   <project path="packages/apps/MoKeeLauncher" name="MoKee/android_packages_apps_MoKeeLauncher" />
   <project path="packages/apps/MoKeeScreenRecorder" name="MoKee/android_packages_apps_MoKeeScreenRecorder" />
