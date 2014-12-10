@@ -416,7 +416,6 @@
   <project path="libcore" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_libcore" />
   <project path="libnativehelper" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-5.0.1_r1" />
-  <project path="packages/apps/Apollo" name="MoKee/android_packages_apps_Apollo" />
   <project path="packages/apps/BasicSmsReceiver" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_Bluetooth" />
   <project path="packages/apps/BluetoothExt" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_BluetoothExt" />
@@ -432,6 +431,7 @@
   <project path="packages/apps/DeskClock" name="MoKee/android_packages_apps_DeskClock" />
   <project path="packages/apps/Dialer" name="MoKee/android_packages_apps_Dialer" />
   <project path="packages/apps/DSPManager" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_DSPManager" />
+  <project path="packages/apps/Eleven" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_Eleven" />
   <project path="packages/apps/Email" name="MoKee/android_packages_apps_Email" />
   <project path="packages/apps/Exchange" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_Exchange" />
   <project path="packages/apps/Gallery2" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_Gallery2" />
