@@ -232,6 +232,7 @@
   <project path="external/libutf" name="platform/external/libutf" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
   <project path="external/libvorbis" name="platform/external/libvorbis" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
   <project path="external/libvpx" name="platform/external/libvpx" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
+  <project path="external/libvterm" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_libvterm" />
   <project path="external/libxml2" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_libxml2" groups="pdk-cw-fs" />
   <project path="external/libxslt" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_libxslt" />
   <project path="external/libyuv" name="platform/external/libyuv" groups="libyuv,pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
@@ -457,6 +458,7 @@
   <project path="packages/apps/Stk" name="MoKee/android_packages_apps_Stk" />
   <project path="packages/apps/Tag" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_Tag" />
   <project path="packages/apps/TvSettings" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_TvSettings" />
+  <project path="packages/apps/Terminal" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_Terminal" />
   <project path="packages/apps/UnifiedEmail" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_UnifiedEmail" />
   <project path="packages/apps/VoiceDialer" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_VoiceDialer" />
   <project path="packages/experimental" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_experimental" />
