@@ -200,8 +200,6 @@
   <project path="external/kissfft" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_kissfft" />
   <project path="external/koush/ion" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/ion" />
   <project path="external/koush/AndroidAsync" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/AndroidAsync" />
-  <project path="external/koush/Superuser" name="MoKee/android_external_koush_Superuser" />
-  <project path="external/koush/Widgets" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/Widgets" />
   <project path="external/libcap-ng" name="platform/external/libcap-ng" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
   <project path="external/libcxx" name="platform/external/libcxx" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
   <project path="external/libcxxabi" name="platform/external/libcxxabi" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
@@ -542,6 +540,7 @@
   <project path="sdk" name="platform/sdk" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
   <project path="system/core" name="MoKee/android_system_core" groups="pdk" />
   <project path="system/extras" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_system_extras" groups="pdk" />
+  <project path="system/extras/su" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_system_extras_su" />
   <project path="system/keymaster" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_system_keymaster" groups="pdk" />
   <project path="system/media" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_system_media" groups="pdk" />
   <project path="system/netd" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_system_netd" groups="pdk" />
