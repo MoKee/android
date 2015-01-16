@@ -458,6 +458,7 @@
   <project path="packages/apps/Stk" name="MoKee/android_packages_apps_Stk" />
   <project path="packages/apps/Tag" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_Tag" />
   <project path="packages/apps/TvSettings" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_TvSettings" />
+  <project path="packages/apps/ThemeChooser" name="MoKee/android_packages_apps_ThemeChooser" />
   <project path="packages/apps/Terminal" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_Terminal" />
   <project path="packages/apps/UnifiedEmail" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_UnifiedEmail" />
   <project path="packages/apps/VoiceDialer" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_VoiceDialer" />
@@ -471,6 +472,7 @@
   <project path="packages/providers/MediaProvider" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_providers_MediaProvider" />
   <project path="packages/providers/PartnerBookmarksProvider" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_providers_PartnerBookmarksProvider" />
   <project path="packages/providers/TelephonyProvider" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_providers_TelephonyProvider" />
+  <project path="packages/providers/ThemesProvider" name="MoKee/android_packages_providers_ThemesProvider" />
   <project path="packages/providers/TvProvider" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_providers_TvProvider" />
   <project path="packages/providers/UserDictionaryProvider" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_providers_UserDictionaryProvider" />
   <project path="packages/screensavers/Basic" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_screensavers_Basic" />
