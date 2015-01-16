@@ -221,7 +221,7 @@
   <project path="external/libpng" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_libpng" groups="pdk" />
   <project path="external/libppp" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_libppp" />
   <project path="external/libseccomp-helper" name="platform/external/libseccomp-helper" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
-  <project path="external/libselinux" name="platform/external/libselinux" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
+  <project path="external/libselinux" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_libselinux" groups="pdk" />
   <project path="external/libsepol" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_libsepol" groups="pdk" />
   <project path="external/libssh2" name="platform/external/libssh2" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
   <project path="external/libtar" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_libtar" />
@@ -277,7 +277,7 @@
   <project path="external/oprofile" name="platform/external/oprofile" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
   <project path="external/owasp/sanitizer" name="platform/external/owasp/sanitizer" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
   <project path="external/pciutils" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_pciutils" />
-  <project path="external/pcre" name="platform/external/pcre" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
+  <project path="external/pcre" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_pcre" groups="pdk-cw-fs" />
   <project path="external/pdfium" name="platform/external/pdfium" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
   <project path="external/pigz" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_pigz" />
   <project path="external/pixman" name="platform/external/pixman" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
