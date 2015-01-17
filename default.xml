@@ -425,7 +425,7 @@
   <project path="packages/apps/Bluetooth" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_Bluetooth" />
   <project path="packages/apps/BluetoothExt" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_BluetoothExt" />
   <project path="packages/apps/Browser" name="MoKee/android_packages_apps_Browser" />
-  <project path="packages/apps/Calculator" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_Calculator" />
+  <project path="packages/apps/Calculator" name="MoKee/android_packages_apps_Calculator" />
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" />
   <project path="packages/apps/Camera2" name="MoKee/android_packages_apps_Camera2" />
   <project path="packages/apps/CellBroadcastReceiver" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_CellBroadcastReceiver" />
@@ -435,10 +435,10 @@
   <project path="packages/apps/ContactsCommon" name="MoKee/android_packages_apps_ContactsCommon" />
   <project path="packages/apps/DeskClock" name="MoKee/android_packages_apps_DeskClock" />
   <project path="packages/apps/Dialer" name="MoKee/android_packages_apps_Dialer" />
-  <project path="packages/apps/Eleven" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_Eleven" />
+  <project path="packages/apps/Eleven" name="MoKee/android_packages_apps_Eleven" />
   <project path="packages/apps/Email" name="MoKee/android_packages_apps_Email" />
   <project path="packages/apps/Exchange" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_Exchange" />
-  <project path="packages/apps/Gallery2" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_Gallery2" />
+  <project path="packages/apps/Gallery2" name="MoKee/android_packages_apps_Gallery2" />
   <project path="packages/apps/HTMLViewer" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_HTMLViewer" />
   <project path="packages/apps/InCallUI" name="MoKee/android_packages_apps_InCallUI" />
   <project path="packages/apps/KeyChain" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_KeyChain" />
@@ -454,7 +454,7 @@
   <project path="packages/apps/Provision" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" />
   <project path="packages/apps/SmartCardService" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_SmartCardService" />
-  <project path="packages/apps/SoundRecorder" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_SoundRecorder" />
+  <project path="packages/apps/SoundRecorder" name="MoKee/android_packages_apps_SoundRecorder" />
   <project path="packages/apps/SpeechRecorder" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_SpeechRecorder" />
   <project path="packages/apps/Stk" name="MoKee/android_packages_apps_Stk" />
   <project path="packages/apps/Tag" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_Tag" />
