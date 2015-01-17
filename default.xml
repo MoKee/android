@@ -461,7 +461,7 @@
   <project path="packages/apps/TvSettings" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_TvSettings" />
   <project path="packages/apps/ThemeChooser" name="MoKee/android_packages_apps_ThemeChooser" />
   <project path="packages/apps/Terminal" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_Terminal" />
-  <project path="packages/apps/UnifiedEmail" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_UnifiedEmail" />
+  <project path="packages/apps/UnifiedEmail" name="MoKee/android_packages_apps_UnifiedEmail" />
   <project path="packages/apps/VoiceDialer" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_VoiceDialer" />
   <project path="packages/experimental" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_experimental" />
   <project path="packages/inputmethods/LatinIME" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_inputmethods_LatinIME" />
