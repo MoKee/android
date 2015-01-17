@@ -252,9 +252,10 @@
   <project path="external/mksh" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_mksh" groups="pdk" />
   <project path="external/mockito" name="platform/external/mockito" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
   <project path="external/mockwebserver" name="platform/external/mockwebserver" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
+  <project path="external/mokee/BuildController" name="MoKee/android_external_mokee_BuildController" />
   <project path="external/mokee/MoKeeHelper" name="MoKee/android_external_mokee_MoKeeHelper" />
   <project path="external/mokee/MoKeeSDKs" name="MoKee/android_external_mokee_MoKeeSDKs" />
-  <project path="external/mokee/tools" name="MoKee/android_external_mokee_tools" revision="refs/heads/master"/>
+  <project path="external/mokee/ServerController" name="MoKee/android_external_mokee_ServerController" revision="refs/heads/master" />
   <project path="external/mp4parser" name="platform/external/mp4parser" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
   <project path="external/mtpd" name="platform/external/mtpd" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
   <project path="external/nano" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_nano" />
