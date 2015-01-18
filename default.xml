@@ -420,7 +420,7 @@
   <project path="libcore" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_libcore" />
   <project path="libnativehelper" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
-  <project path="packages/apps/AudioFX" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_AudioFX" />
+  <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />
   <project path="packages/apps/BasicSmsReceiver" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_Bluetooth" />
   <project path="packages/apps/BluetoothExt" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_BluetoothExt" />
