@@ -380,7 +380,7 @@
   <project path="hardware/cm" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_hardware_cm" />
   <project path="hardware/invensense" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_hardware_invensense" groups="invensense" />
   <project path="hardware/libhardware" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_hardware_libhardware" groups="pdk" />
-  <project path="hardware/libhardware_legacy" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_hardware_libhardware_legacy" groups="pdk" />
+  <project path="hardware/libhardware_legacy" name="MoKee/android_hardware_libhardware_legacy" groups="pdk" />
   <project path="hardware/nvidia/audio" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_hardware_nvidia_audio" groups="nvidia_audio" />
   <project path="hardware/nvidia/tegra124" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_hardware_nvidia_tegra124" groups="tegra124" />
   <project path="hardware/qcom/audio/default" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_hardware_qcom_audio" groups="qcom,qcom_audio" />
