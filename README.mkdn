@@ -8,7 +8,7 @@ Patches are always welcomed!  Please submit your patches via MoKee Gerrit! You c
     (From root android directory)
     . build/envsetup.sh
     (Go to repo you are patching, make your changes and commit)
-    mkgerrit <for(new)/changes(patch set)> <branch/change-id> 
+    mkgerrit <for(new)/changes(patch set)> <branch/change-id>
 
     repo start mkl .
     (Make your changes and commit)
@@ -18,13 +18,13 @@ Patches are always welcomed!  Please submit your patches via MoKee Gerrit! You c
 
 *Note: "." means current directory*
 
-For more help on using repo, use this command: 
+For more help on using repo, use this command:
 
     repo help upload
 
 Make your changes and commit with a detailed message, starting with what you are working with (i.e. vision: Update Kernel).
 
-Commit your patches in a single commit. Squash multiple commits using this command:     
+Commit your patches in a single commit. Squash multiple commits using this command:
 
     git rebase -i HEAD~<# of commits>
 
@@ -54,11 +54,11 @@ Start Work
 
 To work faster, we introduced a new build script to help you start compiling.
 
-First, go to the root path of your project. We assume that your source is under 
+First, go to the root path of your project. We assume that your source is under
 (/mokee):
 
     cd /mokee
-    
+
 then feel free to use the build script:
 
     ./mk
