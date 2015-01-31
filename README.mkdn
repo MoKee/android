@@ -13,6 +13,8 @@ Patches are always welcomed!  Please submit your patches via MoKee Gerrit! You c
     repo start mkl .
     (Make your changes and commit)
     repo upload .
+    or
+    git push ssh://<username>@review.mfunz.com:29418/<project> HEAD:refs/for/<branch>
 
 *Note: "." means current directory*
 
