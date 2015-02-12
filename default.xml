@@ -484,7 +484,6 @@
   <project path="packages/apps/UnifiedEmail" name="MoKee/android_packages_apps_UnifiedEmail" />
   <project path="packages/experimental" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_experimental" />
   <project path="packages/inputmethods/LatinIME" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_inputmethods_LatinIME" />
-  <project path="packages/inputmethods/OpenWnn" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_inputmethods_OpenWnn" />
   <project path="packages/providers/ApplicationsProvider" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_providers_ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_providers_CalendarProvider" />
   <project path="packages/providers/ContactsProvider" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_providers_ContactsProvider" />
