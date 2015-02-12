@@ -471,6 +471,7 @@
   <project path="packages/apps/PackageInstaller" name="MoKee/android_packages_apps_PackageInstaller" />
   <project path="packages/apps/PhoneCommon" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_PhoneCommon" />
   <project path="packages/apps/Provision" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_Provision" />
+  <project path="packages/apps/ScreenRecorder" name="MoKee/android_packages_apps_ScreenRecorder" />
   <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" />
   <project path="packages/apps/SmartCardService" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="MoKee/android_packages_apps_SoundRecorder" />
