@@ -165,9 +165,9 @@
   <project path="external/google-fonts/carrois-gothic-sc" name="platform/external/google-fonts/carrois-gothic-sc" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/google-fonts/cutive-mono" name="platform/external/google-fonts/cutive-mono" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/google-tv-pairing-protocol" name="platform/external/google-tv-pairing-protocol" remote="aosp" />
+  <project path="external/gmock" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_gmock" />
   <project path="external/gson" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_gson" />
   <project path="external/gtest" name="platform/external/gtest" groups="pdk" remote="aosp" />
-  <project path="external/gmock" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_gmock"/>
   <project path="external/guava" name="platform/external/guava" groups="pdk-cw-fs,tradefed" remote="aosp" />
   <project path="external/hamcrest" name="platform/external/hamcrest" groups="pdk-cw-fs,tradefed" remote="aosp" />
   <project path="external/harfbuzz_ng" name="platform/external/harfbuzz_ng" remote="aosp" />
@@ -199,8 +199,8 @@
   <project path="external/ksoap2" name="platform/external/ksoap2" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/kernel-headers" name="platform/external/kernel-headers" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/kissfft" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_kissfft" />
-  <project path="external/koush/ion" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/ion" />
   <project path="external/koush/AndroidAsync" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/AndroidAsync" />
+  <project path="external/koush/ion" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/ion" />
   <project path="external/libcap-ng" name="platform/external/libcap-ng" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/libcxx" name="platform/external/libcxx" groups="pdk" remote="aosp" />
   <project path="external/libcxxabi" name="platform/external/libcxxabi" groups="pdk" remote="aosp" />
@@ -334,8 +334,8 @@
   <project path="external/xmlwriter" name="platform/external/xmlwriter" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/yaffs2" name="platform/external/yaffs2" groups="pdk" remote="aosp" />
-  <project path="external/zlib" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_zlib" groups="pdk" />
   <project path="external/zip" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_zip" />
+  <project path="external/zlib" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_external_zlib" groups="pdk" />
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk-cw-fs" remote="aosp" />
   <project path="frameworks/av" name="MoKee/android_frameworks_av" groups="pdk" />
@@ -401,28 +401,28 @@
   <project path="hardware/nvidia/tegra124" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_hardware_nvidia_tegra124" groups="tegra124" />
   <project path="hardware/qcom/audio/default" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_hardware_qcom_audio" groups="qcom,qcom_audio" />
   <project path="hardware/qcom/audio-caf/apq8084" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkl-caf-8084" />
-  <project path="hardware/qcom/audio-caf/msm8960" remote="cyanogen" revision="cm-12.0-caf-8960" name="github/CyanogenMod/android_hardware_qcom_audio" groups="qcom,qcom_audio" />
   <project path="hardware/qcom/audio-caf/msm8226" remote="cyanogen" revision="cm-12.0-caf-8226" name="github/CyanogenMod/android_hardware_qcom_audio" groups="qcom,qcom_audio" />
-  <project path="hardware/qcom/audio-caf/msm8974" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkl-caf-8974" />
-  <project path="hardware/qcom/audio-caf/msm8916" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkl-caf-8916" />
   <project path="hardware/qcom/audio-caf/msm8660" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkl-caf-8660" />
+  <project path="hardware/qcom/audio-caf/msm8916" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkl-caf-8916" />
+  <project path="hardware/qcom/audio-caf/msm8960" remote="cyanogen" revision="cm-12.0-caf-8960" name="github/CyanogenMod/android_hardware_qcom_audio" groups="qcom,qcom_audio" />
+  <project path="hardware/qcom/audio-caf/msm8974" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkl-caf-8974" />
   <project path="hardware/qcom/bt" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_hardware_qcom_bt" groups="qcom" />
   <project path="hardware/qcom/display" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_hardware_qcom_display" groups="qcom,qcom_display" />
   <project path="hardware/qcom/display-caf/apq8084" name="MoKee/android_hardware_qcom_display" groups="qcom,qcom_display" revision="mkl-caf-8084" />
-  <project path="hardware/qcom/display-caf/msm8960" remote="cyanogen" revision="cm-12.0-caf-8960" name="github/CyanogenMod/android_hardware_qcom_display" groups="qcom,qcom_display" />
   <project path="hardware/qcom/display-caf/msm8226" remote="cyanogen" revision="cm-12.0-caf-8226" name="github/CyanogenMod/android_hardware_qcom_display" groups="qcom,qcom_display" />
-  <project path="hardware/qcom/display-caf/msm8974" name="MoKee/android_hardware_qcom_display" groups="qcom,qcom_display" revision="mkl-caf-8974" />
-  <project path="hardware/qcom/display-caf/msm8916" name="MoKee/android_hardware_qcom_display" groups="qcom,qcom_display" revision="mkl-caf-8916" />
   <project path="hardware/qcom/display-caf/msm8660" name="MoKee/android_hardware_qcom_display" groups="qcom,qcom_display" revision="mkl-caf-8660" />
+  <project path="hardware/qcom/display-caf/msm8916" name="MoKee/android_hardware_qcom_display" groups="qcom,qcom_display" revision="mkl-caf-8916" />
+  <project path="hardware/qcom/display-caf/msm8960" remote="cyanogen" revision="cm-12.0-caf-8960" name="github/CyanogenMod/android_hardware_qcom_display" groups="qcom,qcom_display" />
+  <project path="hardware/qcom/display-caf/msm8974" name="MoKee/android_hardware_qcom_display" groups="qcom,qcom_display" revision="mkl-caf-8974" />
   <project path="hardware/qcom/gps" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_hardware_qcom_gps" groups="qcom" />
   <project path="hardware/qcom/keymaster" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_hardware_qcom_keymaster" groups="qcom" />
   <project path="hardware/qcom/media/default" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_hardware_qcom_media" groups="qcom" />
   <project path="hardware/qcom/media-caf/apq8084" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkl-caf-8084" />
-  <project path="hardware/qcom/media-caf/msm8960" remote="cyanogen" revision="cm-12.0-caf-8960" name="github/CyanogenMod/android_hardware_qcom_media" groups="qcom" />
   <project path="hardware/qcom/media-caf/msm8226" remote="cyanogen" revision="cm-12.0-caf-8226" name="github/CyanogenMod/android_hardware_qcom_media" groups="qcom" />
-  <project path="hardware/qcom/media-caf/msm8974" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkl-caf-8974" />
-  <project path="hardware/qcom/media-caf/msm8916" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkl-caf-8916" />
   <project path="hardware/qcom/media-caf/msm8660" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkl-caf-8660" />
+  <project path="hardware/qcom/media-caf/msm8916" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkl-caf-8916" />
+  <project path="hardware/qcom/media-caf/msm8960" remote="cyanogen" revision="cm-12.0-caf-8960" name="github/CyanogenMod/android_hardware_qcom_media" groups="qcom" />
+  <project path="hardware/qcom/media-caf/msm8974" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkl-caf-8974" />
   <project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" groups="qcom_msm8960" remote="aosp" />
   <project path="hardware/qcom/msm8x26" name="platform/hardware/qcom/msm8x26" groups="qcom_msm8x26" remote="aosp" />
   <project path="hardware/qcom/msm8x27" name="platform/hardware/qcom/msm8x27" groups="qcom_msm8x27" remote="aosp" />
@@ -478,10 +478,10 @@
   <project path="packages/apps/SoundRecorder" name="MoKee/android_packages_apps_SoundRecorder" />
   <project path="packages/apps/SpeechRecorder" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_SpeechRecorder" />
   <project path="packages/apps/Stk" name="MoKee/android_packages_apps_Stk" />
-  <project path="packages/apps/Tag" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_Tag" />
-  <project path="packages/apps/TvSettings" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_TvSettings" />
-  <project path="packages/apps/ThemeChooser" name="MoKee/android_packages_apps_ThemeChooser" />
+  <project path="packages/apps/Tag" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_Tag" />  
   <project path="packages/apps/Terminal" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_Terminal" />
+  <project path="packages/apps/ThemeChooser" name="MoKee/android_packages_apps_ThemeChooser" />
+  <project path="packages/apps/TvSettings" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_apps_TvSettings" />
   <project path="packages/apps/UnifiedEmail" name="MoKee/android_packages_apps_UnifiedEmail" />
   <project path="packages/experimental" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_experimental" />
   <project path="packages/inputmethods/LatinIME" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_packages_inputmethods_LatinIME" />
