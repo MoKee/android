@@ -402,6 +402,7 @@
   <project path="hardware/qcom/audio/default" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_hardware_qcom_audio" groups="qcom,qcom_audio" />
   <project path="hardware/qcom/audio-caf/apq8084" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkl-caf-8084" />
   <project path="hardware/qcom/audio-caf/msm8226" remote="cyanogen" revision="cm-12.0-caf-8226" name="github/CyanogenMod/android_hardware_qcom_audio" groups="qcom,qcom_audio" />
+  <project path="hardware/qcom/audio-caf/msm8610" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkl-caf-8610" />
   <project path="hardware/qcom/audio-caf/msm8660" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkl-caf-8660" />
   <project path="hardware/qcom/audio-caf/msm8916" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkl-caf-8916" />
   <project path="hardware/qcom/audio-caf/msm8960" remote="cyanogen" revision="cm-12.0-caf-8960" name="github/CyanogenMod/android_hardware_qcom_audio" groups="qcom,qcom_audio" />
@@ -410,6 +411,7 @@
   <project path="hardware/qcom/display" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_hardware_qcom_display" groups="qcom,qcom_display" />
   <project path="hardware/qcom/display-caf/apq8084" name="MoKee/android_hardware_qcom_display" groups="qcom,qcom_display" revision="mkl-caf-8084" />
   <project path="hardware/qcom/display-caf/msm8226" remote="cyanogen" revision="cm-12.0-caf-8226" name="github/CyanogenMod/android_hardware_qcom_display" groups="qcom,qcom_display" />
+  <project path="hardware/qcom/display-caf/msm8610" name="MoKee/android_hardware_qcom_display" groups="qcom,qcom_display" revision="mkl-caf-8610" />
   <project path="hardware/qcom/display-caf/msm8660" name="MoKee/android_hardware_qcom_display" groups="qcom,qcom_display" revision="mkl-caf-8660" />
   <project path="hardware/qcom/display-caf/msm8916" name="MoKee/android_hardware_qcom_display" groups="qcom,qcom_display" revision="mkl-caf-8916" />
   <project path="hardware/qcom/display-caf/msm8960" remote="cyanogen" revision="cm-12.0-caf-8960" name="github/CyanogenMod/android_hardware_qcom_display" groups="qcom,qcom_display" />
@@ -419,6 +421,7 @@
   <project path="hardware/qcom/media/default" remote="cyanogen" revision="cm-12.0" name="github/CyanogenMod/android_hardware_qcom_media" groups="qcom" />
   <project path="hardware/qcom/media-caf/apq8084" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkl-caf-8084" />
   <project path="hardware/qcom/media-caf/msm8226" remote="cyanogen" revision="cm-12.0-caf-8226" name="github/CyanogenMod/android_hardware_qcom_media" groups="qcom" />
+  <project path="hardware/qcom/media-caf/msm8610" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkl-caf-8610" />
   <project path="hardware/qcom/media-caf/msm8660" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkl-caf-8660" />
   <project path="hardware/qcom/media-caf/msm8916" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkl-caf-8916" />
   <project path="hardware/qcom/media-caf/msm8960" remote="cyanogen" revision="cm-12.0-caf-8960" name="github/CyanogenMod/android_hardware_qcom_media" groups="qcom" />
