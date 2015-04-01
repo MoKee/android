@@ -305,7 +305,7 @@
   <project path="external/sfntly" name="platform/external/sfntly" groups="pdk-cw-fs,qcom_msm8x26" remote="aosp" />
   <project path="external/skia" remote="third" name="ThirdProject/android_external_skia" groups="pdk-cw-fs,qcom_msm8x26" />
   <project path="external/smack" name="platform/external/smack" groups="pdk-cw-fw" remote="aosp" />
-  <project path="external/smali" name="platform/external/smali" groups="pdk-cw-fs" remote="aosp"  />
+  <project path="external/smali" name="platform/external/smali" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/sonivox" remote="third" name="ThirdProject/android_external_sonivox" groups="pdk" />
   <project path="external/speex" remote="third" name="ThirdProject/android_external_speex" groups="pdk" />
   <project path="external/spongycastle" remote="third" name="ThirdProject/android_external_spongycastle" groups="pdk" />
@@ -481,7 +481,7 @@
   <project path="packages/apps/SoundRecorder" name="MoKee/android_packages_apps_SoundRecorder" />
   <project path="packages/apps/SpeechRecorder" remote="third" name="ThirdProject/android_packages_apps_SpeechRecorder" />
   <project path="packages/apps/Stk" name="MoKee/android_packages_apps_Stk" />
-  <project path="packages/apps/Tag" remote="third" name="ThirdProject/android_packages_apps_Tag" />  
+  <project path="packages/apps/Tag" remote="third" name="ThirdProject/android_packages_apps_Tag" />
   <project path="packages/apps/Terminal" remote="third" name="ThirdProject/android_packages_apps_Terminal" />
   <project path="packages/apps/ThemeChooser" name="MoKee/android_packages_apps_ThemeChooser" />
   <project path="packages/apps/TvSettings" remote="third" name="ThirdProject/android_packages_apps_TvSettings" />
@@ -513,7 +513,7 @@
   <project path="packages/wallpapers/NoiseField" remote="third" name="ThirdProject/android_packages_wallpapers_NoiseField" />
   <project path="packages/wallpapers/PhaseBeam" remote="third" name="ThirdProject/android_packages_wallpapers_PhaseBeam" />
   <project path="packages/wallpapers/PhotoPhase" remote="third" name="ThirdProject/android_packages_wallpapers_PhotoPhase" />
-  <project path="pdk" name="platform/pdk" remote="aosp" groups="pdk" />
+  <project path="pdk" name="platform/pdk" groups="pdk" remote="aosp" />
   <project path="prebuilts/android-emulator" name="platform/prebuilts/android-emulator" clone-depth="1" remote="aosp" />
   <project path="prebuilts/clang/darwin-x86/3.1" name="platform/prebuilts/clang/darwin-x86/3.1" groups="pdk,darwin" remote="aosp" />
   <project path="prebuilts/clang/darwin-x86/3.2" name="platform/prebuilts/clang/darwin-x86/3.2" groups="pdk,darwin" remote="aosp" />
@@ -558,12 +558,12 @@
   <project path="prebuilts/libs/libedit" name="platform/prebuilts/libs/libedit" groups="pdk-cw-fs" remote="aosp" />
   <project path="prebuilts/maven_repo/android" name="platform/prebuilts/maven_repo/android" groups="pdk-cw-fs" remote="aosp" />
   <project path="prebuilts/misc" name="platform/prebuilts/misc" groups="pdk,tradefed" remote="aosp" />
-  <project path="prebuilts/ndk" name="platform/prebuilts/ndk" remote="aosp" groups="pdk" />
+  <project path="prebuilts/ndk" name="platform/prebuilts/ndk" groups="pdk" remote="aosp" />
   <project path="prebuilts/python/darwin-x86/2.7.5" name="platform/prebuilts/python/darwin-x86/2.7.5" groups="darwin" remote="aosp" />
   <project path="prebuilts/python/linux-x86/2.7.5" name="platform/prebuilts/python/linux-x86/2.7.5" groups="linux" remote="aosp" />
-  <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" clone-depth="1" remote="aosp" groups="pdk" />
-  <project path="prebuilts/sdk" name="platform/prebuilts/sdk" remote="aosp" groups="pdk" />
-  <project path="prebuilts/tools" name="platform/prebuilts/tools" remote="aosp" groups="pdk,tools" />
+  <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" groups="pdk" clone-depth="1" remote="aosp" />
+  <project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk" remote="aosp" />
+  <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" remote="aosp" />
   <project path="sdk" name="platform/sdk" remote="aosp" />
   <project path="system/core" name="MoKee/android_system_core" groups="pdk" />
   <project path="system/extras" remote="third" name="ThirdProject/android_system_extras" groups="pdk" />
