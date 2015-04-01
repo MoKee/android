@@ -4,7 +4,7 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com"
-           revision="refs/tags/android-5.0.2_r1" />
+           revision="refs/tags/android-5.1.0_r3" />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
@@ -16,10 +16,10 @@
   <remote  name="third"
            fetch=".."
            review="review.mfunz.com"
-           revision="refs/heads/cm-12.0" />
+           revision="refs/heads/cm-12.1" />
 
   <default
-           revision="refs/heads/mkl"
+           revision="refs/heads/mkl-mr1"
            remote="mokee"
            sync-c="true"
            sync-j="4" />
@@ -94,6 +94,7 @@
   <project path="external/chromium_org/testing/gtest" name="platform/external/chromium_org/testing/gtest" remote="aosp" />
   <project path="external/chromium_org/third_party/WebKit" name="platform/external/chromium_org/third_party/WebKit" remote="aosp" />
   <project path="external/chromium_org/third_party/angle" name="platform/external/chromium_org/third_party/angle" remote="aosp" />
+  <project path="external/chromium_org/third_party/boringssl/src" name="platform/external/chromium_org/third_party/boringssl/src" remote="aosp" />
   <project path="external/chromium_org/third_party/brotli/src" name="platform/external/chromium_org/third_party/brotli/src" remote="aosp" />
   <project path="external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille" name="platform/external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille" remote="aosp" />
   <project path="external/chromium_org/third_party/freetype" name="platform/external/chromium_org/third_party/freetype" remote="aosp" />
@@ -109,7 +110,6 @@
   <project path="external/chromium_org/third_party/libyuv" name="platform/external/chromium_org/third_party/libyuv" remote="aosp" />
   <project path="external/chromium_org/third_party/mesa/src" name="platform/external/chromium_org/third_party/mesa/src" remote="aosp" />
   <project path="external/chromium_org/third_party/openmax_dl" name="platform/external/chromium_org/third_party/openmax_dl" remote="aosp" />
-  <project path="external/chromium_org/third_party/openssl" remote="third" name="ThirdProject/android_external_chromium_org_third_party_openssl" />
   <project path="external/chromium_org/third_party/opus/src" name="platform/external/chromium_org/third_party/opus/src" remote="aosp" />
   <project path="external/chromium_org/third_party/ots" name="platform/external/chromium_org/third_party/ots" remote="aosp" />
   <project path="external/chromium_org/third_party/sfntly/cpp/src" name="platform/external/chromium_org/third_party/sfntly/cpp/src" remote="aosp" />
@@ -243,6 +243,7 @@
   <project path="external/littlemock" name="platform/external/littlemock" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/lldb" name="platform/external/lldb" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/llvm" name="platform/external/llvm" groups="pdk" remote="aosp" />
+  <project path="external/lohit-fonts" name="platform/external/lohit-fonts" remote="aosp" />
   <project path="external/ltrace" name="platform/external/ltrace" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/lzma" name="platform/external/lzma" remote="aosp" />
   <project path="external/lsof" remote="third" name="ThirdProject/android_external_lsof" />
@@ -276,6 +277,7 @@
   <project path="external/objenesis" name="platform/external/objenesis" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/okhttp" remote="third" name="ThirdProject/android_external_okhttp" groups="pdk-cw-fw" />
   <project path="external/opencv" name="platform/external/opencv" groups="pdk-cw-fs" remote="aosp" />
+  <project path="external/openfst" name="platform/external/openfst" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/openssh" remote="third" name="ThirdProject/android_external_openssh" />
   <project path="external/openssl" remote="third" name="ThirdProject/android_external_openssl" />
   <project path="external/oprofile" name="platform/external/oprofile" groups="pdk-cw-fs" remote="aosp" />
@@ -373,7 +375,6 @@
   <project path="frameworks/opt/widget" name="platform/frameworks/opt/widget" remote="aosp" />
   <project path="frameworks/rs" remote="third" name="ThirdProject/android_frameworks_rs" groups="pdk" />
   <project path="frameworks/support" remote="third" name="ThirdProject/android_frameworks_support" />
-  <project path="frameworks/testing" remote="third" name="ThirdProject/android_frameworks_testing" />
   <project path="frameworks/volley" remote="third" name="ThirdProject/android_frameworks_volley" />
   <project path="frameworks/webview" name="MoKee/android_frameworks_webview" />
   <project path="frameworks/wilhelm" remote="third" name="ThirdProject/android_frameworks_wilhelm" />
@@ -401,32 +402,29 @@
   <project path="hardware/nvidia/audio" remote="third" name="ThirdProject/android_hardware_nvidia_audio" groups="nvidia_audio" />
   <project path="hardware/nvidia/tegra124" remote="third" name="ThirdProject/android_hardware_nvidia_tegra124" groups="tegra124" />
   <project path="hardware/qcom/audio/default" remote="third" name="ThirdProject/android_hardware_qcom_audio" groups="qcom,qcom_audio" />
-  <project path="hardware/qcom/audio-caf/apq8084" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkl-caf-8084" />
-  <project path="hardware/qcom/audio-caf/msm8226" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkl-caf-8226" />
-  <project path="hardware/qcom/audio-caf/msm8610" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkl-caf-8610" />
-  <project path="hardware/qcom/audio-caf/msm8660" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkl-caf-8660" />
-  <project path="hardware/qcom/audio-caf/msm8916" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkl-caf-8916" />
-  <project path="hardware/qcom/audio-caf/msm8960" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkl-caf-8960" />
-  <project path="hardware/qcom/audio-caf/msm8974" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkl-caf-8974" />
+  <project path="hardware/qcom/audio-caf/apq8084" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkl-mr1-caf-8084" />
+  <project path="hardware/qcom/audio-caf/msm8226" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkl-mr1-caf-8226" />
+  <project path="hardware/qcom/audio-caf/msm8610" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkl-mr1-caf-8610" />
+  <project path="hardware/qcom/audio-caf/msm8916" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkl-mr1-caf-8916" />
+  <project path="hardware/qcom/audio-caf/msm8960" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkl-mr1-caf-8960" />
+  <project path="hardware/qcom/audio-caf/msm8974" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkl-mr1-caf-8974" />
   <project path="hardware/qcom/bt" remote="third" name="ThirdProject/android_hardware_qcom_bt" groups="qcom" />
   <project path="hardware/qcom/display" remote="third" name="ThirdProject/android_hardware_qcom_display" groups="qcom,qcom_display" />
-  <project path="hardware/qcom/display-caf/apq8084" name="MoKee/android_hardware_qcom_display" groups="qcom,qcom_display" revision="mkl-caf-8084" />
-  <project path="hardware/qcom/display-caf/msm8226" name="MoKee/android_hardware_qcom_display" groups="qcom,qcom_display" revision="mkl-caf-8226" />
-  <project path="hardware/qcom/display-caf/msm8610" name="MoKee/android_hardware_qcom_display" groups="qcom,qcom_display" revision="mkl-caf-8610" />
-  <project path="hardware/qcom/display-caf/msm8660" name="MoKee/android_hardware_qcom_display" groups="qcom,qcom_display" revision="mkl-caf-8660" />
-  <project path="hardware/qcom/display-caf/msm8916" name="MoKee/android_hardware_qcom_display" groups="qcom,qcom_display" revision="mkl-caf-8916" />
-  <project path="hardware/qcom/display-caf/msm8960" name="MoKee/android_hardware_qcom_display" groups="qcom,qcom_display" revision="mkl-caf-8960" />
-  <project path="hardware/qcom/display-caf/msm8974" name="MoKee/android_hardware_qcom_display" groups="qcom,qcom_display" revision="mkl-caf-8974" />
+  <project path="hardware/qcom/display-caf/apq8084" name="MoKee/android_hardware_qcom_display" groups="qcom,qcom_display" revision="mkl-mr1-caf-8084" />
+  <project path="hardware/qcom/display-caf/msm8226" name="MoKee/android_hardware_qcom_display" groups="qcom,qcom_display" revision="mkl-mr1-caf-8226" />
+  <project path="hardware/qcom/display-caf/msm8610" name="MoKee/android_hardware_qcom_display" groups="qcom,qcom_display" revision="mkl-mr1-caf-8610" />
+  <project path="hardware/qcom/display-caf/msm8916" name="MoKee/android_hardware_qcom_display" groups="qcom,qcom_display" revision="mkl-mr1-caf-8916" />
+  <project path="hardware/qcom/display-caf/msm8960" name="MoKee/android_hardware_qcom_display" groups="qcom,qcom_display" revision="mkl-mr1-caf-8960" />
+  <project path="hardware/qcom/display-caf/msm8974" name="MoKee/android_hardware_qcom_display" groups="qcom,qcom_display" revision="mkl-mr1-caf-8974" />
   <project path="hardware/qcom/gps" remote="third" name="ThirdProject/android_hardware_qcom_gps" groups="qcom" />
   <project path="hardware/qcom/keymaster" remote="third" name="ThirdProject/android_hardware_qcom_keymaster" groups="qcom" />
   <project path="hardware/qcom/media/default" remote="third" name="ThirdProject/android_hardware_qcom_media" groups="qcom" />
-  <project path="hardware/qcom/media-caf/apq8084" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkl-caf-8084" />
-  <project path="hardware/qcom/media-caf/msm8226" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkl-caf-8226" />
-  <project path="hardware/qcom/media-caf/msm8610" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkl-caf-8610" />
-  <project path="hardware/qcom/media-caf/msm8660" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkl-caf-8660" />
-  <project path="hardware/qcom/media-caf/msm8916" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkl-caf-8916" />
-  <project path="hardware/qcom/media-caf/msm8960" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkl-caf-8960" />
-  <project path="hardware/qcom/media-caf/msm8974" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkl-caf-8974" />
+  <project path="hardware/qcom/media-caf/apq8084" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkl-mr1-caf-8084" />
+  <project path="hardware/qcom/media-caf/msm8226" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkl-mr1-caf-8226" />
+  <project path="hardware/qcom/media-caf/msm8610" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkl-mr1-caf-8610" />
+  <project path="hardware/qcom/media-caf/msm8916" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkl-mr1-caf-8916" />
+  <project path="hardware/qcom/media-caf/msm8960" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkl-mr1-caf-8960" />
+  <project path="hardware/qcom/media-caf/msm8974" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkl-mr1-caf-8974" />
   <project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" groups="qcom_msm8960" remote="aosp" />
   <project path="hardware/qcom/msm8x26" name="platform/hardware/qcom/msm8x26" groups="qcom_msm8x26" remote="aosp" />
   <project path="hardware/qcom/msm8x27" name="platform/hardware/qcom/msm8x27" groups="qcom_msm8x27" remote="aosp" />
