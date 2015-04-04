@@ -489,7 +489,7 @@
   <project path="packages/inputmethods/LatinIME" remote="third" name="ThirdProject/android_packages_inputmethods_LatinIME" />
   <project path="packages/providers/ApplicationsProvider" remote="third" name="ThirdProject/android_packages_providers_ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" remote="third" name="ThirdProject/android_packages_providers_CalendarProvider" />
-  <project path="packages/providers/ContactsProvider" remote="third" name="ThirdProject/android_packages_providers_ContactsProvider" />
+  <project path="packages/providers/ContactsProvider" name="MoKee/android_packages_providers_ContactsProvider" />
   <project path="packages/providers/DownloadProvider" remote="third" name="ThirdProject/android_packages_providers_DownloadProvider" />
   <project path="packages/providers/MediaProvider" remote="third" name="ThirdProject/android_packages_providers_MediaProvider" />
   <project path="packages/providers/PartnerBookmarksProvider" remote="third" name="ThirdProject/android_packages_providers_PartnerBookmarksProvider" />
