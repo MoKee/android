@@ -498,7 +498,7 @@
   <project path="packages/providers/DownloadProvider" remote="third" name="ThirdProject/android_packages_providers_DownloadProvider" />
   <project path="packages/providers/MediaProvider" remote="third" name="ThirdProject/android_packages_providers_MediaProvider" />
   <project path="packages/providers/PartnerBookmarksProvider" remote="third" name="ThirdProject/android_packages_providers_PartnerBookmarksProvider" />
-  <project path="packages/providers/TelephonyProvider" remote="third" name="ThirdProject/android_packages_providers_TelephonyProvider" />
+  <project path="packages/providers/TelephonyProvider" name="MoKee/android_packages_providers_TelephonyProvider" />
   <project path="packages/providers/ThemesProvider" name="MoKee/android_packages_providers_ThemesProvider" />
   <project path="packages/providers/TvProvider" remote="third" name="ThirdProject/android_packages_providers_TvProvider" />
   <project path="packages/providers/UserDictionaryProvider" remote="third" name="ThirdProject/android_packages_providers_UserDictionaryProvider" />
