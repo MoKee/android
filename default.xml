@@ -160,7 +160,7 @@
   <project path="external/genext2fs" name="platform/external/genext2fs" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/giflib" name="platform/external/giflib" groups="pdk-cw-fs,qcom_msm8x26" remote="aosp" />
   <project path="external/glide" name="platform/external/glide" remote="aosp" />
-  <project path="external/google" name="MoKee/android_external_google" />
+  <project path="external/google" remote="third" name="ThirdProject/android_external_google" />
   <project path="external/google-diff-match-patch" name="platform/external/google-diff-match-patch" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/google-fonts/coming-soon" name="platform/external/google-fonts/coming-soon" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/google-fonts/dancing-script" name="platform/external/google-fonts/dancing-script" groups="pdk-cw-fs" remote="aosp" />
