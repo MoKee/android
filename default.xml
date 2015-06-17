@@ -246,7 +246,7 @@
   <project path="external/llvm" name="platform/external/llvm" groups="pdk" remote="aosp" />
   <project path="external/lohit-fonts" name="platform/external/lohit-fonts" remote="aosp" />
   <project path="external/ltrace" name="platform/external/ltrace" groups="pdk-cw-fs" remote="aosp" />
-  <project path="external/lzma" name="platform/external/lzma" remote="aosp" />
+  <project path="external/lzma" remote="third" name="ThirdProject/android_external_lzma" />
   <project path="external/lsof" remote="third" name="ThirdProject/android_external_lsof" />
   <project path="external/lz4" remote="third" name="ThirdProject/android_external_lz4" />
   <project path="external/lzo" remote="third" name="ThirdProject/android_external_lzo" />
