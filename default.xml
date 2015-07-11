@@ -591,4 +591,5 @@
   <project path="tools/studio/translation" name="platform/tools/studio/translation" groups="notdefault,tools" remote="aosp" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" />
   <project path="vendor/mk" name="MoKee/android_vendor_mk" />
+  <project path="vendor/mksdk" name="MoKee/mk_platform_sdk" />
 </manifest>
