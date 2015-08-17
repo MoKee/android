@@ -444,7 +444,7 @@
   <project path="hardware/ti/omap4xxx" remote="third" name="ThirdProject/android_hardware_ti_omap4xxx" />
   <project path="hardware/ti/wlan" remote="third" name="ThirdProject/android_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" remote="third" name="ThirdProject/android_hardware_ti_wpan" />
-  <project path="libcore" remote="third" name="ThirdProject/android_libcore" />
+  <project path="libcore" name="MoKee/android_libcore" />
   <project path="libnativehelper" remote="third" name="ThirdProject/android_libnativehelper" groups="pdk-java" />
   <project path="ndk" name="platform/ndk" remote="aosp" />
   <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />
