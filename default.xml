@@ -550,7 +550,6 @@
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" remote="third" name="ThirdProject/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4.9" groups="pdk,linux,arm" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" groups="pdk,linux,arm" remote="aosp" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" groups="pdk,linux,arm" remote="aosp" />
-  <project path="prebuilts/gcc/linux-x86/arm/sabermod" name="MoKee/android_prebuilts_gcc_linux-x86_arm_sabermod" />
   <project path="prebuilts/gcc/linux-x86/arm/sabermod-arm-eabi-4.9" name="MoKee/android_prebuilts_gcc_linux-x86_arm_sabermod-arm-eabi-4.9" />
   <project path="prebuilts/gcc/linux-x86/arm/sabermod-arm-linux-androideabi-4.8" name="MoKee/android_prebuilts_gcc_linux-x86_arm_sabermod-arm-linux-androideabi-4.8" />
   <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6" groups="pdk,linux" remote="aosp" />
@@ -569,6 +568,7 @@
   <project path="prebuilts/python/darwin-x86/2.7.5" name="platform/prebuilts/python/darwin-x86/2.7.5" groups="darwin" remote="aosp" />
   <project path="prebuilts/python/linux-x86/2.7.5" name="platform/prebuilts/python/linux-x86/2.7.5" groups="linux" remote="aosp" />
   <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" groups="pdk" clone-depth="1" remote="aosp" />
+  <project path="prebuilts/sabermod" name="MoKee/android_prebuilts_sabermod" />
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk" remote="aosp" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" remote="aosp" />
   <project path="sdk" name="platform/sdk" remote="aosp" />
