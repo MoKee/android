@@ -384,6 +384,7 @@
   <project path="hardware/broadcom/libbt" remote="third" name="ThirdProject/android_hardware_broadcom_libbt" groups="pdk" />
   <project path="hardware/broadcom/wlan" remote="third" name="ThirdProject/android_hardware_broadcom_wlan" groups="broadcom_wlan" />
   <project path="hardware/cm" remote="third" name="ThirdProject/android_hardware_cm" />
+  <project path="hardware/mokee" name="MoKee/android_hardware_mokee" />
   <project path="hardware/intel/audio_media" name="platform/hardware/intel/audio_media" groups="intel" remote="aosp" />
   <project path="hardware/intel/bootstub" name="platform/hardware/intel/bootstub" groups="intel" remote="aosp" />
   <project path="hardware/intel/common/bd_prov" name="platform/hardware/intel/common/bd_prov" groups="intel" remote="aosp" />
