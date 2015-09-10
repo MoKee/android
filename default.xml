@@ -306,7 +306,7 @@
   <project path="external/scrypt" name="platform/external/scrypt" groups="pdk" remote="aosp" />
   <project path="external/sepolicy" name="MoKee/android_external_sepolicy" groups="pdk" />
   <project path="external/sfntly" name="platform/external/sfntly" groups="pdk-cw-fs,qcom_msm8x26" remote="aosp" />
-  <project path="external/skia" remote="third" name="ThirdProject/android_external_skia" groups="pdk-cw-fs,qcom_msm8x26" />
+  <project path="external/skia" name="MoKee/android_external_skia" groups="pdk-cw-fs,qcom_msm8x26" />
   <project path="external/smack" name="platform/external/smack" groups="pdk-cw-fw" remote="aosp" />
   <project path="external/smali" name="platform/external/smali" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/sonivox" remote="third" name="ThirdProject/android_external_sonivox" groups="pdk" />
@@ -574,7 +574,7 @@
   <project path="system/media" remote="third" name="ThirdProject/android_system_media" groups="pdk" />
   <project path="system/netd" remote="third" name="ThirdProject/android_system_netd" groups="pdk" />
   <project path="system/qcom" remote="third" name="ThirdProject/android_system_qcom" groups="qcom" />
-  <project path="system/security" remote="third" name="ThirdProject/android_system_security" groups="pdk" />
+  <project path="system/security" name="MoKee/android_system_security" groups="pdk" />
   <project path="system/vold" remote="third" name="ThirdProject/android_system_vold" groups="pdk" />
   <project path="tools/adt/eclipse" name="platform/tools/adt/eclipse" groups="notdefault,tools" remote="aosp" />
   <project path="tools/adt/idea" name="platform/tools/adt/idea" groups="notdefault,tools" remote="aosp" />
