@@ -376,7 +376,7 @@
   <project path="frameworks/opt/vcard" remote="third" name="ThirdProject/android_frameworks_opt_vcard" />
   <project path="frameworks/opt/widget" name="platform/frameworks/opt/widget" remote="aosp" />
   <project path="frameworks/rs" remote="third" name="ThirdProject/android_frameworks_rs" groups="pdk" />
-  <project path="frameworks/support" remote="third" name="ThirdProject/android_frameworks_support" />
+  <project path="frameworks/support" name="MoKee/android_frameworks_support" />
   <project path="frameworks/volley" remote="third" name="ThirdProject/android_frameworks_volley" />
   <project path="frameworks/webview" name="MoKee/android_frameworks_webview" />
   <project path="frameworks/wilhelm" remote="third" name="ThirdProject/android_frameworks_wilhelm" />
