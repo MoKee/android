@@ -57,8 +57,7 @@ First, go to the root path of your project. We assume that your source is under
 
 then feel free to use the build script:
 
-    . build/envsetup.sh && lunch (enter device number)
-    mka bacon
+    . build/envsetup.sh && lunch (enter device number) && mka bacon
 
 or
 
