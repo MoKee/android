@@ -13,6 +13,11 @@
            fetch=".."
            review="review.mfunz.com" />
 
+  <remote  name="viper"
+           fetch=".."
+           review="review.mfunz.com"
+           revision="refs/heads/mkl-mr1-viper" />
+
   <remote  name="third"
            fetch=".."
            review="review.mfunz.com"
@@ -345,8 +350,8 @@
   <project path="external/zlib" remote="third" name="ThirdProject/android_external_zlib" groups="pdk" />
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk-cw-fs" remote="aosp" />
-  <project path="frameworks/av" name="MoKee/android_frameworks_av" groups="pdk" />
-  <project path="frameworks/base" name="MoKee/android_frameworks_base" />
+  <project path="frameworks/av" remote="viper" name="MoKee/android_frameworks_av" groups="pdk" />
+  <project path="frameworks/base" remote="viper" name="MoKee/android_frameworks_base" />
   <project path="frameworks/compile/libbcc" remote="third" name="ThirdProject/android_frameworks_compile_libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" remote="third" name="ThirdProject/android_frameworks_compile_mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" remote="third" name="ThirdProject/android_frameworks_compile_slang" groups="pdk" />
