@@ -87,7 +87,6 @@
   <project path="external/blktrace" name="platform/external/blktrace" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/bluetooth/bluedroid" remote="third" name="ThirdProject/android_external_bluetooth_bluedroid" groups="pdk" />
   <project path="external/bouncycastle" remote="third" name="ThirdProject/android_external_bouncycastle" />
-  <project path="external/efence" remote="third" name="ThirdProject/android_external_boundarydevices_efence" />
   <project path="external/bsdiff" name="platform/external/bsdiff" groups="pdk" remote="aosp" />
   <project path="external/bson" remote="third" name="ThirdProject/android_external_bson" />
   <project path="external/busybox" remote="third" name="ThirdProject/android_external_busybox" />
