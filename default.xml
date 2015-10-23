@@ -292,7 +292,6 @@
   <project path="packages/wallpapers/MagicSmoke" name="ThirdProject/android_packages_wallpapers_MagicSmoke" remote="third" />
   <project path="packages/wallpapers/NoiseField" name="ThirdProject/android_packages_wallpapers_NoiseField" remote="third" />
   <project path="packages/wallpapers/PhaseBeam" name="ThirdProject/android_packages_wallpapers_PhaseBeam" remote="third" />
-  <project path="packages/wallpapers/PhotoPhase" name="ThirdProject/android_packages_wallpapers_PhotoPhase" remote="third" />
   <project path="system/extras" name="ThirdProject/android_system_extras" groups="pdk" remote="third" />
   <project path="system/keymaster" name="ThirdProject/android_system_keymaster" groups="pdk" remote="third" />
   <project path="system/media" name="ThirdProject/android_system_media" groups="pdk" remote="third" />
