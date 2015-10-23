@@ -37,6 +37,7 @@
   <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" />
   <project path="device/qcom/sepolicy" name="MoKee/android_device_qcom_sepolicy" />
   <project path="external/google" name="MoKee/android_external_google" />
+  <project path="external/mm-dash" name="MoKee/android_external_mm-dash" />
   <project path="external/mokee/BuildController" name="MoKee/android_external_mokee_BuildController" />
   <project path="external/mokee/MoKeeHelper" name="MoKee/android_external_mokee_MoKeeHelper" />
   <project path="external/mokee/MoKeeSDKs" name="MoKee/android_external_mokee_MoKeeSDKs" />
@@ -82,6 +83,7 @@
   <project path="packages/apps/Dialer" name="MoKee/android_packages_apps_Dialer" />
   <project path="packages/apps/Eleven" name="MoKee/android_packages_apps_Eleven" />
   <project path="packages/apps/Email" name="MoKee/android_packages_apps_Email" />
+  <project path="packages/apps/FMRadio" name="MoKee/android_packages_apps_FMRadio" groups="pdk-fs" />
   <project path="packages/apps/Gallery2" name="MoKee/android_packages_apps_Gallery2" />
   <project path="packages/apps/InCallUI" name="MoKee/android_packages_apps_InCallUI" />
   <project path="packages/apps/LockClock" name="MoKee/android_packages_apps_LockClock" />
@@ -174,7 +176,6 @@
   <project path="external/lzma" name="ThirdProject/android_external_lzma" remote="third" />
   <project path="external/lzo" name="ThirdProject/android_external_lzo" remote="third" />
   <project path="external/mksh" name="ThirdProject/android_external_mksh" groups="pdk" remote="third" />
-  <project path="external/mm-dash" name="ThirdProject/android_external_mm-dash" remote="third" />
   <project path="external/nano" name="ThirdProject/android_external_nano" remote="third" />
   <project path="external/nist-sip" name="ThirdProject/android_external_nist-sip" groups="pdk-cw-fs" remote="third" />
   <project path="external/ntfs-3g" name="ThirdProject/android_external_ntfs-3g" remote="third" />
@@ -326,7 +327,7 @@
   <project path="external/antlr" name="platform/external/antlr" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/apache-commons-math" name="platform/external/apache-commons-math" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/apache-harmony" name="platform/external/apache-harmony" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
-  <project path="external/apache-http" name="CyanogenMod/android_external_apache-http" groups="pdk" />
+  <project path="external/apache-http" name="ThirdProject/android_external_apache-http" groups="pdk" remote="third" />
   <project path="external/apache-xml" name="platform/external/apache-xml" groups="pdk" remote="aosp" />
   <project path="external/bison" name="platform/external/bison" groups="pdk" remote="aosp" />
   <project path="external/blktrace" name="platform/external/blktrace" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
@@ -470,7 +471,7 @@
   <project path="external/tagsoup" name="platform/external/tagsoup" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/timezonepicker-support" name="platform/external/timezonepicker-support" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/tinyxml" name="platform/external/tinyxml" groups="pdk" remote="aosp" />
-  <project path="external/tinyxml2" name="CyanogenMod/android_external_tinyxml2" groups="pdk" />
+  <project path="external/tinyxml2" name="ThirdProject/android_external_tinyxml2" groups="pdk" remote="third" />
   <project path="external/toybox" name="platform/external/toybox" groups="pdk" remote="aosp" />
   <project path="external/tremolo" name="platform/external/tremolo" groups="pdk" remote="aosp" />
   <project path="external/v8" name="platform/external/v8" groups="pdk" remote="aosp" />
@@ -513,7 +514,6 @@
   <project path="ndk" name="platform/ndk" groups="generic_fs" remote="aosp" />
   <project path="packages/apps/CarrierConfig" name="platform/packages/apps/CarrierConfig" groups="pdk-fs" remote="aosp" />
   <project path="packages/apps/ExactCalculator" name="platform/packages/apps/ExactCalculator" groups="pdk-fs" remote="aosp" />
-  <project path="packages/apps/FMRadio" name="CyanogenMod/android_packages_apps_FMRadio" groups="pdk-fs" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" groups="pdk-fs" remote="aosp" />
   <project path="packages/apps/Phone" name="platform/packages/apps/Phone" groups="pdk-fs" remote="aosp" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" groups="pdk-fs" remote="aosp" />
@@ -554,7 +554,7 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk" remote="aosp" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" remote="aosp" />
   <project path="sdk" name="platform/sdk" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
-  <project path="system/bt" name="CyanogenMod/android_system_bt" groups="pdk" />
+  <project path="system/bt" name="ThirdProject/android_system_bt" groups="pdk" remote="third" />
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" remote="aosp" />
 <!-- END AOSP -->
 
