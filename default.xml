@@ -140,7 +140,7 @@
   <project path="external/flac" name="ThirdProject/android_external_flac" groups="pdk" remote="third" />
   <project path="external/fsck_msdos" name="ThirdProject/android_external_fsck_msdos" groups="pdk-cw-fs" remote="third" />
   <project path="external/fuse" name="ThirdProject/android_external_fuse" remote="third" />
-  <project path="external/gmock" name="ThirdProject/android_external_gmock"/>
+  <project path="external/gmock" name="ThirdProject/android_external_gmock" remote="third" />
   <project path="external/gson" name="ThirdProject/android_external_gson" remote="third" />
   <project path="external/htop" name="ThirdProject/android_external_htop" remote="third" />
   <project path="external/icu" name="ThirdProject/android_external_icu" groups="pdk" remote="third" />
