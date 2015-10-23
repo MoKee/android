@@ -87,13 +87,13 @@
   <project path="packages/apps/Gallery2" name="MoKee/android_packages_apps_Gallery2" />
   <project path="packages/apps/InCallUI" name="MoKee/android_packages_apps_InCallUI" />
   <project path="packages/apps/LockClock" name="MoKee/android_packages_apps_LockClock" />
+  <project path="packages/apps/MoKeeSetupWizard" name="MoKee/android_packages_apps_MoKeeSetupWizard" />
+  <project path="packages/apps/Nox" name="MoKee/android_packages_apps_Nox" />
   <project path="packages/apps/PackageInstaller" name="MoKee/android_packages_apps_PackageInstaller" />
   <project path="packages/apps/Profiles" name="MoKee/android_packages_apps_Profiles" />
   <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" />
-  <project path="packages/apps/MoKeeSetupWizard" name="MoKee/android_packages_apps_MoKeeSetupWizard" />
   <project path="packages/apps/SoundRecorder" name="MoKee/android_packages_apps_SoundRecorder" />
   <project path="packages/apps/Stk" name="MoKee/android_packages_apps_Stk" />
-  <project path="packages/apps/MoKeeLauncher" name="MoKee/android_packages_apps_MoKeeLauncher" />
   <project path="packages/apps/UnifiedEmail" name="MoKee/android_packages_apps_UnifiedEmail" />
   <project path="packages/providers/ContactsProvider" name="MoKee/android_packages_providers_ContactsProvider" />
   <project path="packages/providers/TelephonyProvider" name="MoKee/android_packages_providers_TelephonyProvider" />
