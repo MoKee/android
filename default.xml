@@ -94,9 +94,11 @@
   <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" />
   <project path="packages/apps/SoundRecorder" name="MoKee/android_packages_apps_SoundRecorder" />
   <project path="packages/apps/Stk" name="MoKee/android_packages_apps_Stk" />
+  <project path="packages/apps/ThemeChooser" name="MoKee/android_packages_apps_ThemeChooser" />
   <project path="packages/apps/UnifiedEmail" name="MoKee/android_packages_apps_UnifiedEmail" />
   <project path="packages/providers/ContactsProvider" name="MoKee/android_packages_providers_ContactsProvider" />
   <project path="packages/providers/TelephonyProvider" name="MoKee/android_packages_providers_TelephonyProvider" />
+  <project path="packages/providers/ThemesProvider" name="MoKee/android_packages_providers_ThemesProvider" />
   <project path="packages/services/Mms" name="MoKee/android_packages_services_Mms" />
   <project path="packages/services/Telecomm" name="MoKee/android_packages_services_Telecomm" />
   <project path="packages/services/Telephony" name="MoKee/android_packages_services_Telephony" />
