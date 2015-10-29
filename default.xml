@@ -204,6 +204,7 @@
   <project path="external/unrar" name="ThirdProject/android_external_unrar" remote="third" />
   <project path="external/vim" name="ThirdProject/android_external_vim" remote="third" />
   <project path="external/wpa_supplicant_8" name="ThirdProject/android_external_wpa_supplicant_8" groups="pdk" remote="third" />
+  <project path="external/yaffs2" name="ThirdProject/android_external_yaffs2" remote="third" />
   <project path="external/zip" name="ThirdProject/android_external_zip" remote="third" />
   <project path="external/zlib" name="ThirdProject/android_external_zlib" groups="pdk" remote="third" />
   <project path="frameworks/compile/libbcc" name="ThirdProject/android_frameworks_compile_libbcc" groups="pdk" remote="third" />
