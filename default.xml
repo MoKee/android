@@ -87,7 +87,7 @@
   <project path="packages/apps/Gallery2" name="MoKee/android_packages_apps_Gallery2" groups="pdk-fs" />
   <project path="packages/apps/InCallUI" name="MoKee/android_packages_apps_InCallUI" groups="pdk-fs" />
   <project path="packages/apps/LockClock" name="MoKee/android_packages_apps_LockClock" />
-  <project path="packages/apps/Mms" name="MoKee/android_packages_apps_Mms-caf" />
+  <project path="packages/apps/Messaging" name="MoKee/android_packages_apps_Messaging" />
   <project path="packages/apps/MoKeeSetupWizard" name="MoKee/android_packages_apps_MoKeeSetupWizard" />
   <project path="packages/apps/Nox" name="MoKee/android_packages_apps_Nox" />
   <project path="packages/apps/PackageInstaller" name="MoKee/android_packages_apps_PackageInstaller" groups="pdk-fs" />
