@@ -489,7 +489,6 @@
   <project path="packages/apps/TvSettings" remote="third" name="ThirdProject/android_packages_apps_TvSettings" />
   <project path="packages/apps/UnifiedEmail" name="MoKee/android_packages_apps_UnifiedEmail" />
   <project path="packages/experimental" remote="third" name="ThirdProject/android_packages_experimental" />
-  <project path="packages/inputmethods/LatinIME" remote="third" name="ThirdProject/android_packages_inputmethods_LatinIME" />
   <project path="packages/providers/ApplicationsProvider" remote="third" name="ThirdProject/android_packages_providers_ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" remote="third" name="ThirdProject/android_packages_providers_CalendarProvider" />
   <project path="packages/providers/ContactsProvider" name="MoKee/android_packages_providers_ContactsProvider" />
