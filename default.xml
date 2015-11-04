@@ -277,7 +277,6 @@
   <project path="packages/apps/Terminal" name="ThirdProject/android_packages_apps_Terminal" groups="pdk-fs" remote="third" />
   <project path="packages/apps/TvSettings" name="ThirdProject/android_packages_apps_TvSettings" groups="generic_fs" remote="third" />
   <project path="packages/experimental" name="ThirdProject/android_packages_experimental" remote="third" />
-  <project path="packages/inputmethods/LatinIME" name="ThirdProject/android_packages_inputmethods_LatinIME" groups="pdk-fs" remote="third" />
   <project path="packages/providers/BookmarkProvider" name="ThirdProject/android_packages_providers_BookmarkProvider" groups="pdk-fs" remote="third" />
   <project path="packages/providers/CalendarProvider" name="ThirdProject/android_packages_providers_CalendarProvider" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="packages/providers/CallLogProvider" name="ThirdProject/android_packages_providers_CallLogProvider" groups="pdk-fs" remote="third" />
