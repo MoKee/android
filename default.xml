@@ -88,7 +88,7 @@
   <project path="packages/apps/Gallery2" name="MoKee/android_packages_apps_Gallery2" groups="pdk-fs" />
   <project path="packages/apps/InCallUI" name="MoKee/android_packages_apps_InCallUI" groups="pdk-fs" />
   <project path="packages/apps/LockClock" name="MoKee/android_packages_apps_LockClock" />
-  <project path="packages/apps/Messaging" name="MoKee/android_packages_apps_Messaging" />
+  <project path="packages/apps/Messaging" name="MoKee/android_packages_apps_Messaging" groups="pdk-fs" />
   <project path="packages/apps/MoKeeSetupWizard" name="MoKee/android_packages_apps_MoKeeSetupWizard" />
   <project path="packages/apps/Nox" name="MoKee/android_packages_apps_Nox" />
   <project path="packages/apps/PackageInstaller" name="MoKee/android_packages_apps_PackageInstaller" groups="pdk-fs" />
@@ -278,7 +278,9 @@
   <project path="packages/apps/TvSettings" name="ThirdProject/android_packages_apps_TvSettings" groups="generic_fs" remote="third" />
   <project path="packages/experimental" name="ThirdProject/android_packages_experimental" remote="third" />
   <project path="packages/inputmethods/LatinIME" name="ThirdProject/android_packages_inputmethods_LatinIME" groups="pdk-fs" remote="third" />
+  <project path="packages/providers/BookmarkProvider" name="ThirdProject/android_packages_providers_BookmarkProvider" groups="pdk-fs" remote="third" />
   <project path="packages/providers/CalendarProvider" name="ThirdProject/android_packages_providers_CalendarProvider" groups="pdk-cw-fs,pdk-fs" remote="third" />
+  <project path="packages/providers/CallLogProvider" name="ThirdProject/android_packages_providers_CallLogProvider" groups="pdk-fs" remote="third" />
   <project path="packages/providers/DownloadProvider" name="ThirdProject/android_packages_providers_DownloadProvider" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="packages/providers/MediaProvider" name="ThirdProject/android_packages_providers_MediaProvider" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="packages/providers/PartnerBookmarksProvider" name="ThirdProject/android_packages_providers_PartnerBookmarksProvider" groups="pdk-fs" remote="third" />
@@ -514,8 +516,6 @@
   <project path="hardware/ti/omap4-aah" name="platform/hardware/ti/omap4-aah" groups="omap4-aah" remote="aosp" />
   <project path="ndk" name="platform/ndk" groups="generic_fs" remote="aosp" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" />
-  <project path="packages/providers/BookmarkProvider" name="platform/packages/providers/BookmarkProvider" groups="pdk-fs" remote="aosp" />
-  <project path="packages/providers/CallLogProvider" name="platform/packages/providers/CallLogProvider" groups="pdk-fs" remote="aosp" />
   <project path="pdk" name="platform/pdk" groups="pdk" remote="aosp" />
   <project path="platform_testing" name="platform/platform_testing" remote="aosp" />
   <project path="prebuilts/android-emulator" name="platform/prebuilts/android-emulator" groups="pdk-fs" clone-depth="1" remote="aosp" />
