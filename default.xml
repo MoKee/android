@@ -150,12 +150,9 @@
   <project path="external/icu" name="ThirdProject/android_external_icu" groups="pdk" remote="third" />
   <project path="external/iproute2" name="ThirdProject/android_external_iproute2" groups="pdk" remote="third" />
   <project path="external/iptables" name="ThirdProject/android_external_iptables" groups="pdk-cw-fs,pdk-fs" remote="third" />
-  <project path="external/JakeWharton/butterknife" name="ThirdProject/android_external_JakeWharton_butterknife" remote="third" />
   <project path="external/jarjar" name="ThirdProject/android_external_jarjar" groups="pdk" remote="third" />
   <project path="external/jpeg" name="ThirdProject/android_external_jpeg" groups="pdk" remote="third" />
   <project path="external/jsr305" name="ThirdProject/android_external_jsr305" groups="pdk-cw-fs,pdk-fs" remote="third" />
-  <project path="external/jsr308" name="ThirdProject/android_external_jsr308" remote="third" />
-  <project path="external/jsr330" name="ThirdProject/android_external_jsr330" remote="third" />
   <project path="external/koush/AndroidAsync" name="ThirdProject/AndroidAsync" remote="third" />
   <project path="external/koush/ion" name="ThirdProject/ion" remote="third" />
   <project path="external/libncurses" name="ThirdProject/android_external_libncurses" remote="third" />
@@ -195,8 +192,6 @@
   <project path="external/speex" name="ThirdProject/android_external_speex" groups="pdk" remote="third" />
   <project path="external/spongycastle" name="ThirdProject/android_external_spongycastle" groups="pdk" remote="third" />
   <project path="external/sqlite" name="ThirdProject/android_external_sqlite" groups="pdk" remote="third" />
-  <project path="external/square/dagger" name="ThirdProject/android_external_square_dagger" remote="third" />
-  <project path="external/square/javawriter" name="ThirdProject/android_external_square_javawriter" remote="third" />
   <project path="external/stagefright-plugins" name="ThirdProject/android_external_stagefright-plugins" remote="third" />
   <project path="external/strace" name="ThirdProject/android_external_strace" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="external/tcpdump" name="ThirdProject/android_external_tcpdump" groups="pdk,pdk-cw-fs,pdk-fs" remote="third" />
