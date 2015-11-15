@@ -183,6 +183,7 @@
   <project path="external/ntfs-3g" name="ThirdProject/android_external_ntfs-3g" remote="third" />
   <project path="external/okhttp" name="ThirdProject/android_external_okhttp" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="external/openssh" name="ThirdProject/android_external_openssh" groups="pdk-cw-fs,pdk-fs" remote="third" />
+  <project path="external/p7zip" name="ThirdProject/android_external_p7zip" remote="third" />
   <project path="external/pcre" name="ThirdProject/android_external_pcre" groups="pdk" remote="third" />
   <project path="external/pigz" name="ThirdProject/android_external_pigz" remote="third" />
   <project path="external/powertop" name="ThirdProject/android_external_powertop" remote="third" />
@@ -200,6 +201,7 @@
   <project path="external/tinycompress" name="ThirdProject/android_external_tinycompress" groups="pdk" remote="third" />
   <project path="external/tinyxml2" name="ThirdProject/android_external_tinyxml2" groups="pdk" remote="third" />
   <project path="external/unrar" name="ThirdProject/android_external_unrar" remote="third" />
+  <project path="external/unzip" name="ThirdProject/android_external_unzip" remote="third" />
   <project path="external/vim" name="ThirdProject/android_external_vim" remote="third" />
   <project path="external/wpa_supplicant_8" name="ThirdProject/android_external_wpa_supplicant_8" groups="pdk" remote="third" />
   <project path="external/yaffs2" name="ThirdProject/android_external_yaffs2" groups="pdk" remote="third" />
