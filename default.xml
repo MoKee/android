@@ -185,7 +185,7 @@
   <project path="external/openssh" name="ThirdProject/android_external_openssh" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="external/pcre" name="ThirdProject/android_external_pcre" groups="pdk" remote="third" />
   <project path="external/pigz" name="ThirdProject/android_external_pigz" remote="third" />
-  <!-- <project path="external/powertop" name="ThirdProject/android_external_powertop" remote="third" /> -->
+  <project path="external/powertop" name="ThirdProject/android_external_powertop" remote="third" />
   <project path="external/protobuf-c" name="ThirdProject/android_external_protobuf-c" remote="third" />
   <project path="external/rsync" name="ThirdProject/android_external_rsync" remote="third" />
   <project path="external/skia" name="ThirdProject/android_external_skia" groups="pdk,qcom_msm8x26" remote="third" />
@@ -332,7 +332,7 @@
   <project path="external/bison" name="platform/external/bison" groups="pdk" remote="aosp" />
   <project path="external/blktrace" name="platform/external/blktrace" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/bsdiff" name="platform/external/bsdiff" groups="pdk" remote="aosp" />
-  <project path="external/bzip2" name="platform/external/bzip2" groups="pdk" remote="aosp" />
+  <project path="external/bzip2" name="ThirdProject/android_external_bzip2" groups="pdk" remote="third" />
   <project path="external/cblas" name="platform/external/cblas" groups="pdk" remote="aosp" />
   <project path="external/ceres-solver" name="platform/external/ceres-solver" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/chromium-libpac" name="platform/external/chromium-libpac" groups="pdk-fs" remote="aosp" />
