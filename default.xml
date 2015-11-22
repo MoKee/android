@@ -113,6 +113,7 @@
   <project path="system/extras/su" name="MoKee/android_system_extras_su" />
   <project path="vendor/mk" name="MoKee/android_vendor_mk" />
   <project path="vendor/mksdk" name="MoKee/mk_platform_sdk" />
+  <project path="vendor/private" name="MoKee/mk_private" />
 <!-- END MOKEE OPENSOURCE -->
 
 <!-- BEGIN THIRD PROJECT -->
