@@ -75,6 +75,7 @@
   <project path="hardware/qcom/wlan-caf" name="MoKee/android_hardware_qcom_wlan" groups="qcom_wlan" revision="mkm-caf" />
   <project path="hardware/ril-caf" name="MoKee/android_hardware_ril" groups="pdk" revision="mkm-caf" />
   <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />
+  <project path="packages/apps/Bluetooth" name="MoKee/android_packages_apps_Bluetooth" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/Browser" name="MoKee/android_packages_apps_Browser" groups="pdk-fs" />
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" groups="pdk-fs" />
   <project path="packages/apps/Camera2" name="MoKee/android_packages_apps_Camera2" groups="pdk-fs" />
@@ -259,7 +260,6 @@
   <project path="libcore" name="ThirdProject/android_libcore" groups="pdk" remote="third" />
   <project path="libnativehelper" name="ThirdProject/android_libnativehelper" groups="pdk" remote="third" />
   <project path="packages/apps/BasicSmsReceiver" name="ThirdProject/android_packages_apps_BasicSmsReceiver" groups="pdk-cw-fs,pdk-fs" remote="third" />
-  <project path="packages/apps/Bluetooth" name="ThirdProject/android_packages_apps_Bluetooth" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="packages/apps/BluetoothExt" name="ThirdProject/android_packages_apps_BluetoothExt" remote="third" />
   <project path="packages/apps/CellBroadcastReceiver" name="ThirdProject/android_packages_apps_CellBroadcastReceiver" groups="pdk-fs" remote="third" />
   <project path="packages/apps/CertInstaller" name="ThirdProject/android_packages_apps_CertInstaller" groups="pdk-cw-fs,pdk-fs" remote="third" />
