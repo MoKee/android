@@ -1,4 +1,4 @@
-MoKee OpenSource
+MoKee Open Source
 ===========
 
 Submitting Patches
@@ -34,7 +34,7 @@ To view the status of your and others' patches, visit [MoKee Code Review](http:/
 Getting Started
 ---------------
 
-To get started with MoKee OpenSource, you will need to get
+To get started with MoKee Open Source, you will need to get
 familiar with [Repo](https://source.android.com/source/using-repo.html) and [Version Control with Git](https://source.android.com/source/version-control.html).
 
 To initialize your local repository using the MoKee trees, use a command like this:
