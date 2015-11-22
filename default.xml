@@ -36,6 +36,7 @@
   <project path="development" name="MoKee/android_development" groups="pdk-cw-fs,pdk-fs" />
   <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" />
   <project path="device/qcom/sepolicy" name="MoKee/android_device_qcom_sepolicy" />
+  <project path="external/bash" name="MoKee/android_external_bash" />
   <project path="external/connectivity" name="MoKee/android_external_connectivity" />
   <project path="external/google" name="MoKee/android_external_google" />
   <project path="external/mm-dash" name="MoKee/android_external_mm-dash" />
@@ -128,7 +129,6 @@
   <project path="external/ant-wireless/ant_service" name="ThirdProject/android_external_ant-wireless_ant_service" remote="third" />
   <project path="external/ant-wireless/antradio-library" name="ThirdProject/android_external_ant-wireless_antradio-library" remote="third" />
   <project path="external/apache-http" name="ThirdProject/android_external_apache-http" groups="pdk" remote="third" />
-  <project path="external/bash" name="ThirdProject/android_external_bash" remote="third" />
   <project path="external/boringssl" name="ThirdProject/android_external_boringssl" groups="pdk" remote="third" />
   <project path="external/bouncycastle" name="ThirdProject/android_external_bouncycastle" groups="pdk" remote="third" />
   <project path="external/brctl" name="ThirdProject/android_external_brctl" remote="third" />
