@@ -486,7 +486,6 @@
   <project path="packages/apps/Tag" remote="third" name="ThirdProject/android_packages_apps_Tag" />
   <project path="packages/apps/Terminal" remote="third" name="ThirdProject/android_packages_apps_Terminal" />
   <project path="packages/apps/ThemeChooser" name="MoKee/android_packages_apps_ThemeChooser" />
-  <project path="packages/apps/TvSettings" remote="third" name="ThirdProject/android_packages_apps_TvSettings" />
   <project path="packages/apps/UnifiedEmail" name="MoKee/android_packages_apps_UnifiedEmail" />
   <project path="packages/experimental" remote="third" name="ThirdProject/android_packages_experimental" />
   <project path="packages/providers/ApplicationsProvider" remote="third" name="ThirdProject/android_packages_providers_ApplicationsProvider" />
