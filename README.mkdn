@@ -18,6 +18,24 @@ Patches are always welcomed!  Please submit your patches via MoKee Gerrit! You c
 
 *Note: "." means current directory*
 
+*Commit Example*
+
+We want to make a change in InputDevice.java that resides in the frameworks/base project, and upload that to Gerrit for review. Let's start a local branch of that repo (directory) and call it mychanges:
+
+    repo start mychanges frameworks/base&&cd frameworks/base
+
+Now we make our edits to that file. We can check those changes:
+
+    git add InputDevice.java (or git add .)
+
+Then commit it:
+
+    git commit -m 'Added feature xyz'
+
+Go to the root of your local android folder, and issue the upload:
+
+    cd ~/mokee&&repo upload frameworks/base
+
 For more help on using repo, use this command:
 
     repo help upload
@@ -63,4 +81,4 @@ or
 
     ./mk
 
-The script is interactive so everything else is self-explanatory.
+The script is interactive so everything else is self-explanatory.t 
