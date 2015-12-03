@@ -34,7 +34,7 @@ Then commit it:
 
 Go to the root of your local android folder, and issue the upload:
 
-    cd ~/mokee&&repo upload frameworks/base
+    cd ~/mokee && repo upload frameworks/base
 
 For more help on using repo, use this command:
 
@@ -81,4 +81,4 @@ or
 
     ./mk
 
-The script is interactive so everything else is self-explanatory.t 
+The script is interactive so everything else is self-explanatory.
