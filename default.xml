@@ -50,6 +50,7 @@
   <project path="frameworks/base" name="MoKee/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/native" name="MoKee/android_frameworks_native" groups="pdk" />
   <project path="frameworks/opt/hardware" name="MoKee/android_frameworks_opt_hardware" />
+  <project path="frameworks/opt/net/wifi" name="MoKee/android_frameworks_opt_net_wifi" groups="pdk" />
   <project path="frameworks/opt/telephony" name="MoKee/android_frameworks_opt_telephony" groups="pdk" />
   <project path="frameworks/support" name="MoKee/android_frameworks_support" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/webview" name="MoKee/android_frameworks_webview" groups="pdk-cw-fs,pdk-fs" />
@@ -232,7 +233,6 @@
   <project path="frameworks/opt/net/ethernet" name="ThirdProject/android_frameworks_opt_net_ethernet" groups="pdk-fs" remote="third" />
   <project path="frameworks/opt/net/ims" name="ThirdProject/android_frameworks_opt_net_ims" groups="frameworks_ims,pdk-cw-fs,pdk-fs" remote="third" />
   <project path="frameworks/opt/net/voip" name="ThirdProject/android_frameworks_opt_net_voip" groups="pdk-cw-fs,pdk-fs" remote="third" />
-  <project path="frameworks/opt/net/wifi" name="ThirdProject/android_frameworks_opt_net_wifi" groups="pdk" remote="third" />
   <project path="frameworks/opt/photoviewer" name="ThirdProject/android_frameworks_opt_photoviewer" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="frameworks/opt/setupwizard" name="ThirdProject/android_frameworks_opt_setupwizard" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="frameworks/opt/timezonepicker" name="ThirdProject/android_frameworks_opt_timezonepicker" groups="pdk-cw-fs,pdk-fs" remote="third" />
