@@ -39,6 +39,7 @@
   <project path="external/bash" name="MoKee/android_external_bash" />
   <project path="external/connectivity" name="MoKee/android_external_connectivity" />
   <project path="external/google" name="MoKee/android_external_google" />
+  <project path="external/lz4" name="MoKee/android_external_lz4" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/mksh" name="MoKee/android_external_mksh" groups="pdk" />
   <project path="external/mm-dash" name="MoKee/android_external_mm-dash" />
   <project path="external/mokee/BuildController" name="MoKee/android_external_mokee_BuildController" />
@@ -182,7 +183,6 @@
   <project path="external/libxslt" name="ThirdProject/android_external_libxslt" remote="third" />
   <project path="external/linux-tools-perf" name="ThirdProject/android_external_linux-tools-perf" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="external/libtruezip" name="ThirdProject/android_external_libtruezip" remote="third" />
-  <project path="external/lz4" name="ThirdProject/android_external_lz4" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="external/lzma" name="ThirdProject/android_external_lzma" groups="pdk" remote="third" />
   <project path="external/lzo" name="ThirdProject/android_external_lzo" remote="third" />
   <project path="external/nano" name="ThirdProject/android_external_nano" remote="third" />
