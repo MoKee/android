@@ -33,6 +33,7 @@
   <project path="art" name="MoKee/android_art" groups="pdk" />
   <project path="bionic" name="MoKee/android_bionic" groups="pdk" />
   <project path="bootable/recovery" name="MoKee/android_bootable_recovery" groups="pdk" />
+  <project path="bootable/recovery-twrp" name="MoKee/android_bootable_recovery-twrp" groups="pdk" />
   <project path="development" name="MoKee/android_development" groups="pdk-cw-fs,pdk-fs" />
   <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" />
   <project path="device/qcom/sepolicy" name="MoKee/android_device_qcom_sepolicy" />
