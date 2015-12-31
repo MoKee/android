@@ -125,7 +125,7 @@
 
 <!-- BEGIN THIRD PROJECT -->
   <project path="abi/cpp" name="ThirdProject/android_abi_cpp" groups="pdk" remote="third" />
-  <project path="cts" name="ThirdProject/android_cts" groups="cts,pdk-cw-fs,pdk-fs" remote="third" />
+  <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs,pdk-fs" revision="marshmallow-cts-release" remote="aosp" />
   <project path="device/common" name="ThirdProject/android_device_common" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="device/generic/arm64" name="ThirdProject/android_device_generic_arm64" groups="pdk" remote="third" />
   <project path="device/generic/armv7-a-neon" name="ThirdProject/android_device_generic_armv7-a-neon" groups="pdk" remote="third" />
