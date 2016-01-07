@@ -146,7 +146,6 @@
   <project path="external/boringssl" name="ThirdProject/android_external_boringssl" groups="pdk" remote="third" />
   <project path="external/bouncycastle" name="ThirdProject/android_external_bouncycastle" groups="pdk" remote="third" />
   <project path="external/brctl" name="ThirdProject/android_external_brctl" remote="third" />
-  <project path="external/busybox" name="ThirdProject/android_external_busybox" remote="third" />
   <project path="external/curl" name="ThirdProject/android_external_curl" remote="third" />
   <project path="external/dhcpcd" name="ThirdProject/android_external_dhcpcd" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="external/dnsmasq" name="ThirdProject/android_external_dnsmasq" groups="pdk" remote="third" />
