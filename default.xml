@@ -121,9 +121,9 @@
   <project path="packages/services/Telephony" name="MoKee/android_packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" />
   <project path="system/core" name="MoKee/android_system_core" groups="pdk" />
   <project path="system/extras/su" name="MoKee/android_system_extras_su" />
-  <project path="vendor/mk" name="MoKee/android_vendor_mk" />
+  <project path="vendor/mk" name="MoKee/android_vendor_mk" clone-depth="1" />
   <project path="vendor/mksdk" name="MoKee/mk_platform_sdk" />
-  <project path="vendor/private" name="MoKee/mk_private" />
+  <project path="vendor/private" name="MoKee/mk_private" clone-depth="1" />
 <!-- END MOKEE OPENSOURCE -->
 
 <!-- BEGIN THIRD PROJECT -->
