@@ -313,7 +313,6 @@
   <project path="system/qcom" name="ThirdProject/android_system_qcom" groups="qcom" remote="third" />
   <project path="system/security" name="ThirdProject/android_system_security" groups="pdk" remote="third" />
   <project path="system/vold" name="ThirdProject/android_system_vold" groups="pdk" remote="third" />
-  <project path="vendor/qcom/opensource/display-frameworks" name="ThirdProject/android_vendor_qcom_opensource_display-frameworks" remote="third" />
   <project path="vendor/qcom/opensource/dpm" name="ThirdProject/android_vendor_qcom_opensource_dpm" remote="third" />
   <project path="vendor/qcom/opensource/time-services" name="ThirdProject/android_vendor_qcom_opensource_time-services" remote="third" />
 <!-- END THIRD PROJECT -->
