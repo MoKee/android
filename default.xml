@@ -109,6 +109,7 @@
   <project path="packages/apps/PhoneCommon" name="MoKee/android_packages_apps_PhoneCommon" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/Profiles" name="MoKee/android_packages_apps_Profiles" />
   <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" groups="pdk-fs" />
+  <project path="packages/apps/Snap" name="MoKee/android_packages_apps_Snap" groups="pdk-fs" />
   <project path="packages/apps/SoundRecorder" name="MoKee/android_packages_apps_SoundRecorder" groups="pdk-fs" />
   <project path="packages/apps/Stk" name="MoKee/android_packages_apps_Stk" groups="apps_stk,pdk-fs" />
   <project path="packages/apps/ThemeChooser" name="MoKee/android_packages_apps_ThemeChooser" />
