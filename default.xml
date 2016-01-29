@@ -60,6 +60,7 @@
   <project path="hardware/libhardware_legacy" name="MoKee/android_hardware_libhardware_legacy" groups="pdk" />
   <project path="hardware/mk" name="MoKee/android_hardware_mk" />
   <project path="hardware/mokee" name="MoKee/android_hardware_mokee" />
+  <project path="hardware/ti/omap4" name="MoKee/android_hardware_ti_omap4" />
   <project path="hardware/qcom/audio-caf/apq8084" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkm-caf-8084" />
   <project path="hardware/qcom/audio-caf/msm8916" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkm-caf-8916" />
   <project path="hardware/qcom/audio-caf/msm8952" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkm-caf-8952" />
@@ -271,7 +272,6 @@
   <project path="hardware/qcom/wlan" name="ThirdProject/android_hardware_qcom_wlan" groups="qcom_wlan" remote="third" />
   <project path="hardware/ril" name="ThirdProject/android_hardware_ril" groups="pdk" remote="third" />
   <project path="hardware/samsung_slsi/exynos5" name="ThirdProject/android_hardware_samsung_slsi_exynos5" remote="third" />
-  <project path="hardware/ti/omap4" name="ThirdProject/android_hardware_ti_omap4" remote="third" />
   <project path="hardware/ti/omap4xxx" name="ThirdProject/android_hardware_ti_omap4xxx" groups="omap4" remote="third" />
   <project path="hardware/ti/wlan" name="ThirdProject/android_hardware_ti_wlan" remote="third" />
   <project path="hardware/ti/wpan" name="ThirdProject/android_hardware_ti_wpan" remote="third" />
