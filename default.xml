@@ -119,6 +119,7 @@
   <project path="packages/providers/ContactsProvider" name="MoKee/android_packages_providers_ContactsProvider" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/providers/TelephonyProvider" name="MoKee/android_packages_providers_TelephonyProvider" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/providers/ThemesProvider" name="MoKee/android_packages_providers_ThemesProvider" />
+  <project path="packages/screensavers/Basic" name="MoKee/android_packages_screensavers_Basic" groups="pdk-fs" />
   <project path="packages/services/Mms" name="MoKee/android_packages_services_Mms" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/services/Telecomm" name="MoKee/android_packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/services/Telephony" name="MoKee/android_packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" />
@@ -300,7 +301,6 @@
   <project path="packages/providers/PartnerBookmarksProvider" name="ThirdProject/android_packages_providers_PartnerBookmarksProvider" groups="pdk-fs" remote="third" />
   <project path="packages/providers/TvProvider" name="ThirdProject/android_packages_providers_TvProvider" groups="pdk-fs" remote="third" />
   <project path="packages/providers/UserDictionaryProvider" name="ThirdProject/android_packages_providers_UserDictionaryProvider" groups="pdk-cw-fs,pdk-fs" remote="third" />
-  <project path="packages/screensavers/Basic" name="ThirdProject/android_packages_screensavers_Basic" groups="pdk-fs" remote="third" />
   <project path="packages/screensavers/PhotoTable" name="ThirdProject/android_packages_screensavers_PhotoTable" groups="pdk-fs" remote="third" />
   <project path="packages/screensavers/WebView" name="ThirdProject/android_packages_screensavers_WebView" groups="pdk-fs" remote="third" />
   <project path="packages/wallpapers/Basic" name="ThirdProject/android_packages_wallpapers_Basic" groups="pdk-fs" remote="third" />
