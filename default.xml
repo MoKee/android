@@ -310,6 +310,7 @@
   <project path="packages/wallpapers/MagicSmoke" name="ThirdProject/android_packages_wallpapers_MagicSmoke" groups="pdk-fs" remote="third" />
   <project path="packages/wallpapers/NoiseField" name="ThirdProject/android_packages_wallpapers_NoiseField" groups="pdk-fs" remote="third" />
   <project path="packages/wallpapers/PhaseBeam" name="ThirdProject/android_packages_wallpapers_PhaseBeam" groups="pdk-fs" remote="third" />
+  <project path="prebuilts/mksdk" name="MoKee/android_prebuilts_mksdk" clone-depth="1" revision="master" />
   <project path="system/bt" name="ThirdProject/android_system_bt" groups="pdk" remote="third" />
   <project path="system/extras" name="ThirdProject/android_system_extras" groups="pdk" remote="third" />
   <project path="system/keymaster" name="ThirdProject/android_system_keymaster" groups="pdk" remote="third" />
