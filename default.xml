@@ -370,7 +370,7 @@
   <project path="frameworks/opt/net/ethernet" remote="third" name="ThirdProject/android_frameworks_opt_net_ethernet" />
   <project path="frameworks/opt/net/ims" remote="third" name="ThirdProject/android_frameworks_opt_net_ims" groups="frameworks_ims,pdk-cw-fs" />
   <project path="frameworks/opt/net/voip" remote="third" name="ThirdProject/android_frameworks_opt_net_voip" />
-  <project path="frameworks/opt/net/wifi" remote="third" name="ThirdProject/android_frameworks_opt_net_wifi" groups="pdk" />
+  <project path="frameworks/opt/net/wifi" name="MoKee/android_frameworks_opt_net_wifi" groups="pdk" />
   <project path="frameworks/opt/photoviewer" remote="third" name="ThirdProject/android_frameworks_opt_photoviewer" />
   <project path="frameworks/opt/setupwizard" remote="third" name="ThirdProject/android_frameworks_opt_setupwizard" groups="pdk-cw-fs" />
   <project path="frameworks/opt/telephony" name="MoKee/android_frameworks_opt_telephony" groups="pdk" />
