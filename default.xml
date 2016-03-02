@@ -226,14 +226,12 @@
   <project path="frameworks/compile/mclinker" name="ThirdProject/android_frameworks_compile_mclinker" groups="pdk" remote="third" />
   <project path="frameworks/compile/slang" name="ThirdProject/android_frameworks_compile_slang" groups="pdk" remote="third" />
   <project path="frameworks/ex" name="ThirdProject/android_frameworks_ex" groups="pdk-cw-fs,pdk-fs" remote="third" />
-  <project path="frameworks/mff" name="ThirdProject/android_frameworks_mff" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="frameworks/minikin" name="ThirdProject/android_frameworks_minikin" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="frameworks/ml" name="ThirdProject/android_frameworks_ml" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="frameworks/multidex" name="ThirdProject/android_frameworks_multidex" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="frameworks/opt/bitmap" name="ThirdProject/android_frameworks_opt_bitmap" groups="pdk-fs" remote="third" />
   <project path="frameworks/opt/bluetooth" name="ThirdProject/android_frameworks_opt_bluetooth" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="frameworks/opt/calendar" name="ThirdProject/android_frameworks_opt_calendar" groups="pdk-cw-fs,pdk-fs" remote="third" />
-  <project path="frameworks/opt/carddav" name="ThirdProject/android_frameworks_opt_carddav" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="frameworks/opt/chips" name="ThirdProject/android_frameworks_opt_chips" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="frameworks/opt/colorpicker" name="ThirdProject/android_frameworks_opt_colorpicker" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="frameworks/opt/datetimepicker" name="ThirdProject/android_frameworks_opt_datetimepicker" groups="pdk-cw-fs,pdk-fs" remote="third" />
@@ -261,7 +259,6 @@
   <project path="hardware/intel/img/psb_video" name="ThirdProject/android_hardware_intel_img_psb_video" groups="intel" remote="third" />
   <project path="hardware/invensense" name="ThirdProject/android_hardware_invensense" groups="invensense" remote="third" />
   <project path="hardware/libhardware" name="ThirdProject/android_hardware_libhardware" groups="pdk" remote="third" />
-  <project path="hardware/nvidia/audio" name="ThirdProject/android_hardware_nvidia_audio" groups="nvidia_audio" remote="third" />
   <project path="hardware/qcom/audio/default" name="ThirdProject/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="third" />
   <project path="hardware/qcom/bt" name="ThirdProject/android_hardware_qcom_bt" groups="qcom" remote="third" />
   <project path="hardware/qcom/camera" name="ThirdProject/android_hardware_qcom_camera" groups="qcom" remote="third" />
@@ -396,7 +393,6 @@
   <project path="external/hyphenation-patterns" name="platform/external/hyphenation-patterns" groups="pdk-fs" remote="aosp" />
   <project path="external/ipsec-tools" name="platform/external/ipsec-tools" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/iputils" name="platform/external/iputils" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
-  <project path="external/jack" name="platform/external/jack" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/javasqlite" name="platform/external/javasqlite" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/javassist" name="platform/external/javassist" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/jdiff" name="platform/external/jdiff" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
@@ -429,8 +425,6 @@
   <project path="external/libopus" name="platform/external/libopus" groups="pdk" remote="aosp" />
   <project path="external/libpcap" name="platform/external/libpcap" groups="pdk,pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/libphonenumber" name="platform/external/libphonenumber" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
-  <project path="external/libseccomp-helper" name="platform/external/libseccomp-helper" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
-  <project path="external/libssh2" name="platform/external/libssh2" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/libunwind" name="platform/external/libunwind" groups="pdk" remote="aosp" />
   <project path="external/libusb-compat" name="platform/external/libusb-compat" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/libutf" name="platform/external/libutf" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
@@ -502,7 +496,6 @@
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="frameworks/opt/inputconnectioncommon" name="platform/frameworks/opt/inputconnectioncommon" groups="pdk-fs" remote="aosp" />
-  <project path="frameworks/opt/widget" name="platform/frameworks/opt/widget" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="frameworks/data-binding" name="platform/frameworks/data-binding" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="hardware/intel/audio_media" name="platform/hardware/intel/audio_media" groups="intel" remote="aosp" />
   <project path="hardware/intel/bootstub" name="platform/hardware/intel/bootstub" groups="intel" remote="aosp" />
@@ -519,7 +512,6 @@
   <project path="hardware/qcom/msm8x27" name="platform/hardware/qcom/msm8x27" groups="qcom_msm8x27" remote="aosp" />
   <project path="hardware/qcom/msm8x74" name="platform/hardware/qcom/msm8x74" groups="pdk,qcom_msm8x74" remote="aosp" />
   <project path="hardware/qcom/msm8x84" name="platform/hardware/qcom/msm8x84" groups="qcom_msm8x84" remote="aosp" />
-  <project path="hardware/qcom/sensors" name="platform/hardware/qcom/sensors" groups="qcom" remote="aosp" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" groups="omap3" remote="aosp" />
   <project path="hardware/ti/omap4-aah" name="platform/hardware/ti/omap4-aah" groups="omap4-aah" remote="aosp" />
   <project path="ndk" name="platform/ndk" groups="generic_fs" remote="aosp" />
@@ -532,11 +524,9 @@
   <project path="prebuilts/devtools" name="platform/prebuilts/devtools" groups="pdk-fs" clone-depth="1" remote="aosp" />
   <project path="prebuilts/eclipse" name="platform/prebuilts/eclipse" groups="pdk" clone-depth="1" remote="aosp" />
   <project path="prebuilts/eclipse-build-deps" name="platform/prebuilts/eclipse-build-deps" groups="notdefault,eclipse" clone-depth="1" remote="aosp" />
-  <project path="prebuilts/eclipse-build-deps-sources" name="platform/prebuilts/eclipse-build-deps-sources" groups="notdefault,eclipse" clone-depth="1" remote="aosp" />
   <project path="prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" groups="pdk,darwin,arm" clone-depth="1" remote="aosp" />
   <project path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8" name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8" groups="pdk,darwin,arm" clone-depth="1" remote="aosp" />
   <project path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9" name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9" groups="pdk,darwin,arm" clone-depth="1" remote="aosp" />
-  <project path="prebuilts/gcc/darwin-x86/host/headers" name="platform/prebuilts/gcc/darwin-x86/host/headers" groups="pdk,darwin" clone-depth="1" remote="aosp" />
   <project path="prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" name="platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" groups="pdk,darwin" clone-depth="1" remote="aosp" />
   <project path="prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9" name="platform/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9" groups="pdk,darwin,mips,notdefault" clone-depth="1" remote="aosp" />
   <project path="prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9" name="platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9" groups="pdk,darwin,x86" clone-depth="1" remote="aosp" />
