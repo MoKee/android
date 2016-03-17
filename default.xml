@@ -41,6 +41,7 @@
   <project path="external/bash" name="MoKee/android_external_bash" />
   <project path="external/connectivity" name="MoKee/android_external_connectivity" />
   <project path="external/google" name="MoKee/android_external_google" />
+  <project path="external/jpeg" name="MoKee/android_external_jpeg" groups="pdk" />
   <project path="external/lz4" name="MoKee/android_external_lz4" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/mksh" name="MoKee/android_external_mksh" groups="pdk" />
   <project path="external/mm-dash" name="MoKee/android_external_mm-dash" />
@@ -69,6 +70,7 @@
   <project path="hardware/qcom/audio-caf/msm8974" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkm-caf-8974" />
   <project path="hardware/qcom/audio-caf/msm8994" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkm-caf-8994" />
   <project path="hardware/qcom/audio-caf/msm8996" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkm-caf-8996" />
+  <project path="hardware/qcom/bt" name="MoKee/android_hardware_qcom_bt" groups="qcom" />
   <project path="hardware/qcom/bt-caf" name="MoKee/android_hardware_qcom_bt" groups="qcom" revision="mkm-caf" />
   <project path="hardware/qcom/display-caf/apq8084" name="MoKee/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="mkm-caf-8084" />
   <project path="hardware/qcom/display-caf/msm8916" name="MoKee/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="mkm-caf-8916" />
@@ -124,6 +126,7 @@
   <project path="packages/services/Mms" name="MoKee/android_packages_services_Mms" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/services/Telecomm" name="MoKee/android_packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/services/Telephony" name="MoKee/android_packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" />
+  <project path="prebuilts/mksdk" name="MoKee/android_prebuilts_mksdk" clone-depth="1" revision="master" />
   <project path="system/core" name="MoKee/android_system_core" groups="pdk" />
   <project path="system/extras/su" name="MoKee/android_system_extras_su" />
   <project path="vendor/mk" name="MoKee/android_vendor_mk" />
@@ -171,7 +174,6 @@
   <project path="external/iproute2" name="ThirdProject/android_external_iproute2" groups="pdk" remote="third" />
   <project path="external/iptables" name="ThirdProject/android_external_iptables" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="external/jarjar" name="ThirdProject/android_external_jarjar" groups="pdk" remote="third" />
-  <project path="external/jpeg" name="ThirdProject/android_external_jpeg" groups="pdk" remote="third" />
   <project path="external/jsr305" name="ThirdProject/android_external_jsr305" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="external/koush/AndroidAsync" name="ThirdProject/AndroidAsync" remote="third" />
   <project path="external/koush/ion" name="ThirdProject/ion" remote="third" />
@@ -261,7 +263,6 @@
   <project path="hardware/invensense" name="ThirdProject/android_hardware_invensense" groups="invensense" remote="third" />
   <project path="hardware/libhardware" name="ThirdProject/android_hardware_libhardware" groups="pdk" remote="third" />
   <project path="hardware/qcom/audio/default" name="ThirdProject/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="third" />
-  <project path="hardware/qcom/bt" name="ThirdProject/android_hardware_qcom_bt" groups="qcom" remote="third" />
   <project path="hardware/qcom/camera" name="ThirdProject/android_hardware_qcom_camera" groups="qcom" remote="third" />
   <project path="hardware/qcom/display" name="ThirdProject/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="third" />
   <project path="hardware/qcom/fm" name="ThirdProject/android_hardware_qcom_fm" groups="qcom,qcom_fm" remote="third" />
@@ -308,7 +309,6 @@
   <project path="packages/wallpapers/MagicSmoke" name="ThirdProject/android_packages_wallpapers_MagicSmoke" groups="pdk-fs" remote="third" />
   <project path="packages/wallpapers/NoiseField" name="ThirdProject/android_packages_wallpapers_NoiseField" groups="pdk-fs" remote="third" />
   <project path="packages/wallpapers/PhaseBeam" name="ThirdProject/android_packages_wallpapers_PhaseBeam" groups="pdk-fs" remote="third" />
-  <project path="prebuilts/mksdk" name="MoKee/android_prebuilts_mksdk" clone-depth="1" revision="master" />
   <project path="system/bt" name="ThirdProject/android_system_bt" groups="pdk" remote="third" />
   <project path="system/extras" name="ThirdProject/android_system_extras" groups="pdk" remote="third" />
   <project path="system/keymaster" name="ThirdProject/android_system_keymaster" groups="pdk" remote="third" />
