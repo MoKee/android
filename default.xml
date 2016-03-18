@@ -88,6 +88,7 @@
   <project path="hardware/qcom/media-caf/msm8996" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkm-caf-8996" />
   <project path="hardware/qcom/wlan-caf" name="MoKee/android_hardware_qcom_wlan" groups="qcom_wlan" revision="mkm-caf" />
   <project path="hardware/ril-caf" name="MoKee/android_hardware_ril" groups="pdk" revision="mkm-caf" />
+  <project path="packages/apps/Aegis" name="MoKee/android_packages_apps_Aegis" />
   <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />
   <project path="packages/apps/Bluetooth" name="MoKee/android_packages_apps_Bluetooth" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/Browser" name="MoKee/android_packages_apps_Browser" groups="pdk-fs" />
@@ -132,7 +133,7 @@
   <project path="vendor/mk" name="MoKee/android_vendor_mk" />
   <project path="vendor/mksdk" name="MoKee/mk_platform_sdk" />
   <project path="vendor/qcom/opensource/dataservices" name="MoKee/android_vendor_qcom_opensource_dataservices" />
-  <project path="vendor/private" name="MoKee/mk_private" clone-depth="1" />
+  <project path="vendor/private" name="MoKee/mk_private" clone-depth="3" />
 <!-- END MOKEE OPENSOURCE -->
 
 <!-- BEGIN THIRD PROJECT -->
