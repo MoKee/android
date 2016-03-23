@@ -47,7 +47,6 @@
   <project path="external/mm-dash" name="MoKee/android_external_mm-dash" />
   <project path="external/mokee/BuildController" name="MoKee/android_external_mokee_BuildController" />
   <project path="external/mokee/MoKeeHelper" name="MoKee/android_external_mokee_MoKeeHelper" />
-  <project path="external/mokee/MoKeeSDKs" name="MoKee/android_external_mokee_MoKeeSDKs" clone-depth="1" />
   <project path="external/mokee/ServerController" name="MoKee/android_external_mokee_ServerController" revision="refs/heads/master" />
   <project path="external/sepolicy" name="MoKee/android_external_sepolicy" groups="pdk" />
   <project path="external/uicommon" name="MoKee/android_external_mokee_UICommon" />
