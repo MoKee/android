@@ -303,6 +303,7 @@
   <project path="packages/providers/UserDictionaryProvider" name="ThirdProject/android_packages_providers_UserDictionaryProvider" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="packages/screensavers/PhotoTable" name="ThirdProject/android_packages_screensavers_PhotoTable" groups="pdk-fs" remote="third" />
   <project path="packages/screensavers/WebView" name="ThirdProject/android_packages_screensavers_WebView" groups="pdk-fs" remote="third" />
+  <project path="packages/services/LiveLockScreenService" name="ThirdProject/android_packages_services_LiveLockScreenService" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="packages/wallpapers/Basic" name="ThirdProject/android_packages_wallpapers_Basic" groups="pdk-fs" remote="third" />
   <project path="packages/wallpapers/Galaxy4" name="ThirdProject/android_packages_wallpapers_Galaxy4" groups="pdk-fs" remote="third" />
   <project path="packages/wallpapers/HoloSpiral" name="ThirdProject/android_packages_wallpapers_HoloSpiral" groups="pdk-fs" remote="third" />
