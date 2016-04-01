@@ -123,6 +123,7 @@
   <project path="packages/providers/ContactsProvider" name="MoKee/android_packages_providers_ContactsProvider" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/providers/TelephonyProvider" name="MoKee/android_packages_providers_TelephonyProvider" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/providers/ThemesProvider" name="MoKee/android_packages_providers_ThemesProvider" />
+  <project path="packages/providers/WeatherProvider" name="MoKee/android_packages_providers_WeatherProvider" />
   <project path="packages/screensavers/Basic" name="MoKee/android_packages_screensavers_Basic" groups="pdk-fs" />
   <project path="packages/services/LiveLockScreenService" name="MoKee/android_packages_services_LiveLockScreenService" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/services/Mms" name="MoKee/android_packages_services_Mms" groups="pdk-cw-fs,pdk-fs" />
