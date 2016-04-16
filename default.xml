@@ -412,7 +412,7 @@
   <project path="hardware/qcom/audio-caf/msm8960" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkl-mr1-caf-8960" />
   <project path="hardware/qcom/audio-caf/msm8974" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkl-mr1-caf-8974" />
   <project path="hardware/qcom/audio-caf/msm8994" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkl-mr1-caf-8994" />
-  <project path="hardware/qcom/bt" remote="third" name="ThirdProject/android_hardware_qcom_bt" groups="qcom" />
+  <project path="hardware/qcom/bt" name="MoKee/android_hardware_qcom_bt" groups="qcom" />
   <project path="hardware/qcom/display" remote="third" name="ThirdProject/android_hardware_qcom_display" groups="qcom,qcom_display" />
   <project path="hardware/qcom/display-caf/apq8084" name="MoKee/android_hardware_qcom_display" groups="qcom,qcom_display" revision="mkl-mr1-caf-8084" />
   <project path="hardware/qcom/display-caf/msm8916" name="MoKee/android_hardware_qcom_display" groups="qcom,qcom_display" revision="mkl-mr1-caf-8916" />
