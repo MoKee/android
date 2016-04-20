@@ -153,6 +153,7 @@
   <project path="external/iproute2" name="ThirdProject/android_external_iproute2" groups="pdk" remote="third" />
   <project path="external/iptables" name="ThirdProject/android_external_iptables" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="external/jarjar" name="ThirdProject/android_external_jarjar" groups="pdk" remote="third" />
+  <project path="external/json-c" name="ThirdProject/android_external_json-c" remote="third" />
   <project path="external/jsr305" name="ThirdProject/android_external_jsr305" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="external/koush/AndroidAsync" name="ThirdProject/AndroidAsync" remote="third" />
   <project path="external/koush/ion" name="ThirdProject/ion" remote="third" />
