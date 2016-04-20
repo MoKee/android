@@ -60,34 +60,10 @@
   <project path="frameworks/support" name="MoKee/android_frameworks_support" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/webview" name="MoKee/android_frameworks_webview" groups="pdk-cw-fs,pdk-fs" />
   <project path="hardware/libhardware_legacy" name="MoKee/android_hardware_libhardware_legacy" groups="pdk" />
+  <include name="snippets/hal_mk_all.xml" />
   <project path="hardware/mk" name="MoKee/android_hardware_mk" />
   <project path="hardware/mokee" name="MoKee/android_hardware_mokee" />
   <project path="hardware/ti/omap4" name="MoKee/android_hardware_ti_omap4" />
-  <project path="hardware/qcom/audio-caf/apq8084" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkm-caf-8084" />
-  <project path="hardware/qcom/audio-caf/msm8916" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkm-caf-8916" />
-  <project path="hardware/qcom/audio-caf/msm8952" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkm-caf-8952" />
-  <project path="hardware/qcom/audio-caf/msm8960" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkm-caf-8960" />
-  <project path="hardware/qcom/audio-caf/msm8974" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkm-caf-8974" />
-  <project path="hardware/qcom/audio-caf/msm8994" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkm-caf-8994" />
-  <project path="hardware/qcom/audio-caf/msm8996" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkm-caf-8996" />
-  <project path="hardware/qcom/bt" name="MoKee/android_hardware_qcom_bt" groups="qcom" />
-  <project path="hardware/qcom/bt-caf" name="MoKee/android_hardware_qcom_bt" groups="qcom" revision="mkm-caf" />
-  <project path="hardware/qcom/display-caf/apq8084" name="MoKee/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="mkm-caf-8084" />
-  <project path="hardware/qcom/display-caf/msm8916" name="MoKee/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="mkm-caf-8916" />
-  <project path="hardware/qcom/display-caf/msm8952" name="MoKee/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="mkm-caf-8952" />
-  <project path="hardware/qcom/display-caf/msm8960" name="MoKee/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="mkm-caf-8960" />
-  <project path="hardware/qcom/display-caf/msm8974" name="MoKee/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="mkm-caf-8974" />
-  <project path="hardware/qcom/display-caf/msm8994" name="MoKee/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="mkm-caf-8994" />
-  <project path="hardware/qcom/display-caf/msm8996" name="MoKee/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="mkm-caf-8996" />
-  <project path="hardware/qcom/media-caf/apq8084" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkm-caf-8084" />
-  <project path="hardware/qcom/media-caf/msm8916" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkm-caf-8916" />
-  <project path="hardware/qcom/media-caf/msm8952" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkm-caf-8952" />
-  <project path="hardware/qcom/media-caf/msm8960" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkm-caf-8960" />
-  <project path="hardware/qcom/media-caf/msm8974" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkm-caf-8974" />
-  <project path="hardware/qcom/media-caf/msm8994" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkm-caf-8994" />
-  <project path="hardware/qcom/media-caf/msm8996" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkm-caf-8996" />
-  <project path="hardware/qcom/wlan-caf" name="MoKee/android_hardware_qcom_wlan" groups="qcom_wlan" revision="mkm-caf" />
-  <project path="hardware/ril-caf" name="MoKee/android_hardware_ril" groups="pdk" revision="mkm-caf" />
   <project path="packages/apps/Aegis" name="MoKee/android_packages_apps_Aegis" />
   <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />
   <project path="packages/apps/Bluetooth" name="MoKee/android_packages_apps_Bluetooth" groups="pdk-cw-fs,pdk-fs" />
@@ -135,7 +111,6 @@
   <project path="system/extras/su" name="MoKee/android_system_extras_su" />
   <project path="vendor/mk" name="MoKee/android_vendor_mk" />
   <project path="vendor/mksdk" name="MoKee/mk_platform_sdk" />
-  <project path="vendor/qcom/opensource/dataservices" name="MoKee/android_vendor_qcom_opensource_dataservices" />
   <project path="vendor/private" name="MoKee/mk_private" clone-depth="3" />
 <!-- END MOKEE OPENSOURCE -->
 
@@ -266,15 +241,6 @@
   <project path="hardware/intel/img/psb_video" name="ThirdProject/android_hardware_intel_img_psb_video" groups="intel" remote="third" />
   <project path="hardware/invensense" name="ThirdProject/android_hardware_invensense" groups="invensense" remote="third" />
   <project path="hardware/libhardware" name="ThirdProject/android_hardware_libhardware" groups="pdk" remote="third" />
-  <project path="hardware/qcom/audio/default" name="ThirdProject/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="third" />
-  <project path="hardware/qcom/camera" name="ThirdProject/android_hardware_qcom_camera" groups="qcom" remote="third" />
-  <project path="hardware/qcom/display" name="ThirdProject/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="third" />
-  <project path="hardware/qcom/fm" name="ThirdProject/android_hardware_qcom_fm" groups="qcom,qcom_fm" remote="third" />
-  <project path="hardware/qcom/gps" name="ThirdProject/android_hardware_qcom_gps" groups="qcom,qcom_gps" remote="third" />
-  <project path="hardware/qcom/keymaster" name="ThirdProject/android_hardware_qcom_keymaster" groups="qcom,qcom_keymaster" remote="third" />
-  <project path="hardware/qcom/media/default" name="ThirdProject/android_hardware_qcom_media" groups="qcom" remote="third" />
-  <project path="hardware/qcom/wlan" name="ThirdProject/android_hardware_qcom_wlan" groups="qcom_wlan" remote="third" />
-  <project path="hardware/ril" name="ThirdProject/android_hardware_ril" groups="pdk" remote="third" />
   <project path="hardware/samsung_slsi/exynos5" name="ThirdProject/android_hardware_samsung_slsi_exynos5" remote="third" />
   <project path="hardware/ti/omap4xxx" name="ThirdProject/android_hardware_ti_omap4xxx" groups="omap4" remote="third" />
   <project path="hardware/ti/wlan" name="ThirdProject/android_hardware_ti_wlan" remote="third" />
@@ -321,8 +287,6 @@
   <project path="system/qcom" name="ThirdProject/android_system_qcom" groups="qcom" remote="third" />
   <project path="system/security" name="ThirdProject/android_system_security" groups="pdk" remote="third" />
   <project path="system/vold" name="ThirdProject/android_system_vold" groups="pdk" remote="third" />
-  <project path="vendor/qcom/opensource/dpm" name="ThirdProject/android_vendor_qcom_opensource_dpm" remote="third" />
-  <project path="vendor/qcom/opensource/time-services" name="ThirdProject/android_vendor_qcom_opensource_time-services" remote="third" />
 <!-- END THIRD PROJECT -->
 
 <!-- BEGIN AOSP -->
