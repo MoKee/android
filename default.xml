@@ -87,7 +87,6 @@
   <project path="packages/apps/Messaging" name="MoKee/android_packages_apps_Messaging" groups="pdk-fs" />
   <project path="packages/apps/MoKeeSetupWizard" name="MoKee/android_packages_apps_MoKeeSetupWizard" />
   <project path="packages/apps/Nox" name="MoKee/android_packages_apps_Nox" />
-  <project path="packages/apps/OpenWeatherMapProvider" name="MoKee/android_packages_apps_OpenWeatherMapProvider" />
   <project path="packages/apps/PackageInstaller" name="MoKee/android_packages_apps_PackageInstaller" groups="pdk-fs" />
   <project path="packages/apps/PhoneCommon" name="MoKee/android_packages_apps_PhoneCommon" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/Profiles" name="MoKee/android_packages_apps_Profiles" />
@@ -99,6 +98,7 @@
   <project path="packages/apps/ViPER4Android" name="MoKee/android_packages_apps_ViPER4Android" />
   <project path="packages/apps/UnifiedEmail" name="MoKee/android_packages_apps_UnifiedEmail" groups="pdk-fs" />
   <project path="packages/providers/ContactsProvider" name="MoKee/android_packages_providers_ContactsProvider" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/providers/OpenWeatherMapProvider" name="MoKee/android_packages_providers_OpenWeatherMapProvider" />
   <project path="packages/providers/TelephonyProvider" name="MoKee/android_packages_providers_TelephonyProvider" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/providers/ThemesProvider" name="MoKee/android_packages_providers_ThemesProvider" />
   <project path="packages/providers/WeatherProvider" name="MoKee/android_packages_providers_WeatherProvider" />
