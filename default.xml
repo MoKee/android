@@ -61,7 +61,6 @@
   <project path="frameworks/webview" name="MoKee/android_frameworks_webview" groups="pdk-cw-fs,pdk-fs" />
   <project path="hardware/libhardware_legacy" name="MoKee/android_hardware_libhardware_legacy" groups="pdk" />
   <include name="snippets/hal_mk_all.xml" />
-  <project path="hardware/mk" name="MoKee/android_hardware_mk" />
   <project path="hardware/mokee" name="MoKee/android_hardware_mokee" />
   <project path="hardware/ti/omap4" name="MoKee/android_hardware_ti_omap4" />
   <project path="packages/apps/Aegis" name="MoKee/android_packages_apps_Aegis" />
