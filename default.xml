@@ -124,6 +124,7 @@
   <project path="device/generic/common" name="ThirdProject/android_device_generic_common" groups="pdk" remote="third" />
   <project path="device/generic/mips" name="ThirdProject/android_device_generic_mips" groups="pdk" remote="third" />
   <project path="device/google/atv" name="ThirdProject/android_device_google_atv" groups="device,fugu,broadcom_pdk,generic_fs" remote="third" />
+  <project path="external/android-clat" name="ThirdProject/android_external_android-clat" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="external/android-mock" name="ThirdProject/android_external_android-mock" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="external/android-visualizer" name="ThirdProject/android_external_android-visualizer" remote="third" />
   <project path="external/android/support-prebuilt" name="ThirdProject/external_android_support-prebuilt" revision="master" remote="third" />
@@ -135,9 +136,11 @@
   <project path="external/boringssl" name="ThirdProject/android_external_boringssl" groups="pdk" remote="third" />
   <project path="external/bouncycastle" name="ThirdProject/android_external_bouncycastle" groups="pdk" remote="third" />
   <project path="external/brctl" name="ThirdProject/android_external_brctl" remote="third" />
+  <project path="external/bzip2" name="ThirdProject/android_external_bzip2" groups="pdk" remote="third" />
   <project path="external/curl" name="ThirdProject/android_external_curl" remote="third" />
   <project path="external/dhcpcd" name="ThirdProject/android_external_dhcpcd" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="external/dnsmasq" name="ThirdProject/android_external_dnsmasq" groups="pdk" remote="third" />
+  <project path="external/doclava" name="ThirdProject/android_external_doclava" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="external/e2fsprogs" name="ThirdProject/android_external_e2fsprogs" groups="pdk" remote="third" />
   <project path="external/ebtables" name="ThirdProject/android_external_ebtables" remote="third" />
   <project path="external/elfutils" name="ThirdProject/android_external_elfutils" groups="pdk" remote="third" />
@@ -148,7 +151,9 @@
   <project path="external/fsck_msdos" name="ThirdProject/android_external_fsck_msdos" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="external/fuse" name="ThirdProject/android_external_fuse" remote="third" />
   <project path="external/gmock" name="ThirdProject/android_external_gmock" remote="third" />
+  <project path="external/gptfdisk" name="ThirdProject/android_external_gptfdisk" groups="pdk-fs" remote="third" />
   <project path="external/gson" name="ThirdProject/android_external_gson" remote="third" />
+  <project path="external/guava" name="ThirdProject/android_external_guava" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="external/htop" name="ThirdProject/android_external_htop" remote="third" />
   <project path="external/icu" name="ThirdProject/android_external_icu" groups="pdk" remote="third" />
   <project path="external/iproute2" name="ThirdProject/android_external_iproute2" groups="pdk" remote="third" />
@@ -158,6 +163,7 @@
   <project path="external/jsr305" name="ThirdProject/android_external_jsr305" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="external/koush/AndroidAsync" name="ThirdProject/AndroidAsync" remote="third" />
   <project path="external/koush/ion" name="ThirdProject/ion" remote="third" />
+  <project path="external/libavc" name="ThirdProject/android_external_libavc" groups="pdk" remote="third" />
   <project path="external/libncurses" name="ThirdProject/android_external_libncurses" remote="third" />
   <project path="external/libnetfilter_conntrack" name="ThirdProject/android_external_libnetfilter_conntrack" remote="third" />
   <project path="external/libnfc-nci" name="ThirdProject/android_external_libnfc-nci" groups="pdk" remote="third" />
@@ -184,6 +190,7 @@
   <project path="external/openssh" name="ThirdProject/android_external_openssh" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="external/p7zip" name="ThirdProject/android_external_p7zip" remote="third" />
   <project path="external/pcre" name="ThirdProject/android_external_pcre" groups="pdk" remote="third" />
+  <project path="external/pdfium" name="ThirdProject/android_external_pdfium" groups="pdk" remote="third" />
   <project path="external/pigz" name="ThirdProject/android_external_pigz" remote="third" />
   <project path="external/powertop" name="ThirdProject/android_external_powertop" remote="third" />
   <project path="external/protobuf-c" name="ThirdProject/android_external_protobuf-c" remote="third" />
@@ -199,9 +206,11 @@
   <project path="external/tinyalsa" name="ThirdProject/android_external_tinyalsa" groups="pdk" remote="third" />
   <project path="external/tinycompress" name="ThirdProject/android_external_tinycompress" groups="pdk" remote="third" />
   <project path="external/tinyxml2" name="ThirdProject/android_external_tinyxml2" groups="pdk" remote="third" />
+  <project path="external/toybox" name="ThirdProject/android_external_toybox" groups="pdk" remote="third" />
   <project path="external/unrar" name="ThirdProject/android_external_unrar" remote="third" />
   <project path="external/unzip" name="ThirdProject/android_external_unzip" remote="third" />
   <project path="external/vim" name="ThirdProject/android_external_vim" remote="third" />
+  <project path="external/vogar" name="ThirdProject/android_external_vogar" groups="pdk" remote="third" />
   <project path="external/wpa_supplicant_8" name="ThirdProject/android_external_wpa_supplicant_8" groups="pdk" remote="third" />
   <project path="external/yaffs2" name="ThirdProject/android_external_yaffs2" groups="pdk" remote="third" />
   <project path="external/zip" name="ThirdProject/android_external_zip" remote="third" />
@@ -260,7 +269,6 @@
   <project path="packages/apps/Provision" name="ThirdProject/android_packages_apps_Provision" groups="pdk-fs" remote="third" />
   <project path="packages/apps/Screencast" name="ThirdProject/android_packages_apps_Screencast" remote="third" />
   <project path="packages/apps/SmartCardService" name="ThirdProject/android_packages_apps_SmartCardService" groups="pdk-fs" remote="third" />
-  <project path="packages/apps/SpeechRecorder" name="ThirdProject/android_packages_apps_SpeechRecorder" groups="pdk-fs" remote="third" />
   <project path="packages/apps/Tag" name="ThirdProject/android_packages_apps_Tag" groups="pdk-fs" remote="third" />
   <project path="packages/apps/Terminal" name="ThirdProject/android_packages_apps_Terminal" groups="pdk-fs" remote="third" />
   <project path="packages/experimental" name="ThirdProject/android_packages_experimental" remote="third" />
@@ -307,7 +315,6 @@
   <project path="device/sample" name="device/sample" groups="pdk" remote="aosp" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" remote="aosp" />
-  <project path="external/android-clat" name="ThirdProject/android_external_android-clat" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="external/androidplot" name="platform/external/androidplot" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/antlr" name="platform/external/antlr" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/apache-commons-math" name="platform/external/apache-commons-math" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
@@ -316,7 +323,6 @@
   <project path="external/bison" name="platform/external/bison" groups="pdk" remote="aosp" />
   <project path="external/blktrace" name="platform/external/blktrace" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/bsdiff" name="platform/external/bsdiff" groups="pdk" remote="aosp" />
-  <project path="external/bzip2" name="ThirdProject/android_external_bzip2" groups="pdk" remote="third" />
   <project path="external/cblas" name="platform/external/cblas" groups="pdk" remote="aosp" />
   <project path="external/ceres-solver" name="platform/external/ceres-solver" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/chromium-libpac" name="platform/external/chromium-libpac" groups="pdk-fs" remote="aosp" />
@@ -329,7 +335,6 @@
   <project path="external/crcalc" name="platform/external/crcalc" groups="pdk-fs" remote="aosp" />
   <project path="external/deqp" name="platform/external/deqp" groups="pdk-fs" remote="aosp" />
   <project path="external/dexmaker" name="platform/external/dexmaker" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
-  <project path="external/doclava" name="ThirdProject/android_external_doclava" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="external/donuts" name="platform/external/donuts" groups="pdk-fs" remote="aosp" />
   <project path="external/drm_gralloc" name="platform/external/drm_gralloc" groups="drm_gralloc" remote="aosp" />
   <project path="external/drm_hwcomposer" name="platform/external/drm_hwcomposer" groups="drm_hwcomposer" remote="aosp" />
@@ -355,9 +360,7 @@
   <project path="external/google-fonts/cutive-mono" name="platform/external/google-fonts/cutive-mono" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/google-fonts/dancing-script" name="platform/external/google-fonts/dancing-script" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/google-tv-pairing-protocol" name="platform/external/google-tv-pairing-protocol" groups="pdk-fs" remote="aosp" />
-  <project path="external/gptfdisk" name="ThirdProject/android_external_gptfdisk" groups="pdk-fs" remote="third" />
   <project path="external/gtest" name="platform/external/gtest" groups="pdk" remote="aosp" />
-  <project path="external/guava" name="ThirdProject/android_external_guava" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="external/hamcrest" name="platform/external/hamcrest" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/harfbuzz_ng" name="platform/external/harfbuzz_ng" groups="pdk,qcom_msm8x26" remote="aosp" />
   <project path="external/hyphenation-patterns" name="platform/external/hyphenation-patterns" groups="pdk-fs" remote="aosp" />
@@ -377,7 +380,6 @@
   <project path="external/junit" name="platform/external/junit" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/kernel-headers" name="platform/external/kernel-headers" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/ksoap2" name="platform/external/ksoap2" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
-  <project path="external/libavc" name="ThirdProject/android_external_libavc" groups="pdk" remote="third" />
   <project path="external/libcap-ng" name="platform/external/libcap-ng" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/libcxx" name="platform/external/libcxx" groups="pdk" remote="aosp" />
   <project path="external/libcxxabi" name="platform/external/libcxxabi" groups="pdk" remote="aosp" />
@@ -430,7 +432,6 @@
   <project path="external/openfst" name="platform/external/openfst" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/owasp/sanitizer" name="platform/external/owasp/sanitizer" groups="pdk-fs" remote="aosp" />
   <project path="external/parameter-framework" name="platform/external/parameter-framework" groups="pdk-fs" remote="aosp" />
-  <project path="external/pdfium" name="ThirdProject/android_external_pdfium" groups="pdk" remote="third" />
   <project path="external/ppp" name="platform/external/ppp" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/proguard" name="platform/external/proguard" groups="pdk" remote="aosp" />
   <project path="external/protobuf" name="platform/external/protobuf" groups="pdk" remote="aosp" />
@@ -451,13 +452,11 @@
   <project path="external/tagsoup" name="platform/external/tagsoup" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/timezonepicker-support" name="platform/external/timezonepicker-support" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/tinyxml" name="platform/external/tinyxml" groups="pdk" remote="aosp" />
-  <project path="external/toybox" name="ThirdProject/android_external_toybox" groups="pdk" remote="third" />
   <project path="external/tremolo" name="platform/external/tremolo" groups="pdk" remote="aosp" />
   <project path="external/v8" name="platform/external/v8" groups="pdk" remote="aosp" />
   <project path="external/valgrind" name="platform/external/valgrind" groups="pdk" remote="aosp" />
   <project path="external/vboot_reference" name="platform/external/vboot_reference" groups="vboot" remote="aosp" />
   <project path="external/vixl" name="platform/external/vixl" groups="pdk" remote="aosp" />
-  <project path="external/vogar" name="ThirdProject/android_external_vogar" groups="pdk" remote="third" />
   <project path="external/webp" name="platform/external/webp" groups="pdk,qcom_msm8x26" remote="aosp" />
   <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" remote="aosp" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
