@@ -25,6 +25,7 @@
            sync-j="4" />
 
 <!-- BEGIN MOKEE OPENSOURCE -->
+  <include name="snippets/res_mk_all.xml" />
   <project path="build" name="MoKee/android_build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <copyfile src="build-script" dest="mk" />
