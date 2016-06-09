@@ -171,7 +171,6 @@
   <project path="external/libnfc-nxp" name="ThirdProject/android_external_libnfc-nxp" groups="pdk" remote="third" />
   <project path="external/libnfnetlink" name="ThirdProject/android_external_libnfnetlink" remote="third" />
   <project path="external/libphonenumbergoogle" name="ThirdProject/android_external_libphonenumbergoogle" remote="third" />
-  <project path="external/libpng" name="ThirdProject/android_external_libpng" groups="pdk" remote="third" />
   <project path="external/libselinux" name="ThirdProject/android_external_libselinux" groups="pdk" remote="third" />
   <project path="external/libtar" name="ThirdProject/android_external_libtar" remote="third" />
   <project path="external/libusb" name="ThirdProject/android_external_libusb" groups="pdk-cw-fs,pdk-fs" remote="third" />
@@ -396,6 +395,7 @@
   <project path="external/libogg" name="platform/external/libogg" groups="pdk" remote="aosp" />
   <project path="external/libopus" name="platform/external/libopus" groups="pdk" remote="aosp" />
   <project path="external/libpcap" name="platform/external/libpcap" groups="pdk,pdk-cw-fs,pdk-fs" remote="aosp" />
+  <project path="external/libpng" name="platform/external/libpng" groups="pdk" remote="aosp" />
   <project path="external/libphonenumber" name="platform/external/libphonenumber" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/libunwind" name="platform/external/libunwind" groups="pdk" remote="aosp" />
   <project path="external/libusb-compat" name="platform/external/libusb-compat" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
