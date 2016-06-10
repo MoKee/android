@@ -125,6 +125,7 @@
   <project path="device/generic/common" name="ThirdProject/android_device_generic_common" groups="pdk" remote="third" />
   <project path="device/generic/mips" name="ThirdProject/android_device_generic_mips" groups="pdk" remote="third" />
   <project path="device/google/atv" name="ThirdProject/android_device_google_atv" groups="device,fugu,broadcom_pdk,generic_fs" remote="third" />
+  <project path="external/ahbottomnavigation" name="ThirdProject/android_external_ahbottomnavigation" remote="third" />
   <project path="external/android-clat" name="ThirdProject/android_external_android-clat" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="external/android-mock" name="ThirdProject/android_external_android-mock" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="external/android-visualizer" name="ThirdProject/android_external_android-visualizer" remote="third" />
