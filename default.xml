@@ -40,6 +40,7 @@
   <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" />
   <project path="device/qcom/sepolicy" name="MoKee/android_device_qcom_sepolicy" />
   <project path="external/bash" name="MoKee/android_external_bash" />
+  <project path="external/chromium-webview" name="MoKee/android_external_chromium-webview" clone-depth="1" />
   <project path="external/connectivity" name="MoKee/android_external_connectivity" />
   <project path="external/google" name="MoKee/android_external_google" />
   <project path="external/jhead" name="MoKee/android_external_jhead" groups="pdk" />
@@ -329,7 +330,6 @@
   <project path="external/ceres-solver" name="platform/external/ceres-solver" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/chromium-libpac" name="platform/external/chromium-libpac" groups="pdk-fs" remote="aosp" />
   <project path="external/chromium-trace" name="platform/external/chromium-trace" groups="pdk" remote="aosp" />
-  <project path="external/chromium-webview" name="platform/external/chromium-webview" groups="pdk" clone-depth="1" remote="aosp" />
   <project path="external/clang" name="platform/external/clang" groups="pdk" remote="aosp" />
   <project path="external/cmockery" name="platform/external/cmockery" groups="pdk-fs" remote="aosp" />
   <project path="external/compiler-rt" name="platform/external/compiler-rt" groups="pdk" remote="aosp" />
