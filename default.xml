@@ -111,6 +111,7 @@
   <project path="packages/services/Mms" name="MoKee/android_packages_services_Mms" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/services/Telecomm" name="MoKee/android_packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/services/Telephony" name="MoKee/android_packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/services/ThemeManagerService" name="MoKee/android_packages_services_ThemeManagerService" groups="pdk-cw-fs,pdk-fs" />
   <project path="prebuilts/mksdk" name="MoKee/android_prebuilts_mksdk" clone-depth="1" revision="master" />
   <project path="system/core" name="MoKee/android_system_core" groups="pdk" />
   <project path="system/extras/su" name="MoKee/android_system_extras_su" />
