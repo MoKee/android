@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Device-specific HALs -->
+  <include name="snippets/hal_mk_all.xml" />
+
+  <!-- MoKee Open Source additions -->
+  <project path="android" name="MoKee/android" />
+  <project path="bootable/recovery-twrp" name="MoKee/android_bootable_recovery-twrp" groups="pdk" />
+  <project path="external/ahbottomnavigation" name="ThirdProject/android_external_ahbottomnavigation" remote="third" />
+  <project path="external/android-visualizer" name="ThirdProject/android_external_android-visualizer" remote="third" />
+  <project path="external/bash" name="MoKee/android_external_bash" />
+  <project path="external/exfat" name="ThirdProject/android_external_exfat" remote="third" />
+  <project path="external/ffmpeg" name="ThirdProject/android_external_ffmpeg" remote="third" />
+  <project path="external/fuse" name="ThirdProject/android_external_fuse" remote="third" />
+  <project path="external/google" name="ThirdProject/android_external_google" remote="third" />
+  <project path="external/htop" name="ThirdProject/android_external_htop" remote="third" />
+  <project path="external/koush/AndroidAsync" name="ThirdProject/AndroidAsync" remote="third" />
+  <project path="external/koush/ion" name="ThirdProject/ion" remote="third" />
+  <project path="external/libncurses" name="ThirdProject/android_external_libncurses" remote="third" />
+  <project path="external/libphonenumbergoogle" name="ThirdProject/android_external_libphonenumbergoogle" remote="third" />
+  <project path="external/libtar" name="ThirdProject/android_external_libtar" remote="third" />
+  <project path="external/libtruezip" name="ThirdProject/android_external_libtruezip" remote="third" />
+  <project path="external/lzo" name="ThirdProject/android_external_lzo" remote="third" />
+  <project path="external/mokee/BuildController" name="MoKee/android_external_mokee_BuildController" />
+  <project path="external/mokee/MoKeeHelper" name="MoKee/android_external_mokee_MoKeeHelper" />
+  <project path="external/mokee/ServerController" name="MoKee/android_external_mokee_ServerController" revision="refs/heads/master" />
+  <project path="external/nano" name="ThirdProject/android_external_nano" remote="third" />
+  <project path="external/ntfs-3g" name="ThirdProject/android_external_ntfs-3g" remote="third" />
+  <project path="external/openssh" name="ThirdProject/android_external_openssh" remote="third" />
+  <project path="external/p7zip" name="ThirdProject/android_external_p7zip" remote="third" />
+  <project path="external/pigz" name="ThirdProject/android_external_pigz" remote="third" />
+  <project path="external/rsync" name="ThirdProject/android_external_rsync" remote="third" />
+  <project path="external/stagefright-plugins" name="ThirdProject/android_external_stagefright-plugins" remote="third" />
+  <project path="external/uicommon" name="ThirdProject/android_external_cyanogen_UICommon" remote="third" />
+  <project path="external/unrar" name="ThirdProject/android_external_unrar" remote="third" />
+  <project path="external/unzip" name="ThirdProject/android_external_unzip" remote="third" />
+  <project path="external/vim" name="ThirdProject/android_external_vim" remote="third" />
+  <project path="external/yaffs2" name="ThirdProject/android_external_yaffs2" remote="third" />
+  <project path="external/zip" name="ThirdProject/android_external_zip" remote="third" />
+  <project path="hardware/mokee" name="MoKee/android_hardware_mokee" />
+  <project path="frameworks/opt/hardware" name="MoKee/android_frameworks_opt_hardware" />
+  <project path="hardware/ti/omap4" name="MoKee/android_hardware_ti_omap4" />
+  <project path="hardware/ti/wlan" name="MoKee/android_hardware_ti_wlan" />
+  <project path="hardware/ti/wpan" name="MoKee/android_hardware_ti_wpan" />
+  <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />
+  <project path="packages/apps/Browser" name="MoKee/android_packages_apps_Browser" />
+  <project path="packages/apps/CMFileManager" name="MoKee/android_packages_apps_CMFileManager" />
+  <project path="packages/apps/MKParts" name="MoKee/android_packages_apps_MKParts" />
+  <project path="packages/apps/Eleven" name="MoKee/android_packages_apps_Eleven" />
+  <project path="packages/apps/LockClock" name="MoKee/android_packages_apps_LockClock" />
+  <project path="packages/apps/Nox" name="MoKee/android_packages_apps_Nox" />
+  <project path="packages/apps/Profiles" name="MoKee/android_packages_apps_Profiles" />
+  <project path="packages/apps/Screencast" name="MoKee/android_packages_apps_Screencast" />
+  <project path="packages/apps/SetupWizard" name="MoKee/android_packages_apps_SetupWizard" />
+  <project path="packages/apps/Snap" name="MoKee/android_packages_apps_Snap" />
+  <project path="packages/apps/ThemeChooser" name="MoKee/android_packages_apps_ThemeChooser" />
+  <project path="packages/apps/WallpaperPicker" name="MoKee/android_packages_apps_WallpaperPicker" />
+  <project path="packages/providers/MoKeeWeatherProvider" name="MoKee/android_packages_providers_MoKeeWeatherProvider" />
+  <project path="packages/providers/ThemesProvider" name="MoKee/android_packages_providers_ThemesProvider" />
+  <project path="packages/providers/WeatherProvider" name="MoKee/android_packages_providers_WeatherProvider" />
+  <project path="packages/services/MKAudioService" name="MoKee/android_packages_services_MKAudioService" />
+  <project path="packages/services/LiveLockScreenService" name="MoKee/android_packages_services_LiveLockScreenService" />
+  <project path="packages/services/ThemeManagerService" name="MoKee/android_packages_services_ThemeManagerService" />
+  <project path="packages/services/WeatherService" name="MoKee/android_packages_services_WeatherService" />
+  <project path="prebuilts/mksdk" name="MoKee/android_prebuilts_mksdk" clone-depth="1" />
+  <project path="system/extras/su" name="MoKee/android_system_extras_su" />
+  <project path="vendor/mk" name="MoKee/android_vendor_mk" />
+  <project path="vendor/mksdk" name="MoKee/mk_platform_sdk" />
+  <project path="vendor/private" name="MoKee/mk_private" clone-depth="3" />
+
+  <!-- CodeAurora additions -->
+  <project path="device/qcom/sepolicy" name="MoKee/android_device_qcom_sepolicy" />
+  <project path="external/ant-wireless/ant_native" name="ThirdProject/android_external_ant-wireless_ant_native" remote="third" />
+  <project path="external/ant-wireless/ant_service" name="ThirdProject/android_external_ant-wireless_ant_service" remote="third" />
+  <project path="external/ant-wireless/antradio-library" name="ThirdProject/android_external_ant-wireless_antradio-library" remote="third" />
+  <project path="external/brctl" name="ThirdProject/android_external_brctl" remote="third" />
+  <project path="external/connectivity" name="ThirdProject/android_external_connectivity" remote="third" />
+  <project path="external/ebtables" name="ThirdProject/android_external_ebtables" remote="third" />
+  <project path="external/gson" name="ThirdProject/android_external_gson" remote="third" />
+  <project path="external/json-c" name="ThirdProject/android_external_json-c" remote="third" />
+  <project path="external/libnetfilter_conntrack" name="ThirdProject/android_external_libnetfilter_conntrack" remote="third" />
+  <project path="external/libnfnetlink" name="ThirdProject/android_external_libnfnetlink" remote="third" />
+  <project path="external/mm-dash" name="MoKee/android_external_mm-dash" />
+  <project path="external/powertop" name="ThirdProject/android_external_powertop" remote="third" />
+  <project path="external/protobuf-c" name="ThirdProject/android_external_protobuf-c" remote="third" />
+  <project path="system/qcom" name="MoKee/android_system_qcom" groups="qcom" />
+  <project path="vendor/codeaurora/telephony" name="ThirdProject/android_vendor_codeaurora_telephony" remote="third" />
+  <project path="vendor/qcom/opensource/bluetooth" name="ThirdProject/android_packages_apps_BluetoothExt" remote="third" />
+</manifest>
