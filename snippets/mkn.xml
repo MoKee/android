@@ -48,6 +48,7 @@
   <project path="packages/apps/CMFileManager" name="MoKee/android_packages_apps_CMFileManager" />
   <project path="packages/apps/MKParts" name="MoKee/android_packages_apps_MKParts" />
   <project path="packages/apps/Eleven" name="MoKee/android_packages_apps_Eleven" />
+  <project path="packages/apps/Exchange" name="MoKee/android_packages_apps_Exchange" />
   <project path="packages/apps/FMRadio" name="MoKee/android_packages_apps_FMRadio" />
   <project path="packages/apps/LockClock" name="MoKee/android_packages_apps_LockClock" />
   <project path="packages/apps/Nox" name="MoKee/android_packages_apps_Nox" />
