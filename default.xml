@@ -16,7 +16,7 @@
   <remote  name="third"
            fetch=".."
            review="review.mfunz.com"
-           revision="refs/heads/staging/cm-14.0" />
+           revision="refs/heads/cm-14.0" />
 
   <default
            revision="refs/heads/mkn"
