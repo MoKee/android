@@ -43,7 +43,6 @@
   <project path="external/chromium-webview" name="MoKee/android_external_chromium-webview" clone-depth="1" />
   <project path="external/connectivity" name="MoKee/android_external_connectivity" />
   <project path="external/google" name="MoKee/android_external_google" />
-  <project path="external/jhead" name="MoKee/android_external_jhead" groups="pdk" />
   <project path="external/jpeg" name="MoKee/android_external_jpeg" groups="pdk" />
   <project path="external/lz4" name="MoKee/android_external_lz4" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/mksh" name="MoKee/android_external_mksh" groups="pdk" />
@@ -376,6 +375,7 @@
   <project path="external/jdiff" name="platform/external/jdiff" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/jemalloc" name="platform/external/jemalloc" groups="pdk" remote="aosp" />
   <project path="external/jetty" name="platform/external/jetty" groups="pdk-fs" remote="aosp" />
+  <project path="external/jhead" name="platform/external/jhead" groups="pdk" remote="aosp" />
   <project path="external/jline" name="platform/external/jline" groups="notdefault,tradefed" remote="aosp" />
   <project path="external/jmdns" name="platform/external/jmdns" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/jmonkeyengine" name="platform/external/jmonkeyengine" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
