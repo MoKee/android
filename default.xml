@@ -16,10 +16,10 @@
   <remote  name="third"
            fetch=".."
            review="review.mfunz.com"
-           revision="refs/heads/cm-14.0" />
+           revision="refs/heads/cm-14.1" />
 
   <default
-           revision="refs/heads/mkn"
+           revision="refs/heads/mkn-mr1"
            remote="mokee"
            sync-c="true"
            sync-j="4" />
@@ -503,6 +503,6 @@
   <project path="tools/test/connectivity" name="platform/tools/test/connectivity" remote="aosp" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" remote="aosp" />
 
-  <include name="snippets/mkn.xml" />
+  <include name="snippets/mkn-mr1.xml" />
 
 </manifest>
