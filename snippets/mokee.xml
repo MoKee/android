@@ -18,7 +18,6 @@
   <project path="external/libtruezip" name="ThirdProject/android_external_libtruezip" remote="third" />
   <project path="external/lzo" name="ThirdProject/android_external_lzo" remote="third" />
   <project path="external/mokee/BuildController" name="MoKee/android_external_mokee_BuildController" />
-  <project path="external/mokee/MoKeeHelper" name="MoKee/android_external_mokee_MoKeeHelper" />
   <project path="external/mokee/ServerController" name="MoKee/android_external_mokee_ServerController" revision="refs/heads/master" />
   <project path="external/nano" name="ThirdProject/android_external_nano" remote="third" />
   <project path="external/ntfs-3g" name="ThirdProject/android_external_ntfs-3g" remote="third" />
