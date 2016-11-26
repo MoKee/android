@@ -67,6 +67,10 @@
   <project path="vendor/mksdk" name="MoKee/mk_platform_sdk" />
   <project path="vendor/private" name="MoKee/mk_private" clone-depth="3" />
 
+  <!-- MoKee Private additions -->
+  <project path="packages/apps/MoKeePay-res" name="MoKee/android_packages_apps_MoKeePay-res" />
+  <project path="packages/apps/YuBrowser-res" name="MoKee/android_packages_apps_YuBrowser-res" />
+
   <!-- CodeAurora additions -->
   <project path="device/qcom/sepolicy" name="MoKee/android_device_qcom_sepolicy" />
   <project path="external/ant-wireless/ant_native" name="ThirdProject/android_external_ant-wireless_ant_native" remote="third" />
