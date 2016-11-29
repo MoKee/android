@@ -68,8 +68,8 @@
   <project path="vendor/private" name="MoKee/mk_private" clone-depth="3" />
 
   <!-- MoKee Private additions -->
-  <project path="packages/apps/MoKeePay-res" name="MoKee/android_packages_apps_MoKeePay-res" />
-  <project path="packages/apps/YuBrowser-res" name="MoKee/android_packages_apps_YuBrowser-res" />
+  <project path="packages/resources/MoKeePay" name="MoKee/android_packages_resources_MoKeePay" />
+  <project path="packages/resources/YuBrowser" name="MoKee/android_packages_resources_YuBrowser" />
 
   <!-- CodeAurora additions -->
   <project path="device/qcom/sepolicy" name="MoKee/android_device_qcom_sepolicy" />
