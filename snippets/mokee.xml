@@ -69,6 +69,7 @@
   <project path="vendor/private" name="MoKee/mk_private" clone-depth="3" />
 
   <!-- MoKee Private additions -->
+  <project path="packages/resources/BigBang" name="MoKee/android_packages_resources_BigBang" />
   <project path="packages/resources/MoKeePay" name="MoKee/android_packages_resources_MoKeePay" />
   <project path="packages/resources/YuBrowser" name="MoKee/android_packages_resources_YuBrowser" />
 
