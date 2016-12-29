@@ -483,7 +483,7 @@
   <project path="system/netd" name="ThirdProject/android_system_netd" groups="pdk" remote="third" />
   <project path="system/nvram" name="platform/system/nvram" remote="aosp" />
   <project path="system/security" name="ThirdProject/android_system_security" groups="pdk" remote="third" />
-  <project path="system/sepolicy" name="ThirdProject/android_system_sepolicy" groups="pdk" remote="third" />
+  <project path="system/sepolicy" name="MoKee/android_system_sepolicy" groups="pdk" />
   <project path="system/tools/aidl" name="ThirdProject/android_system_tools_aidl" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="system/tpm" name="platform/system/tpm" remote="aosp" />
   <project path="system/update_engine" name="platform/system/update_engine" remote="aosp" />
