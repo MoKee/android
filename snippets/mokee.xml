@@ -53,15 +53,12 @@
   <project path="packages/apps/Screencast" name="MoKee/android_packages_apps_Screencast" />
   <project path="packages/apps/SetupWizard" name="MoKee/android_packages_apps_SetupWizard" />
   <project path="packages/apps/Snap" name="MoKee/android_packages_apps_Snap" />
-  <project path="packages/apps/ThemeChooser" name="MoKee/android_packages_apps_ThemeChooser" />
   <project path="packages/apps/WallpaperPicker" name="MoKee/android_packages_apps_WallpaperPicker" />
   <project path="packages/providers/DataUsageProvider" name="MoKee/android_packages_providers_DataUsageProvider" />
   <project path="packages/providers/MoKeeWeatherProvider" name="MoKee/android_packages_providers_MoKeeWeatherProvider" />
-  <project path="packages/providers/ThemesProvider" name="MoKee/android_packages_providers_ThemesProvider" />
   <project path="packages/providers/WeatherProvider" name="MoKee/android_packages_providers_WeatherProvider" />
   <project path="packages/services/MKAudioService" name="MoKee/android_packages_services_MKAudioService" />
   <project path="packages/services/LiveLockScreenService" name="MoKee/android_packages_services_LiveLockScreenService" />
-  <project path="packages/services/ThemeManagerService" name="MoKee/android_packages_services_ThemeManagerService" />
   <project path="packages/services/WeatherService" name="MoKee/android_packages_services_WeatherService" />
   <project path="prebuilts/mksdk" name="MoKee/android_prebuilts_mksdk" clone-depth="1" />
   <project path="system/extras/su" name="MoKee/android_system_extras_su" />
