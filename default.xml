@@ -40,7 +40,7 @@
   <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" />
   <project path="device/qcom/sepolicy" name="MoKee/android_device_qcom_sepolicy" />
   <project path="external/bash" name="MoKee/android_external_bash" />
-  <project path="external/chromium-webview" name="MoKee/android_external_chromium-webview" clone-depth="1" />
+  <project path="external/chromium-webview" name="platform/external/chromium-webview" groups="pdk" clone-depth="1" remote="aosp" />
   <project path="external/connectivity" name="MoKee/android_external_connectivity" />
   <project path="external/google" name="MoKee/android_external_google" />
   <project path="external/jpeg" name="MoKee/android_external_jpeg" groups="pdk" />
