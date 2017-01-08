@@ -53,6 +53,7 @@
   <project path="packages/apps/Screencast" name="MoKee/android_packages_apps_Screencast" />
   <project path="packages/apps/SetupWizard" name="MoKee/android_packages_apps_SetupWizard" />
   <project path="packages/apps/Snap" name="MoKee/android_packages_apps_Snap" />
+  <project path="packages/apps/Venus" name="MoKee/android_packages_apps_Venus" />
   <project path="packages/apps/WallpaperPicker" name="MoKee/android_packages_apps_WallpaperPicker" />
   <project path="packages/providers/DataUsageProvider" name="MoKee/android_packages_providers_DataUsageProvider" />
   <project path="packages/providers/MoKeeWeatherProvider" name="MoKee/android_packages_providers_MoKeeWeatherProvider" />
