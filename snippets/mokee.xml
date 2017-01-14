@@ -20,7 +20,6 @@
   <project path="external/mokee/BuildController" name="MoKee/android_external_mokee_BuildController" />
   <project path="external/mokee/ServerController" name="MoKee/android_external_mokee_ServerController" revision="refs/heads/master" />
   <project path="external/nano" name="ThirdProject/android_external_nano" remote="third" />
-  <project path="external/noto-fonts" name="MoKee/android_external_noto-fonts" />
   <project path="external/ntfs-3g" name="ThirdProject/android_external_ntfs-3g" remote="third" />
   <project path="external/openssh" name="ThirdProject/android_external_openssh" remote="third" />
   <project path="external/p7zip" name="ThirdProject/android_external_p7zip" remote="third" />
