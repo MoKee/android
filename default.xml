@@ -409,6 +409,7 @@
   <project path="packages/apps/Test/connectivity" name="platform/packages/apps/Test/connectivity" remote="aosp" />
   <project path="packages/apps/UnifiedEmail" name="MoKee/android_packages_apps_UnifiedEmail" groups="pdk-fs" />
   <project path="packages/experimental" name="platform/packages/experimental" remote="aosp" />
+  <project path="packages/inputmethods/LatinIME" name="ThirdProject/android_packages_inputmethods_LatinIME" groups="pdk-fs" remote="third" />
   <project path="packages/providers/BlockedNumberProvider" name="ThirdProject/android_packages_providers_BlockedNumberProvider" groups="pdk-fs" remote="third" />
   <project path="packages/providers/BookmarkProvider" name="ThirdProject/android_packages_providers_BookmarkProvider" groups="pdk-fs" remote="third" />
   <project path="packages/providers/CalendarProvider" name="MoKee/android_packages_providers_CalendarProvider" groups="pdk-cw-fs,pdk-fs" />
