@@ -38,6 +38,7 @@
   <project path="hardware/ti/wlan" name="MoKee/android_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="MoKee/android_hardware_ti_wpan" />
   <project path="packages/apps/Aegis" name="MoKee/android_packages_apps_Aegis" />
+  <project path="packages/apps/AmazeFileManager" name="MoKee/android_packages_apps_AmazeFileManager" />
   <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />
   <project path="packages/apps/Browser" name="MoKee/android_packages_apps_Browser" />
   <project path="packages/apps/CMFileManager" name="MoKee/android_packages_apps_CMFileManager" />
