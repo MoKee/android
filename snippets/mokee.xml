@@ -62,6 +62,7 @@
   <project path="packages/services/LiveLockScreenService" name="MoKee/android_packages_services_LiveLockScreenService" />
   <project path="packages/services/WeatherService" name="MoKee/android_packages_services_WeatherService" />
   <project path="prebuilts/mksdk" name="MoKee/android_prebuilts_mksdk" clone-depth="1" />
+  <project path="prebuilts/snapdragon-llvm/toolchains/llvm-Snapdragon_LLVM_for_Android_3.8/prebuilt/linux-x86_64" name="MoKee/android_prebuilts_snapdragon-llvm_toolchains_llvm-Snapdragon_LLVM_for_Android_3.8_prebuilt_linux-x86_64" groups="pdk,linux,arm" clone-depth="1" />
   <project path="system/extras/su" name="MoKee/android_system_extras_su" />
   <project path="vendor/mk" name="MoKee/android_vendor_mk" />
   <project path="vendor/mksdk" name="MoKee/mk_platform_sdk" />
