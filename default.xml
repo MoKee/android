@@ -180,7 +180,7 @@
   <project path="external/libtar" name="ThirdProject/android_external_libtar" remote="third" />
   <project path="external/libusb" name="ThirdProject/android_external_libusb" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="external/libusbx" name="ThirdProject/android_external_libusbx" remote="third" />
-  <project path="external/libvpx" name="ThirdProject/android_external_libvpx" groups="pdk" remote="third" />
+  <project path="external/libvpx" name="MoKee/android_external_libvpx" groups="pdk" />
   <project path="external/libvterm" name="ThirdProject/android_external_libvterm" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="external/libxml2" name="ThirdProject/android_external_libxml2" groups="pdk-cw-fs,pdk-fs,libxml2" remote="third" />
   <project path="external/libxslt" name="ThirdProject/android_external_libxslt" remote="third" />
@@ -223,7 +223,7 @@
   <project path="frameworks/compile/libbcc" name="ThirdProject/android_frameworks_compile_libbcc" groups="pdk" remote="third" />
   <project path="frameworks/compile/mclinker" name="ThirdProject/android_frameworks_compile_mclinker" groups="pdk" remote="third" />
   <project path="frameworks/compile/slang" name="ThirdProject/android_frameworks_compile_slang" groups="pdk" remote="third" />
-  <project path="frameworks/ex" name="ThirdProject/android_frameworks_ex" groups="pdk-cw-fs,pdk-fs" remote="third" />
+  <project path="frameworks/ex" name="MoKee/android_frameworks_ex" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/minikin" name="ThirdProject/android_frameworks_minikin" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="frameworks/ml" name="ThirdProject/android_frameworks_ml" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="frameworks/multidex" name="ThirdProject/android_frameworks_multidex" groups="pdk-cw-fs,pdk-fs" remote="third" />

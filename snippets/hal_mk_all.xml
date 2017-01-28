@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="hardware/qcom/audio/default" name="ThirdProject/android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="third" />
+  <project path="hardware/qcom/audio/default" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" />
   <project path="hardware/qcom/audio-caf/apq8084" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkm-caf-8084" />
   <project path="hardware/qcom/audio-caf/msm8916" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkm-caf-8916" />
   <project path="hardware/qcom/audio-caf/msm8937" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkm-caf-8937" />
@@ -24,7 +24,7 @@
   <project path="hardware/qcom/fm" name="ThirdProject/android_hardware_qcom_fm" groups="qcom,qcom_fm" remote="third" />
   <project path="hardware/qcom/gps" name="ThirdProject/android_hardware_qcom_gps" groups="qcom,qcom_gps" remote="third" />
   <project path="hardware/qcom/keymaster" name="ThirdProject/android_hardware_qcom_keymaster" groups="qcom,qcom_keymaster" remote="third" />
-  <project path="hardware/qcom/media/default" name="ThirdProject/android_hardware_qcom_media" groups="qcom" remote="third" />
+  <project path="hardware/qcom/media/default" name="MoKee/android_hardware_qcom_media" groups="qcom" />
   <project path="hardware/qcom/media-caf/apq8084" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkm-caf-8084" />
   <project path="hardware/qcom/media-caf/msm8916" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkm-caf-8916" />
   <project path="hardware/qcom/media-caf/msm8937" name="MoKee/android_hardware_qcom_media" groups="qcom" revision="mkm-caf-8937" />
