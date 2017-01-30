@@ -401,7 +401,6 @@
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" groups="pdk-fs" remote="aosp" />
   <project path="packages/apps/SafetyRegulatoryInfo" name="ThirdProject/android_packages_apps_SafetyRegulatoryInfo" remote="third" />
   <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" groups="pdk-fs" />
-  <project path="packages/apps/SoundRecorder" name="MoKee/android_packages_apps_SoundRecorder" groups="pdk-fs" />
   <project path="packages/apps/Stk" name="MoKee/android_packages_apps_Stk" groups="apps_stk,pdk-fs" />
   <project path="packages/apps/StorageManager" name="ThirdProject/android_packages_apps_StorageManager" remote="third" />
   <project path="packages/apps/Tag" name="ThirdProject/android_packages_apps_Tag" groups="pdk-fs" remote="third" />
