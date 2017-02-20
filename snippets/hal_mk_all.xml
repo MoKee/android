@@ -37,6 +37,7 @@
   <project path="hardware/qcom/wlan-caf" name="MoKee/android_hardware_qcom_wlan" groups="qcom_wlan" revision="mkm-caf" />
   <project path="hardware/ril" name="ThirdProject/android_hardware_ril" groups="pdk" remote="third" />
   <project path="hardware/ril-caf" name="MoKee/android_hardware_ril" groups="pdk" revision="mkm-caf" />
+  <project path="vendor/qcom/opensource/cryptfs_hw" name="MoKee/android_vendor_qcom_opensource_cryptfs_hw" />
   <project path="vendor/qcom/opensource/dataservices" name="MoKee/android_vendor_qcom_opensource_dataservices" />
   <project path="vendor/qcom/opensource/dpm" name="ThirdProject/android_vendor_qcom_opensource_dpm" remote="third" />
   <project path="vendor/qcom/opensource/time-services" name="ThirdProject/android_vendor_qcom_opensource_time-services" remote="third" />
