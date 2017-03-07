@@ -169,7 +169,7 @@
   <project path="external/jsr305" name="ThirdProject/android_external_jsr305" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="external/koush/AndroidAsync" name="ThirdProject/AndroidAsync" remote="third" />
   <project path="external/koush/ion" name="ThirdProject/ion" remote="third" />
-  <project path="external/libavc" name="ThirdProject/android_external_libavc" groups="pdk" remote="third" />
+  <project path="external/libavc" name="MoKee/android_external_libavc" groups="pdk" />
   <project path="external/libncurses" name="ThirdProject/android_external_libncurses" remote="third" />
   <project path="external/libnetfilter_conntrack" name="ThirdProject/android_external_libnetfilter_conntrack" remote="third" />
   <project path="external/libnfc-nci" name="ThirdProject/android_external_libnfc-nci" groups="pdk" remote="third" />
@@ -256,7 +256,7 @@
   <project path="hardware/intel/img/psb_headers" name="ThirdProject/android_hardware_intel_img_psb_headers" groups="intel" remote="third" />
   <project path="hardware/intel/img/psb_video" name="ThirdProject/android_hardware_intel_img_psb_video" groups="intel" remote="third" />
   <project path="hardware/invensense" name="ThirdProject/android_hardware_invensense" groups="invensense" remote="third" />
-  <project path="hardware/libhardware" name="ThirdProject/android_hardware_libhardware" groups="pdk" remote="third" />
+  <project path="hardware/libhardware" name="MoKee/android_hardware_libhardware" groups="pdk" />
   <project path="hardware/samsung_slsi/exynos5" name="ThirdProject/android_hardware_samsung_slsi_exynos5" remote="third" />
   <project path="hardware/ti/omap4xxx" name="ThirdProject/android_hardware_ti_omap4xxx" groups="omap4" remote="third" />
   <project path="hardware/ti/wlan" name="ThirdProject/android_hardware_ti_wlan" remote="third" />
