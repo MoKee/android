@@ -544,7 +544,7 @@
   <project path="system/tools/aidl" name="MoKee/android_system_tools_aidl" groups="pdk" />
   <project path="system/tools/hidl" name="MoKee/android_system_tools_hidl" groups="pdk" />
   <project path="system/tpm" name="platform/system/tpm" remote="aosp" />
-  <project path="system/update_engine" name="platform/system/update_engine" groups="pdk" remote="aosp" />
+  <project path="system/update_engine" name="MoKee/android_system_update_engine" groups="pdk" />
   <project path="system/vold" name="MoKee/android_system_vold" groups="pdk" />
   <project path="test/framework" name="platform/test/framework" groups="vts,pdk-fs" remote="aosp" />
   <project path="test/sts" name="platform/test/sts" groups="sts,pdk" remote="aosp" />
