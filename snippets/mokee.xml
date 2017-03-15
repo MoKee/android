@@ -5,7 +5,6 @@
   <project path="bootable/recovery-twrp" name="MoKee/android_bootable_recovery-twrp" groups="pdk" />
   <project path="external/bash" name="MoKee/android_external_bash" />
   <project path="external/exfat" name="ThirdProject/android_external_exfat" remote="third" />
-  <project path="external/edify_checker" name="MoKee/android_external_edify_checker" />
   <project path="external/ffmpeg" name="ThirdProject/android_external_ffmpeg" remote="third" />
   <project path="external/fuse" name="ThirdProject/android_external_fuse" remote="third" />
   <project path="external/google" name="ThirdProject/android_external_google" remote="third" />
