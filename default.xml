@@ -171,11 +171,13 @@
   <project path="external/koush/ion" name="ThirdProject/ion" remote="third" />
   <project path="external/libavc" name="MoKee/android_external_libavc" groups="pdk" />
   <project path="external/libhevc" name="ThirdProject/android_external_libhevc" groups="pdk-fs" remote="third" />
+  <project path="external/libmpeg2" name="ThirdProject/android_external_libmpeg2" groups="pdk" remote="third" />
   <project path="external/libncurses" name="ThirdProject/android_external_libncurses" remote="third" />
   <project path="external/libnetfilter_conntrack" name="ThirdProject/android_external_libnetfilter_conntrack" remote="third" />
   <project path="external/libnfc-nci" name="ThirdProject/android_external_libnfc-nci" groups="pdk" remote="third" />
   <project path="external/libnfc-nxp" name="ThirdProject/android_external_libnfc-nxp" groups="pdk" remote="third" />
   <project path="external/libnfnetlink" name="ThirdProject/android_external_libnfnetlink" remote="third" />
+  <project path="external/libnl" name="ThirdProject/android_external_libnl" groups="pdk" remote="third" />
   <project path="external/libphonenumbergoogle" name="ThirdProject/android_external_libphonenumbergoogle" remote="third" />
   <project path="external/libselinux" name="ThirdProject/android_external_libselinux" groups="pdk" remote="third" />
   <project path="external/libtar" name="ThirdProject/android_external_libtar" remote="third" />
@@ -394,9 +396,7 @@
   <project path="external/libexif" name="platform/external/libexif" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/libgsm" name="platform/external/libgsm" groups="pdk" remote="aosp" />
   <project path="external/liblzf" name="platform/external/liblzf" groups="pdk" remote="aosp" />
-  <project path="external/libmpeg2" name="platform/external/libmpeg2" groups="pdk" remote="aosp" />
   <project path="external/libmtp" name="platform/external/libmtp" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
-  <project path="external/libnl" name="platform/external/libnl" groups="pdk" remote="aosp" />
   <project path="external/libogg" name="platform/external/libogg" groups="pdk" remote="aosp" />
   <project path="external/libopus" name="platform/external/libopus" groups="pdk" remote="aosp" />
   <project path="external/libpcap" name="platform/external/libpcap" groups="pdk,pdk-cw-fs,pdk-fs" remote="aosp" />
