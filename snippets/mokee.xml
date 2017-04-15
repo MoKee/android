@@ -7,7 +7,7 @@
   <project path="external/exfat" name="ThirdProject/android_external_exfat" remote="third" />
   <project path="external/ffmpeg" name="ThirdProject/android_external_ffmpeg" remote="third" />
   <project path="external/fuse" name="ThirdProject/android_external_fuse" remote="third" />
-  <project path="external/google" name="ThirdProject/android_external_google" remote="third" />
+  <project path="external/google" name="MoKee/android_external_google" />
   <project path="external/htop" name="ThirdProject/android_external_htop" remote="third" />
   <project path="external/koush/ion" name="ThirdProject/ion" remote="third" />
   <project path="external/libncurses" name="ThirdProject/android_external_libncurses" remote="third" />
