@@ -4,6 +4,7 @@
            fetch="https://github.com" />
   <!--kernel-->
   <project path="kernel/samsung/jf" name="Mokee/android_kernel_samsung_jf" remote="github" revision="mkn-mr1" />
+  <project path="kernel/samsung/jflte" name="B--B/Alucard-Kernel-jfltexx" remote="github" revision="aosp-7.1.2" />
   <!--device-->
   <project path="device/qcom/common" name="Mokee/android_device_qcom_common" remote="github" revision="mkn-mr1"/>
   <project path="device/samsung/qcom-common" name="Mokee/android_device_samsung_qcom-common" remote="github" revision="mkn-mr1"/>
