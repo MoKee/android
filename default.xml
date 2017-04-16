@@ -16,4 +16,6 @@
   <project path="vendor/samsung" name="AOSP-JF-MM/proprietary_vendor_samsung" remote="github" revision="aosp-7.1.2"/>
   <!--packages-->
   <project path="packages/resources/devicesettings" name="Mokee/android_packages_resources_devicesettings" remote="github" revision="mkn-mr1"/>
+  <!--external-->
+  <project path="external/stlport" name="Mokee/android_external_stlport" remote="github" revision="mkn-mr1"/>
 </manifest>
