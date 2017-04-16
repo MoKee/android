@@ -7,10 +7,10 @@
   <!--kernel-->
   <project path="kernel/samsung/jf" name="Mokee/android_kernel_samsung_jf" remote="github" revision="mkn-mr1" />
   <!--device-->
-  <project path="device/samsung/jflte" name="AOSP-JF-MM/platform_device_samsung_jflte" remote="github" revision="aosp-7.1.1"/>
+  <project path="device/samsung/jflte" name="AOSP-JF-MM/platform_device_samsung_jflte" remote="github" revision="aosp-7.1.2"/>
   <!--hardware-->
   <project path="hardware/samsung" name="Mokee/android_hardware_samsung" remote="github" revision="mkn-mr1"/>
   <!--vendor-->
-  <project path="vendor/samsung" name="AOSP-JF-MM/proprietary_vendor_samsung" remote="github" revision="aosp-7.1.1"/>
+  <project path="vendor/samsung" name="AOSP-JF-MM/proprietary_vendor_samsung" remote="github" revision="aosp-7.1.2"/>
 
 </manifest>
