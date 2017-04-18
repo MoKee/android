@@ -154,6 +154,7 @@
   <project path="external/f2fs-tools" name="ThirdProject/android_external_f2fs-tools" groups="pdk" remote="third" />
   <project path="external/ffmpeg" name="ThirdProject/android_external_ffmpeg" remote="third" />
   <project path="external/flac" name="ThirdProject/android_external_flac" groups="pdk" remote="third" />
+  <project path="external/freetype" name="ThirdProject/android_external_freetype" groups="pdk" remote="third" />
   <project path="external/fsck_msdos" name="ThirdProject/android_external_fsck_msdos" groups="pdk-cw-fs,pdk-fs" remote="third" />
   <project path="external/fuse" name="ThirdProject/android_external_fuse" remote="third" />
   <project path="external/gmock" name="ThirdProject/android_external_gmock" remote="third" />
@@ -358,7 +359,6 @@
   <project path="external/fdlibm" name="platform/external/fdlibm" groups="pdk" remote="aosp" />
   <project path="external/fio" name="platform/external/fio" groups="pdk-fs" remote="aosp" />
   <project path="external/fonttools" name="platform/external/fonttools" groups="pdk-fs" remote="aosp" />
-  <project path="external/freetype" name="platform/external/freetype" groups="pdk" remote="aosp" />
   <project path="external/giflib" name="platform/external/giflib" groups="pdk,qcom_msm8x26" remote="aosp" />
   <project path="external/glide" name="platform/external/glide" groups="pdk-fs" remote="aosp" />
   <project path="external/google-breakpad" name="platform/external/google-breakpad" groups="dragon" remote="aosp" />
