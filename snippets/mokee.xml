@@ -40,7 +40,7 @@
   <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />
   <project path="packages/apps/Browser" name="MoKee/android_packages_apps_Browser" />
   <project path="packages/apps/CustomTiles" name="MoKee/android_packages_apps_CustomTiles" />
-  <project path="packages/apps/Masquerade" name="MoKee/android_packages_apps_Masquerade" />
+  <project path="packages/apps/ThemeInterfacer" name="MoKee/android_packages_apps_ThemeInterfacer" />
   <project path="packages/apps/MKCenter" name="MoKee/android_packages_apps_MKCenter" />
   <project path="packages/apps/MKParts" name="MoKee/android_packages_apps_MKParts" />
   <project path="packages/apps/Eleven" name="MoKee/android_packages_apps_Eleven" />
