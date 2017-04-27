@@ -40,7 +40,6 @@
   <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />
   <project path="packages/apps/Browser" name="MoKee/android_packages_apps_Browser" />
   <project path="packages/apps/CustomTiles" name="MoKee/android_packages_apps_CustomTiles" />
-  <project path="packages/apps/ThemeInterfacer" name="MoKee/android_packages_apps_ThemeInterfacer" />
   <project path="packages/apps/MKCenter" name="MoKee/android_packages_apps_MKCenter" />
   <project path="packages/apps/MKParts" name="MoKee/android_packages_apps_MKParts" />
   <project path="packages/apps/Eleven" name="MoKee/android_packages_apps_Eleven" />
@@ -58,6 +57,7 @@
   <project path="packages/providers/WeatherProvider" name="MoKee/android_packages_providers_WeatherProvider" />
   <project path="packages/services/MKAudioService" name="MoKee/android_packages_services_MKAudioService" />
   <project path="packages/services/LiveLockScreenService" name="MoKee/android_packages_services_LiveLockScreenService" />
+  <project path="packages/services/ThemeInterfacer" name="MoKee/android_packages_services_ThemeInterfacer" />
   <project path="packages/services/WeatherService" name="MoKee/android_packages_services_WeatherService" />
   <project path="prebuilts/mksdk" name="MoKee/android_prebuilts_mksdk" clone-depth="1" />
   <project path="prebuilts/snapdragon/llvm-3.8" name="MoKee/android_prebuilts_snapdragon_llvm-3.8" groups="pdk,linux,arm" clone-depth="1" />
