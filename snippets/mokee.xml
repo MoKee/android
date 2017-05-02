@@ -38,13 +38,13 @@
   <project path="packages/apps/Aegis" name="MoKee/android_packages_apps_Aegis" />
   <project path="packages/apps/AmazeFileManager" name="MoKee/android_packages_apps_AmazeFileManager" />
   <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />
-  <project path="packages/apps/Browser" name="MoKee/android_packages_apps_Browser" />
   <project path="packages/apps/CustomTiles" name="MoKee/android_packages_apps_CustomTiles" />
   <project path="packages/apps/MKCenter" name="MoKee/android_packages_apps_MKCenter" />
   <project path="packages/apps/MKParts" name="MoKee/android_packages_apps_MKParts" />
   <project path="packages/apps/Eleven" name="MoKee/android_packages_apps_Eleven" />
   <project path="packages/apps/Exchange" name="ThirdProject/android_packages_apps_Exchange" remote="third" />
   <project path="packages/apps/FMRadio" name="MoKee/android_packages_apps_FMRadio" />
+  <project path="packages/apps/Jelly" name="MoKee/android_packages_apps_Jelly" />
   <project path="packages/apps/LockClock" name="MoKee/android_packages_apps_LockClock" />
   <project path="packages/apps/Nox" name="MoKee/android_packages_apps_Nox" />
   <project path="packages/apps/Profiles" name="MoKee/android_packages_apps_Profiles" />
