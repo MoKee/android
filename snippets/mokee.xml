@@ -2,6 +2,7 @@
 <manifest>
   <!-- MoKee Open Source additions -->
   <project path="android" name="MoKee/android" />
+  <project path="bootable/recovery-twrp" name="MoKee/android_bootable_recovery-twrp" groups="pdk" />
   <project path="external/bash" name="MoKee/android_external_bash" />
   <project path="external/exfat" name="ThirdProject/android_external_exfat" remote="third" />
   <project path="external/ffmpeg" name="ThirdProject/android_external_ffmpeg" remote="third" />
