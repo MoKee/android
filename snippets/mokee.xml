@@ -56,7 +56,7 @@
   <project path="packages/providers/MoKeeWeatherProvider" name="MoKee/android_packages_providers_MoKeeWeatherProvider" />
   <project path="packages/providers/WeatherProvider" name="MoKee/android_packages_providers_WeatherProvider" />
   <project path="packages/services/MKAudioService" name="MoKee/android_packages_services_MKAudioService" />
-  <project path="packages/services/MKUpdateVerifier" name="MoKee/android_packages_services_MKUpdateVerifier" />
+  <project path="packages/services/MKUpdateVerification" name="MoKee/android_packages_services_MKUpdateVerification" />
   <project path="packages/services/LiveLockScreenService" name="MoKee/android_packages_services_LiveLockScreenService" />
   <project path="packages/services/ThemeInterfacer" name="MoKee/android_packages_services_ThemeInterfacer" />
   <project path="packages/services/WeatherService" name="MoKee/android_packages_services_WeatherService" />
