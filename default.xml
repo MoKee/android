@@ -3,7 +3,7 @@
 
   <remote  name="mokee"
            fetch=".."
-           review="review.mfunz.com" />
+           review="https://review.mfunz.com" />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
@@ -15,7 +15,7 @@
 
   <remote  name="third"
            fetch=".."
-           review="review.mfunz.com"
+           review="https://review.mfunz.com"
            revision="refs/heads/cm-14.1" />
 
   <default
