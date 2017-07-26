@@ -44,7 +44,7 @@
   <project path="packages/apps/Exchange" name="ThirdProject/android_packages_apps_Exchange" remote="third" />
   <project path="packages/apps/FMRadio" name="MoKee/android_packages_apps_FMRadio" />
   <project path="packages/apps/Jelly" name="MoKee/android_packages_apps_Jelly" />
-  <project path="packages/apps/Launcher3" name="MoKee/android_packages_apps_Launcher3" />
+  <project path="packages/apps/Lawnchair" name="MoKee/android_packages_apps_Lawnchair" />
   <project path="packages/apps/LockClock" name="MoKee/android_packages_apps_LockClock" />
   <project path="packages/apps/Profiles" name="MoKee/android_packages_apps_Profiles" />
   <project path="packages/apps/Recorder" name="MoKee/android_packages_apps_Recorder" />
