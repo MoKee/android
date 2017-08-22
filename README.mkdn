@@ -46,7 +46,7 @@ Commit your patches in a single commit. Squash multiple commits using this comma
 
     git rebase -i HEAD~<# of commits>
 
-To view the status of your and others' patches, visit [MoKee Code Review](http://review.mfunz.com/)
+To view the status of your and others' patches, visit [MoKee Code Review](https://review.mfunz.com/)
 
 
 Getting Started
@@ -76,9 +76,5 @@ First, go to the root path of your project. We assume that your source is under
 then feel free to use the build script:
 
     . build/envsetup.sh && lunch (enter device number) && mka bacon
-
-or
-
-    ./mk
 
 The script is interactive so everything else is self-explanatory.
