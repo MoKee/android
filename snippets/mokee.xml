@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+
   <!-- MoKee Open Source additions -->
   <project path="android" name="MoKee/android" />
+  <!-- <project path="external/bash" name="MoKee/android_external_bash" />
   <project path="bootable/recovery-twrp" name="MoKee/android_bootable_recovery-twrp" groups="pdk" />
-  <project path="external/bash" name="MoKee/android_external_bash" />
   <project path="external/exfat" name="ThirdProject/android_external_exfat" remote="third" />
   <project path="external/ffmpeg" name="ThirdProject/android_external_ffmpeg" remote="third" />
   <project path="external/fuse" name="ThirdProject/android_external_fuse" remote="third" />
@@ -19,7 +20,6 @@
   <project path="external/mokee/ServerController" name="MoKee/android_external_mokee_ServerController" revision="refs/heads/master" />
   <project path="external/nano" name="ThirdProject/android_external_nano" remote="third" />
   <project path="external/ntfs-3g" name="ThirdProject/android_external_ntfs-3g" remote="third" />
-  <project path="external/openssh" name="ThirdProject/android_external_openssh" remote="third" />
   <project path="external/p7zip" name="MoKee/android_external_p7zip" />
   <project path="external/pigz" name="ThirdProject/android_external_pigz" remote="third" />
   <project path="external/rsync" name="ThirdProject/android_external_rsync" remote="third" />
@@ -37,14 +37,14 @@
   <project path="hardware/ti/wpan" name="MoKee/android_hardware_ti_wpan" />
   <project path="packages/apps/Aegis" name="MoKee/android_packages_apps_Aegis" />
   <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />
-  <project path="packages/apps/MKCenter" name="MoKee/android_packages_apps_MKCenter" />
-  <project path="packages/apps/MKParts" name="MoKee/android_packages_apps_MKParts" />
   <project path="packages/apps/Eleven" name="MoKee/android_packages_apps_Eleven" />
   <project path="packages/apps/Exchange" name="ThirdProject/android_packages_apps_Exchange" remote="third" />
   <project path="packages/apps/FMRadio" name="MoKee/android_packages_apps_FMRadio" />
   <project path="packages/apps/Jelly" name="MoKee/android_packages_apps_Jelly" />
   <project path="packages/apps/Lawnchair" name="MoKee/android_packages_apps_Lawnchair" />
   <project path="packages/apps/LockClock" name="MoKee/android_packages_apps_LockClock" />
+  <project path="packages/apps/MKCenter" name="MoKee/android_packages_apps_MKCenter" />
+  <project path="packages/apps/MKParts" name="MoKee/android_packages_apps_MKParts" />
   <project path="packages/apps/Profiles" name="MoKee/android_packages_apps_Profiles" />
   <project path="packages/apps/Recorder" name="MoKee/android_packages_apps_Recorder" />
   <project path="packages/apps/SetupWizard" name="MoKee/android_packages_apps_SetupWizard" />
@@ -64,13 +64,12 @@
   <project path="system/extras/su" name="MoKee/android_system_extras_su" />
   <project path="vendor/mk" name="MoKee/android_vendor_mk" />
   <project path="vendor/mksdk" name="MoKee/mk_platform_sdk" />
-  <project path="vendor/private" name="MoKee/mk_private" clone-depth="10" />
+  <project path="vendor/private" name="MoKee/mk_private" clone-depth="10" />-->
 
-  <!-- MoKee Private additions -->
+  <!-- MoKee resources additions -->
   <project path="packages/resources/MoKeePay" name="MoKee/android_packages_resources_MoKeePay" />
-  <project path="packages/resources/YuBrowser" name="MoKee/android_packages_resources_YuBrowser" />
 
-  <!-- CodeAurora additions -->
+  <!-- CodeAurora additions
   <project path="device/qcom/sepolicy" name="MoKee/android_device_qcom_sepolicy" />
   <project path="external/ant-wireless/ant_native" name="ThirdProject/android_external_ant-wireless_ant_native" remote="third" />
   <project path="external/ant-wireless/ant_service" name="ThirdProject/android_external_ant-wireless_ant_service" remote="third" />
@@ -80,8 +79,6 @@
   <project path="external/ebtables" name="ThirdProject/android_external_ebtables" remote="third" />
   <project path="external/gson" name="ThirdProject/android_external_gson" remote="third" />
   <project path="external/json-c" name="ThirdProject/android_external_json-c" remote="third" />
-  <project path="external/libnetfilter_conntrack" name="ThirdProject/android_external_libnetfilter_conntrack" remote="third" />
-  <project path="external/libnfnetlink" name="ThirdProject/android_external_libnfnetlink" remote="third" />
   <project path="external/powertop" name="ThirdProject/android_external_powertop" remote="third" />
   <project path="external/protobuf-c" name="ThirdProject/android_external_protobuf-c" remote="third" />
   <project path="hardware/qcom/audio-caf/apq8084" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio" revision="mkn-mr1-caf-8084" />
@@ -121,5 +118,5 @@
   <project path="vendor/qcom/opensource/cryptfs_hw" name="MoKee/android_vendor_qcom_opensource_cryptfs_hw" />
   <project path="vendor/qcom/opensource/dataservices" name="MoKee/android_vendor_qcom_opensource_dataservices" />
   <project path="vendor/qcom/opensource/dpm" name="MoKee/android_vendor_qcom_opensource_dpm" />
-  <project path="vendor/qcom/opensource/time-services" name="MoKee/android_vendor_qcom_opensource_time-services" />
+  <project path="vendor/qcom/opensource/time-services" name="MoKee/android_vendor_qcom_opensource_time-services" /> -->
 </manifest>
