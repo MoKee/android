@@ -16,7 +16,7 @@
   <remote  name="third"
            fetch=".."
            review="https://review.mfunz.com"
-           revision="refs/heads/cm-14.1" />
+           revision="refs/heads/lineage-15.0" />
 
   <default
            revision="refs/heads/mkn-mr1"
