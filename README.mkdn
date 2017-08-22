@@ -10,7 +10,7 @@ Patches are always welcomed!  Please submit your patches via MoKee Gerrit! You c
     (Go to repo you are patching, make your changes and commit)
     mkgerrit <for(new)/changes(patch set)> <branch/change-id>
 
-    repo start mkn-mr1 .
+    repo start mko .
     (Make your changes and commit)
     repo upload .
     or
@@ -46,7 +46,7 @@ Commit your patches in a single commit. Squash multiple commits using this comma
 
     git rebase -i HEAD~<# of commits>
 
-To view the status of your and others' patches, visit [MoKee Code Review](http://review.mfunz.com/)
+To view the status of your and others' patches, visit [MoKee Code Review](https://review.mfunz.com/)
 
 
 Getting Started
@@ -57,7 +57,7 @@ familiar with [Repo](https://source.android.com/source/using-repo.html) and [Ver
 
 To initialize your local repository using the MoKee trees, use a command like this:
 
-    repo init -u https://github.com/MoKee/android.git -b mkn-mr1
+    repo init -u https://github.com/MoKee/android.git -b mko
 
 Then to sync up:
 
