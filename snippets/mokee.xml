@@ -64,8 +64,8 @@
   <project path="prebuilts/snapdragon/llvm-3.8" name="MoKee/android_prebuilts_snapdragon_llvm-3.8" groups="pdk,linux,arm" clone-depth="1" />
   <project path="system/extras/su" name="MoKee/android_system_extras_su" /> -->
   <project path="vendor/mk" name="MoKee/android_vendor_mk" />
-  <!-- <project path="vendor/mksdk" name="MoKee/mk_platform_sdk" />
-  <project path="vendor/private" name="MoKee/mk_private" clone-depth="10" />-->
+  <!-- <project path="vendor/mksdk" name="MoKee/mk_platform_sdk" />-->
+  <project path="vendor/private" name="MoKee/mk_private" clone-depth="1" />
 
   <!-- MoKee resources additions -->
   <project path="packages/resources/MoKeePay" name="MoKee/android_packages_resources_MoKeePay" />
