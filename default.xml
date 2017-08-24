@@ -13,11 +13,6 @@
            review="https://android-review.googlesource.com"
            revision="refs/tags/android-8.0.0_r3" />
 
-  <remote  name="third"
-           fetch=".."
-           review="https://review.mfunz.com"
-           revision="refs/heads/lineage-15.0" />
-
   <default
            revision="refs/heads/mko"
            remote="mokee"
@@ -527,7 +522,7 @@
   <project path="system/libufdt" name="platform/system/libufdt" groups="pdk" remote="aosp" />
   <project path="system/libvintf" name="platform/system/libvintf" groups="pdk" remote="aosp" />
   <project path="system/media" name="MoKee/android_system_media" groups="pdk" />
-  <project path="system/netd" name="platform/system/netd" groups="pdk" remote="aosp" />
+  <project path="system/netd" name="MoKee/android_system_netd" groups="pdk" />
   <project path="system/nfc" name="platform/system/nfc" groups="pdk" remote="aosp" />
   <project path="system/nvram" name="platform/system/nvram" remote="aosp" />
   <project path="system/security" name="platform/system/security" groups="pdk" remote="aosp" />
