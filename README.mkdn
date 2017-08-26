@@ -77,8 +77,4 @@ then feel free to use the build script:
 
     . build/envsetup.sh && lunch (enter device number) && mka bacon
 
-or
-
-    ./mk
-
 The script is interactive so everything else is self-explanatory.
