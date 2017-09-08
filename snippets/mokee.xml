@@ -25,20 +25,20 @@
   <project path="external/pigz" name="MoKee/android_external_pigz" />
   <!--<project path="external/rsync" name="MoKee/android_external_rsync" />-->
   <!--<project path="external/stagefright-plugins" name="MoKee/android_external_stagefright-plugins" />-->
-  <!--<project path="external/uicommon" name="MoKee/android_external_mokee_UICommon" />-->
   <!--<project path="external/unrar" name="MoKee/android_external_unrar" />-->
   <!--<project path="external/unzip" name="MoKee/android_external_unzip" />-->
   <!--<project path="external/vim" name="MoKee/android_external_vim" />-->
   <!--<project path="external/yaffs2" name="MoKee/android_external_yaffs2" />-->
   <!--<project path="external/zip" name="MoKee/android_external_zip" />-->
+  <project path="frameworks/opt/hardware" name="MoKee/android_frameworks_opt_hardware" />
   <!--<project path="hardware/mokee" name="MoKee/android_hardware_mokee" />-->
-  <!--<project path="frameworks/opt/hardware" name="MoKee/android_frameworks_opt_hardware" />-->
   <project path="hardware/mokee/interfaces" name="MoKee/android_hardware_mokee_interfaces" >
     <copyfile dest="hardware/mokee/Android.bp" src="Android.bp"/>
   </project>
   <!--<project path="hardware/ti/omap4" name="MoKee/android_hardware_ti_omap4" />-->
   <!--<project path="hardware/ti/wlan" name="MoKee/android_hardware_ti_wlan" />-->
   <!--<project path="hardware/ti/wpan" name="MoKee/android_hardware_ti_wpan" />-->
+  <project path="mokee-sdk" name="MoKee/android_mokee-sdk" />
   <!--<project path="packages/apps/Aegis" name="MoKee/android_packages_apps_Aegis" />-->
   <!--<project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />-->
   <project path="packages/apps/Eleven" name="MoKee/android_packages_apps_Eleven" />
@@ -48,7 +48,7 @@
   <!--<project path="packages/apps/Lawnchair" name="MoKee/android_packages_apps_Lawnchair" />-->
   <!--<project path="packages/apps/LockClock" name="MoKee/android_packages_apps_LockClock" />-->
   <!--<project path="packages/apps/MKCenter" name="MoKee/android_packages_apps_MKCenter" />-->
-  <!--<project path="packages/apps/MKParts" name="MoKee/android_packages_apps_MKParts" />-->
+  <project path="packages/apps/MKParts" name="MoKee/android_packages_apps_MKParts" />
   <!--<project path="packages/apps/Profiles" name="MoKee/android_packages_apps_Profiles" />-->
   <project path="packages/apps/Recorder" name="MoKee/android_packages_apps_Recorder" />
   <!--<project path="packages/apps/SetupWizard" name="MoKee/android_packages_apps_SetupWizard" />-->
@@ -62,11 +62,10 @@
   <!--<project path="packages/services/MKUpdateVerification" name="MoKee/android_packages_services_MKUpdateVerification" />-->
   <!--<project path="packages/services/ThemeInterfacer" name="MoKee/android_packages_services_ThemeInterfacer" />-->
   <!--<project path="packages/services/WeatherService" name="MoKee/android_packages_services_WeatherService" />-->
-  <!--<project path="prebuilts/mksdk" name="MoKee/android_prebuilts_mksdk" clone-depth="1" />-->
+  <!--<project path="prebuilts/mokee-sdk" name="MoKee/android_prebuilts_mokee-sdk" clone-depth="1" />-->
   <!--<project path="prebuilts/snapdragon/llvm-3.8" name="MoKee/android_prebuilts_snapdragon_llvm-3.8" groups="pdk,linux,arm" clone-depth="1" />-->
-  <!--<project path="system/extras/su" name="MoKee/android_system_extras_su" /> -->-->
+  <!--<project path="system/extras/su" name="MoKee/android_system_extras_su" />-->
   <project path="vendor/mk" name="MoKee/android_vendor_mk" />
-  <!-- <project path="vendor/mksdk" name="MoKee/mk_platform_sdk" />-->
   <project path="vendor/private" name="MoKee/mk_private" clone-depth="3" />
 
   <!-- MoKee resources additions -->
