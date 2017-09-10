@@ -14,7 +14,7 @@ Patches are always welcomed!  Please submit your patches via MoKee Gerrit! You c
     (Make your changes and commit)
     repo upload .
     or
-    git push ssh://<username>@review.mfunz.com:29418/<project> HEAD:refs/for/<branch>
+    git push ssh://<username>@mokeedev.review:29418/<project> HEAD:refs/for/<branch>
 
 *Note: "." means current directory*
 
@@ -46,7 +46,7 @@ Commit your patches in a single commit. Squash multiple commits using this comma
 
     git rebase -i HEAD~<# of commits>
 
-To view the status of your and others' patches, visit [MoKee Code Review](https://review.mfunz.com/)
+To view the status of your and others' patches, visit [MoKee Code Review](https://mokeedev.review/)
 
 
 Getting Started
