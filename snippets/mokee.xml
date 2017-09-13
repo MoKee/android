@@ -14,17 +14,17 @@
   <!--<project path="external/koush/ion" name="MoKee/ion" />-->
   <project path="external/libncurses" name="MoKee/android_external_libncurses" />
   <project path="external/libnfc-nxp" name="MoKee/android_external_libnfc-nxp" />
-  <!--<project path="external/libphonenumbergoogle" name="MoKee/android_external_libphonenumbergoogle" />
+  <!--<project path="external/libphonenumbergoogle" name="MoKee/android_external_libphonenumbergoogle" />-->
   <project path="external/libtar" name="MoKee/android_external_libtar" />
-  <project path="external/libtruezip" name="MoKee/android_external_libtruezip" />
+  <!--<project path="external/libtruezip" name="MoKee/android_external_libtruezip" />
   <project path="external/lzo" name="MoKee/android_external_lzo" />-->
   <project path="external/mokee/BuildController" name="MoKee/android_external_mokee_BuildController" />
   <project path="external/mokee/ServerController" name="MoKee/android_external_mokee_ServerController" revision="refs/heads/master" />
   <project path="external/nano" name="MoKee/android_external_nano" />
-  <!--<project path="external/ntfs-3g" name="MoKee/android_external_ntfs-3g" />
-  <project path="external/p7zip" name="MoKee/android_external_p7zip" />
+  <project path="external/ntfs-3g" name="MoKee/android_external_ntfs-3g" />
+  <!--<project path="external/p7zip" name="MoKee/android_external_p7zip" />-->
   <project path="external/pigz" name="MoKee/android_external_pigz" />
-  <project path="external/rsync" name="MoKee/android_external_rsync" />
+  <!--<project path="external/rsync" name="MoKee/android_external_rsync" />
   <project path="external/stagefright-plugins" name="MoKee/android_external_stagefright-plugins" />
   <project path="external/uicommon" name="MoKee/android_external_mokee_UICommon" />
   <project path="external/unrar" name="MoKee/android_external_unrar" />
