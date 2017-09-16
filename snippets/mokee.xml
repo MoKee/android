@@ -14,7 +14,6 @@
   <!--<project path="external/koush/ion" name="MoKee/ion" />-->
   <project path="external/libncurses" name="MoKee/android_external_libncurses" />
   <project path="external/libnfc-nxp" name="MoKee/android_external_libnfc-nxp" />
-  <!--<project path="external/libphonenumbergoogle" name="MoKee/android_external_libphonenumbergoogle" />-->
   <project path="external/libtar" name="MoKee/android_external_libtar" />
   <!--<project path="external/libtruezip" name="MoKee/android_external_libtruezip" />
   <project path="external/lzo" name="MoKee/android_external_lzo" />-->
