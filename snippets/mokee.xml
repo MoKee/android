@@ -11,7 +11,6 @@
   <project path="external/htop" name="ThirdProject/android_external_htop" remote="third" />
   <project path="external/koush/ion" name="ThirdProject/ion" remote="third" />
   <project path="external/libncurses" name="ThirdProject/android_external_libncurses" remote="third" />
-  <project path="external/libphonenumbergoogle" name="ThirdProject/android_external_libphonenumbergoogle" remote="third" />
   <project path="external/libtar" name="ThirdProject/android_external_libtar" remote="third" />
   <project path="external/libtruezip" name="ThirdProject/android_external_libtruezip" remote="third" />
   <project path="external/lzo" name="ThirdProject/android_external_lzo" remote="third" />
