@@ -69,8 +69,8 @@
   <!-- MoKee resources additions -->
   <project path="packages/resources/MoKeePay" name="MoKee/android_packages_resources_MoKeePay" />
 
-  <!-- CodeAurora additions
-  <project path="device/qcom/sepolicy" name="MoKee/android_device_qcom_sepolicy" />-->
+  <!-- CodeAurora additions -->
+  <project path="device/qcom/sepolicy" name="MoKee/android_device_qcom_sepolicy" />
   <project path="external/ant-wireless/ant_native" name="MoKee/android_external_ant-wireless_ant_native" />
   <project path="external/ant-wireless/ant_service" name="MoKee/android_external_ant-wireless_ant_service" />
   <project path="external/ant-wireless/antradio-library" name="MoKee/android_external_ant-wireless_antradio-library" />
