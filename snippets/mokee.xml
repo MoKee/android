@@ -81,6 +81,7 @@
   <project path="external/json-c" name="MoKee/android_external_json-c" />
   <project path="external/powertop" name="MoKee/android_external_powertop" />
   <!--<project path="external/protobuf-c" name="MoKee/android_external_protobuf-c" />-->
+  <project path="hardware/mokee/interfaces" name="MoKee/android_hardware_mokee_interfaces" />
   <project path="hardware/qcom/audio-caf/apq8084" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="mko-caf-8084" />
   <project path="hardware/qcom/audio-caf/msm8916" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="mko-caf-8916" />
   <!--<project path="hardware/qcom/audio-caf/msm8937" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="mko-caf-8937" />-->
