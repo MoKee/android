@@ -10,11 +10,10 @@
 
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
-           review="https://android-review.googlesource.com"
+           review="android-review.googlesource.com"
            revision="refs/tags/android-8.0.0_r3" />
 
-  <default
-           revision="refs/heads/mko"
+  <default revision="refs/heads/mko"
            remote="mokee"
            sync-c="true"
            sync-j="4" />
