@@ -191,7 +191,7 @@
   <project path="external/libjpeg-turbo" name="MoKee/android_external_libjpeg-turbo" groups="pdk" />
   <project path="external/liblzf" name="platform/external/liblzf" groups="pdk" remote="aosp" />
   <project path="external/libmicrohttpd" name="platform/external/libmicrohttpd" groups="pdk" remote="aosp" />
-  <project path="external/libmpeg2" name="MoKee/android_external_libmpeg2" groups="pdk" remote="third" />
+  <project path="external/libmpeg2" name="ThirdProject/android_external_libmpeg2" groups="pdk" remote="third" />
   <project path="external/libmtp" name="platform/external/libmtp" groups="pdk" remote="aosp" />
   <project path="external/libnfc-nci" name="ThirdProject/android_external_libnfc-nci" groups="pdk" remote="third" />
   <project path="external/libnfc-nxp" name="ThirdProject/android_external_libnfc-nxp" groups="pdk" remote="third" />
