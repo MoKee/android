@@ -66,7 +66,6 @@
 
   <!-- MoKee Private additions -->
   <project path="packages/resources/MoKeePay" name="MoKee/android_packages_resources_MoKeePay" />
-  <project path="packages/resources/YuBrowser" name="MoKee/android_packages_resources_YuBrowser" />
 
   <!-- CodeAurora additions -->
   <project path="device/qcom/sepolicy" name="MoKee/android_device_qcom_sepolicy" />
