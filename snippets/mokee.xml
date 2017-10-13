@@ -31,6 +31,7 @@
   <project path="external/zip" name="ThirdProject/android_external_zip" remote="third" />
   <project path="hardware/mokee" name="MoKee/android_hardware_mokee" />
   <project path="frameworks/opt/hardware" name="MoKee/android_frameworks_opt_hardware" />
+  <project path="frameworks/xposed" name="MoKee/android_frameworks_xposed" />
   <project path="hardware/ti/omap4" name="MoKee/android_hardware_ti_omap4" />
   <project path="hardware/ti/wlan" name="MoKee/android_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="MoKee/android_hardware_ti_wpan" />
