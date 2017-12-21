@@ -31,10 +31,10 @@
   <!--<project path="external/yaffs2" name="MoKee/android_external_yaffs2" />-->
   <!--<project path="external/zip" name="MoKee/android_external_zip" />-->
   <project path="frameworks/opt/hardware" name="MoKee/android_frameworks_opt_hardware" />
-  <!--<project path="hardware/mokee" name="MoKee/android_hardware_mokee" />-->
   <project path="hardware/mokee/interfaces" name="MoKee/android_hardware_mokee_interfaces" >
     <copyfile dest="hardware/mokee/Android.bp" src="Android.bp"/>
   </project>
+  <project path="hardware/mokee/mkhw" name="MoKee/android_hardware_mokee_mkhw" />
   <!--<project path="hardware/ti/omap4" name="MoKee/android_hardware_ti_omap4" />-->
   <!--<project path="hardware/ti/wlan" name="MoKee/android_hardware_ti_wlan" />-->
   <!--<project path="hardware/ti/wpan" name="MoKee/android_hardware_ti_wpan" />-->
