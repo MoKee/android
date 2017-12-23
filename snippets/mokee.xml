@@ -12,7 +12,6 @@
   <project path="external/koush/ion" name="ThirdProject/ion" remote="third" />
   <project path="external/libncurses" name="ThirdProject/android_external_libncurses" remote="third" />
   <project path="external/libtar" name="ThirdProject/android_external_libtar" remote="third" />
-  <project path="external/lzo" name="ThirdProject/android_external_lzo" remote="third" />
   <project path="external/mokee/BuildController" name="MoKee/android_external_mokee_BuildController" />
   <project path="external/mokee/ServerController" name="MoKee/android_external_mokee_ServerController" revision="refs/heads/master" />
   <project path="external/nano" name="ThirdProject/android_external_nano" remote="third" />
