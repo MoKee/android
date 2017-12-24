@@ -23,7 +23,6 @@
   <project path="external/rsync" name="MoKee/android_external_rsync" />
   <!--<project path="external/stagefright-plugins" name="MoKee/android_external_stagefright-plugins" />-->
   <!--<project path="external/unrar" name="MoKee/android_external_unrar" />-->
-  <!--<project path="external/unzip" name="MoKee/android_external_unzip" />-->
   <project path="external/vim" name="MoKee/android_external_vim" />
   <!--<project path="external/yaffs2" name="MoKee/android_external_yaffs2" />-->
   <!--<project path="external/zip" name="MoKee/android_external_zip" />-->
