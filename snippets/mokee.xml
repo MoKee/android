@@ -18,14 +18,14 @@
   <project path="external/mokee/ServerController" name="MoKee/android_external_mokee_ServerController" revision="refs/heads/master" />
   <project path="external/nano" name="MoKee/android_external_nano" />
   <project path="external/ntfs-3g" name="MoKee/android_external_ntfs-3g" />
-  <!--<project path="external/p7zip" name="MoKee/android_external_p7zip" />-->
+  <project path="external/p7zip" name="MoKee/android_external_p7zip" />
   <project path="external/pigz" name="MoKee/android_external_pigz" />
   <project path="external/rsync" name="MoKee/android_external_rsync" />
   <!--<project path="external/stagefright-plugins" name="MoKee/android_external_stagefright-plugins" />-->
-  <!--<project path="external/unrar" name="MoKee/android_external_unrar" />-->
+  <project path="external/unrar" name="MoKee/android_external_unrar" />
   <project path="external/vim" name="MoKee/android_external_vim" />
   <!--<project path="external/yaffs2" name="MoKee/android_external_yaffs2" />-->
-  <!--<project path="external/zip" name="MoKee/android_external_zip" />-->
+  <project path="external/zip" name="MoKee/android_external_zip" />
   <project path="frameworks/opt/hardware" name="MoKee/android_frameworks_opt_hardware" />
   <project path="hardware/mokee/interfaces" name="MoKee/android_hardware_mokee_interfaces" >
     <copyfile dest="hardware/mokee/Android.bp" src="Android.bp"/>
