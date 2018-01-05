@@ -26,7 +26,6 @@
   <project path="external/vim" name="MoKee/android_external_vim" />
   <!--<project path="external/yaffs2" name="MoKee/android_external_yaffs2" />-->
   <project path="external/zip" name="MoKee/android_external_zip" />
-  <project path="frameworks/opt/hardware" name="MoKee/android_frameworks_opt_hardware" />
   <project path="hardware/mokee/interfaces" name="MoKee/android_hardware_mokee_interfaces" >
     <copyfile dest="hardware/mokee/Android.bp" src="Android.bp"/>
   </project>
