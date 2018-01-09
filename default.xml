@@ -77,7 +77,7 @@
   <project path="external/autotest" name="platform/external/autotest" groups="pdk-fs" remote="aosp" />
   <project path="external/avb" name="platform/external/avb" groups="pdk" remote="aosp" />
   <project path="external/bart" name="platform/external/bart" groups="pdk" remote="aosp" />
-  <project path="external/bison" name="platform/external/bison" groups="pdk" remote="aosp" />
+  <project path="external/bison" name="MoKee/android_external_bison" groups="pdk" />
   <project path="external/blktrace" name="platform/external/blktrace" groups="pdk" remote="aosp" />
   <project path="external/boringssl" name="platform/external/boringssl" groups="pdk" remote="aosp" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" groups="pdk" remote="aosp" />
