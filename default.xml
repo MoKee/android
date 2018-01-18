@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="mokee"
+           fetch=".."
+           review="https://mokeedev.review" />
+
+  <default revision="refs/heads/mko-mr1"
+           remote="mokee"
+           sync-c="true"
+           sync-j="4" />
+
+  <project path="bionic" name="MoKee/android_bionic" />
+  <project path="build/make" name="MoKee/android_build" />
+  <project path="build/kati" name="MoKee/android_build_kati" />
+  <project path="build/soong" name="MoKee/android_build_soong" />
+  <project path="dalvik" name="MoKee/android_dalvik" />
+  <project path="bootable/recovery" name="MoKee/android_bootable_recovery" />
+  <project path="development" name="MoKee/android_development" />
+  <project path="external/e2fsprogs" name="MoKee/android_external_e2fsprogs" />
+  <project path="external/elfutils" name="MoKee/android_external_elfutils" />
+  <project path="external/f2fs-tools" name="MoKee/android_external_f2fs-tools" />
+  <project path="external/gptfdisk" name="MoKee/android_external_gptfdisk" />
+  <project path="external/mksh" name="MoKee/android_external_mksh" />
+  <project path="external/selinux" name="MoKee/android_external_selinux" />
+  <project path="external/tinycompress" name="MoKee/android_external_tinycompress" />
+  <project path="external/toybox" name="MoKee/android_external_toybox" />
+  <project path="external/zlib" name="MoKee/android_external_zlib" />
+  <project path="frameworks/av" name="MoKee/android_frameworks_av" />
+  <project path="frameworks/base" name="MoKee/android_frameworks_base" />
+  <project path="frameworks/native" name="MoKee/android_frameworks_native" />
+  <project path="frameworks/opt/telephony" name="MoKee/android_frameworks_opt_telephony" />
+  <project path="frameworks/support" name="MoKee/android_frameworks_support" />
+  <project path="hardware/broadcom/libbt" name="MoKee/android_hardware_broadcom_libbt" />
+  <project path="hardware/broadcom/wlan" name="MoKee/android_hardware_broadcom_wlan" />
+  <project path="hardware/interfaces" name="MoKee/android_hardware_interfaces" />
+  <project path="hardware/libhardware" name="MoKee/android_hardware_libhardware" />
+  <project path="hardware/libhardware_legacy" name="MoKee/android_hardware_libhardware_legacy" />
+  <project path="hardware/qcom/audio/default" name="MoKee/android_hardware_qcom_audio" />
+  <project path="hardware/qcom/bootctrl" name="MoKee/android_hardware_qcom_bootctrl" />
+  <project path="hardware/qcom/bt" name="MoKee/android_hardware_qcom_bt" />
+  <project path="hardware/qcom/camera" name="MoKee/android_hardware_qcom_camera" />
+  <project path="hardware/qcom/display" name="MoKee/android_hardware_qcom_display" />
+  <project path="hardware/qcom/gps" name="MoKee/android_hardware_qcom_gps" />
+  <project path="hardware/qcom/keymaster" name="MoKee/android_hardware_qcom_keymaster" />
+  <project path="hardware/qcom/media" name="MoKee/android_hardware_qcom_media" />
+  <project path="hardware/qcom/wlan" name="MoKee/android_hardware_qcom_wlan" />
+  <project path="hardware/ril" name="MoKee/android_hardware_ril" />
+  <project path="packages/apps/BasicSmsReceiver" name="MoKee/android_packages_apps_BasicSmsReceiver" />
+  <project path="packages/apps/Bluetooth" name="MoKee/android_packages_apps_Bluetooth" />
+  <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" />
+  <project path="packages/apps/Camera2" name="MoKee/android_packages_apps_Camera2" />
+  <project path="packages/apps/CarrierConfig" name="MoKee/android_packages_apps_CarrierConfig" />
+  <project path="packages/apps/CellBroadcastReceiver" name="MoKee/android_packages_apps_CellBroadcastReceiver" />
+  <project path="packages/apps/CertInstaller" name="MoKee/android_packages_apps_CertInstaller" />
+  <project path="packages/apps/Contacts" name="MoKee/android_packages_apps_Contacts" />
+  <project path="packages/apps/DeskClock" name="MoKee/android_packages_apps_DeskClock" />
+  <project path="packages/apps/Dialer" name="MoKee/android_packages_apps_Dialer" />
+  <project path="packages/apps/DocumentsUI" name="MoKee/android_packages_apps_DocumentsUI" />
+  <project path="packages/apps/Email" name="MoKee/android_packages_apps_Email" />
+  <project path="packages/apps/EmergencyInfo" name="MoKee/android_packages_apps_EmergencyInfo" />
+  <project path="packages/apps/ExactCalculator" name="MoKee/android_packages_apps_ExactCalculator" />
+  <project path="packages/apps/Gallery2" name="MoKee/android_packages_apps_Gallery2" />
+  <project path="packages/apps/HTMLViewer" name="MoKee/android_packages_apps_HTMLViewer" />
+  <project path="packages/apps/KeyChain" name="MoKee/android_packages_apps_KeyChain" />
+  <project path="packages/apps/ManagedProvisioning" name="MoKee/android_packages_apps_ManagedProvisioning" />
+  <project path="packages/apps/Messaging" name="MoKee/android_packages_apps_Messaging" />
+  <project path="packages/apps/Nfc" name="MoKee/android_packages_apps_Nfc" />
+  <project path="packages/apps/PackageInstaller" name="MoKee/android_packages_apps_PackageInstaller" />
+  <project path="packages/apps/PhoneCommon" name="MoKee/android_packages_apps_PhoneCommon" />
+  <project path="packages/apps/SafetyRegulatoryInfo" name="MoKee/android_packages_apps_SafetyRegulatoryInfo" />
+  <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" />
+  <project path="packages/apps/Stk" name="MoKee/android_packages_apps_Stk" />
+  <project path="packages/apps/StorageManager" name="MoKee/android_packages_apps_StorageManager" />
+  <project path="packages/apps/Tag" name="MoKee/android_packages_apps_Tag" />
+  <project path="packages/apps/Terminal" name="MoKee/android_packages_apps_Terminal" />
+  <project path="packages/apps/TvSettings" name="MoKee/android_packages_apps_TvSettings" />
+  <project path="packages/apps/TV" name="MoKee/android_packages_apps_TV" />
+  <project path="packages/apps/UnifiedEmail" name="MoKee/android_packages_apps_UnifiedEmail" />
+  <project path="packages/apps/WallpaperPicker" name="MoKee/android_packages_apps_WallpaperPicker" />
+  <project path="packages/inputmethods/LatinIME" name="MoKee/android_packages_inputmethods_LatinIME" />
+  <project path="packages/providers/BlockedNumberProvider" name="MoKee/android_packages_providers_BlockedNumberProvider" />
+  <project path="packages/providers/BookmarkProvider" name="MoKee/android_packages_providers_BookmarkProvider" />
+  <project path="packages/providers/CalendarProvider" name="MoKee/android_packages_providers_CalendarProvider" />
+  <project path="packages/providers/CallLogProvider" name="MoKee/android_packages_providers_CallLogProvider" />
+  <project path="packages/providers/ContactsProvider" name="MoKee/android_packages_providers_ContactsProvider" />
+  <project path="packages/providers/DownloadProvider" name="MoKee/android_packages_providers_DownloadProvider" />
+  <project path="packages/providers/MediaProvider" name="MoKee/android_packages_providers_MediaProvider" />
+  <project path="packages/providers/PartnerBookmarksProvider" name="MoKee/android_packages_providers_PartnerBookmarksProvider" />
+  <project path="packages/providers/TelephonyProvider" name="MoKee/android_packages_providers_TelephonyProvider" />
+  <project path="packages/providers/TvProvider" name="MoKee/android_packages_providers_TvProvider" />
+  <project path="packages/providers/UserDictionaryProvider" name="MoKee/android_packages_providers_UserDictionaryProvider" />
+  <project path="packages/screensavers/Basic" name="MoKee/android_packages_screensavers_Basic" />
+  <project path="packages/screensavers/PhotoTable" name="MoKee/android_packages_screensavers_PhotoTable" />
+  <project path="packages/screensavers/WebView" name="MoKee/android_packages_screensavers_WebView" />
+  <project path="packages/services/BuiltInPrintService" name="MoKee/android_packages_services_BuiltInPrintService" />
+  <project path="packages/services/Mms" name="MoKee/android_packages_services_Mms" />
+  <project path="packages/services/Telecomm" name="MoKee/android_packages_services_Telecomm" />
+  <project path="packages/services/Telephony" name="MoKee/android_packages_services_Telephony" />
+  <project path="packages/wallpapers/LivePicker" name="MoKee/android_packages_wallpapers_LivePicker" />
+  <project path="platform_testing" name="MoKee/android_platform_testing" />
+  <project path="system/bt" name="MoKee/android_system_bt" />
+  <project path="system/core" name="MoKee/android_system_core" />
+  <project path="system/extras" name="MoKee/android_system_extras" />
+  <project path="system/libhidl" name="MoKee/android_system_libhidl" />
+  <project path="system/media" name="MoKee/android_system_media" />
+  <project path="system/nfc" name="MoKee/android_system_nfc" />
+  <project path="system/sepolicy" name="MoKee/android_system_sepolicy" />
+  <project path="system/tools/aidl" name="MoKee/android_system_tools_aidl" />
+  <project path="system/tools/hidl" name="MoKee/android_system_tools_hidl" />
+  <project path="system/update_engine" name="MoKee/android_system_update_engine" />
+  <project path="system/vold" name="MoKee/android_system_vold" />
+
+  <project path="device/mokee/sepolicy" name="MoKee/android_device_lineage_sepolicy" />
+  <project path="device/qcom/sepolicy" name="MoKee/android_device_qcom_sepolicy" />
+  <project path="external/bash" name="MoKee/android_external_bash" />
+  <project path="external/exfat" name="MoKee/android_external_exfat" />
+  <project path="external/fuse" name="MoKee/android_external_fuse" />
+  <project path="external/htop" name="MoKee/android_external_htop" />
+  <project path="external/libncurses" name="MoKee/android_external_libncurses" />
+  <project path="external/libnfc-nxp" name="MoKee/android_external_libnfc-nxp" />
+  <project path="external/libtar" name="MoKee/android_external_libtar" />
+  <project path="external/nano" name="MoKee/android_external_nano" />
+  <project path="external/ntfs-3g" name="MoKee/android_external_ntfs-3g" />
+  <project path="external/p7zip" name="MoKee/android_external_p7zip" />
+  <project path="external/pigz" name="MoKee/android_external_pigz" />
+  <project path="external/rsync" name="MoKee/android_external_rsync" />
+  <project path="external/unrar" name="MoKee/android_external_unrar" />
+  <project path="external/vim" name="MoKee/android_external_vim" />
+  <project path="external/zip" name="MoKee/android_external_zip" />
+  <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />
+  <project path="packages/apps/Eleven" name="MoKee/android_packages_apps_Eleven" />
+  <project path="packages/apps/FMRadio" name="MoKee/android_packages_apps_FMRadio" />
+  <project path="packages/apps/Jelly" name="MoKee/android_packages_apps_Jelly" />
+  <project path="packages/apps/MKParts" name="MoKee/android_packages_apps_LineageParts" />
+  <project path="packages/apps/Recorder" name="MoKee/android_packages_apps_Recorder" />
+  <project path="packages/apps/Snap" name="MoKee/android_packages_apps_Snap" />
+  <project path="packages/providers/WeatherProvider" name="MoKee/android_packages_providers_WeatherProvider" />
+  <project path="packages/resources/devicesettings" name="MoKee/android_packages_resources_devicesettings" />
+  <project path="system/extras/su" name="MoKee/android_system_extras_su" />
+  <project path="vendor/mk" name="MoKee/android_vendor_lineage" />
+  <project path="external/ant-wireless/ant_native" name="MoKee/android_external_ant-wireless_ant_native" />
+  <project path="external/ant-wireless/ant_service" name="MoKee/android_external_ant-wireless_ant_service" />
+  <project path="external/ant-wireless/antradio-library" name="MoKee/android_external_ant-wireless_antradio-library" />
+  <project path="external/brctl" name="MoKee/android_external_brctl" />
+  <project path="external/connectivity" name="MoKee/android_external_connectivity" />
+  <project path="external/ebtables" name="MoKee/android_external_ebtables" />
+  <project path="external/json-c" name="MoKee/android_external_json-c" />
+  <project path="external/powertop" name="MoKee/android_external_powertop" />
+  <project path="hardware/mokee/interfaces" name="MoKee/android_hardware_lineage_interfaces" />
+  <project path="hardware/mokee/mkhw" name="MoKee/android_hardware_lineage_lineagehw" />
+  <project path="hardware/qcom/fm" name="MoKee/android_hardware_qcom_fm" />
+  <project path="hardware/qcom/power" name="MoKee/android_hardware_qcom_power" />
+  <project path="system/qcom" name="MoKee/android_system_qcom" />
+  <project path="vendor/codeaurora/telephony" name="MoKee/android_vendor_codeaurora_telephony" />
+  <project path="vendor/qcom/opensource/cryptfs_hw" name="MoKee/android_vendor_qcom_opensource_cryptfs_hw" />
+  <project path="vendor/qcom/opensource/dataservices" name="MoKee/android_vendor_qcom_opensource_dataservices" />
+  <project path="vendor/qcom/opensource/interfaces" name="MoKee/android_vendor_qcom_opensource_interfaces" />
+  <project path="vendor/qcom/opensource/rcs-service" name="MoKee/android_vendor_qcom_opensource_rcs-service" />
+
+</manifest>
