@@ -111,6 +111,7 @@
   <project path="system/update_engine" name="MoKee/android_system_update_engine" />
   <project path="system/vold" name="MoKee/android_system_vold" />
 
+  <project path="android" name="MoKee/android" />
   <project path="device/mokee/sepolicy" name="MoKee/android_device_mokee_sepolicy" />
   <project path="external/bash" name="MoKee/android_external_bash" />
   <project path="external/exfat" name="MoKee/android_external_exfat" />
@@ -190,9 +191,7 @@
   <project path="vendor/codeaurora/telephony" name="MoKee/android_vendor_codeaurora_telephony" />
   <project path="vendor/qcom/opensource/cryptfs_hw" name="MoKee/android_vendor_qcom_opensource_cryptfs_hw" />
   <project path="vendor/qcom/opensource/dataservices" name="MoKee/android_vendor_qcom_opensource_dataservices" />
-  <project path="vendor/qcom/opensource/interfaces" name="MoKee/android_vendor_qcom_opensource_interfaces" >
-    <copyfile dest="vendor/qcom/opensource/Android.bp" src="os_pickup.bp"/>
-  </project>
+  <project path="vendor/qcom/opensource/interfaces" name="MoKee/android_vendor_qcom_opensource_interfaces" />
   <project path="vendor/qcom/opensource/rcs-service" name="MoKee/android_vendor_qcom_opensource_rcs-service" />
 
 </manifest>
