@@ -102,9 +102,11 @@
   <project path="system/bt" name="MoKee/android_system_bt" />
   <project path="system/core" name="MoKee/android_system_core" />
   <project path="system/extras" name="MoKee/android_system_extras" />
+  <project path="system/keymaster" name="MoKee/android_system_keymaster" />
   <project path="system/libhidl" name="MoKee/android_system_libhidl" />
   <project path="system/media" name="MoKee/android_system_media" />
   <project path="system/nfc" name="MoKee/android_system_nfc" />
+  <project path="system/security" name="MoKee/android_system_security" />
   <project path="system/sepolicy" name="MoKee/android_system_sepolicy" />
   <project path="system/tools/aidl" name="MoKee/android_system_tools_aidl" />
   <project path="system/tools/hidl" name="MoKee/android_system_tools_hidl" />
@@ -141,12 +143,7 @@
   <project path="vendor/mk" name="MoKee/android_vendor_mk" />
   <project path="hardware/mokee/interfaces" name="MoKee/android_hardware_mokee_interfaces" />
   <project path="hardware/mokee/mkhw" name="MoKee/android_hardware_mokee_mkhw" />
-
   <project path="mokee-sdk" name="MoKee/android_mokee-sdk" />
-  <project path="external/bison" name="MoKee/android_external_bison" />
-
-  <project path="device/oppo/common" name="MoKee/android_device_oppo_common" />
-  <project path="device/qcom/common" name="MoKee/android_device_qcom_common" />
 
   <!-- CodeAurora additions -->
   <project path="device/qcom/sepolicy" name="MoKee/android_device_qcom_sepolicy" />
@@ -193,5 +190,10 @@
   <project path="vendor/qcom/opensource/dataservices" name="MoKee/android_vendor_qcom_opensource_dataservices" />
   <project path="vendor/qcom/opensource/interfaces" name="MoKee/android_vendor_qcom_opensource_interfaces" />
   <project path="vendor/qcom/opensource/rcs-service" name="MoKee/android_vendor_qcom_opensource_rcs-service" />
+
+  <project path="external/bison" name="MoKee/android_external_bison" />
+
+  <project path="device/oppo/common" name="MoKee/android_device_oppo_common" />
+  <project path="device/qcom/common" name="MoKee/android_device_qcom_common" />
 
 </manifest>
