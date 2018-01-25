@@ -21,6 +21,7 @@
   <project path="external/elfutils" name="MoKee/android_external_elfutils" />
   <project path="external/f2fs-tools" name="MoKee/android_external_f2fs-tools" />
   <project path="external/gptfdisk" name="MoKee/android_external_gptfdisk" />
+  <project path="external/libtextclassifier" name="MoKee/android_external_libtextclassifier" />
   <project path="external/mksh" name="MoKee/android_external_mksh" />
   <project path="external/selinux" name="MoKee/android_external_selinux" />
   <project path="external/tinycompress" name="MoKee/android_external_tinycompress" />
