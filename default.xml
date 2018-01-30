@@ -19,7 +19,6 @@
            sync-j="4" />
 
   <!-- AOSP Projects -->
-
   <project path="build/make" name="MoKee/android_build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
