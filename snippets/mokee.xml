@@ -54,7 +54,7 @@
   <!--<project path="packages/providers/DataUsageProvider" name="MoKee/android_packages_providers_DataUsageProvider" />-->
   <!--<project path="packages/providers/MoKeeWeatherProvider" name="MoKee/android_packages_providers_MoKeeWeatherProvider" />-->
   <project path="packages/providers/WeatherProvider" name="MoKee/android_packages_providers_WeatherProvider" />
-  <!--<project path="packages/services/MKUpdateVerification" name="MoKee/android_packages_services_MKUpdateVerification" />-->
+  <project path="packages/services/MKUpdateVerification" name="MoKee/android_packages_services_MKUpdateVerification" />
   <!--<project path="packages/services/ThemeInterfacer" name="MoKee/android_packages_services_ThemeInterfacer" />-->
   <project path="prebuilts/mokee-sdk" name="MoKee/android_prebuilts_mokee-sdk" clone-depth="1" />
   <!--<project path="prebuilts/snapdragon/llvm-3.8" name="MoKee/android_prebuilts_snapdragon_llvm-3.8" groups="pdk,linux,arm" clone-depth="1" />-->
