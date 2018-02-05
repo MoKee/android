@@ -16,6 +16,7 @@
   <project path="build/soong" name="MoKee/android_build_soong" />
   <project path="dalvik" name="MoKee/android_dalvik" />
   <project path="bootable/recovery" name="MoKee/android_bootable_recovery" />
+  <project path="bootable/recovery-twrp" name="MoKee/android_bootable_recovery-twrp" />
   <project path="development" name="MoKee/android_development" />
   <project path="external/e2fsprogs" name="MoKee/android_external_e2fsprogs" />
   <project path="external/elfutils" name="MoKee/android_external_elfutils" />
