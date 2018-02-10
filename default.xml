@@ -145,6 +145,7 @@
   <project path="packages/resources/devicesettings" name="MoKee/android_packages_resources_devicesettings" />
   <project path="system/extras/su" name="MoKee/android_system_extras_su" />
   <project path="vendor/mk" name="MoKee/android_vendor_mk" />
+  <project path="vendor/private" name="MoKee/mk_private" />
   <project path="hardware/mokee/interfaces" name="MoKee/android_hardware_mokee_interfaces" />
   <project path="hardware/mokee/mkhw" name="MoKee/android_hardware_mokee_mkhw" />
   <project path="hardware/mokee/livedisplay" name="MoKee/android_hardware_mokee_livedisplay" />
