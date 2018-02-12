@@ -141,6 +141,7 @@
   <project path="packages/apps/Profiles" name="MoKee/android_packages_apps_Profiles" />
   <project path="packages/apps/Recorder" name="MoKee/android_packages_apps_Recorder" />
   <project path="packages/apps/Snap" name="MoKee/android_packages_apps_Snap" />
+  <project path="packages/overlays/MoKee" name="MoKee/android_packages_overlays_MoKee" />
   <project path="packages/providers/WeatherProvider" name="MoKee/android_packages_providers_WeatherProvider" />
   <project path="packages/resources/devicesettings" name="MoKee/android_packages_resources_devicesettings" />
   <project path="system/extras/su" name="MoKee/android_system_extras_su" />
