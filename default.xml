@@ -31,6 +31,7 @@
   <project path="frameworks/av" name="MoKee/android_frameworks_av" />
   <project path="frameworks/base" name="MoKee/android_frameworks_base" />
   <project path="frameworks/native" name="MoKee/android_frameworks_native" />
+  <project path="frameworks/opt/datetimepicker" name="MoKee/android_frameworks_opt_datetimepicker" />
   <project path="frameworks/opt/telephony" name="MoKee/android_frameworks_opt_telephony" />
   <project path="frameworks/support" name="MoKee/android_frameworks_support" />
   <project path="hardware/broadcom/libbt" name="MoKee/android_hardware_broadcom_libbt" />
