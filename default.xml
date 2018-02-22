@@ -74,6 +74,7 @@
   <project path="packages/apps/PhoneCommon" name="MoKee/android_packages_apps_PhoneCommon" />
   <project path="packages/apps/SafetyRegulatoryInfo" name="MoKee/android_packages_apps_SafetyRegulatoryInfo" />
   <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" />
+  <project path="packages/apps/SetupWizard" name="MoKee/android_packages_apps_SetupWizard" />
   <project path="packages/apps/Stk" name="MoKee/android_packages_apps_Stk" />
   <project path="packages/apps/StorageManager" name="MoKee/android_packages_apps_StorageManager" />
   <project path="packages/apps/Tag" name="MoKee/android_packages_apps_Tag" />
