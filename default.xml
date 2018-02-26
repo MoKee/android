@@ -68,6 +68,7 @@
   <project path="packages/apps/Gallery2" name="MoKee/android_packages_apps_Gallery2" />
   <project path="packages/apps/HTMLViewer" name="MoKee/android_packages_apps_HTMLViewer" />
   <project path="packages/apps/KeyChain" name="MoKee/android_packages_apps_KeyChain" />
+  <project path="packages/apps/Lawnchair" name="MoKee/android_packages_apps_Lawnchair" />
   <project path="packages/apps/ManagedProvisioning" name="MoKee/android_packages_apps_ManagedProvisioning" />
   <project path="packages/apps/Messaging" name="MoKee/android_packages_apps_Messaging" />
   <project path="packages/apps/Nfc" name="MoKee/android_packages_apps_Nfc" />
