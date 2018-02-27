@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/oppo/common" name="MoKee/android_device_oppo_common" />
+
+  <project path="device/qcom/common" name="MoKee/android_device_qcom_common" />
+
+  <project path="device/xiaomi/capricorn" name="MoKee/android_device_xiaomi_capricorn" />
+  <project path="device/xiaomi/gemini" name="MoKee/android_device_xiaomi_gemini" />
+  <project path="device/xiaomi/msm8996-common" name="MoKee/android_device_xiaomi_msm8996-common" />
+  <project path="device/xiaomi/natrium" name="MoKee/android_device_xiaomi_natrium" />
+  <project path="kernel/xiaomi/msm8996" name="MoKee/android_kernel_xiaomi_msm8996" />
+  <project path="vendor/xiaomi/capricorn" name="MoKee/android_vendor_xiaomi_capricorn" />
+  <project path="vendor/xiaomi/gemini" name="MoKee/android_vendor_xiaomi_gemini" />
+  <project path="vendor/xiaomi/msm8996-common" name="MoKee/android_vendor_xiaomi_msm8996-common" />
+  <project path="vendor/xiaomi/natrium" name="MoKee/android_vendor_xiaomi_natrium" />
+
+</manifest>

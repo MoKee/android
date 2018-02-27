@@ -207,7 +207,6 @@
 
   <project path="external/bison" name="MoKee/android_external_bison" />
 
-  <project path="device/oppo/common" name="MoKee/android_device_oppo_common" />
-  <project path="device/qcom/common" name="MoKee/android_device_qcom_common" />
+  <include name="snippets/device.xml" />
 
 </manifest>
