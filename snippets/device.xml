@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+
+  <!-- Leeco -->
+  <project path="device/leeco/msm8996-common" name="MoKee/android_device_leeco_msm8996-common" />
+  <project path="device/leeco/zl1" name="MoKee/android_device_leeco_zl1" />
+  <project path="kernel/leeco/msm8996" name="MoKee/android_kernel_leeco_msm8996" />
+  <project path="vendor/leeco/msm8996-common" name="MoKee/android_vendor_leeco_msm8996-common" />
+  <project path="vendor/leeco/zl1" name="MoKee/android_vendor_leeco_zl1" />
+
+  <!-- Oppo -->
   <project path="device/oppo/common" name="MoKee/android_device_oppo_common" />
 
+  <!-- Qcom -->
   <project path="device/qcom/common" name="MoKee/android_device_qcom_common" />
 
+  <!-- XiaoMi -->
   <project path="device/xiaomi/capricorn" name="MoKee/android_device_xiaomi_capricorn" />
   <project path="device/xiaomi/gemini" name="MoKee/android_device_xiaomi_gemini" />
   <project path="device/xiaomi/msm8996-common" name="MoKee/android_device_xiaomi_msm8996-common" />
