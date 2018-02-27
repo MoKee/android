@@ -8,6 +8,11 @@
   <project path="vendor/leeco/msm8996-common" name="MoKee/android_vendor_leeco_msm8996-common" />
   <project path="vendor/leeco/zl1" name="MoKee/android_vendor_leeco_zl1" />
 
+  <!-- Lge -->
+  <project path="device/lge/bullhead" name="MoKee/android_device_lge_bullhead" />
+  <project path="kernel/lge/bullhead" name="MoKee/android_kernel_lge_bullhead" />
+  <project path="vendor/lge/bullhead" name="MoKee/android_vendor_lge_bullhead" />
+
   <!-- Oppo -->
   <project path="device/oppo/common" name="MoKee/android_device_oppo_common" />
 
