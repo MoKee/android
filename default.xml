@@ -151,6 +151,7 @@
   <project path="packages/overlays/MoKee" name="MoKee/android_packages_overlays_MoKee" />
   <project path="packages/providers/WeatherProvider" name="MoKee/android_packages_providers_WeatherProvider" />
   <project path="packages/resources/devicesettings" name="MoKee/android_packages_resources_devicesettings" />
+  <project path="prebuilts/build-tools" name="MoKee/android_prebuilts_build-tools" />
   <project path="system/extras/su" name="MoKee/android_system_extras_su" />
   <project path="vendor/mk" name="MoKee/android_vendor_mk" />
   <project path="vendor/private" name="MoKee/mk_private" />
