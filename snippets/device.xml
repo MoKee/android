@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <!-- Huawei -->
+  <project path="device/huawei/angler" name="MoKee/android_device_huawei_angler" />
+  <project path="kernel/huawei/angler" name="MoKee/android_kernel_huawei_angler" />
+  <project path="vendor/huawei/angler" name="MoKee/android_vendor_huawei_angler" />
+
   <!-- Leeco -->
   <project path="device/leeco/msm8996-common" name="MoKee/android_device_leeco_msm8996-common" />
   <project path="device/leeco/zl1" name="MoKee/android_device_leeco_zl1" />
