@@ -26,6 +26,7 @@
   <project path="external/libtextclassifier" name="MoKee/android_external_libtextclassifier" />
   <project path="external/mksh" name="MoKee/android_external_mksh" />
   <project path="external/selinux" name="MoKee/android_external_selinux" />
+  <project path="external/sqlite" name="MoKee/android_external_sqlite" />
   <project path="external/tinycompress" name="MoKee/android_external_tinycompress" />
   <project path="external/toybox" name="MoKee/android_external_toybox" />
   <project path="external/zlib" name="MoKee/android_external_zlib" />
