@@ -10,6 +10,7 @@
            sync-c="true"
            sync-j="4" />
 
+  <project path="art" name="MoKee/android_art" />
   <project path="bionic" name="MoKee/android_bionic" />
   <project path="build/make" name="MoKee/android_build" />
   <project path="build/kati" name="MoKee/android_build_kati" />
