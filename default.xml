@@ -23,6 +23,7 @@
   <project path="external/e2fsprogs" name="MoKee/android_external_e2fsprogs" />
   <project path="external/elfutils" name="MoKee/android_external_elfutils" />
   <project path="external/f2fs-tools" name="MoKee/android_external_f2fs-tools" />
+  <project path="external/flac" name="MoKee/android_external_flac" />
   <project path="external/gptfdisk" name="MoKee/android_external_gptfdisk" />
   <project path="external/libtextclassifier" name="MoKee/android_external_libtextclassifier" />
   <project path="external/mksh" name="MoKee/android_external_mksh" />
@@ -30,6 +31,7 @@
   <project path="external/sqlite" name="MoKee/android_external_sqlite" />
   <project path="external/tinycompress" name="MoKee/android_external_tinycompress" />
   <project path="external/toybox" name="MoKee/android_external_toybox" />
+  <project path="external/webp" name="MoKee/android_external_webp" />
   <project path="external/zlib" name="MoKee/android_external_zlib" />
   <project path="frameworks/av" name="MoKee/android_frameworks_av" />
   <project path="frameworks/base" name="MoKee/android_frameworks_base" />
@@ -53,6 +55,7 @@
   <project path="hardware/qcom/media" name="MoKee/android_hardware_qcom_media" />
   <project path="hardware/qcom/wlan" name="MoKee/android_hardware_qcom_wlan" />
   <project path="hardware/ril" name="MoKee/android_hardware_ril" />
+  <project path="libcore" name="MoKee/android_libcore" />
   <project path="packages/apps/BasicSmsReceiver" name="MoKee/android_packages_apps_BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="MoKee/android_packages_apps_Bluetooth" />
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" />
