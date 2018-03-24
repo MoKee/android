@@ -24,6 +24,12 @@
   <!-- Qcom -->
   <project path="device/qcom/common" name="MoKee/android_device_qcom_common" />
 
+  <!-- Samsung -->
+  <project path="device/samsung/msm8974-common" name="MoKee/android_device_samsung_msm8974-common" />
+  <project path="device/samsung/qcom-common" name="MoKee/android_device_samsung_qcom-common" />
+  <project path="hardware/samsung" name="MoKee/android_hardware_samsung" />
+  <project path="kernel/samsung/msm8974" name="MoKee/android_kernel_samsung_msm8974" />
+
   <!-- XiaoMi -->
   <project path="device/xiaomi/capricorn" name="MoKee/android_device_xiaomi_capricorn" />
   <project path="device/xiaomi/gemini" name="MoKee/android_device_xiaomi_gemini" />
