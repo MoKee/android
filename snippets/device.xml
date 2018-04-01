@@ -8,9 +8,11 @@
 
   <!-- Leeco -->
   <project path="device/leeco/msm8996-common" name="MoKee/android_device_leeco_msm8996-common" />
+  <project path="device/leeco/x2" name="MoKee/android_device_leeco_x2" />
   <project path="device/leeco/zl1" name="MoKee/android_device_leeco_zl1" />
   <project path="kernel/leeco/msm8996" name="MoKee/android_kernel_leeco_msm8996" />
   <project path="vendor/leeco/msm8996-common" name="MoKee/android_vendor_leeco_msm8996-common" />
+  <project path="vendor/leeco/x2" name="MoKee/android_vendor_leeco_x2" />
   <project path="vendor/leeco/zl1" name="MoKee/android_vendor_leeco_zl1" />
 
   <!-- Lge -->
