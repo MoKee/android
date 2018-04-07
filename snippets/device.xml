@@ -28,6 +28,7 @@
   <!-- OnePlus -->
   <project path="device/oneplus/oneplus2" name="MoKee/android_device_oneplus_oneplus2" />
   <project path="kernel/oneplus/msm8994" name="MoKee/android_kernel_oneplus_msm8994" />
+  <project path="vendor/oneplus/oneplus2" name="MoKee/android_vendor_oneplus_oneplus2" />
 
   <!-- Oppo -->
   <project path="device/oppo/common" name="MoKee/android_device_oppo_common" />
