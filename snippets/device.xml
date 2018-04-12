@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <!-- Google -->
+  <project path="device/google/dragon" name="MoKee/android_device_google_dragon" />
+  <project path="kernel/google/dragon" name="MoKee/android_kernel_google_dragon" />
+  <project path="vendor/google/dragon" name="MoKee/android_vendor_google_dragon" />
+
   <!-- Huawei -->
   <project path="device/huawei/angler" name="MoKee/android_device_huawei_angler" />
   <project path="kernel/huawei/angler" name="MoKee/android_kernel_huawei_angler" />
