@@ -44,9 +44,14 @@
   <!-- Samsung -->
   <project path="device/samsung/msm8974-common" name="MoKee/android_device_samsung_msm8974-common" />
   <project path="device/samsung/qcom-common" name="MoKee/android_device_samsung_qcom-common" />
+  <project path="device/samsung/star-common" name="MoKee/android_device_samsung_star-common" />
+  <project path="device/samsung/star2lte" name="MoKee/android_device_samsung_star2lte" />
+  <project path="device/samsung/starlte" name="MoKee/android_device_samsung_starlte" />
   <project path="hardware/samsung" name="MoKee/android_hardware_samsung" />
   <project path="kernel/samsung/msm8974" name="MoKee/android_kernel_samsung_msm8974" />
+  <project path="kernel/samsung/universal9810" name="MoKee/android_kernel_samsung_universal9810" />
   <project path="vendor/samsung/msm8974-common" name="MoKee/android_vendor_samsung_msm8974-common" />
+  <project path="vendor/samsung/star-common" name="MoKee/android_vendor_samsung_star-common" />
 
   <!-- XiaoMi -->
   <project path="device/xiaomi/capricorn" name="MoKee/android_device_xiaomi_capricorn" />
