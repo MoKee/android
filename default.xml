@@ -166,7 +166,6 @@
   <project path="vendor/private" name="MoKee/mk_private" />
   <project path="hardware/mokee/interfaces" name="MoKee/android_hardware_mokee_interfaces" />
   <project path="hardware/mokee/mkhw" name="MoKee/android_hardware_mokee_mkhw" />
-  <project path="hardware/mokee/livedisplay" name="MoKee/android_hardware_mokee_livedisplay" />
   <project path="mokee-sdk" name="MoKee/android_mokee-sdk" />
 
   <!-- CodeAurora additions -->
