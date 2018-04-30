@@ -22,8 +22,11 @@
 
   <!-- Lge -->
   <project path="device/lge/bullhead" name="MoKee/android_device_lge_bullhead" />
+  <project path="device/lge/mako" name="MoKee/android_device_lge_mako" />
   <project path="kernel/lge/bullhead" name="MoKee/android_kernel_lge_bullhead" />
+  <project path="kernel/lge/mako" name="MoKee/android_kernel_lge_mako" />
   <project path="vendor/lge/bullhead" name="MoKee/android_vendor_lge_bullhead" />
+  <project path="vendor/lge/mako" name="MoKee/android_vendor_lge_mako" />
 
   <!-- Motorola -->
   <project path="device/motorola/griffin" name="MoKee/android_device_motorola_griffin" />
@@ -58,14 +61,19 @@
 
   <!-- XiaoMi -->
   <project path="device/xiaomi/capricorn" name="MoKee/android_device_xiaomi_capricorn" />
+  <project path="device/xiaomi/chiron" name="MoKee/android_device_xiaomi_chiron" />
   <project path="device/xiaomi/gemini" name="MoKee/android_device_xiaomi_gemini" />
   <project path="device/xiaomi/msm8996-common" name="MoKee/android_device_xiaomi_msm8996-common" />
+  <project path="device/xiaomi/msm8998-common" name="MoKee/android_device_xiaomi_msm8998-common" />
   <project path="device/xiaomi/natrium" name="MoKee/android_device_xiaomi_natrium" />
   <project path="device/xiaomi/scorpio" name="MoKee/android_device_xiaomi_scorpio" />
   <project path="kernel/xiaomi/msm8996" name="MoKee/android_kernel_xiaomi_msm8996" />
+  <project path="kernel/xiaomi/msm8998-common" name="MoKee/android_kernel_xiaomi_msm8998-common" />
   <project path="vendor/xiaomi/capricorn" name="MoKee/android_vendor_xiaomi_capricorn" />
+  <project path="vendor/xiaomi/chiron" name="MoKee/android_vendor_xiaomi_chiron" />
   <project path="vendor/xiaomi/gemini" name="MoKee/android_vendor_xiaomi_gemini" />
   <project path="vendor/xiaomi/msm8996-common" name="MoKee/android_vendor_xiaomi_msm8996-common" />
+  <project path="vendor/xiaomi/msm8998-common" name="MoKee/android_vendor_xiaomi_msm8998-common" />
   <project path="vendor/xiaomi/natrium" name="MoKee/android_vendor_xiaomi_natrium" />
   <project path="vendor/xiaomi/scorpio" name="MoKee/android_vendor_xiaomi_scorpio" />
 
