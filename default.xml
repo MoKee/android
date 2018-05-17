@@ -152,10 +152,10 @@
   <project path="external/vim" name="MoKee/android_external_vim" />
   <project path="external/zip" name="MoKee/android_external_zip" />
   <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />
-  <project path="packages/apps/Eleven" name="MoKee/android_packages_apps_Eleven" />
   <project path="packages/apps/FMRadio" name="MoKee/android_packages_apps_FMRadio" />
   <project path="packages/apps/MKCenter" name="MoKee/android_packages_apps_MKCenter" />
   <project path="packages/apps/MKParts" name="MoKee/android_packages_apps_MKParts" />
+  <project path="packages/apps/Phonograph" name="MoKee/android_packages_apps_Phonograph" />
   <project path="packages/apps/Profiles" name="MoKee/android_packages_apps_Profiles" />
   <project path="packages/apps/Recorder" name="MoKee/android_packages_apps_Recorder" />
   <project path="packages/apps/Snap" name="MoKee/android_packages_apps_Snap" />
