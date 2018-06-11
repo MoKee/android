@@ -26,6 +26,7 @@
   <project path="external/flac" name="MoKee/android_external_flac" />
   <project path="external/gptfdisk" name="MoKee/android_external_gptfdisk" />
   <project path="external/libtextclassifier" name="MoKee/android_external_libtextclassifier" />
+  <project path="external/libvorbis" name="MoKee/android_external_libvorbis" groups="pdk" />
   <project path="external/mksh" name="MoKee/android_external_mksh" />
   <project path="external/noto-fonts" name="MoKee/android_external_noto-fonts" />
   <project path="external/selinux" name="MoKee/android_external_selinux" />
