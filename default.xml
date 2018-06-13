@@ -209,6 +209,8 @@
   <project path="hardware/qcom/media-caf/msm8998" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk" revision="mko-mr1-caf-8998" />
   <project path="hardware/qcom/neuralnetworks/hvxservice" name="MoKee/android_hardware_qcom_neuralnetworks_hvxservice" />
   <project path="hardware/qcom/power" name="MoKee/android_hardware_qcom_power" groups="qcom,pdk" />
+  <project path="hardware/qcom/thermal" name="MoKee/android_hardware_qcom_thermal" />
+  <project path="hardware/qcom/vr" name="MoKee/android_hardware_qcom_vr" />
   <project path="hardware/qcom/wlan-caf" name="MoKee/android_hardware_qcom_wlan" groups="qcom_wlan,pdk" revision="mko-mr1-caf" />
   <project path="hardware/ril-caf" name="MoKee/android_hardware_ril" groups="pdk" revision="mko-mr1-caf" />
   <project path="system/qcom" name="MoKee/android_system_qcom" groups="qcom" />
