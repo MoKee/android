@@ -45,8 +45,10 @@
 
   <!-- Oppo -->
   <project path="device/oppo/common" name="MoKee/android_device_oppo_common" />
+  <project path="device/oppo/find7" name="MoKee/android_device_oppo_find7" />
   <project path="device/oppo/msm8974-common" name="MoKee/android_device_oppo_msm8974-common" />
   <project path="kernel/oppo/msm8974" name="MoKee/android_kernel_oppo_msm8974" />
+  <project path="vendor/oppo/find7" name="MoKee/android_vendor_oppo_find7" />
   <project path="vendor/oppo/msm8974-common" name="MoKee/android_vendor_oppo_msm8974-common" />
 
   <!-- Qcom -->
@@ -86,6 +88,7 @@
   <project path="device/xiaomi/capricorn" name="MoKee/android_device_xiaomi_capricorn" />
   <project path="device/xiaomi/chiron" name="MoKee/android_device_xiaomi_chiron" />
   <project path="device/xiaomi/gemini" name="MoKee/android_device_xiaomi_gemini" />
+  <project path="device/xiaomi/lithium" name="MoKee/android_device_xiaomi_lithium" />
   <project path="device/xiaomi/mido" name="MoKee/android_device_xiaomi_mido" />
   <project path="device/xiaomi/msm8953-common" name="MoKee/android_device_xiaomi_msm8953-common" />
   <project path="device/xiaomi/msm8996-common" name="MoKee/android_device_xiaomi_msm8996-common" />
@@ -99,6 +102,7 @@
   <project path="vendor/xiaomi/capricorn" name="MoKee/android_vendor_xiaomi_capricorn" />
   <project path="vendor/xiaomi/chiron" name="MoKee/android_vendor_xiaomi_chiron" />
   <project path="vendor/xiaomi/gemini" name="MoKee/android_vendor_xiaomi_gemini" />
+  <project path="vendor/xiaomi/lithium" name="MoKee/android_vendor_xiaomi_lithium" />
   <project path="vendor/xiaomi/mido" name="MoKee/android_vendor_xiaomi_mido" />
   <project path="vendor/xiaomi/msm8953-common" name="MoKee/android_vendor_xiaomi_msm8953-common" />
   <project path="vendor/xiaomi/msm8996-common" name="MoKee/android_vendor_xiaomi_msm8996-common" />
