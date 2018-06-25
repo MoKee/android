@@ -30,10 +30,13 @@
 
   <!-- Motorola -->
   <project path="device/motorola/griffin" name="MoKee/android_device_motorola_griffin" />
+  <project path="device/motorola/nash" name="MoKee/android_device_motorola_nash" />
   <project path="device/motorola/shamu" name="MoKee/android_device_motorola_shamu" />
   <project path="kernel/motorola/msm8996" name="MoKee/android_kernel_motorola_msm8996" />
+  <project path="kernel/motorola/msm8998" name="MoKee/android_kernel_motorola_msm8998" />
   <project path="kernel/motorola/shamu" name="MoKee/android_kernel_motorola_shamu" />
   <project path="vendor/motorola/griffin" name="MoKee/android_vendor_motorola_griffin" />
+  <project path="vendor/motorola/nash" name="MoKee/android_vendor_motorola_nash" />
   <project path="vendor/motorola/shamu" name="MoKee/android_vendor_motorola_shamu" />
 
   <!-- OnePlus -->
