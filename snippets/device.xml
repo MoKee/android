@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <!-- Cyanogen -->
+  <project path="device/cyanogen/msm8916-common" name="MoKee/android_device_cyanogen_msm8916-common" />
+
   <!-- Google -->
   <project path="device/google/dragon" name="MoKee/android_device_google_dragon" />
   <project path="kernel/google/dragon" name="MoKee/android_kernel_google_dragon" />
@@ -86,6 +89,11 @@
   <project path="vendor/samsung/klteduos" name="MoKee/android_vendor_samsung_klteduos" />
   <project path="vendor/samsung/msm8974-common" name="MoKee/android_vendor_samsung_msm8974-common" />
   <project path="vendor/samsung/star-common" name="MoKee/android_vendor_samsung_star-common" />
+
+  <!-- Wingtech -->
+  <project path="device/wingtech/wt88047" name="MoKee/android_device_wingtech_wt88047" />
+  <project path="kernel/wingtech/msm8916" name="MoKee/android_kernel_wingtech_msm8916" />
+  <project path="vendor/wingtech/wt88047" name="MoKee/android_vendor_wingtech_wt88047" />
 
   <!-- XiaoMi -->
   <project path="device/xiaomi/capricorn" name="MoKee/android_device_xiaomi_capricorn" />
