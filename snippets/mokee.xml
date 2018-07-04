@@ -50,16 +50,12 @@
   <project path="packages/apps/Recorder" name="MoKee/android_packages_apps_Recorder" />
   <project path="packages/apps/SetupWizard" name="MoKee/android_packages_apps_SetupWizard" />
   <project path="packages/apps/Snap" name="MoKee/android_packages_apps_Snap" />
-  <!--<project path="packages/apps/Venus" name="MoKee/android_packages_apps_Venus" />-->
-  <!--<project path="packages/apps/XposedInstaller" name="MoKee/android_packages_apps_XposedInstaller" />-->
   <project path="packages/overlays/MoKee" name="MoKee/android_packages_overlays_MoKee" />
   <!--<project path="packages/providers/DataUsageProvider" name="MoKee/android_packages_providers_DataUsageProvider" />-->
   <!--<project path="packages/providers/MoKeeWeatherProvider" name="MoKee/android_packages_providers_MoKeeWeatherProvider" />-->
   <project path="packages/providers/WeatherProvider" name="MoKee/android_packages_providers_WeatherProvider" />
   <project path="packages/services/MKUpdateVerification" name="MoKee/android_packages_services_MKUpdateVerification" />
-  <!--<project path="packages/services/ThemeInterfacer" name="MoKee/android_packages_services_ThemeInterfacer" />-->
   <project path="prebuilts/mokee-sdk" name="MoKee/android_prebuilts_mokee-sdk" clone-depth="1" />
-  <!--<project path="prebuilts/snapdragon/llvm-3.8" name="MoKee/android_prebuilts_snapdragon_llvm-3.8" groups="pdk,linux,arm" clone-depth="1" />-->
   <project path="system/extras/su" name="MoKee/android_system_extras_su" />
   <project path="vendor/mk" name="MoKee/android_vendor_mk" />
   <project path="vendor/private" name="MoKee/mk_private" />
@@ -86,6 +82,7 @@
   <project path="hardware/qcom/audio-caf/msm8994" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="mko-mr1-caf-8994" />
   <project path="hardware/qcom/audio-caf/msm8996" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="mko-mr1-caf-8996" />
   <project path="hardware/qcom/audio-caf/msm8998" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="mko-mr1-caf-8998" />
+  <project path="hardware/qcom/audio-caf/sdm845" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="mko-mr1-caf-845" />
   <project path="hardware/qcom/bt-caf" name="MoKee/android_hardware_qcom_bt" groups="qcom,pdk" revision="mko-mr1-caf" />
   <project path="hardware/qcom/display-caf/apq8084" name="MoKee/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="mko-mr1-caf-8084" />
   <project path="hardware/qcom/display-caf/msm8916" name="MoKee/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="mko-mr1-caf-8916" />
@@ -95,6 +92,7 @@
   <project path="hardware/qcom/display-caf/msm8994" name="MoKee/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="mko-mr1-caf-8994" />
   <project path="hardware/qcom/display-caf/msm8996" name="MoKee/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="mko-mr1-caf-8996" />
   <project path="hardware/qcom/display-caf/msm8998" name="MoKee/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="mko-mr1-caf-8998" />
+  <project path="hardware/qcom/display-caf/sdm845" name="MoKee/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="mko-mr1-caf-845" />
   <project path="hardware/qcom/fm" name="MoKee/android_hardware_qcom_fm" groups="qcom,qcom_fm" />
   <project path="hardware/qcom/media-caf/apq8084" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk" revision="mko-mr1-caf-8084" />
   <project path="hardware/qcom/media-caf/msm8916" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk" revision="mko-mr1-caf-8916" />
@@ -104,6 +102,7 @@
   <project path="hardware/qcom/media-caf/msm8994" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk" revision="mko-mr1-caf-8994" />
   <project path="hardware/qcom/media-caf/msm8996" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk" revision="mko-mr1-caf-8996" />
   <project path="hardware/qcom/media-caf/msm8998" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk" revision="mko-mr1-caf-8998" />
+  <project path="hardware/qcom/media-caf/sdm845" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk" revision="mko-mr1-caf-845" />
   <project path="hardware/qcom/neuralnetworks/hvxservice" name="MoKee/android_hardware_qcom_neuralnetworks_hvxservice" >
     <copyfile dest="hardware/qcom/Android.bp" src="Android.bp"/>
   </project>
