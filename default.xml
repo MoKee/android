@@ -76,7 +76,7 @@
   <project path="external/bison" name="ThirdProject/android_external_bison" groups="pdk" remote="third" />
   <project path="external/blktrace" name="platform/external/blktrace" groups="pdk" remote="aosp" />
   <project path="external/boringssl" name="ThirdProject/android_external_boringssl" groups="pdk" remote="third" />
-  <project path="external/bouncycastle" name="platform/external/bouncycastle" groups="pdk" remote="aosp" />
+  <project path="external/bouncycastle" name="ThirdProject/android_external_bouncycastle" groups="pdk" remote="third" />
   <project path="external/bsdiff" name="platform/external/bsdiff" groups="pdk" remote="aosp" />
   <project path="external/bzip2" name="ThirdProject/android_external_bzip2" groups="pdk" remote="third" />
   <project path="external/c-ares" name="platform/external/c-ares" groups="pdk" remote="aosp" />
