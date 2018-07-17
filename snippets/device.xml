@@ -14,6 +14,11 @@
   <project path="kernel/huawei/angler" name="MoKee/android_kernel_huawei_angler" />
   <project path="vendor/huawei/angler" name="MoKee/android_vendor_huawei_angler" />
 
+  <!-- Lenovo -->
+  <project path="device/lenovo/kuntao" name="MoKee/android_device_lenovo_kuntao" />
+  <project path="kernel/lenovo/msm8953" name="MoKee/android_kernel_lenovo_msm8953" />
+  <project path="vendor/lenovo/kuntao" name="MoKee/android_vendor_lenovo_kuntao" />
+
   <!-- Leeco -->
   <project path="device/leeco/msm8996-common" name="MoKee/android_device_leeco_msm8996-common" />
   <project path="device/leeco/x2" name="MoKee/android_device_leeco_x2" />
