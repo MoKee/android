@@ -119,7 +119,6 @@
   <project path="system/extras" name="MoKee/android_system_extras" />
   <project path="system/keymaster" name="MoKee/android_system_keymaster" />
   <project path="system/libhidl" name="MoKee/android_system_libhidl" />
-  <project path="system/media" name="MoKee/android_system_media" />
   <project path="system/netd" name="MoKee/android_system_netd" />
   <project path="system/nfc" name="MoKee/android_system_nfc" />
   <project path="system/security" name="MoKee/android_system_security" />
