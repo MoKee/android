@@ -6,7 +6,6 @@
   <project path="device/mokee/sepolicy" name="MoKee/android_device_mokee_sepolicy" />
   <project path="external/bash" name="MoKee/android_external_bash" />
   <project path="external/exfat" name="MoKee/android_external_exfat" />
-  <!--<project path="external/ffmpeg" name="MoKee/android_external_ffmpeg" />-->
   <project path="external/fuse" name="MoKee/android_external_fuse" />
   <project path="external/google" name="MoKee/android_external_google" />
   <project path="external/htop" name="MoKee/android_external_htop" />
@@ -22,10 +21,8 @@
   <project path="external/p7zip" name="MoKee/android_external_p7zip" />
   <project path="external/pigz" name="MoKee/android_external_pigz" />
   <project path="external/rsync" name="MoKee/android_external_rsync" />
-  <!--<project path="external/stagefright-plugins" name="MoKee/android_external_stagefright-plugins" />-->
   <project path="external/unrar" name="MoKee/android_external_unrar" />
   <project path="external/vim" name="MoKee/android_external_vim" />
-  <!--<project path="external/yaffs2" name="MoKee/android_external_yaffs2" />-->
   <project path="external/zip" name="MoKee/android_external_zip" />
   <project path="hardware/mokee/interfaces" name="MoKee/android_hardware_mokee_interfaces" >
     <copyfile dest="hardware/mokee/Android.bp" src="Android.bp"/>
@@ -51,7 +48,6 @@
   <project path="packages/apps/SetupWizard" name="MoKee/android_packages_apps_SetupWizard" />
   <project path="packages/apps/Snap" name="MoKee/android_packages_apps_Snap" />
   <project path="packages/overlays/MoKee" name="MoKee/android_packages_overlays_MoKee" />
-  <!--<project path="packages/providers/DataUsageProvider" name="MoKee/android_packages_providers_DataUsageProvider" />-->
   <!--<project path="packages/providers/MoKeeWeatherProvider" name="MoKee/android_packages_providers_MoKeeWeatherProvider" />-->
   <project path="packages/providers/WeatherProvider" name="MoKee/android_packages_providers_WeatherProvider" />
   <project path="packages/services/MKUpdateVerification" name="MoKee/android_packages_services_MKUpdateVerification" />
