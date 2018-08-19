@@ -10,7 +10,7 @@
   <project path="external/google" name="LineageOS/android_external_google" revision="refs/heads/master" />
   <!--<project path="external/htop" name="LineageOS/android_external_htop" />-->
   <!--<project path="external/libncurses" name="LineageOS/android_external_libncurses" />-->
-  <!--<project path="external/libnfc-nxp" name="LineageOS/android_external_libnfc-nxp" />-->
+  <project path="external/libnfc-nxp" name="LineageOS/android_external_libnfc-nxp" />
   <!--<project path="external/libtar" name="LineageOS/android_external_libtar" />-->
   <project path="external/mokee/BuildController" name="LineageOS/android_external_mokee_BuildController" />
   <project path="external/mokee/ServerController" name="LineageOS/android_external_mokee_ServerController" revision="refs/heads/master" />
