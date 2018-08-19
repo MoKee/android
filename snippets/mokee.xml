@@ -31,7 +31,7 @@
   <!--<project path="hardware/ti/wpan" name="MoKee/android_hardware_ti_wpan" />-->
   <project path="mokee-sdk" name="MoKee/android_mokee-sdk" />
   <!--<project path="packages/apps/Aegis" name="MoKee/android_packages_apps_Aegis" />-->
-  <!--<project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />-->
+  <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />
   <!--<project path="packages/apps/Exchange" name="MoKee/android_packages_apps_Exchange" />-->
   <!--<project path="packages/apps/FMRadio" name="MoKee/android_packages_apps_FMRadio" />-->
   <project path="packages/apps/Gallery2" name="MoKee/android_packages_apps_Gallery2" revision="refs/heads/master" />
@@ -40,8 +40,8 @@
   <!--<project path="packages/apps/MKCenter" name="MoKee/android_packages_apps_MKCenter" />-->
   <project path="packages/apps/MKParts" name="MoKee/android_packages_apps_MKParts" />
   <project path="packages/apps/Phonograph" name="MoKee/android_packages_apps_Phonograph" revision="refs/heads/master" />
-  <!--<project path="packages/apps/Profiles" name="MoKee/android_packages_apps_Profiles" />-->
-  <!--<project path="packages/apps/Recorder" name="MoKee/android_packages_apps_Recorder" />-->
+  <project path="packages/apps/Profiles" name="MoKee/android_packages_apps_Profiles" />
+  <project path="packages/apps/Recorder" name="MoKee/android_packages_apps_Recorder" />
   <!--<project path="packages/apps/SetupWizard" name="MoKee/android_packages_apps_SetupWizard" />-->
   <!--<project path="packages/apps/Snap" name="MoKee/android_packages_apps_Snap" />-->
   <!--<project path="packages/overlays/MoKee" name="MoKee/android_packages_overlays_MoKee" />-->
