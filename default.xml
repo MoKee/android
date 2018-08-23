@@ -78,7 +78,7 @@
   <project path="packages/apps/StorageManager" name="MoKee/android_packages_apps_StorageManager" groups="pdk-fs" />
   <project path="packages/apps/Tag" name="MoKee/android_packages_apps_Tag" groups="pdk-fs" />
   <project path="packages/apps/Terminal" name="MoKee/android_packages_apps_Terminal" groups="pdk-fs" />
-  <!-- <project path="packages/apps/Traceur" name="MoKee/android_packages_apps_Traceur" groups="pdk-fs" /> -->
+  <project path="packages/apps/Traceur" name="MoKee/android_packages_apps_Traceur" groups="pdk-fs" />
   <project path="packages/apps/TvSettings" name="MoKee/android_packages_apps_TvSettings" groups="pdk-fs" />
   <project path="packages/apps/TV" name="MoKee/android_packages_apps_TV" />
   <project path="packages/apps/UnifiedEmail" name="MoKee/android_packages_apps_UnifiedEmail" groups="pdk-fs" />
@@ -114,6 +114,7 @@
   <project path="system/update_engine" name="MoKee/android_system_update_engine" groups="pdk" />
   <project path="system/vold" name="MoKee/android_system_vold" groups="pdk" />
 
+  <include name="snippets/mokee.xml" />
   <include name="snippets/device.xml" />
 
 </manifest>
