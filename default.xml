@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="mokee"
+           fetch=".."
+           review="https://mokeedev.review" />
+
+  <default revision="refs/heads/mkp"
+           remote="mokee"
+           sync-c="true"
+           sync-j="4" />
+
+  <project path="build/make" name="MoKee/android_build" groups="pdk" />
+  <project path="build/kati" name="MoKee/android_build_kati" groups="pdk,tradefed" />
+  <project path="build/soong" name="MoKee/android_build_soong" groups="pdk,tradefed" />
+  <project path="art" name="MoKee/android_art" groups="pdk" />
+  <project path="bionic" name="MoKee/android_bionic" groups="pdk" />
+  <project path="bootable/recovery" name="MoKee/android_bootable_recovery" groups="pdk" />
+  <project path="dalvik" name="MoKee/android_dalvik" groups="pdk-cw-fs,pdk-fs" />
+  <project path="development" name="MoKee/android_development" groups="developers,pdk-cw-fs,pdk-fs" />
+  <project path="external/e2fsprogs" name="MoKee/android_external_e2fsprogs" groups="pdk" />
+  <project path="external/elfutils" name="MoKee/android_external_elfutils" groups="pdk" />
+  <project path="external/f2fs-tools" name="MoKee/android_external_f2fs-tools" groups="pdk" />
+  <project path="external/gptfdisk" name="MoKee/android_external_gptfdisk" groups="pdk" />
+  <project path="external/mksh" name="MoKee/android_external_mksh" groups="pdk" />
+  <project path="external/one-true-awk" name="MoKee/android_external_one-true-awk" groups="pdk" />
+  <project path="external/perfetto" name="MoKee/android_external_perfetto" groups="pdk" />
+  <project path="external/selinux" name="MoKee/android_external_selinux" groups="pdk" />
+  <project path="external/tinycompress" name="MoKee/android_external_tinycompress" groups="pdk" />
+  <project path="external/toybox" name="MoKee/android_external_toybox" groups="pdk" />
+  <project path="external/zlib" name="MoKee/android_external_zlib" groups="pdk" />
+  <project path="frameworks/av" name="MoKee/android_frameworks_av" groups="pdk" />
+  <project path="frameworks/base" name="MoKee/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" />
+  <project path="frameworks/native" name="MoKee/android_frameworks_native" groups="pdk" />
+  <project path="frameworks/opt/datetimepicker" name="MoKee/android_frameworks_opt_datetimepicker" groups="pdk-cw-fs,pdk-fs" />
+  <project path="frameworks/opt/net/wifi" name="MoKee/android_frameworks_opt_net_wifi" groups="pdk" />
+  <project path="frameworks/opt/telephony" name="MoKee/android_frameworks_opt_telephony" groups="pdk" />
+  <project path="hardware/broadcom/libbt" name="MoKee/android_hardware_broadcom_libbt" groups="pdk" />
+  <project path="hardware/broadcom/wlan" name="MoKee/android_hardware_broadcom_wlan" groups="pdk,broadcom_wlan" />
+  <project path="hardware/interfaces" name="MoKee/android_hardware_interfaces" groups="pdk" />
+  <project path="hardware/libhardware" name="MoKee/android_hardware_libhardware" groups="pdk" />
+  <project path="hardware/libhardware_legacy" name="MoKee/android_hardware_libhardware_legacy" groups="pdk" />
+  <project path="hardware/nxp/nfc" name="MoKee/android_hardware_nxp_nfc" groups="pdk" />
+  <project path="hardware/qcom/audio/default" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk-qcom" />
+  <project path="hardware/qcom/bootctrl" name="MoKee/android_hardware_qcom_bootctrl" groups="pdk-qcom" />
+  <project path="hardware/qcom/bt" name="MoKee/android_hardware_qcom_bt" groups="qcom,pdk-qcom" />
+  <project path="hardware/qcom/camera" name="MoKee/android_hardware_qcom_camera" groups="qcom_camera,pdk-qcom" />
+  <project path="hardware/qcom/display" name="MoKee/android_hardware_qcom_display" groups="pdk-qcom,qcom,qcom_display" />
+  <project path="hardware/qcom/gps" name="MoKee/android_hardware_qcom_gps" groups="qcom,qcom_gps,pdk-qcom" />
+  <project path="hardware/qcom/keymaster" name="MoKee/android_hardware_qcom_keymaster" groups="qcom,qcom_keymaster,pdk-qcom" />
+  <project path="hardware/qcom/media" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk-qcom" />
+  <project path="hardware/qcom/wlan" name="MoKee/android_hardware_qcom_wlan" groups="qcom_wlan,pdk-qcom" />
+  <project path="hardware/ril" name="MoKee/android_hardware_ril" groups="pdk" />
+  <project path="packages/apps/BasicSmsReceiver" name="MoKee/android_packages_apps_BasicSmsReceiver" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/apps/Bluetooth" name="MoKee/android_packages_apps_Bluetooth" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" groups="pdk-fs" />
+  <project path="packages/apps/Camera2" name="MoKee/android_packages_apps_Camera2" groups="pdk-fs" />
+  <project path="packages/apps/CarrierConfig" name="MoKee/android_packages_apps_CarrierConfig" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/apps/CellBroadcastReceiver" name="MoKee/android_packages_apps_CellBroadcastReceiver" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/apps/CertInstaller" name="MoKee/android_packages_apps_CertInstaller" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/apps/Contacts" name="MoKee/android_packages_apps_Contacts" groups="pdk-fs" />
+  <project path="packages/apps/DeskClock" name="MoKee/android_packages_apps_DeskClock" groups="pdk-fs" />
+  <project path="packages/apps/Dialer" name="MoKee/android_packages_apps_Dialer" groups="pdk-fs" />
+  <project path="packages/apps/DocumentsUI" name="MoKee/android_packages_apps_DocumentsUI" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/apps/Email" name="MoKee/android_packages_apps_Email" groups="pdk-fs" />
+  <project path="packages/apps/EmergencyInfo" name="MoKee/android_packages_apps_EmergencyInfo" groups="pdk-fs" />
+  <project path="packages/apps/ExactCalculator" name="MoKee/android_packages_apps_ExactCalculator" groups="pdk-fs" />
+  <project path="packages/apps/HTMLViewer" name="MoKee/android_packages_apps_HTMLViewer" groups="pdk-fs" />
+  <project path="packages/apps/KeyChain" name="MoKee/android_packages_apps_KeyChain" groups="pdk-fs" />
+  <project path="packages/apps/ManagedProvisioning" name="MoKee/android_packages_apps_ManagedProvisioning" groups="pdk-fs" />
+  <project path="packages/apps/Messaging" name="MoKee/android_packages_apps_Messaging" groups="pdk-fs" />
+  <project path="packages/apps/Nfc" name="MoKee/android_packages_apps_Nfc" groups="apps_nfc,pdk-fs" />
+  <project path="packages/apps/PackageInstaller" name="MoKee/android_packages_apps_PackageInstaller" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/apps/PhoneCommon" name="MoKee/android_packages_apps_PhoneCommon" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/apps/SafetyRegulatoryInfo" name="MoKee/android_packages_apps_SafetyRegulatoryInfo" groups="pdk-fs" />
+  <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" groups="pdk-fs" />
+  <project path="packages/apps/Stk" name="MoKee/android_packages_apps_Stk" groups="apps_stk,pdk-fs" />
+  <project path="packages/apps/StorageManager" name="MoKee/android_packages_apps_StorageManager" groups="pdk-fs" />
+  <project path="packages/apps/Tag" name="MoKee/android_packages_apps_Tag" groups="pdk-fs" />
+  <project path="packages/apps/Terminal" name="MoKee/android_packages_apps_Terminal" groups="pdk-fs" />
+  <!-- <project path="packages/apps/Traceur" name="MoKee/android_packages_apps_Traceur" groups="pdk-fs" /> -->
+  <project path="packages/apps/TvSettings" name="MoKee/android_packages_apps_TvSettings" groups="pdk-fs" />
+  <project path="packages/apps/TV" name="MoKee/android_packages_apps_TV" />
+  <project path="packages/apps/UnifiedEmail" name="MoKee/android_packages_apps_UnifiedEmail" groups="pdk-fs" />
+  <project path="packages/apps/WallpaperPicker" name="MoKee/android_packages_apps_WallpaperPicker" groups="pdk-fs" />
+  <project path="packages/inputmethods/LatinIME" name="MoKee/android_packages_inputmethods_LatinIME" groups="pdk-fs" />
+  <project path="packages/providers/BlockedNumberProvider" name="MoKee/android_packages_providers_BlockedNumberProvider" groups="pdk-fs" />
+  <project path="packages/providers/BookmarkProvider" name="MoKee/android_packages_providers_BookmarkProvider" groups="pdk-fs" />
+  <project path="packages/providers/CalendarProvider" name="MoKee/android_packages_providers_CalendarProvider" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/providers/CallLogProvider" name="MoKee/android_packages_providers_CallLogProvider" groups="pdk-fs" />
+  <project path="packages/providers/ContactsProvider" name="MoKee/android_packages_providers_ContactsProvider" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/providers/DownloadProvider" name="MoKee/android_packages_providers_DownloadProvider" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/providers/MediaProvider" name="MoKee/android_packages_providers_MediaProvider" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/providers/PartnerBookmarksProvider" name="MoKee/android_packages_providers_PartnerBookmarksProvider" groups="pdk-fs" />
+  <project path="packages/providers/TelephonyProvider" name="MoKee/android_packages_providers_TelephonyProvider" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/providers/TvProvider" name="MoKee/android_packages_providers_TvProvider" groups="pdk-fs" />
+  <project path="packages/providers/UserDictionaryProvider" name="MoKee/android_packages_providers_UserDictionaryProvider" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/screensavers/Basic" name="MoKee/android_packages_screensavers_Basic" groups="pdk-fs" />
+  <project path="packages/screensavers/PhotoTable" name="MoKee/android_packages_screensavers_PhotoTable" groups="pdk-fs" />
+  <project path="packages/screensavers/WebView" name="MoKee/android_packages_screensavers_WebView" groups="pdk-fs" />
+  <project path="packages/services/BuiltInPrintService" name="MoKee/android_packages_services_BuiltInPrintService" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/services/Mms" name="MoKee/android_packages_services_Mms" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/services/Telecomm" name="MoKee/android_packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/services/Telephony" name="MoKee/android_packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/wallpapers/LivePicker" name="MoKee/android_packages_wallpapers_LivePicker" groups="pdk-fs" />
+  <project path="system/bt" name="MoKee/android_system_bt" groups="pdk" />
+  <project path="system/core" name="MoKee/android_system_core" groups="pdk" />
+  <project path="system/extras" name="MoKee/android_system_extras" groups="pdk" />
+  <project path="system/netd" name="MoKee/android_system_netd" groups="pdk" />
+  <project path="system/security" name="MoKee/android_system_security" groups="pdk" />
+  <project path="system/sepolicy" name="MoKee/android_system_sepolicy" groups="pdk" />
+  <project path="system/tools/aidl" name="MoKee/android_system_tools_aidl" groups="pdk" />
+  <project path="system/tools/hidl" name="MoKee/android_system_tools_hidl" groups="pdk" />
+  <project path="system/update_engine" name="MoKee/android_system_update_engine" groups="pdk" />
+  <project path="system/vold" name="MoKee/android_system_vold" groups="pdk" />
+
+  <include name="snippets/device.xml" />
+
+</manifest>
