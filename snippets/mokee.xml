@@ -98,7 +98,7 @@
   <!--<project path="hardware/qcom/thermal" name="MoKee/android_hardware_qcom_thermal" />-->
   <!--<project path="hardware/qcom/vr" name="MoKee/android_hardware_qcom_vr" />-->
   <!--<project path="hardware/qcom/wlan-caf" name="MoKee/android_hardware_qcom_wlan" groups="qcom_wlan,pdk" revision="mkp-caf" />-->
-  <!--<project path="hardware/ril-caf" name="MoKee/android_hardware_ril" groups="pdk" revision="mkp-caf" />-->
+  <project path="hardware/ril-caf" name="MoKee/android_hardware_ril" groups="pdk" revision="mkp-caf" />
   <!--<project path="system/qcom" name="MoKee/android_system_qcom" groups="qcom" />-->
   <project path="system/tools/dtbtool" name="MoKee/android_system_tools_dtbtool" />
   <project path="vendor/codeaurora/telephony" name="MoKee/android_vendor_codeaurora_telephony" />
@@ -108,7 +108,7 @@
   <!--<project path="vendor/nxp/opensource/packages/apps/Nfc" name="MoKee/android_vendor_nxp_opensource_packages_apps_Nfc" />-->
   <project path="vendor/qcom/opensource/audio" name="MoKee/android_vendor_qcom_opensource_audio" />
   <!--<project path="vendor/qcom/opensource/cryptfs_hw" name="MoKee/android_vendor_qcom_opensource_cryptfs_hw" />-->
-  <!--<project path="vendor/qcom/opensource/dataservices" name="MoKee/android_vendor_qcom_opensource_dataservices" />-->
+  <project path="vendor/qcom/opensource/dataservices" name="MoKee/android_vendor_qcom_opensource_dataservices" />
   <project path="vendor/qcom/opensource/interfaces" name="MoKee/android_vendor_qcom_opensource_interfaces" />
   <!--<project path="vendor/qcom/opensource/rcs-service" name="MoKee/android_vendor_qcom_opensource_rcs-service" />-->
 </manifest>
