@@ -103,6 +103,7 @@
   <project path="packages/services/Telecomm" name="MoKee/android_packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/services/Telephony" name="MoKee/android_packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/wallpapers/LivePicker" name="MoKee/android_packages_wallpapers_LivePicker" groups="pdk-fs" />
+  <project path="prebuilts/build-tools" name="MoKee/android_prebuilts_build-tools" groups="pdk" clone-depth="1" />
   <project path="system/bt" name="MoKee/android_system_bt" groups="pdk" />
   <project path="system/core" name="MoKee/android_system_core" groups="pdk" />
   <project path="system/extras" name="MoKee/android_system_extras" groups="pdk" />
