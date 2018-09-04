@@ -10,8 +10,12 @@
   <project path="external/libnfc-nxp" name="MoKee/android_external_libnfc-nxp" />
   <project path="external/mokee/BuildController" name="MoKee/android_external_mokee_BuildController" />
   <project path="external/mokee/ServerController" name="MoKee/android_external_mokee_ServerController" revision="refs/heads/master" />
+  <project path="hardware/mokee/interfaces" name="MoKee/android_hardware_mokee_interfaces" />
+  <project path="hardware/mokee/mkhw" name="MoKee/android_hardware_mokee_mkhw" />
+  <project path="mokee-sdk" name="MoKee/android_mokee-sdk" />
   <project path="packages/apps/Gallery2" name="MoKee/android_packages_apps_Gallery2" revision="refs/heads/master" />
   <project path="packages/apps/Lawnchair" name="MoKee/android_packages_apps_Lawnchair" revision="refs/heads/master" />
+  <project path="packages/apps/MKParts" name="MoKee/android_packages_apps_MKParts" />
   <project path="packages/apps/Phonograph" name="MoKee/android_packages_apps_Phonograph" revision="refs/heads/master" />
   <project path="packages/services/MKUpdateVerification" name="MoKee/android_packages_services_MKUpdateVerification" />
   <project path="vendor/mk" name="MoKee/android_vendor_mk" />
