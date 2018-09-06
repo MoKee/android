@@ -94,7 +94,7 @@
   <project path="hardware/qcom/media-caf/msm8996" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk" revision="mkp-caf-8996" />
   <project path="hardware/qcom/media-caf/msm8998" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk" revision="mkp-caf-8998" />
   <!--<project path="hardware/qcom/media-caf/sdm845" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk" revision="mkp-caf-845" />-->
-  <!--<project path="hardware/qcom/power" name="MoKee/android_hardware_qcom_power" groups="qcom,pdk" />-->
+  <project path="hardware/qcom/power" name="MoKee/android_hardware_qcom_power" groups="qcom,pdk" />
   <!--<project path="hardware/qcom/thermal" name="MoKee/android_hardware_qcom_thermal" />-->
   <!--<project path="hardware/qcom/vr" name="MoKee/android_hardware_qcom_vr" />-->
   <!--<project path="hardware/qcom/wlan-caf" name="MoKee/android_hardware_qcom_wlan" groups="qcom_wlan,pdk" revision="mkp-caf" />-->
