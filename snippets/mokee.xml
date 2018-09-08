@@ -34,7 +34,7 @@
   <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" groups="pdk-fs" revision="refs/heads/master" />
   <!--<project path="packages/apps/Exchange" name="MoKee/android_packages_apps_Exchange" />-->
-  <!--<project path="packages/apps/FMRadio" name="MoKee/android_packages_apps_FMRadio" />-->
+  <project path="packages/apps/FMRadio" name="MoKee/android_packages_apps_FMRadio" />
   <project path="packages/apps/Gallery2" name="MoKee/android_packages_apps_Gallery2" revision="refs/heads/master" />
   <project path="packages/apps/Lawnchair" name="MoKee/android_packages_apps_Lawnchair" revision="refs/heads/master" />
   <!--<project path="packages/apps/LockClock" name="MoKee/android_packages_apps_LockClock" />-->
@@ -85,7 +85,7 @@
   <project path="hardware/qcom/display-caf/msm8996" name="MoKee/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="mkp-caf-8996" />
   <project path="hardware/qcom/display-caf/msm8998" name="MoKee/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="mkp-caf-8998" />
   <!--<project path="hardware/qcom/display-caf/sdm845" name="MoKee/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="mkp-caf-845" />-->
-  <!--<project path="hardware/qcom/fm" name="MoKee/android_hardware_qcom_fm" groups="qcom,qcom_fm" />-->
+  <project path="hardware/qcom/fm" name="MoKee/android_hardware_qcom_fm" groups="qcom,qcom_fm" />
   <project path="hardware/qcom/media-caf/apq8084" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk" revision="mkp-caf-8084" />
   <project path="hardware/qcom/media-caf/msm8916" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk" revision="mkp-caf-8916" />
   <project path="hardware/qcom/media-caf/msm8952" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk" revision="mkp-caf-8952" />
