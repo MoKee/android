@@ -60,9 +60,7 @@
   <project path="external/ant-wireless/ant_native" name="MoKee/android_external_ant-wireless_ant_native" />
   <project path="external/ant-wireless/ant_service" name="MoKee/android_external_ant-wireless_ant_service" />
   <project path="external/ant-wireless/antradio-library" name="MoKee/android_external_ant-wireless_antradio-library" />
-  <!--<project path="external/brctl" name="MoKee/android_external_brctl" />-->
   <project path="external/connectivity" name="MoKee/android_external_connectivity" />
-  <!--<project path="external/ebtables" name="MoKee/android_external_ebtables" />-->
   <project path="external/json-c" name="MoKee/android_external_json-c" />
   <!--<project path="external/powertop" name="MoKee/android_external_powertop" />-->
   <!--<project path="hardware/qcom/audio-caf/apq8084" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="mkp-caf-8084" />-->
@@ -99,7 +97,6 @@
   <!--<project path="hardware/qcom/vr" name="MoKee/android_hardware_qcom_vr" />-->
   <project path="hardware/qcom/wlan-caf" name="MoKee/android_hardware_qcom_wlan" groups="qcom_wlan,pdk" revision="mkp-caf" />
   <project path="hardware/ril-caf" name="MoKee/android_hardware_ril" groups="pdk" revision="mkp-caf" />
-  <!--<project path="system/qcom" name="MoKee/android_system_qcom" groups="qcom" />-->
   <project path="system/tools/dtbtool" name="MoKee/android_system_tools_dtbtool" />
   <project path="vendor/codeaurora/telephony" name="MoKee/android_vendor_codeaurora_telephony" />
   <!--<project path="vendor/nxp/interfaces/opensource/nfc" name="MoKee/android_vendor_nxp_interfaces_opensource_nfc" />-->
