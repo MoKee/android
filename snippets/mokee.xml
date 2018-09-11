@@ -28,6 +28,11 @@
   <project path="packages/resources/MoKeePay" name="MoKee/android_packages_resources_MoKeePay" />
 
   <!-- CodeAurora additions -->
+  <project path="external/ant-wireless/ant_native" name="MoKee/android_external_ant-wireless_ant_native" />
+  <project path="external/ant-wireless/ant_service" name="MoKee/android_external_ant-wireless_ant_service" />
+  <project path="external/ant-wireless/antradio-library" name="MoKee/android_external_ant-wireless_antradio-library" />
+  <project path="external/connectivity" name="MoKee/android_external_connectivity" />
+  <project path="external/json-c" name="MoKee/android_external_json-c" />
   <project path="hardware/qcom/audio-caf/msm8916" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="mkp-caf-8916" />
   <project path="hardware/qcom/audio-caf/msm8952" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="mkp-caf-8952" />
   <project path="hardware/qcom/audio-caf/msm8960" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="mkp-caf-8960" />
