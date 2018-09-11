@@ -49,9 +49,11 @@
   <project path="hardware/qcom/media-caf/msm8994" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk" revision="mkp-caf-8994" />
   <project path="hardware/qcom/media-caf/msm8996" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk" revision="mkp-caf-8996" />
   <project path="hardware/qcom/media-caf/msm8998" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk" revision="mkp-caf-8998" />
+  <project path="hardware/ril-caf" name="MoKee/android_hardware_ril" groups="pdk" revision="mkp-caf" />
   <project path="system/tools/dtbtool" name="MoKee/android_system_tools_dtbtool" />
   <project path="vendor/codeaurora/telephony" name="MoKee/android_vendor_codeaurora_telephony" />
   <project path="vendor/qcom/opensource/audio" name="MoKee/android_vendor_qcom_opensource_audio" />
+  <project path="vendor/qcom/opensource/dataservices" name="MoKee/android_vendor_qcom_opensource_dataservices" />
   <project path="vendor/qcom/opensource/interfaces" name="MoKee/android_vendor_qcom_opensource_interfaces" />
 
 </manifest>
