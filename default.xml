@@ -18,6 +18,7 @@
   <project path="bootable/recovery" name="MoKee/android_bootable_recovery" groups="pdk" />
   <project path="dalvik" name="MoKee/android_dalvik" groups="pdk-cw-fs,pdk-fs" />
   <project path="development" name="MoKee/android_development" groups="developers,pdk-cw-fs,pdk-fs" />
+  <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" />
   <project path="external/e2fsprogs" name="MoKee/android_external_e2fsprogs" groups="pdk" />
   <project path="external/elfutils" name="MoKee/android_external_elfutils" groups="pdk" />
   <project path="external/f2fs-tools" name="MoKee/android_external_f2fs-tools" groups="pdk" />
@@ -73,6 +74,7 @@
   <project path="packages/apps/PackageInstaller" name="MoKee/android_packages_apps_PackageInstaller" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/PhoneCommon" name="MoKee/android_packages_apps_PhoneCommon" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/SafetyRegulatoryInfo" name="MoKee/android_packages_apps_SafetyRegulatoryInfo" groups="pdk-fs" />
+  <project path="packages/apps/SecureElement" name="MoKee/android_packages_apps_SecureElement" groups="apps_se,pdk-fs" />
   <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" groups="pdk-fs" />
   <project path="packages/apps/Stk" name="MoKee/android_packages_apps_Stk" groups="apps_stk,pdk-fs" />
   <project path="packages/apps/StorageManager" name="MoKee/android_packages_apps_StorageManager" groups="pdk-fs" />
