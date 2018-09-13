@@ -110,6 +110,12 @@
   <project path="vendor/sony/nile-common" name="MoKee/android_vendor_sony_nile-common" />
   <project path="vendor/sony/pioneer" name="MoKee/android_vendor_sony_pioneer" />
 
+  <!-- Wileyfox -->
+  <project path="device/wileyfox/crackling" name="MoKee/android_device_wileyfox_crackling" />
+  <project path="device/wileyfox/kipper" name="MoKee/android_device_wileyfox_kipper" />
+  <project path="vendor/wileyfox/crackling" name="MoKee/android_vendor_wileyfox_crackling" />
+  <project path="vendor/wileyfox/kipper" name="MoKee/android_vendor_wileyfox_kipper" />
+
   <!-- Wingtech -->
   <project path="device/wingtech/wt88047" name="MoKee/android_device_wingtech_wt88047" />
   <project path="kernel/wingtech/msm8916" name="MoKee/android_kernel_wingtech_msm8916" />
