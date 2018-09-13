@@ -54,6 +54,11 @@
   <project path="vendor/motorola/sdm660-common" name="MoKee/android_vendor_motorola_sdm660-common" />
   <project path="vendor/motorola/shamu" name="MoKee/android_vendor_motorola_shamu" />
 
+  <!-- Nextbit -->
+  <project path="device/nextbit/ether" name="MoKee/android_device_nextbit_ether" />
+  <project path="kernel/nextbit/msm8992" name="MoKee/android_kernel_nextbit_msm8992" />
+  <project path="vendor/nextbit/ether" name="MoKee/android_vendor_nextbit_ether" />
+
   <!-- OnePlus -->
   <project path="device/oneplus/bacon" name="MoKee/android_device_oneplus_bacon" />
   <project path="device/oneplus/oneplus2" name="MoKee/android_device_oneplus_oneplus2" />
