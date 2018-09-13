@@ -3,6 +3,7 @@
 
   <!-- Cyanogen -->
   <project path="device/cyanogen/msm8916-common" name="MoKee/android_device_cyanogen_msm8916-common" />
+  <project path="kernel/cyanogen/msm8916" name="MoKee/android_kernel_cyanogen_msm8916" />
 
   <!-- Google -->
   <project path="device/google/dragon" name="MoKee/android_device_google_dragon" />
@@ -134,5 +135,9 @@
   <project path="vendor/xiaomi/natrium" name="MoKee/android_vendor_xiaomi_natrium" />
   <project path="vendor/xiaomi/scorpio" name="MoKee/android_vendor_xiaomi_scorpio" />
   <project path="vendor/xiaomi/tissot" name="MoKee/android_vendor_xiaomi_tissot" />
+
+  <!-- Yu -->
+  <project path="device/yu/lettuce" name="MoKee/android_device_yu_lettuce" />
+  <project path="vendor/yu/lettuce" name="MoKee/android_vendor_yu_lettuce" />
 
 </manifest>
