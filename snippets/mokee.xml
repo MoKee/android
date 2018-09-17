@@ -5,7 +5,7 @@
   <project path="android" name="MoKee/android" />
   <project path="device/mokee/sepolicy" name="MoKee/android_device_mokee_sepolicy" />
   <project path="external/bash" name="MoKee/android_external_bash" />
-  <!--<project path="external/exfat" name="MoKee/android_external_exfat" />-->
+  <project path="external/exfat" name="MoKee/android_external_exfat" />
   <!--<project path="external/fuse" name="MoKee/android_external_fuse" />-->
   <project path="external/google-play-services" name="MoKee/android_external_google-play-services" revision="refs/heads/master" />
   <project path="external/htop" name="MoKee/android_external_htop" />
