@@ -7,7 +7,7 @@
   <project path="external/bash" name="MoKee/android_external_bash" />
   <!--<project path="external/exfat" name="MoKee/android_external_exfat" />-->
   <!--<project path="external/fuse" name="MoKee/android_external_fuse" />-->
-  <project path="external/google" name="MoKee/android_external_google" revision="refs/heads/master" />
+  <project path="external/google-play-services" name="MoKee/android_external_google-play-services" revision="refs/heads/master" />
   <project path="external/htop" name="MoKee/android_external_htop" />
   <project path="external/libncurses" name="MoKee/android_external_libncurses" />
   <project path="external/libnfc-nxp" name="MoKee/android_external_libnfc-nxp" />
