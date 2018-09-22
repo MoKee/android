@@ -157,4 +157,9 @@
   <project path="device/yu/lettuce" name="MoKee/android_device_yu_lettuce" />
   <project path="vendor/yu/lettuce" name="MoKee/android_vendor_yu_lettuce" />
 
+  <!-- Zte -->
+  <project path="device/zte/axon7" name="MoKee/android_device_zte_axon7" />
+  <project path="kernel/zte/msm8996" name="MoKee/android_kernel_zte_msm8996" />
+  <project path="vendor/zte/axon7" name="MoKee/android_vendor_zte_axon7" />
+
 </manifest>
