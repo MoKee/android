@@ -24,6 +24,7 @@
   <project path="external/f2fs-tools" name="MoKee/android_external_f2fs-tools" groups="pdk" />
   <project path="external/gptfdisk" name="MoKee/android_external_gptfdisk" groups="pdk" />
   <project path="external/mksh" name="MoKee/android_external_mksh" groups="pdk" />
+  <project path="external/noto-fonts" name="MoKee/android_external_noto-fonts" groups="pdk" />
   <project path="external/one-true-awk" name="MoKee/android_external_one-true-awk" groups="pdk" />
   <project path="external/perfetto" name="MoKee/android_external_perfetto" groups="pdk" />
   <project path="external/selinux" name="MoKee/android_external_selinux" groups="pdk" />
