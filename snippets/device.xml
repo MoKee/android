@@ -4,6 +4,7 @@
   <!-- Cyanogen -->
   <project path="device/cyanogen/msm8916-common" name="MoKee/android_device_cyanogen_msm8916-common" />
   <project path="kernel/cyanogen/msm8916" name="MoKee/android_kernel_cyanogen_msm8916" />
+  <project path="kernel/cyanogen/msm8974" name="MoKee/android_kernel_cyanogen_msm8974" />
 
   <!-- Google -->
   <project path="device/google/dragon" name="MoKee/android_device_google_dragon" />
@@ -161,5 +162,9 @@
   <project path="device/zte/axon7" name="MoKee/android_device_zte_axon7" />
   <project path="kernel/zte/msm8996" name="MoKee/android_kernel_zte_msm8996" />
   <project path="vendor/zte/axon7" name="MoKee/android_vendor_zte_axon7" />
+
+  <!-- Zuk -->
+  <project path="device/zuk/ham" name="MoKee/android_device_zuk_ham" />
+  <project path="vendor/zuk/ham" name="MoKee/android_vendor_zuk_ham" />
 
 </manifest>
