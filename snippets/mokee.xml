@@ -27,6 +27,7 @@
   <project path="hardware/mokee/mkhw" name="MoKee/android_hardware_mokee_mkhw" />
   <project path="mokee-sdk" name="MoKee/android_mokee-sdk" />
   <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />
+  <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" revision="refs/heads/master" />
   <project path="packages/apps/Gallery2" name="MoKee/android_packages_apps_Gallery2" revision="refs/heads/master" />
   <project path="packages/apps/Lawnchair" name="MoKee/android_packages_apps_Lawnchair" revision="refs/heads/master" />
   <project path="packages/apps/MKParts" name="MoKee/android_packages_apps_MKParts" />
