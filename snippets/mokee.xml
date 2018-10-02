@@ -34,6 +34,7 @@
   <project path="packages/apps/Profiles" name="MoKee/android_packages_apps_Profiles" />
   <project path="packages/apps/Recorder" name="MoKee/android_packages_apps_Recorder" />
   <project path="packages/apps/SetupWizard" name="MoKee/android_packages_apps_SetupWizard" />
+  <project path="packages/apps/SimpleCommons" name="MoKee/android_packages_apps_SimpleCommons" revision="refs/heads/master" />
   <project path="packages/resources/devicesettings" name="MoKee/android_packages_resources_devicesettings" />
   <project path="packages/services/MKUpdateVerification" name="MoKee/android_packages_services_MKUpdateVerification" />
   <project path="vendor/mk" name="MoKee/android_vendor_mk" />
