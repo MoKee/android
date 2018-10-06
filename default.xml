@@ -23,6 +23,7 @@
   <project path="external/elfutils" name="MoKee/android_external_elfutils" groups="pdk" />
   <project path="external/f2fs-tools" name="MoKee/android_external_f2fs-tools" groups="pdk" />
   <project path="external/gptfdisk" name="MoKee/android_external_gptfdisk" groups="pdk" />
+  <project path="external/libtextclassifier" name="MoKee/android_external_libtextclassifier" groups="pdk" />
   <project path="external/mksh" name="MoKee/android_external_mksh" groups="pdk" />
   <project path="external/noto-fonts" name="MoKee/android_external_noto-fonts" groups="pdk" />
   <project path="external/one-true-awk" name="MoKee/android_external_one-true-awk" groups="pdk" />
