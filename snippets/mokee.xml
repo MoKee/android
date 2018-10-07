@@ -28,7 +28,6 @@
   <project path="external/zip" name="ThirdProject/android_external_zip" remote="third" />
   <project path="hardware/mokee" name="MoKee/android_hardware_mokee" />
   <project path="frameworks/opt/hardware" name="MoKee/android_frameworks_opt_hardware" />
-  <project path="frameworks/xposed" name="MoKee/android_frameworks_xposed" />
   <project path="hardware/ti/omap4" name="MoKee/android_hardware_ti_omap4" />
   <project path="hardware/ti/wlan" name="MoKee/android_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="MoKee/android_hardware_ti_wpan" />
@@ -46,7 +45,6 @@
   <project path="packages/apps/SetupWizard" name="MoKee/android_packages_apps_SetupWizard" />
   <project path="packages/apps/Snap" name="MoKee/android_packages_apps_Snap" />
   <project path="packages/apps/Venus" name="MoKee/android_packages_apps_Venus" />
-  <project path="packages/apps/XposedInstaller" name="MoKee/android_packages_apps_XposedInstaller" />
   <project path="packages/providers/DataUsageProvider" name="MoKee/android_packages_providers_DataUsageProvider" />
   <project path="packages/providers/MoKeeWeatherProvider" name="MoKee/android_packages_providers_MoKeeWeatherProvider" />
   <project path="packages/providers/WeatherProvider" name="MoKee/android_packages_providers_WeatherProvider" />
