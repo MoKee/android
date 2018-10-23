@@ -60,7 +60,6 @@
 
   <!-- MoKee resources additions -->
   <project path="packages/resources/MoKeePay" name="MoKee/android_packages_resources_MoKeePay" />
-  <project path="packages/resources/ViaBrowser" name="MoKee/android_packages_resources_ViaBrowser" />
 
   <!-- CodeAurora additions -->
   <project path="device/qcom/sepolicy" name="MoKee/android_device_qcom_sepolicy" />
