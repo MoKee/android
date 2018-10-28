@@ -29,8 +29,10 @@
   <project path="mokee-sdk" name="MoKee/android_mokee-sdk" />
   <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" revision="refs/heads/master" />
+  <project path="packages/apps/FMRadio" name="MoKee/android_packages_apps_FMRadio" />
   <project path="packages/apps/Gallery2" name="MoKee/android_packages_apps_Gallery2" revision="refs/heads/master" />
   <project path="packages/apps/Lawnchair" name="MoKee/android_packages_apps_Lawnchair" revision="refs/heads/master" />
+  <project path="packages/apps/MKCenter" name="MoKee/android_packages_apps_MKCenter" />
   <project path="packages/apps/MKParts" name="MoKee/android_packages_apps_MKParts" />
   <project path="packages/apps/Phonograph" name="MoKee/android_packages_apps_Phonograph" revision="refs/heads/master" />
   <project path="packages/apps/Profiles" name="MoKee/android_packages_apps_Profiles" />
@@ -53,6 +55,7 @@
   <project path="external/ant-wireless/antradio-library" name="MoKee/android_external_ant-wireless_antradio-library" />
   <project path="external/connectivity" name="MoKee/android_external_connectivity" />
   <project path="external/json-c" name="MoKee/android_external_json-c" />
+  <project path="hardware/qcom/fm" name="MoKee/android_hardware_qcom_fm" groups="qcom,qcom_fm" />
   <project path="hardware/qcom/audio-caf/apq8084" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="mkp-caf-8084" />
   <project path="hardware/qcom/audio-caf/msm8916" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="mkp-caf-8916" />
   <project path="hardware/qcom/audio-caf/msm8952" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="mkp-caf-8952" />
