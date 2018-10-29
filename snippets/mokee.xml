@@ -42,7 +42,7 @@
   <project path="packages/resources/devicesettings" name="MoKee/android_packages_resources_devicesettings" />
   <project path="packages/services/MKUpdateVerification" name="MoKee/android_packages_services_MKUpdateVerification" />
   <project path="vendor/mk" name="MoKee/android_vendor_mk" />
-  <project path="vendor/private" name="MoKee/mk_private" />
+  <project path="vendor/mk-priv" name="MoKee/android_vendor_mk-priv" />
 
   <!-- MoKee resources additions -->
   <project path="packages/resources/MoKeePay" name="MoKee/android_packages_resources_MoKeePay" />
