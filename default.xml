@@ -165,7 +165,7 @@
   <project path="prebuilts/build-tools" name="MoKee/android_prebuilts_build-tools" />
   <project path="system/extras/su" name="MoKee/android_system_extras_su" />
   <project path="vendor/mk" name="MoKee/android_vendor_mk" />
-  <project path="vendor/private" name="MoKee/mk_private" />
+  <project path="vendor/mk-priv" name="MoKee/android_vendor_mk-priv" />
   <project path="hardware/mokee/interfaces" name="MoKee/android_hardware_mokee_interfaces" />
   <project path="hardware/mokee/mkhw" name="MoKee/android_hardware_mokee_mkhw" />
   <project path="hardware/mokee/telephony" name="MoKee/android_hardware_mokee_telephony" />
