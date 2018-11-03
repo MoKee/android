@@ -77,6 +77,7 @@
   <project path="packages/apps/SafetyRegulatoryInfo" name="MoKee/android_packages_apps_SafetyRegulatoryInfo" groups="pdk-fs" />
   <project path="packages/apps/SecureElement" name="MoKee/android_packages_apps_SecureElement" groups="apps_se,pdk-fs" />
   <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" groups="pdk-fs" />
+  <project path="packages/apps/SettingsIntelligence" name="MoKee/android_packages_apps_SettingsIntelligence" groups="pdk-fs" />
   <project path="packages/apps/Stk" name="MoKee/android_packages_apps_Stk" groups="apps_stk,pdk-fs" />
   <project path="packages/apps/StorageManager" name="MoKee/android_packages_apps_StorageManager" groups="pdk-fs" />
   <project path="packages/apps/Tag" name="MoKee/android_packages_apps_Tag" groups="pdk-fs" />
