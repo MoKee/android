@@ -112,10 +112,12 @@
   <project path="vendor/samsung/star-common" name="MoKee/android_vendor_samsung_star-common" />
 
   <!-- Sony -->
+  <project path="device/sony/discovery" name="MoKee/android_device_sony_discovery" />
   <project path="device/sony/nile-common" name="MoKee/android_device_sony_nile-common" />
   <project path="device/sony/pioneer" name="MoKee/android_device_sony_pioneer" />
   <project path="hardware/sony/macaddrsetup" name="MoKee/android_hardware_sony_macaddrsetup" />
   <project path="kernel/sony/sdm660" name="MoKee/android_kernel_sony_sdm660" />
+  <project path="vendor/sony/discovery" name="MoKee/android_vendor_sony_discovery" />
   <project path="vendor/sony/nile-common" name="MoKee/android_vendor_sony_nile-common" />
   <project path="vendor/sony/pioneer" name="MoKee/android_vendor_sony_pioneer" />
 
