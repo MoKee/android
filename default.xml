@@ -24,6 +24,7 @@
   <project path="external/f2fs-tools" name="MoKee/android_external_f2fs-tools" />
   <project path="external/flac" name="MoKee/android_external_flac" />
   <project path="external/gptfdisk" name="MoKee/android_external_gptfdisk" />
+  <project path="external/icu" name="MoKee/android_external_icu" groups="pdk" />
   <project path="external/libdrm" name="MoKee/android_external_libdrm" />
   <project path="external/libtextclassifier" name="MoKee/android_external_libtextclassifier" />
   <project path="external/mksh" name="MoKee/android_external_mksh" />
@@ -123,6 +124,7 @@
   <project path="system/nfc" name="MoKee/android_system_nfc" />
   <project path="system/security" name="MoKee/android_system_security" />
   <project path="system/sepolicy" name="MoKee/android_system_sepolicy" />
+  <project path="system/timezone" name="MoKee/android_system_timezone" groups="pdk" />
   <project path="system/tools/aidl" name="MoKee/android_system_tools_aidl" />
   <project path="system/tools/hidl" name="MoKee/android_system_tools_hidl" />
   <project path="system/update_engine" name="MoKee/android_system_update_engine" />
