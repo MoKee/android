@@ -60,6 +60,7 @@
   <project path="libcore" name="MoKee/android_libcore" />
   <project path="packages/apps/BasicSmsReceiver" name="MoKee/android_packages_apps_BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="MoKee/android_packages_apps_Bluetooth" />
+  <project path="packages/apps/Exchange" name="MoKee/android_packages_apps_Exchange" />
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" revision="refs/heads/master" />
   <project path="packages/apps/Camera2" name="MoKee/android_packages_apps_Camera2" />
   <project path="packages/apps/CarrierConfig" name="MoKee/android_packages_apps_CarrierConfig" />
