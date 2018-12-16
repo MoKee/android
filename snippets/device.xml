@@ -15,6 +15,9 @@
   <project path="device/huawei/angler" name="MoKee/android_device_huawei_angler" />
   <project path="kernel/huawei/angler" name="MoKee/android_kernel_huawei_angler" />
   <project path="vendor/huawei/angler" name="MoKee/android_vendor_huawei_angler" />
+  <project path="device/huawei/kiwi" name="MoKee/android_device_huawei_kiwi" />
+  <project path="kernel/huawei/kiwi" name="MoKee/android_kernel_huawei_kiwi" />
+  <project path="vendor/huawei/kiwi" name="MoKee/android_vendor_huawei_kiwi" />
 
   <!-- Lenovo -->
   <project path="device/lenovo/kuntao" name="MoKee/android_device_lenovo_kuntao" />
