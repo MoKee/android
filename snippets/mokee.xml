@@ -48,7 +48,6 @@
   <!--<project path="packages/apps/Snap" name="MoKee/android_packages_apps_Snap" />-->
   <project path="packages/overlays/MoKee" name="MoKee/android_packages_overlays_MoKee" />
   <!--<project path="packages/providers/WeatherProvider" name="MoKee/android_packages_providers_WeatherProvider" />-->
-  <project path="packages/services/MKUpdateVerification" name="MoKee/android_packages_services_MKUpdateVerification" />
   <!--<project path="prebuilts/mokee-sdk" name="MoKee/android_prebuilts_mokee-sdk" clone-depth="1" />-->
   <!--<project path="system/extras/su" name="MoKee/android_system_extras_su" />-->
   <project path="vendor/mk" name="MoKee/android_vendor_mk" />
