@@ -111,6 +111,5 @@
   <!--<project path="vendor/qcom/opensource/cryptfs_hw" name="MoKee/android_vendor_qcom_opensource_cryptfs_hw" />-->
   <project path="vendor/qcom/opensource/dataservices" name="MoKee/android_vendor_qcom_opensource_dataservices" />
   <project path="vendor/qcom/opensource/interfaces" name="MoKee/android_vendor_qcom_opensource_interfaces" />
-  <!--<project path="vendor/qcom/opensource/rcs-service" name="MoKee/android_vendor_qcom_opensource_rcs-service" />-->
   <project path="vendor/qcom/opensource/thermal-engine" name="MoKee/android_vendor_qcom_opensource_thermal-engine" />
 </manifest>
