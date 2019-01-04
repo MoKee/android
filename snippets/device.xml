@@ -115,14 +115,39 @@
   <project path="vendor/samsung/universal9810-common" name="MoKee/android_vendor_samsung_universal9810-common" />
 
   <!-- Sony -->
+  <project path="device/sony/blue-common" name="MoKee/android_device_sony_blue-common" />
+  <project path="device/sony/common" name="MoKee/android_device_sony_common" />
   <project path="device/sony/discovery" name="MoKee/android_device_sony_discovery" />
+  <project path="device/sony/dogo" name="MoKee/android_device_sony_dogo" />
+  <project path="device/sony/fusion3-common" name="MoKee/android_device_sony_fusion3-common" />
+  <project path="device/sony/huashan" name="MoKee/android_device_sony_huashan" />
   <project path="device/sony/nile-common" name="MoKee/android_device_sony_nile-common" />
   <project path="device/sony/pioneer" name="MoKee/android_device_sony_pioneer" />
+  <project path="device/sony/pollux" name="MoKee/android_device_sony_pollux" />
+  <project path="device/sony/pollux_windy" name="MoKee/android_device_sony_pollux_windy" />
+  <project path="device/sony/pollux-common" name="MoKee/android_device_sony_pollux-common" />
+  <project path="device/sony/tsubasa" name="MoKee/android_device_sony_tsubasa" />
+  <project path="device/sony/yuga" name="MoKee/android_device_sony_yuga" />
+  <project path="hardware/sony/DASH" name="MoKee/android_hardware_sony_DASH" />
+  <project path="hardware/sony/thermanager" name="MoKee/android_hardware_sony_thermanager" />
   <project path="hardware/sony/macaddrsetup" name="MoKee/android_hardware_sony_macaddrsetup" />
+  <project path="kernel/sony/apq8064" name="MoKee/android_kernel_sony_apq8064" />
+  <project path="kernel/sony/msm8960t" name="MoKee/android_kernel_sony_msm8960t" />
+  <project path="kernel/sony/msm8x60" name="MoKee/android_kernel_sony_msm8x60" />
   <project path="kernel/sony/sdm660" name="MoKee/android_kernel_sony_sdm660" />
+  <project path="vendor/sony/blue-common" name="MoKee/android_device_sony_blue-common" />
+  <project path="vendor/sony/common" name="MoKee/android_vendor_sony_common" />
   <project path="vendor/sony/discovery" name="MoKee/android_vendor_sony_discovery" />
+  <project path="vendor/sony/dogo" name="MoKee/android_vendor_sony_dogo" />
+  <project path="vendor/sony/fusion3-common" name="MoKee/android_vendor_sony_fusion3-common" />
+  <project path="vendor/sony/huashan" name="MoKee/android_vendor_sony_huashan" />
   <project path="vendor/sony/nile-common" name="MoKee/android_vendor_sony_nile-common" />
   <project path="vendor/sony/pioneer" name="MoKee/android_vendor_sony_pioneer" />
+  <project path="vendor/sony/pollux" name="MoKee/android_vendor_sony_pollux" />
+  <project path="vendor/sony/pollux_windy" name="MoKee/android_vendor_sony_pollux_windy" />
+  <project path="vendor/sony/pollux-common" name="MoKee/android_vendor_sony_pollux-common" />
+  <project path="vendor/sony/tsubasa" name="MoKee/android_vendor_sony_tsubasa" />
+  <project path="vendor/sony/yuga" name="MoKee/android_vendor_sony_yuga" />
 
   <!-- Wileyfox -->
   <project path="device/wileyfox/crackling" name="MoKee/android_device_wileyfox_crackling" />
