@@ -26,6 +26,7 @@
   <project path="hardware/broadcom/nfc" name="MoKee/android_hardware_broadcom_nfc" />
   <project path="hardware/mokee/interfaces" name="MoKee/android_hardware_mokee_interfaces" />
   <project path="hardware/mokee/mkhw" name="MoKee/android_hardware_mokee_mkhw" />
+  <project path="hardware/mokee/telephony" name="MoKee/android_hardware_mokee_telephony" />
   <project path="mokee-sdk" name="MoKee/android_mokee-sdk" />
   <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" revision="refs/heads/master" />
