@@ -98,6 +98,7 @@
   <project path="vendor/nxp/opensource/hidlimpl" name="MoKee/android_vendor_nxp_opensource_hidlimpl" />
   <project path="vendor/qcom/opensource/audio" name="MoKee/android_vendor_qcom_opensource_audio" />
   <project path="vendor/qcom/opensource/cryptfs_hw" name="MoKee/android_vendor_qcom_opensource_cryptfs_hw" />
+  <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="MoKee/android_vendor_qcom_opensource_data-ipa-cfg-mgr" />
   <project path="vendor/qcom/opensource/dataservices" name="MoKee/android_vendor_qcom_opensource_dataservices" />
   <project path="vendor/qcom/opensource/interfaces" name="MoKee/android_vendor_qcom_opensource_interfaces" />
   <project path="vendor/qcom/opensource/thermal-engine" name="MoKee/android_vendor_qcom_opensource_thermal-engine" />
