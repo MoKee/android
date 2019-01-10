@@ -19,6 +19,7 @@
   <project path="dalvik" name="MoKee/android_dalvik" groups="pdk-cw-fs,pdk-fs" />
   <project path="development" name="MoKee/android_development" groups="developers,pdk-cw-fs,pdk-fs" />
   <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" />
+  <project path="external/drm_hwcomposer" name="MoKee/android_external_drm_hwcomposer" groups="drm_hwcomposer,pdk-fs" />
   <project path="external/e2fsprogs" name="MoKee/android_external_e2fsprogs" groups="pdk" />
   <project path="external/elfutils" name="MoKee/android_external_elfutils" groups="pdk" />
   <project path="external/f2fs-tools" name="MoKee/android_external_f2fs-tools" groups="pdk" />
