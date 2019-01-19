@@ -24,6 +24,7 @@
   <project path="external/e2fsprogs" name="MoKee/android_external_e2fsprogs" groups="pdk" />
   <project path="external/elfutils" name="MoKee/android_external_elfutils" groups="pdk" />
   <project path="external/f2fs-tools" name="MoKee/android_external_f2fs-tools" groups="pdk" />
+  <project path="external/fsck_msdos" name="MoKee/android_external_fsck_msdos" groups="pdk" />
   <project path="external/gptfdisk" name="MoKee/android_external_gptfdisk" groups="pdk" />
   <project path="external/icu" name="MoKee/android_external_icu" groups="pdk" />
   <project path="external/libtextclassifier" name="MoKee/android_external_libtextclassifier" groups="pdk" />
