@@ -38,7 +38,7 @@
   <project path="packages/apps/Gallery2" name="MoKee/android_packages_apps_Gallery2" revision="refs/heads/master" />
   <project path="packages/apps/Lawnchair" name="MoKee/android_packages_apps_Lawnchair" revision="refs/heads/master" />
   <!--<project path="packages/apps/LockClock" name="MoKee/android_packages_apps_LockClock" />-->
-  <project path="packages/apps/MKCenter2" name="MoKee/android_packages_apps_MKCenter2" />
+  <project path="packages/apps/MKCenter2" name="MoKee/android_packages_apps_MKCenter2" revision="refs/heads/master" />
   <project path="packages/apps/MKParts" name="MoKee/android_packages_apps_MKParts" />
   <project path="packages/apps/Phonograph" name="MoKee/android_packages_apps_Phonograph" revision="refs/heads/master" />
   <project path="packages/apps/Profiles" name="MoKee/android_packages_apps_Profiles" />
