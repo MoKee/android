@@ -35,19 +35,14 @@
   <project path="mokee-sdk" name="MoKee/android_mokee-sdk" />
   <!--<project path="packages/apps/Aegis" name="MoKee/android_packages_apps_Aegis" />-->
   <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />
-  <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" groups="pdk-fs" revision="refs/heads/master" />
   <project path="packages/apps/Exchange" name="MoKee/android_packages_apps_Exchange" />
   <project path="packages/apps/FMRadio" name="MoKee/android_packages_apps_FMRadio" />
-  <project path="packages/apps/Gallery2" name="MoKee/android_packages_apps_Gallery2" revision="refs/heads/master" />
-  <project path="packages/apps/Lawnchair" name="MoKee/android_packages_apps_Lawnchair" revision="refs/heads/master" />
   <!--<project path="packages/apps/LockClock" name="MoKee/android_packages_apps_LockClock" />-->
   <project path="packages/apps/MKCenter2" name="MoKee/android_packages_apps_MKCenter2" />
   <project path="packages/apps/MKParts" name="MoKee/android_packages_apps_MKParts" />
-  <project path="packages/apps/Phonograph" name="MoKee/android_packages_apps_Phonograph" revision="refs/heads/master" />
   <project path="packages/apps/Profiles" name="MoKee/android_packages_apps_Profiles" />
   <project path="packages/apps/Recorder" name="MoKee/android_packages_apps_Recorder" />
   <project path="packages/apps/SetupWizard" name="MoKee/android_packages_apps_SetupWizard" />
-  <project path="packages/apps/SimpleCommons" name="MoKee/android_packages_apps_SimpleCommons" revision="refs/heads/master" />
   <project path="packages/apps/Snap" name="MoKee/android_packages_apps_Snap" />
   <project path="packages/overlays/MoKee" name="MoKee/android_packages_overlays_MoKee" />
   <!--<project path="packages/providers/MoKeeWeatherProvider" name="MoKee/android_packages_providers_MoKeeWeatherProvider" />-->
