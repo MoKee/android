@@ -24,6 +24,7 @@
   <project path="external/zip" name="MoKee/android_external_zip" />
   <project path="hardware/broadcom/nfc" name="MoKee/android_hardware_broadcom_nfc" />
   <project path="hardware/mokee/interfaces" name="MoKee/android_hardware_mokee_interfaces" />
+  <project path="hardware/mokee/livedisplay" name="MoKee/android_hardware_mokee_livedisplay" />
   <project path="hardware/mokee/mkhw" name="MoKee/android_hardware_mokee_mkhw" />
   <project path="hardware/mokee/telephony" name="MoKee/android_hardware_mokee_telephony" />
   <!--<project path="hardware/ti/omap4" name="MoKee/android_hardware_ti_omap4" />-->
