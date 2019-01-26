@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <!-- Broadcom -->
+  <project path="hardware/broadcom/fm" name="MoKee/android_hardware_broadcom_fm" />
+
   <!-- Cyanogen -->
   <project path="device/cyanogen/msm8916-common" name="MoKee/android_device_cyanogen_msm8916-common" />
   <project path="kernel/cyanogen/msm8916" name="MoKee/android_kernel_cyanogen_msm8916" />
@@ -130,6 +133,7 @@
   <project path="device/sony/yuga" name="MoKee/android_device_sony_yuga" />
   <project path="hardware/sony/DASH" name="MoKee/android_hardware_sony_DASH" />
   <project path="hardware/sony/thermanager" name="MoKee/android_hardware_sony_thermanager" />
+  <project path="hardware/sony/timekeep" name="MoKee/android_hardware_sony_timekeep" />
   <project path="hardware/sony/macaddrsetup" name="MoKee/android_hardware_sony_macaddrsetup" />
   <project path="kernel/sony/apq8064" name="MoKee/android_kernel_sony_apq8064" />
   <project path="kernel/sony/msm8960t" name="MoKee/android_kernel_sony_msm8960t" />
