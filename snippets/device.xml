@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <!-- Leeco -->
+  <project name="MoKee/android_device_leeco_msm8996-common" path="device/leeco/msm8996-common" remote="mokee" />
+  <project name="MoKee/android_device_leeco_zl1" path="device/leeco/zl1" remote="mokee" />
+  <project name="MoKee/android_kernel_leeco_msm8996" path="kernel/leeco/msm8996" remote="mokee" />
+  <project name="MoKee/android_vendor_leeco_msm8996-common" path="vendor/leeco/msm8996-common" remote="mokee" />
+  <project name="MoKee/android_vendor_leeco_zl1" path="vendor/leeco/zl1" remote="mokee" />
+
   <!-- Motorola -->
   <project name="MoKee/android_device_moto_shamu" path="device/moto/shamu" remote="mokee" />
   <project name="MoKee/android_kernel_motorola_shamu" path="kernel/motorola/shamu" remote="mokee" />
