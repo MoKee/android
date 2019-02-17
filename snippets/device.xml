@@ -36,11 +36,4 @@
   <project path="kernel/oppo/msm8974" name="MoKee/android_kernel_oppo_msm8974" />
   <project path="vendor/oppo/msm8974-common" name="MoKee/android_vendor_oppo_msm8974-common" />
 
-  <!-- XiaoMi -->
-  <project path="device/xiaomi/polaris" name="MoKee/android_device_xiaomi_polaris" />
-  <project path="device/xiaomi/sdm845-common" name="MoKee/android_device_xiaomi_sdm845-common" />
-  <project path="kernel/xiaomi/sdm845" name="MoKee/android_kernel_xiaomi_sdm845" />
-  <project path="vendor/xiaomi/polaris" name="MoKee/android_vendor_xiaomi_polaris" />
-  <project path="vendor/xiaomi/sdm845-common" name="MoKee/android_vendor_xiaomi_sdm845-common" />
-
 </manifest>
