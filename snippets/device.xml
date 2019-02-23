@@ -23,15 +23,19 @@
   <project path="device/oneplus/bacon" name="MoKee/android_device_oneplus_bacon" />
   <project path="device/oneplus/cheeseburger" name="MoKee/android_device_oneplus_cheeseburger" />
   <project path="device/oneplus/dumpling" name="MoKee/android_device_oneplus_dumpling" />
+  <project path="device/oneplus/enchilada" name="MoKee/android_device_oneplus_enchilada" />
   <project path="device/oneplus/msm8998-common" name="MoKee/android_device_oneplus_msm8998-common" />
   <project path="device/oneplus/oneplus2" name="MoKee/android_device_oneplus_oneplus2" />
+  <project path="device/oneplus/sdm845-common" name="MoKee/android_device_oneplus_sdm845-common" />
   <project path="kernel/oneplus/msm8994" name="MoKee/android_kernel_oneplus_msm8994" />
   <project path="kernel/oneplus/msm8998" name="MoKee/android_kernel_oneplus_msm8998" />
+  <project path="kernel/oneplus/sdm845" name="MoKee/android_kernel_oneplus_sdm845" />
   <project path="vendor/oneplus/bacon" name="MoKee/android_vendor_oneplus_bacon" />
   <project path="vendor/oneplus/cheeseburger" name="MoKee/android_vendor_oneplus_cheeseburger" />
   <project path="vendor/oneplus/dumpling" name="MoKee/android_vendor_oneplus_dumpling" />
   <project path="vendor/oneplus/msm8998-common" name="MoKee/android_vendor_oneplus_msm8998-common" />
   <project path="vendor/oneplus/oneplus2" name="MoKee/android_vendor_oneplus_oneplus2" />
+  <project path="vendor/oneplus/sdm845-common" name="MoKee/android_vendor_oneplus_sdm845-common" />
 
   <!-- Oppo -->
   <project path="device/oppo/common" name="MoKee/android_device_oppo_common" />
