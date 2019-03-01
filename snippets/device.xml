@@ -4,6 +4,13 @@
   <!-- Cyanogen -->
   <project path="kernel/cyanogen/msm8974" name ="MoKee/android_kernel_cyanogen_msm8974" />
 
+  <!-- Huawei -->
+  <project path="device/huawei/berkeley" name ="MoKee/android_device_huawei_berkeley" />
+  <project path="device/huawei/charlotte" name ="MoKee/android_device_huawei_charlotte" />
+  <project path="device/huawei/kirin970-common" name ="MoKee/android_device_huawei_kirin970-common" />
+  <project path="kernel/huawei/kirin970" name ="MoKee/android_kernel_huawei_kirin970" />
+  <project path="vendor/huawei/kirin970-common" name ="MoKee/android_vendor_huawei_kirin970-common" />
+
   <!-- Leeco -->
   <project path="device/leeco/msm8996-common" name ="MoKee/android_device_leeco_msm8996-common" />
   <project path="device/leeco/x2" name ="MoKee/android_device_leeco_x2" />
