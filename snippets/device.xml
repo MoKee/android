@@ -2,6 +2,7 @@
 <manifest>
 
   <!-- Cyanogen -->
+  <project path="device/cyanogen/msm8916-common" name ="MoKee/android_device_cyanogen_msm8916-common" />
   <project path="kernel/cyanogen/msm8974" name ="MoKee/android_kernel_cyanogen_msm8974" />
 
   <!-- Huawei -->
