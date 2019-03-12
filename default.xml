@@ -25,7 +25,9 @@
   <project path="external/flac" name="MoKee/android_external_flac" />
   <project path="external/gptfdisk" name="MoKee/android_external_gptfdisk" />
   <project path="external/icu" name="MoKee/android_external_icu" groups="pdk" />
+  <project path="external/libavc" name="MoKee/android_external_libavc" groups="pdk" />
   <project path="external/libdrm" name="MoKee/android_external_libdrm" />
+  <project path="external/libhevc" name="MoKee/android_external_libhevc" groups="pdk" />
   <project path="external/libtextclassifier" name="MoKee/android_external_libtextclassifier" />
   <project path="external/mksh" name="MoKee/android_external_mksh" />
   <project path="external/noto-fonts" name="MoKee/android_external_noto-fonts" />
@@ -165,6 +167,8 @@
   <project path="prebuilts/build-tools" name="MoKee/android_prebuilts_build-tools" />
   <project path="prebuilts/misc" name="MoKee/android_prebuilts_misc" groups="pdk" clone-depth="1" />
   <project path="system/extras/su" name="MoKee/android_system_extras_su" />
+  <project path="system/hwservicemanager" name="MoKee/android_system_hwservicemanager" groups="pdk" />
+  <project path="system/libhwbinder" name="MoKee/android_system_libhwbinder" groups="pdk" />
   <project path="vendor/mk" name="MoKee/android_vendor_mk" />
   <project path="vendor/mk-priv" name="MoKee/android_vendor_mk-priv" />
   <project path="hardware/mokee/interfaces" name="MoKee/android_hardware_mokee_interfaces" />
