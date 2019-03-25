@@ -34,6 +34,7 @@
   <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" revision="refs/heads/master" />
   <project path="packages/apps/Exchange" name="MoKee/android_packages_apps_Exchange" />
+  <project path="packages/apps/FlipFlap" name="MoKee/android_packages_apps_FlipFlap" />
   <project path="packages/apps/FMRadio" name="MoKee/android_packages_apps_FMRadio" />
   <project path="packages/apps/Gallery2" name="MoKee/android_packages_apps_Gallery2" revision="refs/heads/master" />
   <project path="packages/apps/Lawnchair" name="MoKee/android_packages_apps_Lawnchair" revision="refs/heads/master" />
