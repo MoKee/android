@@ -28,6 +28,7 @@
   <project path="external/libavc" name="MoKee/android_external_libavc" groups="pdk" />
   <project path="external/libdrm" name="MoKee/android_external_libdrm" />
   <project path="external/libhevc" name="MoKee/android_external_libhevc" groups="pdk" />
+  <project path="external/libmpeg2" name="MoKee/android_external_libmpeg2" groups="pdk" />
   <project path="external/libtextclassifier" name="MoKee/android_external_libtextclassifier" />
   <project path="external/mksh" name="MoKee/android_external_mksh" />
   <project path="external/noto-fonts" name="MoKee/android_external_noto-fonts" />
@@ -36,6 +37,7 @@
   <project path="external/sqlite" name="MoKee/android_external_sqlite" />
   <project path="external/tinycompress" name="MoKee/android_external_tinycompress" />
   <project path="external/toybox" name="MoKee/android_external_toybox" />
+  <project path="external/tremolo" name="MoKee/android_external_tremolo" groups="pdk" />
   <project path="external/webp" name="MoKee/android_external_webp" />
   <project path="external/wpa_supplicant_8" name="MoKee/android_external_wpa_supplicant_8" groups="pdk" />
   <project path="external/zlib" name="MoKee/android_external_zlib" />
