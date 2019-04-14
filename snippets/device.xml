@@ -21,6 +21,11 @@
   <project path="vendor/leeco/x2" name ="MoKee/android_vendor_leeco_x2" />
   <project path="vendor/leeco/zl1" name ="MoKee/android_vendor_leeco_zl1" />
 
+  <!-- Lenovo -->
+  <project path="device/lenovo/kuntao" name ="MoKee/android_device_lenovo_kuntao" />
+  <project path="kernel/lenovo/msm8953" name ="MoKee/android_kernel_lenovo_msm8953" />
+  <project path="vendor/lenovo/kuntao" name ="MoKee/android_vendor_lenovo_kuntao" />
+
   <!-- Motorola -->
   <project path="device/motorola/griffin" name ="MoKee/android_device_motorola_griffin" />
   <project path="device/motorola/nash" name ="MoKee/android_device_motorola_nash" />
