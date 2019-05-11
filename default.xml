@@ -47,6 +47,10 @@
   <project path="frameworks/opt/telephony" name="MoKee/android_frameworks_opt_telephony" groups="pdk" />
   <project path="hardware/broadcom/libbt" name="MoKee/android_hardware_broadcom_libbt" groups="pdk" />
   <project path="hardware/broadcom/wlan" name="MoKee/android_hardware_broadcom_wlan" groups="pdk,broadcom_wlan" />
+  <project path="hardware/intel/bootstub" name="MoKee/android_hardware_intel_bootstub" groups="intel,pdk" />
+  <project path="hardware/intel/common/libmix" name="MoKee/android_hardware_intel_common_libmix" groups="intel,pdk" />
+  <project path="hardware/intel/common/utils" name="MoKee/android_hardware_intel_common_utils" groups="intel,pdk" />
+  <project path="hardware/intel/img/hwcomposer" name="MoKee/android_hardware_intel_img_hwcomposer" groups="intel,pdk" />
   <project path="hardware/interfaces" name="MoKee/android_hardware_interfaces" groups="pdk" />
   <project path="hardware/libhardware" name="MoKee/android_hardware_libhardware" groups="pdk" />
   <project path="hardware/libhardware_legacy" name="MoKee/android_hardware_libhardware_legacy" groups="pdk" />
