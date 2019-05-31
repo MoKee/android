@@ -32,6 +32,7 @@
   <project path="hardware/mokee/telephony" name="MoKee/android_hardware_mokee_telephony" />
   <project path="mokee-sdk" name="MoKee/android_mokee-sdk" />
   <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />
+  <project path="packages/apps/Backgrounds" name="MoKee/android_packages_apps_Backgrounds" />
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" revision="refs/heads/master" />
   <project path="packages/apps/Exchange" name="MoKee/android_packages_apps_Exchange" />
   <project path="packages/apps/FlipFlap" name="MoKee/android_packages_apps_FlipFlap" />
