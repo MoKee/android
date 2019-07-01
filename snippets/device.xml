@@ -65,13 +65,11 @@
   <project path="device/xiaomi/chiron" name="MoKee/android_device_xiaomi_chiron" />
   <project path="device/xiaomi/gemini" name="MoKee/android_device_xiaomi_gemini" />
   <project path="device/xiaomi/lithium" name="MoKee/android_device_xiaomi_lithium" />
-  <project path="device/xiaomi/msm8953-common" name="MoKee/android_device_xiaomi_msm8953-common" />
   <project path="device/xiaomi/msm8996-common" name="MoKee/android_device_xiaomi_msm8996-common" />
   <project path="device/xiaomi/msm8998-common" name="MoKee/android_device_xiaomi_msm8998-common" />
   <project path="device/xiaomi/natrium" name="MoKee/android_device_xiaomi_natrium" />
   <project path="device/xiaomi/scorpio" name="MoKee/android_device_xiaomi_scorpio" />
   <project path="device/xiaomi/sdm845-common" name="MoKee/android_device_xiaomi_sdm845-common" />
-  <project path="device/xiaomi/tissot" name="MoKee/android_device_xiaomi_tissot" />
   <project path="kernel/xiaomi/msm8996" name="MoKee/android_kernel_xiaomi_msm8996" />
   <project path="kernel/xiaomi/msm8998" name="MoKee/android_kernel_xiaomi_msm8998" />
   <project path="kernel/xiaomi/sdm845" name="MoKee/android_kernel_xiaomi_sdm845" />
@@ -80,13 +78,11 @@
   <project path="vendor/xiaomi/chiron" name="MoKee/android_vendor_xiaomi_chiron" />
   <project path="vendor/xiaomi/gemini" name="MoKee/android_vendor_xiaomi_gemini" />
   <project path="vendor/xiaomi/lithium" name="MoKee/android_vendor_xiaomi_lithium" />
-  <project path="vendor/xiaomi/msm8953-common" name="MoKee/android_vendor_xiaomi_msm8953-common" />
   <project path="vendor/xiaomi/msm8996-common" name="MoKee/android_vendor_xiaomi_msm8996-common" />
   <project path="vendor/xiaomi/msm8998-common" name="MoKee/android_vendor_xiaomi_msm8998-common" />
   <project path="vendor/xiaomi/natrium" name="MoKee/android_vendor_xiaomi_natrium" />
   <project path="vendor/xiaomi/scorpio" name="MoKee/android_vendor_xiaomi_scorpio" />
   <project path="vendor/xiaomi/sdm845-common" name="MoKee/android_vendor_xiaomi_sdm845-common" />
-  <project path="vendor/xiaomi/tissot" name="MoKee/android_vendor_xiaomi_tissot" />
 
   <!-- Zuk -->
   <project path="device/zuk/ham" name ="MoKee/android_device_zuk_ham" />
