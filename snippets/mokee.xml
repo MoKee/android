@@ -52,7 +52,9 @@
   <!--<project path="packages/providers/WeatherProvider" name="MoKee/android_packages_providers_WeatherProvider" />-->
   <!--<project path="prebuilts/mokee-sdk" name="MoKee/android_prebuilts_mokee-sdk" clone-depth="1" />-->
   <project path="system/extras/su" name="MoKee/android_system_extras_su" />
-  <project path="vendor/mk" name="MoKee/android_vendor_mk" />
+  <project path="vendor/mk" name="MoKee/android_vendor_mk" >
+    <copyfile src="vendor/mk/noop/Android.mk" dest="kernel/Android.mk" />
+  </project>
   <project path="vendor/mk-priv" name="MoKee/android_vendor_mk-priv" />
 
   <!-- MoKee resources additions -->
