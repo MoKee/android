@@ -9,8 +9,11 @@
   <project path="device/huawei/berkeley" name ="MoKee/android_device_huawei_berkeley" />
   <project path="device/huawei/charlotte" name ="MoKee/android_device_huawei_charlotte" />
   <project path="device/huawei/kirin970-common" name ="MoKee/android_device_huawei_kirin970-common" />
+  <project path="device/huawei/kiwi" name ="MoKee/android_device_huawei_kiwi" />
   <project path="kernel/huawei/kirin970" name ="MoKee/android_kernel_huawei_kirin970" />
+  <project path="kernel/huawei/kiwi" name ="MoKee/android_kernel_huawei_kiwi" />
   <project path="vendor/huawei/kirin970-common" name ="MoKee/android_vendor_huawei_kirin970-common" />
+  <project path="vendor/huawei/kiwi" name ="MoKee/android_vendor_huawei_kiwi" />
 
   <!-- Leeco -->
   <project path="device/leeco/msm8996-common" name ="MoKee/android_device_leeco_msm8996-common" />
