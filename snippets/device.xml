@@ -62,6 +62,9 @@
   <project path="vendor/oppo/find7" name="MoKee/android_vendor_oppo_find7" />
   <project path="vendor/oppo/msm8974-common" name="MoKee/android_vendor_oppo_msm8974-common" />
 
+  <!-- SONY -->
+  <project path="external/sony/boringssl-compat" name="MoKee/android_external_sony_boringssl-compat" />
+
   <!-- XiaoMi -->
   <project path="device/xiaomi/beryllium" name="MoKee/android_device_xiaomi_beryllium" />
   <project path="device/xiaomi/capricorn" name="MoKee/android_device_xiaomi_capricorn" />
