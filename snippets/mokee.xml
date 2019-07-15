@@ -59,6 +59,7 @@
   <project path="vendor/mk-priv" name="MoKee/android_vendor_mk-priv" />
 
   <!-- MoKee resources additions -->
+  <project path="packages/resources/Aegis" name="MoKee/android_packages_resources_Aegis" />
   <project path="packages/resources/MoKeePay" name="MoKee/android_packages_resources_MoKeePay" revision="refs/heads/master" />
 
   <!-- CodeAurora additions -->
