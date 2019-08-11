@@ -6,6 +6,16 @@
   <project path="kernel/cyanogen/msm8916" name ="MoKee/android_kernel_cyanogen_msm8916" />
   <project path="kernel/cyanogen/msm8974" name ="MoKee/android_kernel_cyanogen_msm8974" />
 
+  <!-- HTC -->
+  <project path="device/htc/m8" name ="MoKee/android_device_htc_m8" />
+  <project path="device/htc/m8d" name ="MoKee/android_device_htc_m8d" />
+  <project path="device/htc/m8-common" name ="MoKee/android_device_htc_m8-common" />
+  <project path="device/htc/msm8974-common" name ="MoKee/android_device_htc_msm8974-common" />
+  <project path="kernel/htc/msm8974" name ="MoKee/android_kernel_htc_msm8974" />
+  <project path="vendor/htc/m8" name ="MoKee/android_vendor_htc_m8" />
+  <project path="vendor/htc/m8d" name ="MoKee/android_vendor_htc_m8d" />
+  <project path="vendor/htc/m8-common" name ="MoKee/android_vendor_htc_m8-common" />
+
   <!-- Huawei -->
   <project path="device/huawei/berkeley" name ="MoKee/android_device_huawei_berkeley" />
   <project path="device/huawei/charlotte" name ="MoKee/android_device_huawei_charlotte" />
@@ -65,6 +75,7 @@
 
   <!-- SONY -->
   <project path="external/sony/boringssl-compat" name="MoKee/android_external_sony_boringssl-compat" />
+  <project path="hardware/sony/thermanager" name="MoKee/android_hardware_sony_thermanager" />
 
   <!-- Wileyfox -->
   <project path="device/wileyfox/crackling" name="MoKee/android_device_wileyfox_crackling" />
