@@ -18,6 +18,7 @@
   <project path="dalvik" name="MoKee/android_dalvik" />
   <project path="bootable/recovery" name="MoKee/android_bootable_recovery" />
   <project path="development" name="MoKee/android_development" />
+  <project path="external/chromium-libpac" name="MoKee/android_external_chromium-libpac" groups="pdk" />
   <project path="external/chromium-webview" name="MoKee/android_external_chromium-webview" revision="master" />
   <project path="external/e2fsprogs" name="MoKee/android_external_e2fsprogs" />
   <project path="external/elfutils" name="MoKee/android_external_elfutils" />
@@ -30,6 +31,7 @@
   <project path="external/libhevc" name="MoKee/android_external_libhevc" groups="pdk" />
   <project path="external/libmpeg2" name="MoKee/android_external_libmpeg2" groups="pdk" />
   <project path="external/libtextclassifier" name="MoKee/android_external_libtextclassifier" />
+  <project path="external/libvpx" name="MoKee/android_external_libvpx" groups="pdk" />
   <project path="external/mksh" name="MoKee/android_external_mksh" />
   <project path="external/noto-fonts" name="MoKee/android_external_noto-fonts" />
   <project path="external/selinux" name="MoKee/android_external_selinux" />
