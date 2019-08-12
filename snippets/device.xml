@@ -88,8 +88,15 @@
   <project path="vendor/oppo/msm8974-common" name="MoKee/android_vendor_oppo_msm8974-common" />
 
   <!-- SONY -->
+  <project path="device/sony/nile-common" name="MoKee/android_device_sony_nile-common" />
+  <project path="device/sony/pioneer" name="MoKee/android_device_sony_pioneer" />
   <project path="external/sony/boringssl-compat" name="MoKee/android_external_sony_boringssl-compat" />
+  <project path="hardware/sony/macaddrsetup" name="MoKee/android_hardware_sony_macaddrsetup" />
+  <project path="hardware/sony/simdetect" name="MoKee/android_hardware_sony_simdetect" />
   <project path="hardware/sony/thermanager" name="MoKee/android_hardware_sony_thermanager" />
+  <project path="kernel/sony/sdm660" name="MoKee/android_kernel_sony_sdm660" />
+  <project path="vendor/sony/nile-common" name="MoKee/android_vendor_sony_nile-common" />
+  <project path="vendor/sony/pioneer" name="MoKee/android_vendor_sony_pioneer" />
 
   <!-- Wileyfox -->
   <project path="device/wileyfox/crackling" name="MoKee/android_device_wileyfox_crackling" />
