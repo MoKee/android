@@ -14,7 +14,7 @@
   <project path="external/libnfc-nxp" name="MoKee/android_external_libnfc-nxp" />
   <project path="external/libtar" name="MoKee/android_external_libtar" />
   <project path="external/mokee/BuildController" name="MoKee/android_external_mokee_BuildController" />
-  <project path="external/mokee/ServerController" name="MoKee/android_external_mokee_ServerController" revision="refs/heads/master" />
+  <project path="external/mokee/ServerController" name="MoKee/android_external_mokee_ServerController" revision="master" />
   <project path="external/nano" name="MoKee/android_external_nano" />
   <project path="external/ntfs-3g" name="MoKee/android_external_ntfs-3g" />
   <project path="external/one-true-awk" name="MoKee/android_external_one-true-awk" />
@@ -55,7 +55,7 @@
   <project path="vendor/mk-priv" name="MoKee/android_vendor_mk-priv" />
 
   <!-- MoKee resources additions -->
-  <project path="packages/resources/MoKeePay" name="MoKee/android_packages_resources_MoKeePay" revision="refs/heads/master" />
+  <project path="packages/resources/MoKeePay" name="MoKee/android_packages_resources_MoKeePay" revision="master" />
 
   <!-- CodeAurora additions -->
   <project path="device/qcom/sepolicy" name="MoKee/android_device_qcom_sepolicy" />
