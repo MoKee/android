@@ -100,7 +100,9 @@
 
   <!-- Wileyfox -->
   <project path="device/wileyfox/crackling" name="MoKee/android_device_wileyfox_crackling" />
+  <project path="device/wileyfox/kipper" name="MoKee/android_device_wileyfox_kipper" />
   <project path="vendor/wileyfox/crackling" name="MoKee/android_vendor_wileyfox_crackling" />
+  <project path="vendor/wileyfox/kipper" name="MoKee/android_vendor_wileyfox_kipper" />
 
   <!-- XiaoMi -->
   <project path="device/xiaomi/beryllium" name="MoKee/android_device_xiaomi_beryllium" />
