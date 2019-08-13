@@ -126,6 +126,7 @@
   <project path="system/connectivity/wificond" name="MoKee/android_system_connectivity_wificond" groups="pdk" />
   <project path="system/core" name="MoKee/android_system_core" />
   <project path="system/extras" name="MoKee/android_system_extras" />
+  <project path="system/gatekeeper" name="MoKee/android_system_gatekeeper" groups="pdk" />
   <project path="system/keymaster" name="MoKee/android_system_keymaster" />
   <project path="system/libhidl" name="MoKee/android_system_libhidl" />
   <project path="system/netd" name="MoKee/android_system_netd" />
