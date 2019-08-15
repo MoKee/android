@@ -93,17 +93,23 @@
   <project path="device/samsung/hltechn" name="MoKee/android_device_samsung_hltechn" />
   <project path="device/samsung/hltekor" name="MoKee/android_device_samsung_hltekor" />
   <project path="device/samsung/hltetmo" name="MoKee/android_device_samsung_hltetmo" />
+  <project path="device/samsung/jactivelte" name="MoKee/android_device_samsung_jactivelte" />
+  <project path="device/samsung/jf-common" name="MoKee/android_device_samsung_jf-common" />
+  <project path="device/samsung/jfltexx" name="MoKee/android_device_samsung_jfltexx" />
   <project path="device/samsung/msm8974-common" name="MoKee/android_device_samsung_msm8974-common" />
   <project path="device/samsung/qcom-common" name="MoKee/android_device_samsung_qcom-common" />
   <project path="hardware/samsung" name="MoKee/android_hardware_samsung" />
+  <project path="kernel/samsung/jf" name="MoKee/android_kernel_samsung_jf" />
   <project path="kernel/samsung/msm8974" name="MoKee/android_kernel_samsung_msm8974" />
   <project path="vendor/samsung/hlte" name="MoKee/android_vendor_samsung_hlte" />
   <project path="vendor/samsung/hlte-common" name="MoKee/android_vendor_samsung_hlte-common" />
   <project path="vendor/samsung/hltechn" name="MoKee/android_vendor_samsung_hltechn" />
   <project path="vendor/samsung/hltekor" name="MoKee/android_vendor_samsung_hltekor" />
   <project path="vendor/samsung/hltetmo" name="MoKee/android_vendor_samsung_hltetmo" />
+  <project path="vendor/samsung/jactivelte" name="MoKee/android_vendor_samsung_jactivelte" />
+  <project path="vendor/samsung/jf-common" name="MoKee/android_vendor_samsung_jf-common" />
+  <project path="vendor/samsung/jfltexx" name="MoKee/android_vendor_samsung_jfltexx" />
   <project path="vendor/samsung/msm8974-common" name="MoKee/android_vendor_samsung_msm8974-common" />
-
 
   <!-- SONY -->
   <project path="device/sony/nile-common" name="MoKee/android_device_sony_nile-common" />
