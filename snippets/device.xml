@@ -88,6 +88,7 @@
   <project path="vendor/oppo/msm8974-common" name="MoKee/android_vendor_oppo_msm8974-common" />
 
   <!-- Samsung -->
+  <project path="device/samsung/a3xelte" name="MoKee/android_device_samsung_a3xelte" />
   <project path="device/samsung/a5xelte" name="MoKee/android_device_samsung_a5xelte" />
   <project path="device/samsung/a5y17lte" name="MoKee/android_device_samsung_a5y17lte" />
   <project path="device/samsung/a7y17lte" name="MoKee/android_device_samsung_a7y17lte" />
@@ -114,6 +115,7 @@
   <project path="kernel/samsung/msm8974" name="MoKee/android_kernel_samsung_msm8974" />
   <project path="kernel/samsung/universal7580" name="MoKee/android_kernel_samsung_universal7580" />
   <project path="kernel/samsung/universal7880" name="MoKee/android_kernel_samsung_universal7880" />
+  <project path="vendor/samsung/a3xelte" name="MoKee/android_vendor_samsung_a3xelte" />
   <project path="vendor/samsung/a5xelte" name="MoKee/android_vendor_samsung_a5xelte" />
   <project path="vendor/samsung/a5y17lte" name="MoKee/android_vendor_samsung_a5y17lte" />
   <project path="vendor/samsung/a7y17lte" name="MoKee/android_vendor_samsung_a7y17lte" />
