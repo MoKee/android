@@ -88,6 +88,10 @@
   <project path="vendor/oppo/msm8974-common" name="MoKee/android_vendor_oppo_msm8974-common" />
 
   <!-- Samsung -->
+  <project path="device/samsung/a5xelte" name="MoKee/android_device_samsung_a5xelte" />
+  <project path="device/samsung/a5y17lte" name="MoKee/android_device_samsung_a5y17lte" />
+  <project path="device/samsung/a7y17lte" name="MoKee/android_device_samsung_a7y17lte" />
+  <project path="device/samsung/apq8084-common" name="MoKee/android_device_samsung_apq8084-common" />
   <project path="device/samsung/hlte" name="MoKee/android_device_samsung_hlte" />
   <project path="device/samsung/hlte-common" name="MoKee/android_device_samsung_hlte-common" />
   <project path="device/samsung/hltechn" name="MoKee/android_device_samsung_hltechn" />
@@ -96,11 +100,24 @@
   <project path="device/samsung/jactivelte" name="MoKee/android_device_samsung_jactivelte" />
   <project path="device/samsung/jf-common" name="MoKee/android_device_samsung_jf-common" />
   <project path="device/samsung/jfltexx" name="MoKee/android_device_samsung_jfltexx" />
+  <project path="device/samsung/jfvelte" name="MoKee/android_device_samsung_jfvelte" />
+  <project path="device/samsung/kccat6" name="MoKee/android_device_samsung_kccat6" />
+  <project path="device/samsung/lentislte" name="MoKee/android_device_samsung_lentislte" />
   <project path="device/samsung/msm8974-common" name="MoKee/android_device_samsung_msm8974-common" />
   <project path="device/samsung/qcom-common" name="MoKee/android_device_samsung_qcom-common" />
+  <project path="device/samsung/s5neolte" name="MoKee/android_device_samsung_s5neolte" />
+  <project path="device/samsung/universal7580-common" name="MoKee/android_device_samsung_universal7580-common" />
+  <project path="device/samsung/universal7880-common" name="MoKee/android_device_samsung_universal7880-common" />
   <project path="hardware/samsung" name="MoKee/android_hardware_samsung" />
+  <project path="kernel/samsung/apq8084" name="MoKee/android_kernel_samsung_apq8084" />
   <project path="kernel/samsung/jf" name="MoKee/android_kernel_samsung_jf" />
   <project path="kernel/samsung/msm8974" name="MoKee/android_kernel_samsung_msm8974" />
+  <project path="kernel/samsung/universal7580" name="MoKee/android_kernel_samsung_universal7580" />
+  <project path="kernel/samsung/universal7880" name="MoKee/android_kernel_samsung_universal7880" />
+  <project path="vendor/samsung/a5xelte" name="MoKee/android_vendor_samsung_a5xelte" />
+  <project path="vendor/samsung/a5y17lte" name="MoKee/android_vendor_samsung_a5y17lte" />
+  <project path="vendor/samsung/a7y17lte" name="MoKee/android_vendor_samsung_a7y17lte" />
+  <project path="vendor/samsung/apq8084-common" name="MoKee/android_vendor_samsung_apq8084-common" />
   <project path="vendor/samsung/hlte" name="MoKee/android_vendor_samsung_hlte" />
   <project path="vendor/samsung/hlte-common" name="MoKee/android_vendor_samsung_hlte-common" />
   <project path="vendor/samsung/hltechn" name="MoKee/android_vendor_samsung_hltechn" />
@@ -109,7 +126,13 @@
   <project path="vendor/samsung/jactivelte" name="MoKee/android_vendor_samsung_jactivelte" />
   <project path="vendor/samsung/jf-common" name="MoKee/android_vendor_samsung_jf-common" />
   <project path="vendor/samsung/jfltexx" name="MoKee/android_vendor_samsung_jfltexx" />
+  <project path="vendor/samsung/jfvelte" name="MoKee/android_vendor_samsung_jfvelte" />
+  <project path="vendor/samsung/kccat6" name="MoKee/android_vendor_samsung_kccat6" />
+  <project path="vendor/samsung/lentislte" name="MoKee/android_vendor_samsung_lentislte" />
   <project path="vendor/samsung/msm8974-common" name="MoKee/android_vendor_samsung_msm8974-common" />
+  <project path="vendor/samsung/s5neolte" name="MoKee/android_vendor_samsung_s5neolte" />
+  <project path="vendor/samsung/universal7580-common" name="MoKee/android_vendor_samsung_universal7580-common" />
+  <project path="vendor/samsung/universal7880-common" name="MoKee/android_vendor_samsung_universal7880-common" />
 
   <!-- SONY -->
   <project path="device/sony/nile-common" name="MoKee/android_device_sony_nile-common" />
