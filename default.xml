@@ -22,12 +22,15 @@
   <project path="device/google/atv" name="MoKee/android_device_google_atv" groups="device,broadcom_pdk,generic_fs,pdk" />
   <project path="external/drm_hwcomposer" name="MoKee/android_external_drm_hwcomposer" groups="drm_hwcomposer,pdk-fs" />
   <project path="external/chromium-webview" name="MoKee/android_external_chromium-webview" groups="pdk" revision="master" />
+  <project path="external/curl" name="MoKee/android_external_curl" groups="pdk" />
   <project path="external/e2fsprogs" name="MoKee/android_external_e2fsprogs" groups="pdk" />
   <project path="external/elfutils" name="MoKee/android_external_elfutils" groups="pdk" />
   <project path="external/f2fs-tools" name="MoKee/android_external_f2fs-tools" groups="pdk" />
   <project path="external/fsck_msdos" name="MoKee/android_external_fsck_msdos" groups="pdk" />
   <project path="external/gptfdisk" name="MoKee/android_external_gptfdisk" groups="pdk" />
   <project path="external/icu" name="MoKee/android_external_icu" groups="pdk" />
+  <project path="external/libbrillo" name="MoKee/android_external_libbrillo" groups="pdk" />
+  <project path="external/libchrome" name="MoKee/android_external_libchrome" groups="pdk" />
   <project path="external/libpng" name="MoKee/android_external_libpng" groups="pdk" />
   <project path="external/libtextclassifier" name="MoKee/android_external_libtextclassifier" groups="pdk" />
   <project path="external/mksh" name="MoKee/android_external_mksh" groups="pdk" />
@@ -35,6 +38,7 @@
   <project path="external/one-true-awk" name="MoKee/android_external_one-true-awk" groups="pdk" />
   <project path="external/perfetto" name="MoKee/android_external_perfetto" groups="pdk" />
   <project path="external/proguard" name="MoKee/android_external_proguard" groups="pdk" />
+  <project path="external/puffin" name="MoKee/android_external_puffin" groups="pdk" />
   <project path="external/selinux" name="MoKee/android_external_selinux" groups="pdk" />
   <project path="external/skia" name="MoKee/android_external_skia" groups="pdk,qcom_msm8x26" />
   <project path="external/tinycompress" name="MoKee/android_external_tinycompress" groups="pdk" />
