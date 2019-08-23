@@ -180,6 +180,11 @@
 
   <!-- Zuk -->
   <project path="device/zuk/ham" name ="MoKee/android_device_zuk_ham" />
+  <project path="device/zuk/msm8996-common" name ="MoKee/android_device_zuk_msm8996-common" />
+  <project path="device/zuk/z2_plus" name ="MoKee/android_device_zuk_z2_plus" />
+  <project path="kernel/zuk/msm8996" name="MoKee/android_kernel_zuk_msm8996" />
   <project path="vendor/zuk/ham" name ="MoKee/android_vendor_zuk_ham" />
+  <project path="vendor/zuk/msm8996-common" name ="MoKee/android_vendor_zuk_msm8996-common" />
+  <project path="vendor/zuk/z2_plus" name ="MoKee/android_vendor_zuk_z2_plus" />
 
 </manifest>
