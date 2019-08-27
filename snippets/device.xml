@@ -51,6 +51,8 @@
   <project path="device/motorola/payton" name ="MoKee/android_device_motorola_payton" />
   <project path="device/motorola/sdm660-common" name ="MoKee/android_device_motorola_sdm660-common" />
   <project path="device/moto/shamu" name ="MoKee/android_device_moto_shamu" />
+  <project path="device/motorola/victara" name ="MoKee/android_device_motorola_victara" />
+  <project path="kernel/motorola/msm8974" name ="MoKee/android_kernel_motorola_msm8974" />
   <project path="kernel/motorola/msm8996" name ="MoKee/android_kernel_motorola_msm8996" />
   <project path="kernel/motorola/msm8998" name ="MoKee/android_kernel_motorola_msm8998" />
   <project path="kernel/motorola/shamu" name ="MoKee/android_kernel_motorola_shamu" />
@@ -59,6 +61,7 @@
   <project path="vendor/motorola/payton" name ="MoKee/android_vendor_motorola_payton" />
   <project path="vendor/motorola/sdm660-common" name ="MoKee/android_vendor_motorola_sdm660-common" />
   <project path="vendor/motorola/shamu" name ="MoKee/android_vendor_motorola_shamu" />
+  <project path="vendor/motorola/victara" name ="MoKee/android_vendor_motorola_victara" />
 
   <!-- Nextbit -->
   <project path="device/nextbit/ether" name ="MoKee/android_device_nextbit_ether" />
