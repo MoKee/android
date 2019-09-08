@@ -1,121 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <project path="manifest" name="MoKee/android" revision="mkp-dev" />
+  <project path="manifest" name="MoKee/android" revision="mkq-dev" />
 
   <!-- MoKee Open Source additions -->
   <project path="android" name="MoKee/android" />
-  <project path="device/mokee/sepolicy" name="MoKee/android_device_mokee_sepolicy" />
-  <project path="external/bash" name="MoKee/android_external_bash" />
-  <project path="external/bson" name="MoKee/android_external_bson" />
-  <project path="external/exfat" name="MoKee/android_external_exfat" />
-  <project path="external/htop" name="MoKee/android_external_htop" />
-  <project path="external/libncurses" name="MoKee/android_external_libncurses" />
-  <project path="external/libnfc-nxp" name="MoKee/android_external_libnfc-nxp" />
-  <project path="external/libtar" name="MoKee/android_external_libtar" />
   <project path="external/mokee/BuildController" name="MoKee/android_external_mokee_BuildController" />
   <project path="external/mokee/ServerController" name="MoKee/android_external_mokee_ServerController" revision="master" />
-  <project path="external/nano" name="MoKee/android_external_nano" />
-  <project path="external/ntfs-3g" name="MoKee/android_external_ntfs-3g" />
-  <project path="external/openssh" name="MoKee/android_external_openssh" />
-  <project path="external/p7zip" name="MoKee/android_external_p7zip" />
-  <project path="external/pigz" name="MoKee/android_external_pigz" />
-  <project path="external/rsync" name="MoKee/android_external_rsync" />
-  <project path="external/unrar" name="MoKee/android_external_unrar" />
-  <project path="external/vim" name="MoKee/android_external_vim" />
-  <project path="external/zip" name="MoKee/android_external_zip" />
   <project path="frameworks/support/lottie" name="MoKee/android_frameworks_support_lottie" />
-  <project path="hardware/broadcom/nfc" name="MoKee/android_hardware_broadcom_nfc" />
-  <project path="hardware/mokee/interfaces" name="MoKee/android_hardware_mokee_interfaces" />
-  <project path="hardware/mokee/livedisplay" name="MoKee/android_hardware_mokee_livedisplay" />
-  <project path="hardware/mokee/mkhw" name="MoKee/android_hardware_mokee_mkhw" />
-  <project path="hardware/mokee/telephony" name="MoKee/android_hardware_mokee_telephony" />
-  <project path="mokee-sdk" name="MoKee/android_mokee-sdk" />
-  <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />
-  <project path="packages/apps/Backgrounds" name="MoKee/android_packages_apps_Backgrounds" />
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" revision="master" />
-  <project path="packages/apps/Exchange" name="MoKee/android_packages_apps_Exchange" />
-  <project path="packages/apps/FlipFlap" name="MoKee/android_packages_apps_FlipFlap" />
-  <project path="packages/apps/FMRadio" name="MoKee/android_packages_apps_FMRadio" />
   <project path="packages/apps/Gallery2" name="MoKee/android_packages_apps_Gallery2" revision="master" />
-  <project path="packages/apps/Lawnchair" name="MoKee/android_packages_apps_Lawnchair" />
-  <project path="packages/apps/MKCenter2" name="MoKee/android_packages_apps_MKCenter2" />
-  <project path="packages/apps/MKParts" name="MoKee/android_packages_apps_MKParts" />
+  <project path="packages/apps/Lawnchair" name="MoKee/android_packages_apps_Lawnchair" revision="master" />
   <project path="packages/apps/Phonograph" name="MoKee/android_packages_apps_Phonograph" revision="master" />
-  <project path="packages/apps/Profiles" name="MoKee/android_packages_apps_Profiles" />
-  <project path="packages/apps/Recorder" name="MoKee/android_packages_apps_Recorder" />
-  <project path="packages/apps/SetupWizard" name="MoKee/android_packages_apps_SetupWizard" />
   <project path="packages/apps/SimpleCommons" name="MoKee/android_packages_apps_SimpleCommons" revision="master" />
-  <project path="packages/apps/Snap" name="MoKee/android_packages_apps_Snap" />
-  <project path="packages/overlays/MoKee" name="MoKee/android_packages_overlays_MoKee" />
-  <project path="packages/resources/devicesettings" name="MoKee/android_packages_resources_devicesettings" />
-  <project path="system/extras/su" name="MoKee/android_system_extras_su" />
-  <project path="system/qcom" name="MoKee/android_system_qcom" />
-  <project path="vendor/mk" name="MoKee/android_vendor_mk" />
-  <project path="vendor/mk-priv" name="MoKee/android_vendor_mk-priv" />
 
   <!-- MoKee resources additions -->
   <project path="packages/resources/Aegis" name="MoKee/android_packages_resources_Aegis" />
   <project path="packages/resources/MoKeePay" name="MoKee/android_packages_resources_MoKeePay" revision="master" />
 
-  <!-- CodeAurora additions -->
-  <project path="device/qcom/sepolicy" name="MoKee/android_device_qcom_sepolicy" />
-  <project path="device/qcom/sepolicy-legacy" name="MoKee/android_device_qcom_sepolicy-legacy" />
-  <project path="external/ant-wireless/ant_native" name="MoKee/android_external_ant-wireless_ant_native" />
-  <project path="external/ant-wireless/ant_service" name="MoKee/android_external_ant-wireless_ant_service" />
-  <project path="external/ant-wireless/antradio-library" name="MoKee/android_external_ant-wireless_antradio-library" />
-  <project path="external/connectivity" name="MoKee/android_external_connectivity" />
-  <project path="external/json-c" name="MoKee/android_external_json-c" />
-  <project path="hardware/qcom/fm" name="MoKee/android_hardware_qcom_fm" groups="qcom,qcom_fm" />
-  <project path="hardware/qcom/audio-caf/apq8084" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="mkp-caf-8084" />
-  <project path="hardware/qcom/audio-caf/msm8916" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="mkp-caf-8916" />
-  <project path="hardware/qcom/audio-caf/msm8952" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="mkp-caf-8952" />
-  <project path="hardware/qcom/audio-caf/msm8960" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="mkp-caf-8960" />
-  <project path="hardware/qcom/audio-caf/msm8974" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="mkp-caf-8974" />
-  <project path="hardware/qcom/audio-caf/msm8994" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="mkp-caf-8994" />
-  <project path="hardware/qcom/audio-caf/msm8996" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="mkp-caf-8996" />
-  <project path="hardware/qcom/audio-caf/msm8998" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk" revision="mkp-caf-8998" />
-  <project path="hardware/qcom/audio-caf/sdm845" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk-qcom" revision="mkp-caf-845" />
-  <project path="hardware/qcom/audio-caf/sm8150" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk-qcom" revision="mkp-caf-8150" />
-  <project path="hardware/qcom/bt-caf" name="MoKee/android_hardware_qcom_bt" groups="qcom,pdk" revision="mkp-caf" />
-  <project path="hardware/qcom/display-caf/apq8084" name="MoKee/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="mkp-caf-8084" />
-  <project path="hardware/qcom/display-caf/msm8916" name="MoKee/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="mkp-caf-8916" />
-  <project path="hardware/qcom/display-caf/msm8952" name="MoKee/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="mkp-caf-8952" />
-  <project path="hardware/qcom/display-caf/msm8960" name="MoKee/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="mkp-caf-8960" />
-  <project path="hardware/qcom/display-caf/msm8974" name="MoKee/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="mkp-caf-8974" />
-  <project path="hardware/qcom/display-caf/msm8994" name="MoKee/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="mkp-caf-8994" />
-  <project path="hardware/qcom/display-caf/msm8996" name="MoKee/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="mkp-caf-8996" />
-  <project path="hardware/qcom/display-caf/msm8998" name="MoKee/android_hardware_qcom_display" groups="pdk,qcom,qcom_display" revision="mkp-caf-8998" />
-  <project path="hardware/qcom/display-caf/sdm845" name="MoKee/android_hardware_qcom_display" groups="pdk-qcom,qcom,qcom_display" revision="mkp-caf-845" />
-  <project path="hardware/qcom/display-caf/sm8150" name="MoKee/android_hardware_qcom_display" groups="pdk-qcom,qcom,qcom_display" revision="mkp-caf-8150" />
-  <project path="hardware/qcom/media-caf/apq8084" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk" revision="mkp-caf-8084" />
-  <project path="hardware/qcom/media-caf/msm8916" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk" revision="mkp-caf-8916" />
-  <project path="hardware/qcom/media-caf/msm8952" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk" revision="mkp-caf-8952" />
-  <project path="hardware/qcom/media-caf/msm8960" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk" revision="mkp-caf-8960" />
-  <project path="hardware/qcom/media-caf/msm8974" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk" revision="mkp-caf-8974" />
-  <project path="hardware/qcom/media-caf/msm8994" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk" revision="mkp-caf-8994" />
-  <project path="hardware/qcom/media-caf/msm8996" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk" revision="mkp-caf-8996" />
-  <project path="hardware/qcom/media-caf/msm8998" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk" revision="mkp-caf-8998" />
-  <project path="hardware/qcom/media-caf/sdm845" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk-qcom" revision="mkp-caf-845" />
-  <project path="hardware/qcom/media-caf/sm8150" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk-qcom" revision="mkp-caf-8150" />
-  <project path="hardware/qcom/power" name="MoKee/android_hardware_qcom_power" groups="qcom,pdk" />
-  <project path="hardware/qcom/thermal" name="MoKee/android_hardware_qcom_thermal" />
-  <project path="hardware/qcom/vr" name="MoKee/android_hardware_qcom_vr" />
-  <project path="hardware/qcom/wlan-caf" name="MoKee/android_hardware_qcom_wlan" groups="qcom_wlan,pdk" revision="mkp-caf" />
-  <project path="hardware/ril-caf" name="MoKee/android_hardware_ril" groups="pdk" revision="mkp-caf" />
-  <project path="system/tools/dtbtool" name="MoKee/android_system_tools_dtbtool" />
-  <project path="vendor/codeaurora/telephony" name="MoKee/android_vendor_codeaurora_telephony" />
-  <project path="vendor/nxp/opensource/interfaces/nfc" name="MoKee/android_vendor_nxp_interfaces_opensource_nfc" />
-  <project path="vendor/nxp/opensource/commonsys/external/libnfc-nci" name="MoKee/android_vendor_nxp_opensource_external_libnfc-nci" />
-  <project path="vendor/nxp/opensource/commonsys/frameworks" name="MoKee/android_vendor_nxp_opensource_frameworks" />
-  <project path="vendor/nxp/opensource/commonsys/packages/apps/Nfc" name="MoKee/android_vendor_nxp_opensource_packages_apps_Nfc" />
-  <project path="vendor/nxp/opensource/halimpl" name="MoKee/android_vendor_nxp_opensource_halimpl" />
-  <project path="vendor/nxp/opensource/hidlimpl" name="MoKee/android_vendor_nxp_opensource_hidlimpl" />
-  <project path="vendor/qcom/opensource/audio" name="MoKee/android_vendor_qcom_opensource_audio" />
-  <project path="vendor/qcom/opensource/cryptfs_hw" name="MoKee/android_vendor_qcom_opensource_cryptfs_hw" />
-  <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="MoKee/android_vendor_qcom_opensource_data-ipa-cfg-mgr" />
-  <project path="vendor/qcom/opensource/dataservices" name="MoKee/android_vendor_qcom_opensource_dataservices" />
-  <project path="vendor/qcom/opensource/interfaces" name="MoKee/android_vendor_qcom_opensource_interfaces" />
-  <project path="vendor/qcom/opensource/thermal-engine" name="MoKee/android_vendor_qcom_opensource_thermal-engine" />
+  <!-- MoKee tools -->
+  <project path="mokee/contributors-cloud-generator" name="MoKee/contributors-cloud-generator" groups="tools" revision="master" />
+  <project path="mokee/crowdin" name="MoKee/mk_crowdin" groups="tools" revision="master" />
+  <project path="mokee/git-repo" name="MoKee/git-repo" groups="tools" revision="stable" />
 
 </manifest>
