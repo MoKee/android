@@ -81,18 +81,18 @@
   <!--<project path="hardware/qcom-caf/msm8960/audio" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk-qcom" revision="mkq-caf-msm8960" />-->
   <!--<project path="hardware/qcom-caf/msm8960/display" name="MoKee/android_hardware_qcom_display" groups="pdk-qcom,qcom,qcom_display" revision="mkq-caf-msm8960" />-->
   <!--<project path="hardware/qcom-caf/msm8960/media" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk-qcom" revision="mkq-caf-msm8960" />-->
-  <!--<project path="hardware/qcom-caf/msm8974/audio" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk-qcom" revision="mkq-caf-msm8974" />-->
-  <!--<project path="hardware/qcom-caf/msm8974/display" name="MoKee/android_hardware_qcom_display" groups="pdk-qcom,qcom,qcom_display" revision="mkq-caf-msm8974" />-->
-  <!--<project path="hardware/qcom-caf/msm8974/media" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk-qcom" revision="mkq-caf-msm8974" />-->
-  <!--<project path="hardware/qcom-caf/msm8994/audio" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk-qcom" revision="mkq-caf-msm8994" />-->
-  <!--<project path="hardware/qcom-caf/msm8994/display" name="MoKee/android_hardware_qcom_display" groups="pdk-qcom,qcom,qcom_display" revision="mkq-caf-msm8994" />-->
-  <!--<project path="hardware/qcom-caf/msm8994/media" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk-qcom" revision="mkq-caf-msm8994" />-->
-  <!--<project path="hardware/qcom-caf/msm8996/audio" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk-qcom" revision="mkq-caf-msm8996" />-->
-  <!--<project path="hardware/qcom-caf/msm8996/display" name="MoKee/android_hardware_qcom_display" groups="pdk-qcom,qcom,qcom_display" revision="mkq-caf-msm8996" />-->
-  <!--<project path="hardware/qcom-caf/msm8996/media" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk-qcom" revision="mkq-caf-msm8996" />-->
-  <!--<project path="hardware/qcom-caf/msm8998/audio" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk-qcom" revision="mkq-caf-msm8998" />-->
-  <!--<project path="hardware/qcom-caf/msm8998/display" name="MoKee/android_hardware_qcom_display" groups="pdk-qcom,qcom,qcom_display" revision="mkq-caf-msm8998" />-->
-  <!--<project path="hardware/qcom-caf/msm8998/media" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk-qcom" revision="mkq-caf-msm8998" />-->
+  <project path="hardware/qcom-caf/msm8974/audio" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk-qcom" revision="mkq-caf-msm8974" />
+  <project path="hardware/qcom-caf/msm8974/display" name="MoKee/android_hardware_qcom_display" groups="pdk-qcom,qcom,qcom_display" revision="mkq-caf-msm8974" />
+  <project path="hardware/qcom-caf/msm8974/media" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk-qcom" revision="mkq-caf-msm8974" />
+  <project path="hardware/qcom-caf/msm8994/audio" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk-qcom" revision="mkq-caf-msm8994" />
+  <project path="hardware/qcom-caf/msm8994/display" name="MoKee/android_hardware_qcom_display" groups="pdk-qcom,qcom,qcom_display" revision="mkq-caf-msm8994" />
+  <project path="hardware/qcom-caf/msm8994/media" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk-qcom" revision="mkq-caf-msm8994" />
+  <project path="hardware/qcom-caf/msm8996/audio" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk-qcom" revision="mkq-caf-msm8996" />
+  <project path="hardware/qcom-caf/msm8996/display" name="MoKee/android_hardware_qcom_display" groups="pdk-qcom,qcom,qcom_display" revision="mkq-caf-msm8996" />
+  <project path="hardware/qcom-caf/msm8996/media" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk-qcom" revision="mkq-caf-msm8996" />
+  <project path="hardware/qcom-caf/msm8998/audio" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk-qcom" revision="mkq-caf-msm8998" />
+  <project path="hardware/qcom-caf/msm8998/display" name="MoKee/android_hardware_qcom_display" groups="pdk-qcom,qcom,qcom_display" revision="mkq-caf-msm8998" />
+  <project path="hardware/qcom-caf/msm8998/media" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk-qcom" revision="mkq-caf-msm8998" />
   <!--<project path="hardware/qcom-caf/power" name="MoKee/android_hardware_qcom_power" groups="qcom,pdk-qcom" />-->
   <!--<project path="hardware/qcom-caf/sdm845/audio" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk-qcom" revision="mkq-caf-sdm845" />-->
   <!--<project path="hardware/qcom-caf/sdm845/display" name="MoKee/android_hardware_qcom_display" groups="pdk-qcom,qcom,qcom_display" revision="mkq-caf-sdm845" />-->
