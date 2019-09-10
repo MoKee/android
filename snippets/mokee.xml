@@ -49,6 +49,8 @@
   <!--<project path="packages/overlays/MoKee" name="MoKee/android_packages_overlays_MoKee" />-->
   <!--<project path="packages/providers/WeatherProvider" name="MoKee/android_packages_providers_WeatherProvider" />-->
   <!--<project path="prebuilts/mokee-sdk" name="MoKee/android_prebuilts_mokee-sdk" clone-depth="1" />-->
+  <project path="prebuilts/openssl" name="MoKee/android_prebuilts_openssl" clone-depth="1" />
+  <project path="prebuilts/tools-lineage" name="MoKee/android_prebuilts_tools-lineage" clone-depth="1" />
   <!--<project path="system/extras/su" name="MoKee/android_system_extras_su" />-->
   <project path="vendor/mokee" name="MoKee/android_vendor_mk" >
     <copyfile src="noop/Android.mk" dest="kernel/Android.mk" />
