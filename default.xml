@@ -31,6 +31,8 @@
   <project path="external/icu" name="MoKee/android_external_icu" groups="pdk" />
   <project path="external/libbrillo" name="MoKee/android_external_libbrillo" groups="pdk" />
   <project path="external/libchrome" name="MoKee/android_external_libchrome" groups="pdk" />
+  <project path="external/libcups" name="MoKee/android_external_libcups" groups="pdk-cw-fs,pdk-fs" />
+  <project path="external/libhevc" name="MoKee/android_external_libhevc" groups="pdk" />
   <project path="external/libpng" name="MoKee/android_external_libpng" groups="pdk" />
   <project path="external/libtextclassifier" name="MoKee/android_external_libtextclassifier" groups="pdk" />
   <project path="external/mksh" name="MoKee/android_external_mksh" groups="pdk" />
@@ -138,6 +140,7 @@
   <project path="system/extras" name="MoKee/android_system_extras" groups="pdk" />
   <project path="system/keymaster" name="MoKee/android_system_keymaster" groups="pdk" />
   <project path="system/netd" name="MoKee/android_system_netd" groups="pdk" />
+  <project path="system/nfc" name="MoKee/android_system_nfc" groups="pdk" />
   <project path="system/security" name="MoKee/android_system_security" groups="pdk" />
   <project path="system/sepolicy" name="MoKee/android_system_sepolicy" groups="pdk" />
   <project path="system/timezone" name="MoKee/android_system_timezone" groups="pdk" />
