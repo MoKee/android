@@ -27,6 +27,7 @@
   <project path="external/gptfdisk" name="MoKee/android_external_gptfdisk" />
   <project path="external/icu" name="MoKee/android_external_icu" groups="pdk" />
   <project path="external/libavc" name="MoKee/android_external_libavc" groups="pdk" />
+  <project path="external/libcups" name="MoKee/android_external_libcups" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/libdrm" name="MoKee/android_external_libdrm" />
   <project path="external/libhevc" name="MoKee/android_external_libhevc" groups="pdk" />
   <project path="external/libmpeg2" name="MoKee/android_external_libmpeg2" groups="pdk" />
