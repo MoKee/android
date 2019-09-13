@@ -8,9 +8,13 @@
   <project path="external/mokee/BuildController" name="MoKee/android_external_mokee_BuildController" />
   <project path="external/mokee/ServerController" name="MoKee/android_external_mokee_ServerController" revision="master" />
   <project path="frameworks/support/lottie" name="MoKee/android_frameworks_support_lottie" />
+  <project path="hardware/mokee/interfaces" name="MoKee/android_hardware_mokee_interfaces" />
+  <project path="hardware/mokee/livedisplay" name="MoKee/android_hardware_mokee_livedisplay" />
+  <project path="mokee-sdk" name="MoKee/android_mokee-sdk" />
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" revision="master" />
   <project path="packages/apps/Gallery2" name="MoKee/android_packages_apps_Gallery2" revision="master" />
   <project path="packages/apps/Lawnchair" name="MoKee/android_packages_apps_Lawnchair" revision="master" />
+  <project path="packages/apps/MKParts" name="MoKee/android_packages_apps_MKParts" />
   <project path="packages/apps/Phonograph" name="MoKee/android_packages_apps_Phonograph" revision="master" />
   <project path="packages/apps/SimpleCommons" name="MoKee/android_packages_apps_SimpleCommons" revision="master" />
   <project path="prebuilts/openssl" name="MoKee/android_prebuilts_openssl" />
@@ -21,6 +25,9 @@
   <!-- MoKee resources additions -->
   <project path="packages/resources/Aegis" name="MoKee/android_packages_resources_Aegis" />
   <project path="packages/resources/MoKeePay" name="MoKee/android_packages_resources_MoKeePay" revision="master" />
+
+  <!-- CodeAurora additions -->
+  <project path="vendor/codeaurora/telephony" name="MoKee/android_vendor_codeaurora_telephony" />
 
   <!-- MoKee tools -->
   <project path="mokee/contributors-cloud-generator" name="MoKee/contributors-cloud-generator" groups="tools" revision="master" />
