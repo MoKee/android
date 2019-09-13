@@ -22,13 +22,13 @@
   <!--<project path="external/zip" name="MoKee/android_external_zip" />-->
   <project path="frameworks/support/lottie" name="MoKee/android_frameworks_support_lottie" />
   <!--<project path="hardware/broadcom/nfc" name="MoKee/android_hardware_broadcom_nfc" />-->
-  <!--<project path="hardware/mokee/interfaces" name="MoKee/android_hardware_mokee_interfaces" />-->
-  <!--<project path="hardware/mokee/livedisplay" name="MoKee/android_hardware_mokee_livedisplay" />-->
+  <project path="hardware/mokee/interfaces" name="MoKee/android_hardware_mokee_interfaces" />
+  <project path="hardware/mokee/livedisplay" name="MoKee/android_hardware_mokee_livedisplay" />
   <!--<project path="hardware/mokee/telephony" name="MoKee/android_hardware_mokee_telephony" />-->
   <!--<project path="hardware/ti/omap4" name="MoKee/android_hardware_ti_omap4" />-->
   <!--<project path="hardware/ti/wlan" name="MoKee/android_hardware_ti_wlan" />-->
   <!--<project path="hardware/ti/wpan" name="MoKee/android_hardware_ti_wpan" />-->
-  <!--<project path="mokee-sdk" name="MoKee/android_mokee-sdk" />-->
+  <project path="mokee-sdk" name="MoKee/android_mokee-sdk" />
   <!--<project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />-->
   <!--<project path="packages/apps/Backgrounds" name="MoKee/android_packages_apps_Backgrounds" />-->
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" groups="pdk-fs" revision="master" />
@@ -39,7 +39,7 @@
   <project path="packages/apps/Lawnchair" name="MoKee/android_packages_apps_Lawnchair" revision="master" />
   <!--<project path="packages/apps/LockClock" name="MoKee/android_packages_apps_LockClock" />-->
   <!--<project path="packages/apps/MKCenter2" name="MoKee/android_packages_apps_MKCenter2" />-->
-  <!--<project path="packages/apps/MKParts" name="MoKee/android_packages_apps_MKParts" />-->
+  <project path="packages/apps/MKParts" name="MoKee/android_packages_apps_MKParts" />
   <project path="packages/apps/Phonograph" name="MoKee/android_packages_apps_Phonograph" revision="master" />
   <!--<project path="packages/apps/Profiles" name="MoKee/android_packages_apps_Profiles" />-->
   <!--<project path="packages/apps/Recorder" name="MoKee/android_packages_apps_Recorder" />-->
@@ -108,7 +108,7 @@
   <!--<project path="hardware/qcom/wlan-caf" name="MoKee/android_hardware_qcom_wlan" groups="qcom_wlan,pdk-qcom" revision="mkq-caf" />-->
   <!--<project path="hardware/ril-caf" name="MoKee/android_hardware_ril" groups="qcom,pdk-qcom" revision="mkq-caf" />-->
   <!--<project path="system/tools/dtbtool" name="MoKee/android_system_tools_dtbtool" />-->
-  <!--<project path="vendor/codeaurora/telephony" name="MoKee/android_vendor_codeaurora_telephony" />-->
+  <project path="vendor/codeaurora/telephony" name="MoKee/android_vendor_codeaurora_telephony" />
   <!--<project path="vendor/nxp/opensource/interfaces/nfc" name="MoKee/android_vendor_nxp_interfaces_opensource_nfc" />-->
   <!--<project path="vendor/nxp/opensource/commonsys/external/libnfc-nci" name="MoKee/android_vendor_nxp_opensource_external_libnfc-nci" />-->
   <!--<project path="vendor/nxp/opensource/commonsys/frameworks" name="MoKee/android_vendor_nxp_opensource_frameworks" />-->
