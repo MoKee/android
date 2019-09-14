@@ -118,4 +118,8 @@
   <project path="vendor/qcom/opensource/interfaces" name="MoKee/android_vendor_qcom_opensource_interfaces" />
   <project path="vendor/qcom/opensource/thermal-engine" name="MoKee/android_vendor_qcom_opensource_thermal-engine" />
 
+  <!-- MoKee tools -->
+  <project path="mokee/contributors-cloud-generator" name="MoKee/contributors-cloud-generator" groups="tools" revision="master" />
+  <project path="mokee/crowdin" name="MoKee/mk_crowdin" groups="tools" revision="master" />
+  <project path="mokee/git-repo" name="MoKee/git-repo" groups="tools" revision="stable" />
 </manifest>
