@@ -25,9 +25,6 @@
   <project path="hardware/mokee/interfaces" name="MoKee/android_hardware_mokee_interfaces" />
   <project path="hardware/mokee/livedisplay" name="MoKee/android_hardware_mokee_livedisplay" />
   <!--<project path="hardware/mokee/telephony" name="MoKee/android_hardware_mokee_telephony" />-->
-  <!--<project path="hardware/ti/omap4" name="MoKee/android_hardware_ti_omap4" />-->
-  <!--<project path="hardware/ti/wlan" name="MoKee/android_hardware_ti_wlan" />-->
-  <!--<project path="hardware/ti/wpan" name="MoKee/android_hardware_ti_wpan" />-->
   <project path="mokee-sdk" name="MoKee/android_mokee-sdk" />
   <!--<project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />-->
   <!--<project path="packages/apps/Backgrounds" name="MoKee/android_packages_apps_Backgrounds" />-->
