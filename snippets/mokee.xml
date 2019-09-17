@@ -32,7 +32,7 @@
   <!--<project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />-->
   <!--<project path="packages/apps/Backgrounds" name="MoKee/android_packages_apps_Backgrounds" />-->
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" groups="pdk-fs" revision="master" />
-  <!--<project path="packages/apps/ExactCalculator" name="MoKee/android_packages_apps_ExactCalculator" />-->
+  <project path="packages/apps/ExactCalculator" name="MoKee/android_packages_apps_ExactCalculator" />-
   <!--<project path="packages/apps/Exchange" name="MoKee/android_packages_apps_Exchange" />-->
   <!--<project path="packages/apps/FMRadio" name="MoKee/android_packages_apps_FMRadio" />-->
   <project path="packages/apps/Gallery2" name="MoKee/android_packages_apps_Gallery2" revision="master" />
