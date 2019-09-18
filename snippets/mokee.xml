@@ -103,7 +103,6 @@
   <!--<project path="hardware/qcom/thermal" name="MoKee/android_hardware_qcom_thermal" groups="qcom,pdk-qcom" />-->
   <!--<project path="hardware/qcom/vr" name="MoKee/android_hardware_qcom_vr" groups="qcom,pdk-qcom" />-->
   <!--<project path="hardware/qcom/wlan-caf" name="MoKee/android_hardware_qcom_wlan" groups="qcom_wlan,pdk-qcom" revision="mkq-caf" />-->
-  <!--<project path="hardware/ril-caf" name="MoKee/android_hardware_ril" groups="qcom,pdk-qcom" revision="mkq-caf" />-->
   <project path="system/tools/dtbtool" name="MoKee/android_system_tools_dtbtool" />
   <project path="vendor/codeaurora/telephony" name="MoKee/android_vendor_codeaurora_telephony" />
   <!--<project path="vendor/nxp/opensource/interfaces/nfc" name="MoKee/android_vendor_nxp_interfaces_opensource_nfc" />-->
