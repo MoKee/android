@@ -12,6 +12,7 @@
   <project path="hardware/mokee/livedisplay" name="MoKee/android_hardware_mokee_livedisplay" />
   <project path="mokee-sdk" name="MoKee/android_mokee-sdk" />
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" revision="master" />
+  <project path="packages/apps/ExactCalculator" name="MoKee/android_packages_apps_ExactCalculator" />-
   <project path="packages/apps/Gallery2" name="MoKee/android_packages_apps_Gallery2" revision="master" />
   <project path="packages/apps/Lawnchair" name="MoKee/android_packages_apps_Lawnchair" revision="master" />
   <project path="packages/apps/MKCenter2" name="MoKee/android_packages_apps_MKCenter2" />
