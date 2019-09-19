@@ -29,6 +29,7 @@
   <project path="packages/resources/MoKeePay" name="MoKee/android_packages_resources_MoKeePay" revision="master" />
 
   <!-- CodeAurora additions -->
+  <project path="system/tools/dtbtool" name="MoKee/android_system_tools_dtbtool" />
   <project path="vendor/codeaurora/telephony" name="MoKee/android_vendor_codeaurora_telephony" />
 
   <!-- MoKee tools -->
