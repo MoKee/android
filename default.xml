@@ -14,6 +14,7 @@
   <project path="build/soong" name="MoKee/android_build_soong" groups="pdk,tradefed" />
   <project path="art" name="MoKee/android_art" groups="pdk" />
   <project path="bionic" name="MoKee/android_bionic" groups="pdk" />
+  <project path="bootable/recovery" name="MoKee/android_bootable_recovery" groups="pdk" />
   <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" />
   <project path="external/selinux" name="MoKee/android_external_selinux" groups="pdk" />
   <project path="frameworks/av" name="MoKee/android_frameworks_av" groups="pdk" />
