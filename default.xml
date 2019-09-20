@@ -17,6 +17,7 @@
   <project path="bootable/recovery" name="MoKee/android_bootable_recovery" groups="pdk" />
   <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" />
   <project path="external/selinux" name="MoKee/android_external_selinux" groups="pdk" />
+  <project path="external/tinycompress" name="MoKee/android_external_tinycompress" groups="pdk" />
   <project path="frameworks/av" name="MoKee/android_frameworks_av" groups="pdk" />
   <project path="frameworks/base" name="MoKee/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/native" name="MoKee/android_frameworks_native" groups="pdk" />
