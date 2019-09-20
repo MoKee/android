@@ -11,6 +11,7 @@
   <project path="hardware/mokee/interfaces" name="MoKee/android_hardware_mokee_interfaces" />
   <project path="hardware/mokee/livedisplay" name="MoKee/android_hardware_mokee_livedisplay" />
   <project path="mokee-sdk" name="MoKee/android_mokee-sdk" />
+  <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" revision="master" />
   <project path="packages/apps/ExactCalculator" name="MoKee/android_packages_apps_ExactCalculator" />-
   <project path="packages/apps/Gallery2" name="MoKee/android_packages_apps_Gallery2" revision="master" />
