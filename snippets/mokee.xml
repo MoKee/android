@@ -5,6 +5,8 @@
 
   <!-- MoKee Open Source additions -->
   <project path="android" name="MoKee/android" />
+  <project path="external/exfat" name="MoKee/android_external_exfat" />
+  <project path="external/ntfs-3g" name="MoKee/android_external_ntfs-3g" />
   <project path="external/mokee/BuildController" name="MoKee/android_external_mokee_BuildController" />
   <project path="external/mokee/ServerController" name="MoKee/android_external_mokee_ServerController" revision="master" />
   <project path="frameworks/support/lottie" name="MoKee/android_frameworks_support_lottie" />
