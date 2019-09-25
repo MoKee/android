@@ -21,6 +21,7 @@
   <project path="packages/apps/MKCenter2" name="MoKee/android_packages_apps_MKCenter2" />
   <project path="packages/apps/MKParts" name="MoKee/android_packages_apps_MKParts" />
   <project path="packages/apps/Phonograph" name="MoKee/android_packages_apps_Phonograph" revision="master" />
+  <project path="packages/apps/Recorder" name="MoKee/android_packages_apps_Recorder" />
   <project path="packages/apps/SimpleCommons" name="MoKee/android_packages_apps_SimpleCommons" revision="master" />
   <project path="prebuilts/openssl" name="MoKee/android_prebuilts_openssl" />
   <project path="prebuilts/tools-mokee" name="MoKee/android_prebuilts_tools-mokee" />
