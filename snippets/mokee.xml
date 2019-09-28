@@ -10,8 +10,6 @@
   <!--<project path="external/libncurses" name="MoKee/android_external_libncurses" />-->
   <!--<project path="external/libnfc-nxp" name="MoKee/android_external_libnfc-nxp" />-->
   <!--<project path="external/libtar" name="MoKee/android_external_libtar" />-->
-  <project path="external/mokee/BuildController" name="MoKee/android_external_mokee_BuildController" />
-  <project path="external/mokee/ServerController" name="MoKee/android_external_mokee_ServerController" revision="master" />
   <!--<project path="external/nano" name="MoKee/android_external_nano" />-->
   <project path="external/ntfs-3g" name="MoKee/android_external_ntfs-3g" />
   <!--<project path="external/p7zip" name="MoKee/android_external_p7zip" />-->
@@ -147,8 +145,10 @@
   <project path="vendor/qcom/opensource/thermal-engine" name="MoKee/android_vendor_qcom_opensource_thermal-engine" groups="qcom,pdk-qcom" />
 
   <!-- MoKee tools -->
+  <project path="mokee/build-controller" name="MoKee/android_external_mokee_BuildController" />
   <project path="mokee/contributors-cloud-generator" name="MoKee/contributors-cloud-generator" groups="tools" revision="master" />
   <project path="mokee/crowdin" name="MoKee/mk_crowdin" groups="tools" revision="master" />
   <project path="mokee/git-repo" name="MoKee/git-repo" groups="tools" revision="stable" />
+  <project path="mokee/server-controller" name="MoKee/android_external_mokee_ServerController" revision="master" />
 
 </manifest>
