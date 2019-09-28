@@ -7,14 +7,12 @@
   <project path="android" name="MoKee/android" />
   <project path="external/exfat" name="MoKee/android_external_exfat" />
   <project path="external/ntfs-3g" name="MoKee/android_external_ntfs-3g" />
-  <project path="external/mokee/BuildController" name="MoKee/android_external_mokee_BuildController" />
-  <project path="external/mokee/ServerController" name="MoKee/android_external_mokee_ServerController" revision="master" />
   <project path="frameworks/support/lottie" name="MoKee/android_frameworks_support_lottie" />
   <project path="hardware/mokee/interfaces" name="MoKee/android_hardware_mokee_interfaces" />
   <project path="hardware/mokee/livedisplay" name="MoKee/android_hardware_mokee_livedisplay" />
   <project path="mokee-sdk" name="MoKee/android_mokee-sdk" />
   <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />
-  <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" revision="master" />
+  <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" groups="pdk-fs" revision="master" />
   <project path="packages/apps/ExactCalculator" name="MoKee/android_packages_apps_ExactCalculator" />
   <project path="packages/apps/Gallery2" name="MoKee/android_packages_apps_Gallery2" revision="master" />
   <project path="packages/apps/Lawnchair" name="MoKee/android_packages_apps_Lawnchair" revision="master" />
@@ -81,8 +79,10 @@
   <project path="vendor/qcom/opensource/thermal-engine" name="MoKee/android_vendor_qcom_opensource_thermal-engine" groups="qcom,pdk-qcom" />
 
   <!-- MoKee tools -->
+  <project path="mokee/build-controller" name="MoKee/android_external_mokee_BuildController" />
   <project path="mokee/contributors-cloud-generator" name="MoKee/contributors-cloud-generator" groups="tools" revision="master" />
   <project path="mokee/crowdin" name="MoKee/mk_crowdin" groups="tools" revision="master" />
   <project path="mokee/git-repo" name="MoKee/git-repo" groups="tools" revision="stable" />
+  <project path="mokee/server-controller" name="MoKee/android_external_mokee_ServerController" revision="master" />
 
 </manifest>
