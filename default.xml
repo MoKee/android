@@ -24,6 +24,8 @@
   <project path="hardware/libhardware" name="MoKee/android_hardware_libhardware" groups="pdk" />
   <project path="hardware/libhardware_legacy" name="MoKee/android_hardware_libhardware_legacy" groups="pdk" />
   <project path="hardware/nxp/nfc" name="MoKee/android_hardware_nxp_nfc" groups="pdk" />
+  <project path="hardware/qcom/audio" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk-qcom" />
+  <project path="hardware/qcom/display" name="MoKee/android_hardware_qcom_display" groups="pdk-qcom,qcom,qcom_display" />
   <project path="hardware/qcom/keymaster" name="MoKee/android_hardware_qcom_keymaster" groups="qcom,qcom_keymaster,pdk-qcom" />
   <project path="hardware/ril" name="MoKee/android_hardware_ril" groups="pdk" />
   <project path="packages/apps/BasicSmsReceiver" name="MoKee/android_packages_apps_BasicSmsReceiver" groups="pdk-cw-fs,pdk-fs" />
