@@ -56,7 +56,11 @@
   <project path="vendor/mk" name="MoKee/android_vendor_mk" >
     <copyfile src="noop/Android.mk" dest="kernel/Android.mk" />
   </project>
+<<<<<<< HEAD   (24ba85 manifest: Hello WarpShare!)
   <project path="vendor/mk-priv" name="MoKee/android_vendor_mk-priv" />
+=======
+  <project path="vendor/mokee-priv" name="MoKee/android_vendor_mk-priv" clone-depth="1" />
+>>>>>>> CHANGE (f4b84b manifest: Set clone-depth for mk-priv)
 
   <!-- MoKee resources additions -->
   <project path="packages/resources/Aegis" name="MoKee/android_packages_resources_Aegis" />
