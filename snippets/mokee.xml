@@ -140,7 +140,7 @@
   <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="MoKee/android_vendor_qcom_opensource_data-ipa-cfg-mgr" groups="qcom,pdk-qcom" />
   <project path="vendor/qcom/opensource/dataservices" name="MoKee/android_vendor_qcom_opensource_dataservices" groups="qcom,pdk-qcom" />
   <project path="vendor/qcom/opensource/interfaces" name="MoKee/android_vendor_qcom_opensource_interfaces" groups="qcom,pdk-qcom" />
-  <!--<project path="vendor/qcom/opensource/power" name="MoKee/android_vendor_qcom_opensource_power" groups="qcom,pdk-qcom" />-->
+  <project path="vendor/qcom/opensource/power" name="MoKee/android_vendor_qcom_opensource_power" groups="qcom,pdk-qcom" />
   <project path="vendor/qcom/opensource/thermal-engine" name="MoKee/android_vendor_qcom_opensource_thermal-engine" groups="qcom,pdk-qcom" />
 
   <!-- MoKee tools -->
