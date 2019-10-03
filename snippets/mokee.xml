@@ -41,7 +41,6 @@
   <project path="external/json-c" name="MoKee/android_external_json-c" groups="qcom,pdk-qcom" />
   <project path="hardware/qcom-caf/common" name="MoKee/android_hardware_qcom-caf_common" groups="qcom,pdk-qcom" />
   <project path="hardware/qcom-caf/bt" name="MoKee/android_hardware_qcom_bt" groups="qcom,pdk-qcom" revision="mkq-caf" />
-  <project path="hardware/qcom-caf/fm" name="MoKee/android_hardware_qcom_fm" groups="qcom,qcom_fm" />
   <project path="hardware/qcom-caf/msm8916/audio" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk-qcom" revision="mkq-caf-msm8916" />
   <project path="hardware/qcom-caf/msm8916/display" name="MoKee/android_hardware_qcom_display" groups="pdk-qcom,qcom,qcom_display" revision="mkq-caf-msm8916" />
   <project path="hardware/qcom-caf/msm8916/media" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk-qcom" revision="mkq-caf-msm8916" />
@@ -74,6 +73,7 @@
   <project path="vendor/nxp/opensource/sn100x/halimpl" name="MoKee/android_vendor_nxp_opensource_halimpl" revision="mkq-sn100x" />
   <project path="vendor/nxp/opensource/sn100x/hidlimpl" name="MoKee/android_vendor_nxp_opensource_hidlimpl" revision="mkq-sn100x" />
   <project path="vendor/qcom/opensource/audio" name="MoKee/android_vendor_qcom_opensource_audio" groups="qcom,pdk-qcom" />
+  <project path="vendor/qcom/opensource/fm-commonsys" name="MoKee/android_vendor_qcom_opensource_fm-commonsys" groups="qcom,qcom_fm" />
   <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="MoKee/android_vendor_qcom_opensource_data-ipa-cfg-mgr" groups="qcom,pdk-qcom" />
   <project path="vendor/qcom/opensource/dataservices" name="MoKee/android_vendor_qcom_opensource_dataservices" groups="qcom,pdk-qcom" />
   <project path="vendor/qcom/opensource/interfaces" name="MoKee/android_vendor_qcom_opensource_interfaces" groups="qcom,pdk-qcom" />
