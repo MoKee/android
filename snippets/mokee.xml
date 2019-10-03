@@ -8,7 +8,7 @@
   <project path="external/exfat" name="MoKee/android_external_exfat" />
   <!--<project path="external/htop" name="MoKee/android_external_htop" />-->
   <!--<project path="external/libncurses" name="MoKee/android_external_libncurses" />-->
-  <!--<project path="external/libnfc-nxp" name="MoKee/android_external_libnfc-nxp" />-->
+  <project path="external/libnfc-nxp" name="MoKee/android_external_libnfc-nxp" />
   <!--<project path="external/libtar" name="MoKee/android_external_libtar" />-->
   <!--<project path="external/nano" name="MoKee/android_external_nano" />-->
   <project path="external/ntfs-3g" name="MoKee/android_external_ntfs-3g" />
