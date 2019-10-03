@@ -49,7 +49,7 @@
   <project path="vendor/mokee" name="MoKee/android_vendor_mk" >
     <copyfile src="noop/Android.mk" dest="kernel/Android.mk" />
   </project>
-  <project path="vendor/mokee-priv" name="MoKee/android_vendor_mk-priv" />
+  <project path="vendor/mokee-priv" name="MoKee/android_vendor_mk-priv" clone-depth="1" />
 
   <!-- MoKee resources additions -->
   <project path="packages/resources/Aegis" name="MoKee/android_packages_resources_Aegis" />
