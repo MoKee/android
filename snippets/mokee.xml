@@ -39,8 +39,8 @@
   <project path="packages/apps/FMRadio" name="MoKee/android_packages_apps_FMRadio" />
   <project path="packages/apps/Gallery2" name="MoKee/android_packages_apps_Gallery2" revision="master" />
   <project path="packages/apps/Lawnchair" name="MoKee/android_packages_apps_Lawnchair" revision="master" />
-  <project path="packages/apps/MKCenter2" name="MoKee/android_packages_apps_MKCenter2" />
   <project path="packages/apps/MKParts" name="MoKee/android_packages_apps_MKParts" />
+  <project path="packages/apps/MoKeeCenter" name="MoKee/android_packages_apps_MoKeeCenter" />
   <project path="packages/apps/Phonograph" name="MoKee/android_packages_apps_Phonograph" revision="master" />
   <project path="packages/apps/Profiles" name="MoKee/android_packages_apps_Profiles" />
   <project path="packages/apps/Recorder" name="MoKee/android_packages_apps_Recorder" />
