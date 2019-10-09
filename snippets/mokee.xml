@@ -3,7 +3,7 @@
 
   <!-- MoKee Open Source additions -->
   <project path="android" name="MoKee/android" />
-  <!--<project path="device/mokee/sepolicy" name="MoKee/android_device_mokee_sepolicy" />-->
+  <project path="device/mokee/sepolicy" name="MoKee/android_device_mokee_sepolicy" />
   <project path="external/airbnb-lottie" name="MoKee/android_external_airbnb-lottie" />
   <project path="external/bash" name="MoKee/android_external_bash" />
   <project path="external/exfat" name="MoKee/android_external_exfat" />
