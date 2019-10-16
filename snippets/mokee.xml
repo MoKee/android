@@ -4,6 +4,7 @@
   <!-- MoKee Open Source additions -->
   <project path="android" name="MoKee/android" />
   <!--<project path="device/mokee/sepolicy" name="MoKee/android_device_mokee_sepolicy" />-->
+  <project path="external/airbnb-lottie" name="MoKee/android_external_airbnb-lottie" />
   <!--<project path="external/bash" name="MoKee/android_external_bash" />-->
   <project path="external/exfat" name="MoKee/android_external_exfat" />
   <!--<project path="external/htop" name="MoKee/android_external_htop" />-->
@@ -18,7 +19,6 @@
   <!--<project path="external/unrar" name="MoKee/android_external_unrar" />-->
   <!--<project path="external/vim" name="MoKee/android_external_vim" />-->
   <!--<project path="external/zip" name="MoKee/android_external_zip" />-->
-  <project path="frameworks/support/lottie" name="MoKee/android_frameworks_support_lottie" />
   <!--<project path="hardware/broadcom/nfc" name="MoKee/android_hardware_broadcom_nfc" />-->
   <project path="hardware/mokee/interfaces" name="MoKee/android_hardware_mokee_interfaces" />
   <project path="hardware/mokee/livedisplay" name="MoKee/android_hardware_mokee_livedisplay" />
