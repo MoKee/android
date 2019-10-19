@@ -80,7 +80,7 @@
   <project path="external/arm-neon-tests" name="platform/external/arm-neon-tests" groups="vendor" remote="aosp" />
   <project path="external/arm-optimized-routines" name="platform/external/arm-optimized-routines" groups="pdk" remote="aosp" />
   <project path="external/autotest" name="platform/external/autotest" groups="pdk-fs" remote="aosp" />
-  <project path="external/avb" name="platform/external/avb" groups="pdk" remote="aosp" />
+  <project path="external/avb" name="MoKee/android_external_avb" groups="pdk" />
   <project path="external/bcc" name="platform/external/bcc" groups="pdk" remote="aosp" />
   <project path="external/blktrace" name="platform/external/blktrace" groups="pdk" remote="aosp" />
   <project path="external/boringssl" name="platform/external/boringssl" groups="pdk" remote="aosp" />
@@ -103,7 +103,7 @@
   <project path="external/conscrypt" name="platform/external/conscrypt" groups="pdk" remote="aosp" />
   <project path="external/crcalc" name="platform/external/crcalc" groups="pdk" remote="aosp" />
   <project path="external/cros/system_api" name="platform/external/cros/system_api" groups="pdk" remote="aosp" />
-  <project path="external/curl" name="platform/external/curl" groups="pdk" remote="aosp" />
+  <project path="external/curl" name="MoKee/android_external_curl" groups="pdk" />
   <project path="external/dagger2" name="platform/external/dagger2" groups="pdk" remote="aosp" />
   <project path="external/deqp" name="platform/external/deqp" groups="pdk-fs" remote="aosp" />
   <project path="external/deqp-deps/SPIRV-Headers" name="platform/external/deqp-deps/SPIRV-Headers" groups="pdk-fs" remote="aosp" />
@@ -201,10 +201,10 @@
   <project path="external/libaom" name="platform/external/libaom" groups="pdk" remote="aosp" />
   <project path="external/libavc" name="platform/external/libavc" groups="pdk" remote="aosp" />
   <project path="external/libbackup" name="platform/external/libbackup" groups="pdk" remote="aosp" />
-  <project path="external/libbrillo" name="platform/external/libbrillo" groups="pdk" remote="aosp" />
+  <project path="external/libbrillo" name="MoKee/android_external_libbrillo" groups="pdk" />
   <project path="external/libcap" name="platform/external/libcap" groups="pdk" remote="aosp" />
   <project path="external/libcap-ng" name="platform/external/libcap-ng" groups="pdk" remote="aosp" />
-  <project path="external/libchrome" name="platform/external/libchrome" groups="pdk" remote="aosp" />
+  <project path="external/libchrome" name="MoKee/android_external_libchrome" groups="pdk" />
   <project path="external/libcups" name="platform/external/libcups" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/libcxx" name="platform/external/libcxx" groups="pdk" remote="aosp" />
   <project path="external/libcxxabi" name="platform/external/libcxxabi" groups="pdk" remote="aosp" />
@@ -296,7 +296,7 @@
   <project path="external/proguard" name="platform/external/proguard" groups="pdk" remote="aosp" />
   <project path="external/protobuf" name="platform/external/protobuf" groups="pdk" remote="aosp" />
   <project path="external/protobuf-javalite" name="platform/external/protobuf-javalite" groups="pdk" remote="aosp" />
-  <project path="external/puffin" name="platform/external/puffin" groups="pdk" remote="aosp" />
+  <project path="external/puffin" name="MoKee/android_external_puffin" groups="pdk" />
   <project path="external/python/apitools" name="platform/external/python/apitools" groups="pdk" remote="aosp" />
   <project path="external/python/cpython2" name="platform/external/python/cpython2" groups="pdk" remote="aosp" />
   <project path="external/python/cpython3" name="platform/external/python/cpython3" groups="pdk" remote="aosp" />
