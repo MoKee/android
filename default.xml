@@ -18,6 +18,7 @@
   <project path="development" name="MoKee/android_development" groups="developers,pdk-cw-fs,pdk-fs" />
   <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" />
   <project path="external/elfutils" name="MoKee/android_external_elfutils" groups="pdk" />
+  <project path="external/openssh" name="MoKee/android_external_openssh" groups="pdk" />
   <project path="external/selinux" name="MoKee/android_external_selinux" groups="pdk" />
   <project path="external/tinycompress" name="MoKee/android_external_tinycompress" groups="pdk" />
   <project path="frameworks/av" name="MoKee/android_frameworks_av" groups="pdk" />
