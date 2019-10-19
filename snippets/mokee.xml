@@ -19,7 +19,7 @@
   <!--<project path="external/unrar" name="MoKee/android_external_unrar" />-->
   <!--<project path="external/vim" name="MoKee/android_external_vim" />-->
   <!--<project path="external/zip" name="MoKee/android_external_zip" />-->
-  <!--<project path="hardware/broadcom/nfc" name="MoKee/android_hardware_broadcom_nfc" />-->
+  <project path="hardware/broadcom/nfc" name="MoKee/android_hardware_broadcom_nfc" />
   <project path="hardware/mokee/interfaces" name="MoKee/android_hardware_mokee_interfaces" />
   <project path="hardware/mokee/livedisplay" name="MoKee/android_hardware_mokee_livedisplay" />
   <!--<project path="hardware/mokee/telephony" name="MoKee/android_hardware_mokee_telephony" />-->
