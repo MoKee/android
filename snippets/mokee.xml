@@ -9,6 +9,7 @@
   <project path="external/exfat" name="MoKee/android_external_exfat" />
   <project path="external/libnfc-nxp" name="MoKee/android_external_libnfc-nxp" />
   <project path="external/ntfs-3g" name="MoKee/android_external_ntfs-3g" />
+  <project path="hardware/broadcom/nfc" name="MoKee/android_hardware_broadcom_nfc" />
   <project path="hardware/mokee/interfaces" name="MoKee/android_hardware_mokee_interfaces" />
   <project path="hardware/mokee/livedisplay" name="MoKee/android_hardware_mokee_livedisplay" />
   <project path="mokee-sdk" name="MoKee/android_mokee-sdk" />
