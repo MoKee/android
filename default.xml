@@ -103,6 +103,7 @@
   <project path="prebuilts/r8" name="MoKee/android_prebuilts_r8" groups="pdk" />
   <project path="system/bt" name="MoKee/android_system_bt" groups="pdk" />
   <project path="system/core" name="MoKee/android_system_core" groups="pdk" />
+  <project path="system/extras" name="MoKee/android_system_extras" groups="pdk" />
   <project path="system/netd" name="MoKee/android_system_netd" groups="pdk" />
   <project path="system/update_engine" name="MoKee/android_system_update_engine" groups="pdk" />
 
