@@ -11,6 +11,7 @@
            sync-j="4" />
 
   <project path="build/make" name="MoKee/android_build" groups="pdk" />
+  <project path="build/blueprint" name="MoKee/android_build_blueprint" groups="pdk,tradefed" />
   <project path="build/soong" name="MoKee/android_build_soong" groups="pdk,tradefed" />
   <project path="art" name="MoKee/android_art" groups="pdk" />
   <project path="bionic" name="MoKee/android_bionic" groups="pdk" />
