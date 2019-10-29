@@ -23,6 +23,7 @@
   <project path="external/elfutils" name="MoKee/android_external_elfutils" groups="pdk" />
   <project path="external/libbrillo" name="MoKee/android_external_libbrillo" groups="pdk" />
   <project path="external/libchrome" name="MoKee/android_external_libchrome" groups="pdk" />
+  <project path="external/mksh" name="MoKee/android_external_mksh" groups="pdk" />
   <project path="external/openssh" name="MoKee/android_external_openssh" groups="pdk" />
   <project path="external/puffin" name="MoKee/android_external_puffin" groups="pdk" />
   <project path="external/selinux" name="MoKee/android_external_selinux" groups="pdk" />
