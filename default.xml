@@ -109,6 +109,7 @@
   <project path="system/extras" name="MoKee/android_system_extras" groups="pdk" />
   <project path="system/netd" name="MoKee/android_system_netd" groups="pdk" />
   <project path="system/update_engine" name="MoKee/android_system_update_engine" groups="pdk" />
+  <project path="system/vold" name="MoKee/android_system_vold" groups="pdk" />
 
   <include name="snippets/mokee.xml" />
   <include name="snippets/device.xml" />
