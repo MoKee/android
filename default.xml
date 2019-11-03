@@ -46,6 +46,7 @@
   <project path="hardware/qcom/gps" name="MoKee/android_hardware_qcom_gps" groups="qcom,qcom_gps,pdk-qcom" />
   <project path="hardware/qcom/keymaster" name="MoKee/android_hardware_qcom_keymaster" groups="qcom,qcom_keymaster,pdk-qcom" />
   <project path="hardware/qcom/media" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk-qcom" />
+  <project path="hardware/qcom/sdm845/display" name="MoKee/android_hardware_qcom_sdm845_display" groups="qcom_sdm845" />
   <project path="hardware/ril" name="MoKee/android_hardware_ril" groups="pdk" />
   <project path="packages/apps/BasicSmsReceiver" name="MoKee/android_packages_apps_BasicSmsReceiver" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/Bluetooth" name="MoKee/android_packages_apps_Bluetooth" groups="pdk-cw-fs,pdk-fs" />
