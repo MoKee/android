@@ -21,6 +21,7 @@
   <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" />
   <project path="device/google/atv" name="MoKee/android_device_google_atv" groups="device,broadcom_pdk,generic_fs,pdk" />
   <project path="external/drm_hwcomposer" name="MoKee/android_external_drm_hwcomposer" groups="drm_hwcomposer,pdk-fs" />
+  <project path="external/chromium-libpac" name="MoKee/android_external_chromium-libpac" groups="pdk" />
   <project path="external/chromium-webview" name="MoKee/android_external_chromium-webview" groups="pdk" revision="master" />
   <project path="external/curl" name="MoKee/android_external_curl" groups="pdk" />
   <project path="external/e2fsprogs" name="MoKee/android_external_e2fsprogs" groups="pdk" />
@@ -32,7 +33,9 @@
   <project path="external/libbrillo" name="MoKee/android_external_libbrillo" groups="pdk" />
   <project path="external/libchrome" name="MoKee/android_external_libchrome" groups="pdk" />
   <project path="external/libcups" name="MoKee/android_external_libcups" groups="pdk-cw-fs,pdk-fs" />
+  <project path="external/libcxx" name="MoKee/android_external_libcxx" groups="pdk" />
   <project path="external/libhevc" name="MoKee/android_external_libhevc" groups="pdk" />
+  <project path="external/libjpeg-turbo" name="MoKee/android_external_libjpeg-turbo" groups="pdk" />
   <project path="external/libpng" name="MoKee/android_external_libpng" groups="pdk" />
   <project path="external/libtextclassifier" name="MoKee/android_external_libtextclassifier" groups="pdk" />
   <project path="external/mksh" name="MoKee/android_external_mksh" groups="pdk" />
@@ -43,8 +46,10 @@
   <project path="external/puffin" name="MoKee/android_external_puffin" groups="pdk" />
   <project path="external/selinux" name="MoKee/android_external_selinux" groups="pdk" />
   <project path="external/skia" name="MoKee/android_external_skia" groups="pdk,qcom_msm8x26" />
+  <project path="external/sqlite" name="MoKee/android_external_sqlite" groups="pdk" />
   <project path="external/tinycompress" name="MoKee/android_external_tinycompress" groups="pdk" />
   <project path="external/toybox" name="MoKee/android_external_toybox" groups="pdk" />
+  <project path="external/v8" name="MoKee/android_external_v8" groups="pdk" />
   <project path="external/zlib" name="MoKee/android_external_zlib" groups="pdk" />
   <project path="frameworks/av" name="MoKee/android_frameworks_av" groups="pdk" />
   <project path="frameworks/base" name="MoKee/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" />
