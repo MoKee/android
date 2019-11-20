@@ -25,7 +25,6 @@
   <!--<project path="hardware/mokee/telephony" name="MoKee/android_hardware_mokee_telephony" />-->
   <project path="mokee-sdk" name="MoKee/android_mokee-sdk" />
   <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />
-  <!--<project path="packages/apps/Backgrounds" name="MoKee/android_packages_apps_Backgrounds" />-->
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" groups="pdk-fs" revision="master" />
   <project path="packages/apps/ExactCalculator" name="MoKee/android_packages_apps_ExactCalculator" />
   <project path="packages/apps/Exchange" name="MoKee/android_packages_apps_Exchange" />
@@ -42,7 +41,7 @@
   <project path="packages/apps/SimpleCommons" name="MoKee/android_packages_apps_SimpleCommons" revision="master" />
   <project path="packages/apps/Snap" name="MoKee/android_packages_apps_Snap" />
   <project path="packages/apps/WarpShare" name="MoKee/android_packages_apps_WarpShare" />
-  <!--<project path="packages/overlays/MoKee" name="MoKee/android_packages_overlays_MoKee" />-->
+  <project path="packages/overlays/MoKee" name="MoKee/android_packages_overlays_MoKee" />
   <!--<project path="packages/providers/WeatherProvider" name="MoKee/android_packages_providers_WeatherProvider" />-->
   <!--<project path="prebuilts/mokee-sdk" name="MoKee/android_prebuilts_mokee-sdk" clone-depth="1" />-->
   <project path="prebuilts/tools-mokee" name="MoKee/android_prebuilts_tools-mokee" clone-depth="1" />
