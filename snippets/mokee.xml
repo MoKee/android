@@ -56,7 +56,12 @@
   <project path="vendor/mk" name="MoKee/android_vendor_mk" >
     <copyfile src="noop/Android.mk" dest="kernel/Android.mk" />
   </project>
-  <project path="vendor/mk-priv" name="MoKee/android_vendor_mk-priv" clone-depth="1" />
+  <project path="vendor/mk-priv" name="MoKee/android_vendor_mk-priv" clone-depth="1" >
+    <linkfile src="config/nxp/os_pickup.bp" dest="vendor/nxp/opensource/Android.bp" />
+    <linkfile src="config/nxp/os_pickup.mk" dest="vendor/nxp/opensource/Android.mk" />
+    <linkfile src="config/nxp/os_pickup.bp" dest="vendor/nxp-8150/opensource/Android.bp" />
+    <linkfile src="config/nxp/os_pickup.mk" dest="vendor/nxp-8150/opensource/Android.mk" />
+  </project>
 
   <!-- MoKee resources additions -->
   <project path="packages/resources/Aegis" name="MoKee/android_packages_resources_Aegis" />
@@ -116,6 +121,12 @@
   <project path="vendor/nxp/opensource/commonsys/packages/apps/Nfc" name="MoKee/android_vendor_nxp_opensource_packages_apps_Nfc" />
   <project path="vendor/nxp/opensource/halimpl" name="MoKee/android_vendor_nxp_opensource_halimpl" />
   <project path="vendor/nxp/opensource/hidlimpl" name="MoKee/android_vendor_nxp_opensource_hidlimpl" />
+  <project path="vendor/nxp-8150/opensource/interfaces/nfc" name="MoKee/android_vendor_nxp_interfaces_opensource_nfc" revision="mkp-8150" />
+  <project path="vendor/nxp-8150/opensource/commonsys/external/libnfc-nci" name="MoKee/android_vendor_nxp_opensource_external_libnfc-nci" revision="mkp-8150" />
+  <project path="vendor/nxp-8150/opensource/commonsys/frameworks" name="MoKee/android_vendor_nxp_opensource_frameworks" revision="mkp-8150" />
+  <project path="vendor/nxp-8150/opensource/commonsys/packages/apps/Nfc" name="MoKee/android_vendor_nxp_opensource_packages_apps_Nfc" revision="mkp-8150" />
+  <project path="vendor/nxp-8150/opensource/halimpl" name="MoKee/android_vendor_nxp_opensource_halimpl" revision="mkp-8150" />
+  <project path="vendor/nxp-8150/opensource/hidlimpl" name="MoKee/android_vendor_nxp_opensource_hidlimpl" revision="mkp-8150" />
   <project path="vendor/qcom/opensource/audio" name="MoKee/android_vendor_qcom_opensource_audio" groups="qcom,pdk-qcom" />
   <project path="vendor/qcom/opensource/cryptfs_hw" name="MoKee/android_vendor_qcom_opensource_cryptfs_hw" groups="qcom,pdk-qcom" />
   <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="MoKee/android_vendor_qcom_opensource_data-ipa-cfg-mgr" groups="qcom,pdk-qcom" />
