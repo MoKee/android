@@ -30,6 +30,7 @@
   <project path="external/fsck_msdos" name="MoKee/android_external_fsck_msdos" groups="pdk" />
   <project path="external/gptfdisk" name="MoKee/android_external_gptfdisk" groups="pdk" />
   <project path="external/icu" name="MoKee/android_external_icu" groups="pdk" />
+  <project path="external/ImageMagick" name="MoKee/android_external_ImageMagick" groups="pdk" />
   <project path="external/libbrillo" name="MoKee/android_external_libbrillo" groups="pdk" />
   <project path="external/libchrome" name="MoKee/android_external_libchrome" groups="pdk" />
   <project path="external/libcups" name="MoKee/android_external_libcups" groups="pdk-cw-fs,pdk-fs" />
