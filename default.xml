@@ -26,6 +26,7 @@
   <project path="external/flac" name="MoKee/android_external_flac" />
   <project path="external/gptfdisk" name="MoKee/android_external_gptfdisk" />
   <project path="external/icu" name="MoKee/android_external_icu" groups="pdk" />
+  <project path="external/ImageMagick" name="MoKee/android_external_ImageMagick" groups="pdk" />
   <project path="external/libavc" name="MoKee/android_external_libavc" groups="pdk" />
   <project path="external/libcups" name="MoKee/android_external_libcups" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/libcxx" name="MoKee/android_external_libcxx" groups="pdk" />
