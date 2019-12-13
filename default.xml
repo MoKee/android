@@ -114,6 +114,7 @@
   <project path="system/bpf" name="MoKee/android_system_bpf" groups="pdk" />
   <project path="system/core" name="MoKee/android_system_core" groups="pdk" />
   <project path="system/extras" name="MoKee/android_system_extras" groups="pdk" />
+  <project path="system/keymaster" name="MoKee/android_system_keymaster" groups="pdk" />
   <project path="system/netd" name="MoKee/android_system_netd" groups="pdk" />
   <project path="system/update_engine" name="MoKee/android_system_update_engine" groups="pdk" />
   <project path="system/vold" name="MoKee/android_system_vold" groups="pdk" />
