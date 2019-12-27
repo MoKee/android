@@ -58,6 +58,7 @@
   <project path="frameworks/opt/datetimepicker" name="MoKee/android_frameworks_opt_datetimepicker" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/opt/net/wifi" name="MoKee/android_frameworks_opt_net_wifi" groups="pdk" />
   <project path="frameworks/opt/telephony" name="MoKee/android_frameworks_opt_telephony" groups="pdk" />
+  <project path="frameworks/support" name="MoKee/android_frameworks_support" groups="pdk-cw-fs,pdk-fs" />
   <project path="hardware/broadcom/libbt" name="MoKee/android_hardware_broadcom_libbt" groups="pdk" />
   <project path="hardware/broadcom/wlan" name="MoKee/android_hardware_broadcom_wlan" groups="pdk,broadcom_wlan" />
   <project path="hardware/intel/bootstub" name="MoKee/android_hardware_intel_bootstub" groups="intel,pdk" />
