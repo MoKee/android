@@ -119,4 +119,10 @@
     <copyfile dest="vendor/qcom/opensource/Android.bp" src="os_pickup.bp"/>
   </project>
   <project path="vendor/qcom/opensource/rcs-service" name="MoKee/android_vendor_qcom_opensource_rcs-service" />
+
+  <!-- Tools -->
+  <project path="mokee/contributors-cloud-generator" name="MoKee/contributors-cloud-generator" groups="tools" revision="master" />
+  <project path="mokee/crowdin" name="MoKee/mk_crowdin" groups="tools" revision="master" />
+  <project path="mokee/git-repo" name="MoKee/git-repo" groups="tools" revision="stable" />
+
 </manifest>
