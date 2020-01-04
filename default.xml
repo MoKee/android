@@ -5,7 +5,7 @@
            fetch=".."
            review="https://mokeedev.review" />
 
-  <default revision="refs/heads/mkq"
+  <default revision="refs/heads/mkq-mr1"
            remote="mokee"
            sync-c="true"
            sync-j="4" />
