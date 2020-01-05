@@ -40,7 +40,6 @@
   <project path="packages/apps/WarpShare" name="MoKee/android_packages_apps_WarpShare" />
   <project path="packages/overlays/MoKee" name="MoKee/android_packages_overlays_MoKee" />
   <project path="packages/resources/devicesettings" name="MoKee/android_packages_resources_devicesettings" />
-  <project path="prebuilts/openssl" name="MoKee/android_prebuilts_openssl" />
   <project path="prebuilts/tools-mokee" name="MoKee/android_prebuilts_tools-mokee" />
   <project path="vendor/mokee" name="MoKee/android_vendor_mk" />
   <project path="vendor/mokee-priv" name="MoKee/android_vendor_mk-priv" />
