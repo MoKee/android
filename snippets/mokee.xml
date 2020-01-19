@@ -34,6 +34,7 @@
   <project path="packages/apps/MKParts" name="MoKee/android_packages_apps_MKParts" />
   <project path="packages/apps/MoKeeCenter" name="MoKee/android_packages_apps_MoKeeCenter" />
   <project path="packages/apps/Phonograph" name="MoKee/android_packages_apps_Phonograph" revision="master" />
+  <project path="packages/apps/Profiles" name="MoKee/android_packages_apps_Profiles" />
   <project path="packages/apps/Recorder" name="MoKee/android_packages_apps_Recorder" />
   <project path="packages/apps/SimpleCommons" name="MoKee/android_packages_apps_SimpleCommons" revision="master" />
   <project path="packages/apps/Snap" name="MoKee/android_packages_apps_Snap" />
