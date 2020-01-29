@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <!-- OnePlus -->
+  <project path="device/oneplus/common" name="MoKee/android_device_oneplus_common" />
+  <project path="device/oneplus/enchilada" name="MoKee/android_device_oneplus_enchilada" />
+  <project path="device/oneplus/fajita" name="MoKee/android_device_oneplus_fajita" />
+  <project path="device/oneplus/guacamole" name="MoKee/android_device_oneplus_guacamole" />
+  <project path="device/oneplus/sdm845-common" name="MoKee/android_device_oneplus_sdm845-common" />
+  <project path="device/oneplus/sm8150-common" name="MoKee/android_device_oneplus_sm8150-common" />
+  <project path="kernel/oneplus/sdm845" name="MoKee/android_kernel_oneplus_sdm845" />
+  <project path="kernel/oneplus/sm8150" name="MoKee/android_kernel_oneplus_sm8150" />
+  <project path="vendor/oneplus/guacamole" name="MoKee/android_vendor_oneplus_guacamole" />
+  <project path="vendor/oneplus/sdm845-common" name="MoKee/android_vendor_oneplus_sdm845-common" />
+  <project path="vendor/oneplus/sm8150-common" name="MoKee/android_vendor_oneplus_sm8150-common" />
+
   <!-- Oppo -->
   <project path="device/oppo/common" name="MoKee/android_device_oppo_common" />
 
