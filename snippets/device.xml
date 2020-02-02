@@ -17,4 +17,13 @@
   <!-- Oppo -->
   <project path="device/oppo/common" name="MoKee/android_device_oppo_common" />
 
+  <!-- XiaoMi -->
+  <project path="device/xiaomi/chiron" name="MoKee/android_device_xiaomi_chiron" />
+  <project path="device/xiaomi/msm8998-common" name="MoKee/android_device_xiaomi_msm8998-common" />
+  <project path="device/xiaomi/sagit" name="MoKee/android_device_xiaomi_sagit" />
+  <project path="kernel/xiaomi/msm8998" name="MoKee/android_kernel_xiaomi_msm8998" />
+  <project path="vendor/xiaomi/chiron" name="MoKee/android_vendor_xiaomi_chiron" />
+  <project path="vendor/xiaomi/msm8998-common" name="MoKee/android_vendor_xiaomi_msm8998-common" />
+  <project path="vendor/xiaomi/sagit" name="MoKee/android_vendor_xiaomi_sagit" />
+
 </manifest>
