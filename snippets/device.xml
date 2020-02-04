@@ -17,6 +17,17 @@
   <!-- Oppo -->
   <project path="device/oppo/common" name="MoKee/android_device_oppo_common" />
 
+  <!-- Sony -->
+  <project path="device/sony/discovery" name="MoKee/android_device_sony_discovery" />
+  <project path="device/sony/nile-common" name="MoKee/android_device_sony_nile-common" />
+  <project path="device/sony/pioneer" name="MoKee/android_device_sony_pioneer" />
+  <project path="hardware/sony/macaddrsetup" name="MoKee/android_hardware_sony_macaddrsetup" />
+  <project path="hardware/sony/simdetect" name="MoKee/android_hardware_sony_simdetect" />
+  <project path="kernel/sony/sdm660" name="MoKee/android_kernel_sony_sdm660" />
+  <project path="vendor/sony/discovery" name="MoKee/android_vendor_sony_discovery" />
+  <project path="vendor/sony/nile-common" name="MoKee/android_vendor_sony_nile-common" />
+  <project path="vendor/sony/pioneer" name="MoKee/android_vendor_sony_pioneer" />
+
   <!-- XiaoMi -->
   <project path="device/xiaomi/chiron" name="MoKee/android_device_xiaomi_chiron" />
   <project path="device/xiaomi/msm8998-common" name="MoKee/android_device_xiaomi_msm8998-common" />
