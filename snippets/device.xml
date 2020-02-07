@@ -37,4 +37,11 @@
   <project path="vendor/xiaomi/msm8998-common" name="MoKee/android_vendor_xiaomi_msm8998-common" />
   <project path="vendor/xiaomi/sagit" name="MoKee/android_vendor_xiaomi_sagit" />
 
+  <!-- Zuk -->
+  <project path="device/zuk/msm8996-common" name="MoKee/android_device_zuk_msm8996-common" />
+  <project path="device/zuk/z2_plus" name="MoKee/android_device_zuk_z2_plus" />
+  <project path="kernel/zuk/msm8996" name="MoKee/android_kernel_zuk_msm8996" />
+  <project path="vendor/zuk/msm8996-common" name="MoKee/android_vendor_zuk_msm8996-common" />
+  <project path="vendor/zuk/z2_plus" name="MoKee/android_vendor_zuk_z2_plus" />
+
 </manifest>
