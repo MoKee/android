@@ -151,5 +151,6 @@
   <project path="mokee/crowdin" name="MoKee/mk_crowdin" groups="tools" revision="master" />
   <project path="mokee/git-repo" name="MoKee/git-repo" groups="tools" revision="stable" />
   <project path="mokee/server-controller" name="MoKee/android_external_mokee_ServerController" revision="master" />
+  <project path="mokee/www" name="MoKee/www" groups="infra" revision="master" />
 
 </manifest>
