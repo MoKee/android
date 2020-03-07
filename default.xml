@@ -274,7 +274,7 @@
   <project path="external/perfetto" name="MoKee/android_external_perfetto" groups="pdk" />
   <project path="external/piex" name="platform/external/piex" groups="pdk" remote="aosp" />
   <project path="external/ply" name="platform/external/ply" groups="pdk" remote="aosp" />
-  <project path="external/ppp" name="platform/external/ppp" groups="pdk" remote="aosp" />
+  <project path="external/ppp" name="MoKee/android_external_ppp" groups="pdk" />
   <project path="external/proguard" name="MoKee/android_external_proguard" groups="pdk" />
   <project path="external/protobuf" name="platform/external/protobuf" groups="pdk" remote="aosp" />
   <project path="external/puffin" name="MoKee/android_external_puffin" groups="pdk" />
