@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <!-- Motorola -->
+  <project path="external/bson" name="MoKee/android_external_bson" />
+  <project path="device/motorola/nash" name="MoKee/android_device_motorola_nash" />
+  <project path="kernel/motorola/msm8998" name="MoKee/android_kernel_motorola_msm8998" />
+  <project path="vendor/motorola/nash" name="MoKee/android_vendor_motorola_nash" />
+  <project path="system/qcom" name="MoKee/android_system_qcom" />
+
   <!-- OnePlus -->
   <project path="device/oneplus/common" name="MoKee/android_device_oneplus_common" />
   <project path="device/oneplus/enchilada" name="MoKee/android_device_oneplus_enchilada" />
