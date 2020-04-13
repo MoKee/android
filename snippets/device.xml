@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <!-- Leeco -->
+  <project path="device/leeco/msm8996-common" name="MoKee/android_device_leeco_msm8996-common" />
+  <project path="device/leeco/x2" name="MoKee/android_device_leeco_x2" />
+  <project path="kernel/leeco/msm8996" name="MoKee/android_kernel_leeco_msm8996" />
+  <project path="vendor/leeco/msm8996-common" name="MoKee/android_vendor_leeco_msm8996-common" />
+  <project path="vendor/leeco/x2" name="MoKee/android_vendor_leeco_x2" />
+
   <!-- Motorola -->
-  <project path="external/bson" name="MoKee/android_external_bson" />
+  <project path="device/motorola/chef" name="MoKee/android_device_motorola_chef" />
+  <project path="device/motorola/evert" name="MoKee/android_device_motorola_evert" />
+  <project path="device/motorola/griffin" name="MoKee/android_device_motorola_griffin" />
+  <project path="device/motorola/lake" name="MoKee/android_device_motorola_lake" />
   <project path="device/motorola/nash" name="MoKee/android_device_motorola_nash" />
+  <project path="device/motorola/river" name="MoKee/android_device_motorola_river" />
+  <project path="device/motorola/sdm632-common" name="MoKee/android_device_motorola_sdm632-common" />
+  <project path="device/motorola/sdm660-common" name="MoKee/android_device_motorola_sdm660-common" />
+  <project path="external/bson" name="MoKee/android_external_bson" />
+  <project path="kernel/motorola/msm8996" name="MoKee/android_kernel_motorola_msm8996" />
   <project path="kernel/motorola/msm8998" name="MoKee/android_kernel_motorola_msm8998" />
+  <project path="vendor/motorola/chef" name="MoKee/android_vendor_motorola_chef" />
+  <project path="vendor/motorola/evert" name="MoKee/android_vendor_motorola_evert" />
+  <project path="vendor/motorola/griffin" name="MoKee/android_vendor_motorola_griffin" />
+  <project path="vendor/motorola/lake" name="MoKee/android_vendor_motorola_lake" />
   <project path="vendor/motorola/nash" name="MoKee/android_vendor_motorola_nash" />
+  <project path="vendor/motorola/river" name="MoKee/android_vendor_motorola_river" />
+  <project path="vendor/motorola/sdm632-common" name="MoKee/android_vendor_motorola_sdm632-common" />
+  <project path="vendor/motorola/sdm660-common" name="MoKee/android_vendor_motorola_sdm660-common" />
   <project path="system/qcom" name="MoKee/android_system_qcom" />
 
   <!-- OnePlus -->
