@@ -31,6 +31,7 @@
   <project path="external/mksh" name="MoKee/android_external_mksh" groups="pdk" />
   <project path="external/noto-fonts" name="MoKee/android_external_noto-fonts" groups="pdk" />
   <project path="external/openssh" name="MoKee/android_external_openssh" groups="pdk" />
+  <project path="external/ppp" name="MoKee/android_external_ppp" groups="pdk" />
   <project path="external/puffin" name="MoKee/android_external_puffin" groups="pdk" />
   <project path="external/selinux" name="MoKee/android_external_selinux" groups="pdk" />
   <project path="external/tinyalsa" name="MoKee/android_external_tinyalsa" groups="pdk" />
