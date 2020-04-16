@@ -44,6 +44,7 @@
   <project path="external/noto-fonts" name="MoKee/android_external_noto-fonts" groups="pdk" />
   <project path="external/one-true-awk" name="MoKee/android_external_one-true-awk" groups="pdk" />
   <project path="external/perfetto" name="MoKee/android_external_perfetto" groups="pdk" />
+  <project path="external/ppp" name="MoKee/android_external_ppp" groups="pdk" />
   <project path="external/proguard" name="MoKee/android_external_proguard" groups="pdk" />
   <project path="external/puffin" name="MoKee/android_external_puffin" groups="pdk" />
   <project path="external/selinux" name="MoKee/android_external_selinux" groups="pdk" />
