@@ -20,12 +20,14 @@
   <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" />
   <project path="external/avb" name="MoKee/android_external_avb" groups="pdk" />
   <project path="external/chromium-webview" name="MoKee/android_external_chromium-webview" groups="pdk" revision="master" />
+  <project path="external/cldr" name="MoKee/android_external_cldr" groups="pdk" />
   <project path="external/curl" name="MoKee/android_external_curl" groups="pdk" />
   <project path="external/e2fsprogs" name="MoKee/android_external_e2fsprogs" groups="pdk" />
   <project path="external/elfutils" name="MoKee/android_external_elfutils" groups="pdk" />
   <project path="external/libbrillo" name="MoKee/android_external_libbrillo" groups="pdk" />
   <project path="external/libchrome" name="MoKee/android_external_libchrome" groups="pdk" />
   <project path="external/gptfdisk" name="MoKee/android_external_gptfdisk" groups="pdk" />
+  <project path="external/icu" name="MoKee/android_external_icu" groups="pdk" />
   <project path="external/libcxx" name="MoKee/android_external_libcxx" groups="pdk" />
   <project path="external/libhevc" name="MoKee/android_external_libhevc" groups="pdk" />
   <project path="external/mksh" name="MoKee/android_external_mksh" groups="pdk" />
@@ -126,6 +128,7 @@
   <project path="system/keymaster" name="MoKee/android_system_keymaster" groups="pdk" />
   <project path="system/netd" name="MoKee/android_system_netd" groups="pdk" />
   <project path="system/sepolicy" name="MoKee/android_system_sepolicy" groups="pdk" />
+  <project path="system/timezone" name="MoKee/android_system_timezone" groups="pdk" />
   <project path="system/update_engine" name="MoKee/android_system_update_engine" groups="pdk" />
   <project path="system/vold" name="MoKee/android_system_vold" groups="pdk" />
 
