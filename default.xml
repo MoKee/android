@@ -36,6 +36,7 @@
   <project path="external/libchrome" name="MoKee/android_external_libchrome" groups="pdk" />
   <project path="external/libcups" name="MoKee/android_external_libcups" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/libcxx" name="MoKee/android_external_libcxx" groups="pdk" />
+  <project path="external/libexif" name="MoKee/android_external_libexif" groups="pdk" />
   <project path="external/libhevc" name="MoKee/android_external_libhevc" groups="pdk" />
   <project path="external/libjpeg-turbo" name="MoKee/android_external_libjpeg-turbo" groups="pdk" />
   <project path="external/libpng" name="MoKee/android_external_libpng" groups="pdk" />
