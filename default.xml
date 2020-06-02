@@ -30,6 +30,7 @@
   <project path="external/icu" name="MoKee/android_external_icu" groups="pdk" />
   <project path="external/libcxx" name="MoKee/android_external_libcxx" groups="pdk" />
   <project path="external/libhevc" name="MoKee/android_external_libhevc" groups="pdk" />
+  <project path="external/libtextclassifier" name="MoKee/android_external_libtextclassifier" groups="pdk" />
   <project path="external/mksh" name="MoKee/android_external_mksh" groups="pdk" />
   <project path="external/noto-fonts" name="MoKee/android_external_noto-fonts" groups="pdk" />
   <project path="external/openssh" name="MoKee/android_external_openssh" groups="pdk" />
