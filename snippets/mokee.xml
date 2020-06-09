@@ -148,6 +148,7 @@
   <project path="vendor/qcom/opensource/vibrator" name="MoKee/android_vendor_qcom_opensource_vibrator" groups="qcom,pdk-qcom" />
 
   <!-- MoKee tools -->
+  <project path="mokee/boot-repacker" name="MoKee/boot-repacker" groups="infra" revision="master" />
   <project path="mokee/build-controller" name="MoKee/android_external_mokee_BuildController" />
   <project path="mokee/contributors-cloud-generator" name="MoKee/contributors-cloud-generator" groups="tools" revision="master" />
   <project path="mokee/crowdin" name="MoKee/mk_crowdin" groups="tools" revision="master" />
