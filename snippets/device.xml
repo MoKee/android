@@ -96,6 +96,7 @@
   <project path="vendor/wileyfox/crackling" name="MoKee/android_vendor_wileyfox_crackling" />
 
   <!-- XiaoMi -->
+  <project path="device/xiaomi/beryllium" name="MoKee/android_device_xiaomi_beryllium" />
   <project path="device/xiaomi/chiron" name="MoKee/android_device_xiaomi_chiron" />
   <project path="device/xiaomi/dipper" name="MoKee/android_device_xiaomi_dipper" />
   <project path="device/xiaomi/gemini" name="MoKee/android_device_xiaomi_gemini" />
@@ -112,6 +113,7 @@
   <project path="kernel/xiaomi/msm8996" name="MoKee/android_kernel_xiaomi_msm8996" />
   <project path="kernel/xiaomi/msm8998" name="MoKee/android_kernel_xiaomi_msm8998" />
   <project path="kernel/xiaomi/sdm845" name="MoKee/android_kernel_xiaomi_sdm845" />
+  <project path="vendor/xiaomi/beryllium" name="MoKee/android_vendor_xiaomi_beryllium" />
   <project path="vendor/xiaomi/chiron" name="MoKee/android_vendor_xiaomi_chiron" />
   <project path="vendor/xiaomi/dipper" name="MoKee/android_vendor_xiaomi_dipper" />
   <project path="vendor/xiaomi/gemini" name="MoKee/android_vendor_xiaomi_gemini" />
