@@ -97,25 +97,32 @@
 
   <!-- XiaoMi -->
   <project path="device/xiaomi/chiron" name="MoKee/android_device_xiaomi_chiron" />
+  <project path="device/xiaomi/dipper" name="MoKee/android_device_xiaomi_dipper" />
   <project path="device/xiaomi/gemini" name="MoKee/android_device_xiaomi_gemini" />
   <project path="device/xiaomi/lithium" name="MoKee/android_device_xiaomi_lithium" />
   <project path="device/xiaomi/natrium" name="MoKee/android_device_xiaomi_natrium" />
   <project path="device/xiaomi/msm8996-common" name="MoKee/android_device_xiaomi_msm8996-common" />
   <project path="device/xiaomi/msm8998-common" name="MoKee/android_device_xiaomi_msm8998-common" />
+  <project path="device/xiaomi/polaris" name="MoKee/android_device_xiaomi_polaris" />
   <project path="device/xiaomi/sagit" name="MoKee/android_device_xiaomi_sagit" />
   <project path="device/xiaomi/scorpio" name="MoKee/android_device_xiaomi_scorpio" />
+  <project path="device/xiaomi/sdm845-common" name="MoKee/android_device_xiaomi_sdm845-common" />
   <project path="device/xiaomi/twolip" name="MoKee/android_device_xiaomi_twolip" />
   <project path="hardware/xiaomi" name="MoKee/android_hardware_xiaomi" />
   <project path="kernel/xiaomi/msm8996" name="MoKee/android_kernel_xiaomi_msm8996" />
   <project path="kernel/xiaomi/msm8998" name="MoKee/android_kernel_xiaomi_msm8998" />
+  <project path="kernel/xiaomi/sdm845" name="MoKee/android_kernel_xiaomi_sdm845" />
   <project path="vendor/xiaomi/chiron" name="MoKee/android_vendor_xiaomi_chiron" />
+  <project path="vendor/xiaomi/dipper" name="MoKee/android_vendor_xiaomi_dipper" />
   <project path="vendor/xiaomi/gemini" name="MoKee/android_vendor_xiaomi_gemini" />
   <project path="vendor/xiaomi/lithium" name="MoKee/android_vendor_xiaomi_lithium" />
   <project path="vendor/xiaomi/natrium" name="MoKee/android_vendor_xiaomi_natrium" />
   <project path="vendor/xiaomi/msm8996-common" name="MoKee/android_vendor_xiaomi_msm8996-common" />
   <project path="vendor/xiaomi/msm8998-common" name="MoKee/android_vendor_xiaomi_msm8998-common" />
+  <project path="vendor/xiaomi/polaris" name="MoKee/android_vendor_xiaomi_polaris" />
   <project path="vendor/xiaomi/sagit" name="MoKee/android_vendor_xiaomi_sagit" />
   <project path="vendor/xiaomi/scorpio" name="MoKee/android_vendor_xiaomi_scorpio" />
+  <project path="vendor/xiaomi/sdm845-common" name="MoKee/android_vendor_xiaomi_sdm845-common" />
   <project path="vendor/xiaomi/twolip" name="MoKee/android_vendor_xiaomi_twolip" />
 
   <!-- Zuk -->
