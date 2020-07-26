@@ -20,6 +20,7 @@
   <project path="development" name="MoKee/android_development" />
   <project path="external/chromium-libpac" name="MoKee/android_external_chromium-libpac" groups="pdk" />
   <project path="external/chromium-webview" name="MoKee/android_external_chromium-webview" revision="master" />
+  <project path="external/dng_sdk" name="MoKee/android_external_dng_sdk" groups="pdk" />
   <project path="external/e2fsprogs" name="MoKee/android_external_e2fsprogs" />
   <project path="external/elfutils" name="MoKee/android_external_elfutils" />
   <project path="external/f2fs-tools" name="MoKee/android_external_f2fs-tools" />
