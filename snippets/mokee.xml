@@ -20,10 +20,10 @@
   <project path="external/vim" name="MoKee/android_external_vim" />
   <project path="external/zip" name="MoKee/android_external_zip" />
   <!-- <project path="hardware/broadcom/nfc" name="MoKee/android_hardware_broadcom_nfc" /> -->
-  <!-- <project path="hardware/mokee/interfaces" name="MoKee/android_hardware_mokee_interfaces" /> -->
-  <!-- <project path="hardware/mokee/livedisplay" name="MoKee/android_hardware_mokee_livedisplay" /> -->
+  <project path="hardware/mokee/interfaces" name="MoKee/android_hardware_mokee_interfaces" />
+  <project path="hardware/mokee/livedisplay" name="MoKee/android_hardware_mokee_livedisplay" />
   <!-- <project path="hardware/mokee/telephony" name="MoKee/android_hardware_mokee_telephony" />-->
-  <!-- <project path="mokee-sdk" name="MoKee/android_mokee-sdk" /> -->
+  <project path="mokee-sdk" name="MoKee/android_mokee-sdk" />
   <!-- <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" /> -->
   <!-- <project path="packages/apps/Backgrounds" name="MoKee/android_packages_apps_Backgrounds" /> -->
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" groups="pdk-fs" revision="master" />
@@ -35,7 +35,7 @@
   <project path="packages/apps/Gallery2" name="MoKee/android_packages_apps_Gallery2" revision="master" />
   <!-- <project path="packages/apps/Lawnchair" name="MoKee/android_packages_apps_Lawnchair" revision="master" /> -->
   <!-- <project path="packages/apps/LockClock" name="MoKee/android_packages_apps_LockClock" /> -->
-  <!-- <project path="packages/apps/MKParts" name="MoKee/android_packages_apps_MKParts" /> -->
+  <project path="packages/apps/MKParts" name="MoKee/android_packages_apps_MKParts" />
   <!-- <project path="packages/apps/MoKeeCenter" name="MoKee/android_packages_apps_MoKeeCenter" /> -->
   <project path="packages/apps/Phonograph" name="MoKee/android_packages_apps_Phonograph" revision="master" />
   <!-- <project path="packages/apps/Profiles" name="MoKee/android_packages_apps_Profiles" /> -->
@@ -49,11 +49,11 @@
   <!-- <project path="packages/providers/WeatherProvider" name="MoKee/android_packages_providers_WeatherProvider" /> -->
   <project path="packages/resources/devicesettings" name="MoKee/android_packages_resources_devicesettings" />
   <!--<project path="prebuilts/mokee-sdk" name="MoKee/android_prebuilts_mokee-sdk" clone-depth="1" />-->
-  <!-- <project path="prebuilts/tools-mokee" name="MoKee/android_prebuilts_tools-mokee" clone-depth="1" /> -->
-  <!-- <project path="vendor/mokee" name="MoKee/android_vendor_mk" > -->
-    <!-- <copyfile src="noop/Android.mk" dest="kernel/Android.mk" /> -->
-  <!-- </project> -->
-  <!-- <project path="vendor/mokee-priv" name="MoKee/android_vendor_mk-priv" clone-depth="1" /> -->
+  <project path="prebuilts/tools-mokee" name="MoKee/android_prebuilts_tools-mokee" clone-depth="1" />
+  <project path="vendor/mokee" name="MoKee/android_vendor_mk" >
+    <copyfile src="noop/Android.mk" dest="kernel/Android.mk" />
+  </project>
+  <project path="vendor/mokee-priv" name="MoKee/android_vendor_mk-priv" clone-depth="1" />
 
   <!-- MoKee resources additions -->
   <project path="packages/resources/Aegis" name="MoKee/android_packages_resources_Aegis" />
@@ -137,7 +137,7 @@
   <!-- <project path="hardware/qcom-caf/vr" name="MoKee/android_hardware_qcom_vr" groups="qcom,pdk-qcom" /> -->
   <!-- <project path="hardware/qcom-caf/wlan" name="MoKee/android_hardware_qcom_wlan" groups="qcom_wlan,pdk-qcom" revision="mkr-caf" /> -->
   <!-- <project path="system/tools/dtbtool" name="MoKee/android_system_tools_dtbtool" /> -->
-  <!-- <project path="vendor/codeaurora/telephony" name="MoKee/android_vendor_codeaurora_telephony" /> -->
+  <project path="vendor/codeaurora/telephony" name="MoKee/android_vendor_codeaurora_telephony" />
   <!-- <project path="vendor/nxp/opensource/interfaces/nfc" name="MoKee/android_vendor_nxp_interfaces_opensource_nfc" /> -->
   <!-- <project path="vendor/nxp/opensource/commonsys/external/libnfc-nci" name="MoKee/android_vendor_nxp_opensource_external_libnfc-nci" /> -->
   <!-- <project path="vendor/nxp/opensource/commonsys/frameworks" name="MoKee/android_vendor_nxp_opensource_frameworks" /> -->
