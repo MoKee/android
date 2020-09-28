@@ -63,6 +63,7 @@
   <project path="device/oneplus/fajita" name="MoKee/android_device_oneplus_fajita" />
   <project path="device/oneplus/guacamole" name="MoKee/android_device_oneplus_guacamole" />
   <project path="device/oneplus/guacamoleb" name="MoKee/android_device_oneplus_guacamoleb" />
+  <project path="device/oneplus/hotdog" name="MoKee/android_device_oneplus_hotdog" />
   <project path="device/oneplus/oneplus2" name="MoKee/android_device_oneplus_oneplus2" />
   <project path="device/oneplus/sdm845-common" name="MoKee/android_device_oneplus_sdm845-common" />
   <project path="device/oneplus/sm8150-common" name="MoKee/android_device_oneplus_sm8150-common" />
@@ -71,6 +72,7 @@
   <project path="kernel/oneplus/sm8150" name="MoKee/android_kernel_oneplus_sm8150" />
   <project path="vendor/oneplus/guacamole" name="MoKee/android_vendor_oneplus_guacamole" />
   <project path="vendor/oneplus/guacamoleb" name="MoKee/android_vendor_oneplus_guacamoleb" />
+  <project path="vendor/oneplus/hotdog" name="MoKee/android_vendor_oneplus_hotdog" />
   <project path="vendor/oneplus/oneplus2" name="MoKee/android_vendor_oneplus_oneplus2" />
   <project path="vendor/oneplus/sdm845-common" name="MoKee/android_vendor_oneplus_sdm845-common" />
   <project path="vendor/oneplus/sm8150-common" name="MoKee/android_vendor_oneplus_sm8150-common" />
@@ -101,6 +103,7 @@
   <project path="device/xiaomi/chiron" name="MoKee/android_device_xiaomi_chiron" />
   <project path="device/xiaomi/dipper" name="MoKee/android_device_xiaomi_dipper" />
   <project path="device/xiaomi/gemini" name="MoKee/android_device_xiaomi_gemini" />
+  <project path="device/xiaomi/ginkgo" name="MoKee/android_device_xiaomi_ginkgo" />
   <project path="device/xiaomi/lithium" name="MoKee/android_device_xiaomi_lithium" />
   <project path="device/xiaomi/natrium" name="MoKee/android_device_xiaomi_natrium" />
   <project path="device/xiaomi/msm8996-common" name="MoKee/android_device_xiaomi_msm8996-common" />
@@ -109,15 +112,18 @@
   <project path="device/xiaomi/sagit" name="MoKee/android_device_xiaomi_sagit" />
   <project path="device/xiaomi/scorpio" name="MoKee/android_device_xiaomi_scorpio" />
   <project path="device/xiaomi/sdm845-common" name="MoKee/android_device_xiaomi_sdm845-common" />
+  <project path="device/xiaomi/sm6125-common" name="MoKee/android_device_xiaomi_sm6125-common" />
   <project path="device/xiaomi/twolip" name="MoKee/android_device_xiaomi_twolip" />
   <project path="hardware/xiaomi" name="MoKee/android_hardware_xiaomi" />
   <project path="kernel/xiaomi/msm8996" name="MoKee/android_kernel_xiaomi_msm8996" />
   <project path="kernel/xiaomi/msm8998" name="MoKee/android_kernel_xiaomi_msm8998" />
   <project path="kernel/xiaomi/sdm845" name="MoKee/android_kernel_xiaomi_sdm845" />
+  <project path="kernel/xiaomi/sm6125" name="MoKee/android_kernel_xiaomi_sm6125" />
   <project path="vendor/xiaomi/beryllium" name="MoKee/android_vendor_xiaomi_beryllium" />
   <project path="vendor/xiaomi/chiron" name="MoKee/android_vendor_xiaomi_chiron" />
   <project path="vendor/xiaomi/dipper" name="MoKee/android_vendor_xiaomi_dipper" />
   <project path="vendor/xiaomi/gemini" name="MoKee/android_vendor_xiaomi_gemini" />
+  <project path="vendor/xiaomi/ginkgo" name="MoKee/android_vendor_xiaomi_ginkgo" />
   <project path="vendor/xiaomi/lithium" name="MoKee/android_vendor_xiaomi_lithium" />
   <project path="vendor/xiaomi/natrium" name="MoKee/android_vendor_xiaomi_natrium" />
   <project path="vendor/xiaomi/msm8996-common" name="MoKee/android_vendor_xiaomi_msm8996-common" />
@@ -126,6 +132,7 @@
   <project path="vendor/xiaomi/sagit" name="MoKee/android_vendor_xiaomi_sagit" />
   <project path="vendor/xiaomi/scorpio" name="MoKee/android_vendor_xiaomi_scorpio" />
   <project path="vendor/xiaomi/sdm845-common" name="MoKee/android_vendor_xiaomi_sdm845-common" />
+  <project path="vendor/xiaomi/sm6125-common" name="MoKee/android_vendor_xiaomi_sm6125-common" />
   <project path="vendor/xiaomi/twolip" name="MoKee/android_vendor_xiaomi_twolip" />
 
   <!-- Zuk -->
