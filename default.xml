@@ -17,6 +17,7 @@
   <project path="bootable/recovery" name="MoKee/android_bootable_recovery" groups="pdk" />
   <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" />
   <project path="device/generic/goldfish-opengl" name="MoKee/android_device_generic_goldfish-opengl" groups="pdk" />
+  <project path="device/google/atv" name="MoKee/android_device_google_atv" groups="device,broadcom_pdk,generic_fs,pdk" />
   <project path="external/avb" name="MoKee/android_external_avb" groups="pdk" />
   <project path="external/curl" name="MoKee/android_external_curl" groups="pdk" />
   <project path="external/elfutils" name="MoKee/android_external_elfutils" groups="pdk" />
