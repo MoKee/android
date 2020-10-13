@@ -13,23 +13,31 @@
   <project path="build/make" name="MoKee/android_build" groups="pdk" />
   <project path="build/blueprint" name="MoKee/android_build_blueprint" groups="pdk,tradefed" />
   <project path="build/soong" name="MoKee/android_build_soong" groups="pdk,tradefed" />
+  <project path="bionic" name="MoKee/android_bionic" groups="pdk" />
+  <project path="bootable/recovery" name="MoKee/android_bootable_recovery" groups="pdk" />
   <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" />
   <project path="device/generic/goldfish-opengl" name="MoKee/android_device_generic_goldfish-opengl" groups="pdk" />
-  <project path="bionic" name="MoKee/android_bionic" groups="pdk" />
   <project path="external/avb" name="MoKee/android_external_avb" groups="pdk" />
   <project path="external/curl" name="MoKee/android_external_curl" groups="pdk" />
   <project path="external/elfutils" name="MoKee/android_external_elfutils" groups="pdk" />
   <project path="external/guice" name="MoKee/android_external_guice" groups="pdk" />
   <project path="external/libbrillo" name="MoKee/android_external_libbrillo" groups="pdk" />
   <project path="external/libchrome" name="MoKee/android_external_libchrome" groups="pdk" />
+  <project path="external/libcxx" name="MoKee/android_external_libcxx" groups="pdk" />
   <project path="external/noto-fonts" name="MoKee/android_external_noto-fonts" groups="pdk" />
   <project path="external/puffin" name="MoKee/android_external_puffin" groups="pdk" />
+  <project path="external/tinycompress" name="MoKee/android_external_tinycompress" groups="pdk" />
+  <project path="frameworks/av" name="MoKee/android_frameworks_av" groups="pdk" />
   <project path="frameworks/base" name="MoKee/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/native" name="MoKee/android_frameworks_native" groups="pdk" />
+  <project path="hardware/interfaces" name="MoKee/android_hardware_interfaces" groups="pdk" />
   <project path="hardware/libhardware" name="MoKee/android_hardware_libhardware" groups="pdk" />
   <project path="hardware/libhardware_legacy" name="MoKee/android_hardware_libhardware_legacy" groups="pdk" />
   <project path="hardware/ril" name="MoKee/android_hardware_ril" groups="pdk" />
   <project path="packages/apps/Dialer" name="MoKee/android_packages_apps_Dialer" groups="pdk-fs" />
+  <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" groups="pdk-fs" />
+  <project path="packages/apps/SettingsIntelligence" name="MoKee/android_packages_apps_SettingsIntelligence" groups="pdk-fs" />
+  <project path="packages/apps/ThemePicker" name="MoKee/android_packages_apps_ThemePicker" groups="pdk-fs" />
   <project path="packages/modules/NetworkStack" name="MoKee/android_packages_modules_NetworkStack" groups="pdk-cw-fs,pdk-fs" />
   <project path="system/apex" name="MoKee/android_system_apex" groups="pdk" />
   <project path="system/bt" name="MoKee/android_system_bt" groups="pdk" />
@@ -37,6 +45,7 @@
   <project path="system/incremental_delivery" name="MoKee/android_system_incremental_delivery" groups="pdk" />
   <project path="system/libufdt" name="MoKee/android_system_libufdt" groups="pdk" />
   <project path="system/sepolicy" name="MoKee/android_system_sepolicy" groups="pdk" />
+  <project path="system/vold" name="MoKee/android_system_vold" groups="pdk" />
   <project path="tools/metalava" name="MoKee/android_tools_metalava" groups="pdk,tools" />
 
   <include name="snippets/mokee.xml" />
