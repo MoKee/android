@@ -34,6 +34,7 @@
   <project path="hardware/interfaces" name="MoKee/android_hardware_interfaces" groups="pdk" />
   <project path="hardware/libhardware" name="MoKee/android_hardware_libhardware" groups="pdk" />
   <project path="hardware/libhardware_legacy" name="MoKee/android_hardware_libhardware_legacy" groups="pdk" />
+  <project path="hardware/nxp/nfc" name="MoKee/android_hardware_nxp_nfc" groups="pdk" />
   <project path="hardware/ril" name="MoKee/android_hardware_ril" groups="pdk" />
   <project path="packages/apps/Dialer" name="MoKee/android_packages_apps_Dialer" groups="pdk-fs" />
   <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" groups="pdk-fs" />
@@ -47,6 +48,7 @@
   <project path="system/incremental_delivery" name="MoKee/android_system_incremental_delivery" groups="pdk" />
   <project path="system/libufdt" name="MoKee/android_system_libufdt" groups="pdk" />
   <project path="system/sepolicy" name="MoKee/android_system_sepolicy" groups="pdk" />
+  <project path="system/tools/mkbootimg" name="MoKee/android_system_tools_mkbootimg" groups="pdk" />
   <project path="system/update_engine" name="MoKee/android_system_update_engine" groups="pdk" />
   <project path="system/vold" name="MoKee/android_system_vold" groups="pdk" />
   <project path="tools/metalava" name="MoKee/android_tools_metalava" groups="pdk,tools" />

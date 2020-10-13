@@ -26,11 +26,11 @@
   <project path="hardware/mokee/livedisplay" name="MoKee/android_hardware_mokee_livedisplay" />
   <!-- <project path="hardware/mokee/telephony" name="MoKee/android_hardware_mokee_telephony" />-->
   <project path="mokee-sdk" name="MoKee/android_mokee-sdk" />
-  <!-- <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" /> -->
+  <project path="packages/apps/AudioFX" name="MoKee/android_packages_apps_AudioFX" />
   <!-- <project path="packages/apps/Backgrounds" name="MoKee/android_packages_apps_Backgrounds" /> -->
   <project path="packages/apps/Calendar" name="MoKee/android_packages_apps_Calendar" groups="pdk-fs" revision="master" />
   <!--<project path="packages/apps/Email" name="MoKee/android_packages_apps_Email" />-->
-  <!-- <project path="packages/apps/ExactCalculator" name="MoKee/android_packages_apps_ExactCalculator" /> -->
+  <project path="packages/apps/ExactCalculator" name="MoKee/android_packages_apps_ExactCalculator" />
   <!-- <project path="packages/apps/Exchange" name="MoKee/android_packages_apps_Exchange" /> -->
   <!-- <project path="packages/apps/FMRadio" name="MoKee/android_packages_apps_FMRadio" /> -->
   <!-- <project path="packages/apps/FlipFlap" name="MoKee/android_packages_apps_FlipFlap" /> -->
@@ -62,7 +62,7 @@
   <!-- CodeAurora additions -->
   <project path="device/qcom/sepolicy" name="MoKee/android_device_qcom_sepolicy" groups="qcom,pdk-qcom" />
   <!-- <project path="device/qcom/sepolicy-legacy" name="MoKee/android_device_qcom_sepolicy" groups="qcom,pdk-qcom" revision="mkr-legacy" /> -->
-  <!-- <project path="device/qcom/sepolicy-legacy-um" name="MoKee/android_device_qcom_sepolicy" groups="qcom,pdk-qcom" revision="mkr-legacy-um" /> -->
+  <project path="device/qcom/sepolicy-legacy-um" name="MoKee/android_device_qcom_sepolicy" groups="qcom,pdk-qcom" revision="mkr-legacy-um" />
   <project path="device/qcom/sepolicy_vndr" name="MoKee/android_device_qcom_sepolicy_vndr" groups="qcom,pdk-qcom" />
   <project path="external/ant-wireless/ant_client" name="MoKee/android_external_ant-wireless_ant_client" />
   <project path="external/ant-wireless/ant_native" name="MoKee/android_external_ant-wireless_ant_native" />
