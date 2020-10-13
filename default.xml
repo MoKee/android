@@ -43,6 +43,7 @@
   <project path="packages/apps/ThemePicker" name="MoKee/android_packages_apps_ThemePicker" groups="pdk-fs" />
   <project path="packages/apps/TvSettings" name="MoKee/android_packages_apps_TvSettings" groups="pdk-fs" />
   <project path="packages/modules/NetworkStack" name="MoKee/android_packages_modules_NetworkStack" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/services/Telephony" name="MoKee/android_packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" />
   <project path="system/apex" name="MoKee/android_system_apex" groups="pdk" />
   <project path="system/bt" name="MoKee/android_system_bt" groups="pdk" />
   <project path="system/core" name="MoKee/android_system_core" groups="pdk" />
