@@ -41,6 +41,7 @@
   <project path="packages/apps/Dialer" name="MoKee/android_packages_apps_Dialer" groups="pdk-fs" />
   <project path="packages/apps/Settings" name="MoKee/android_packages_apps_Settings" groups="pdk-fs" />
   <project path="packages/apps/SettingsIntelligence" name="MoKee/android_packages_apps_SettingsIntelligence" groups="pdk-fs" />
+  <project path="packages/apps/Terminal" name="MoKee/android_packages_apps_Terminal" groups="pdk-fs" />
   <project path="packages/apps/ThemePicker" name="MoKee/android_packages_apps_ThemePicker" groups="pdk-fs" />
   <project path="packages/apps/TvSettings" name="MoKee/android_packages_apps_TvSettings" groups="pdk-fs" />
   <project path="packages/modules/NetworkStack" name="MoKee/android_packages_modules_NetworkStack" groups="pdk-cw-fs,pdk-fs" />
