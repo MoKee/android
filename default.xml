@@ -15,6 +15,7 @@
   <project path="build/soong" name="MoKee/android_build_soong" groups="pdk,tradefed" />
   <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" />
   <project path="device/generic/goldfish-opengl" name="MoKee/android_device_generic_goldfish-opengl" groups="pdk" />
+  <project path="bionic" name="MoKee/android_bionic" groups="pdk" />
   <project path="external/avb" name="MoKee/android_external_avb" groups="pdk" />
   <project path="external/curl" name="MoKee/android_external_curl" groups="pdk" />
   <project path="external/elfutils" name="MoKee/android_external_elfutils" groups="pdk" />
