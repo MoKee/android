@@ -26,12 +26,16 @@
   <project path="external/puffin" name="MoKee/android_external_puffin" groups="pdk" />
   <project path="frameworks/base" name="MoKee/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/native" name="MoKee/android_frameworks_native" groups="pdk" />
+  <project path="hardware/libhardware" name="MoKee/android_hardware_libhardware" groups="pdk" />
+  <project path="hardware/libhardware_legacy" name="MoKee/android_hardware_libhardware_legacy" groups="pdk" />
+  <project path="hardware/ril" name="MoKee/android_hardware_ril" groups="pdk" />
   <project path="packages/apps/Dialer" name="MoKee/android_packages_apps_Dialer" groups="pdk-fs" />
   <project path="packages/modules/NetworkStack" name="MoKee/android_packages_modules_NetworkStack" groups="pdk-cw-fs,pdk-fs" />
   <project path="system/apex" name="MoKee/android_system_apex" groups="pdk" />
   <project path="system/bt" name="MoKee/android_system_bt" groups="pdk" />
   <project path="system/core" name="MoKee/android_system_core" groups="pdk" />
   <project path="system/incremental_delivery" name="MoKee/android_system_incremental_delivery" groups="pdk" />
+  <project path="system/libufdt" name="MoKee/android_system_libufdt" groups="pdk" />
   <project path="system/sepolicy" name="MoKee/android_system_sepolicy" groups="pdk" />
   <project path="tools/metalava" name="MoKee/android_tools_metalava" groups="pdk,tools" />
 
