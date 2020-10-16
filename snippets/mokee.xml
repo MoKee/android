@@ -155,7 +155,7 @@
   <project path="vendor/qcom/opensource/libfmjni" name="MoKee/android_vendor_qcom_opensource_libfmjni" groups="qcom,pdk-qcom" />
   <project path="vendor/qcom/opensource/power" name="MoKee/android_vendor_qcom_opensource_power" groups="qcom,pdk-qcom" />
   <project path="vendor/qcom/opensource/thermal-engine" name="MoKee/android_vendor_qcom_opensource_thermal-engine" groups="qcom,pdk-qcom" />
-  <!-- <project path="vendor/qcom/opensource/vibrator" name="MoKee/android_vendor_qcom_opensource_vibrator" groups="qcom,pdk-qcom" /> -->
+  <project path="vendor/qcom/opensource/vibrator" name="MoKee/android_vendor_qcom_opensource_vibrator" groups="qcom,pdk-qcom" />
 
   <!-- MoKee tools -->
   <project path="mokee/boot-repacker" name="MoKee/boot-repacker" groups="infra" revision="master" />
