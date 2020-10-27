@@ -43,6 +43,7 @@
   <project path="external/selinux" name="MoKee/android_external_selinux" />
   <project path="external/sfntly" name="MoKee/android_external_sfntly" groups="pdk,qcom_msm8x26" />
   <project path="external/skia" name="MoKee/android_external_skia" groups="pdk,qcom_msm8x26" />
+  <project path="external/sonivox" name="MoKee/android_external_sonivox" groups="pdk" />
   <project path="external/sqlite" name="MoKee/android_external_sqlite" />
   <project path="external/tinycompress" name="MoKee/android_external_tinycompress" />
   <project path="external/toybox" name="MoKee/android_external_toybox" />
