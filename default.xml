@@ -18,6 +18,7 @@
   <project path="bootable/recovery" name="MoKee/android_bootable_recovery" groups="pdk" />
   <project path="development" name="MoKee/android_development" groups="developers,pdk-cw-fs,pdk-fs" />
   <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" />
+  <project path="external/aac" name="MoKee/android_external_aac" groups="pdk" />
   <project path="external/avb" name="MoKee/android_external_avb" groups="pdk" />
   <project path="external/chromium-webview" name="MoKee/android_external_chromium-webview" groups="pdk" revision="master" clone-depth="2" />
   <project path="external/cldr" name="MoKee/android_external_cldr" groups="pdk" />
@@ -29,6 +30,7 @@
   <project path="external/gptfdisk" name="MoKee/android_external_gptfdisk" groups="pdk" />
   <project path="external/icu" name="MoKee/android_external_icu" groups="pdk" />
   <project path="external/libcxx" name="MoKee/android_external_libcxx" groups="pdk" />
+  <project path="external/libexif" name="MoKee/android_external_libexif" groups="pdk" />
   <project path="external/libhevc" name="MoKee/android_external_libhevc" groups="pdk" />
   <project path="external/libtextclassifier" name="MoKee/android_external_libtextclassifier" groups="pdk" />
   <project path="external/mksh" name="MoKee/android_external_mksh" groups="pdk" />
@@ -132,6 +134,7 @@
   <project path="system/keymaster" name="MoKee/android_system_keymaster" groups="pdk" />
   <project path="system/libufdt" name="MoKee/android_system_libufdt" groups="pdk" />
   <project path="system/netd" name="MoKee/android_system_netd" groups="pdk" />
+  <project path="system/nfc" name="MoKee/android_system_nfc" groups="pdk" />
   <project path="system/sepolicy" name="MoKee/android_system_sepolicy" groups="pdk" />
   <project path="system/timezone" name="MoKee/android_system_timezone" groups="pdk" />
   <project path="system/update_engine" name="MoKee/android_system_update_engine" groups="pdk" />
