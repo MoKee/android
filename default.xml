@@ -26,6 +26,7 @@
   <project path="external/elfutils" name="MoKee/android_external_elfutils" />
   <project path="external/f2fs-tools" name="MoKee/android_external_f2fs-tools" />
   <project path="external/flac" name="MoKee/android_external_flac" />
+  <project path="external/freetype" name="MoKee/android_external_freetype" groups="pdk" />
   <project path="external/gptfdisk" name="MoKee/android_external_gptfdisk" />
   <project path="external/icu" name="MoKee/android_external_icu" groups="pdk" />
   <project path="external/ImageMagick" name="MoKee/android_external_ImageMagick" groups="pdk" />
