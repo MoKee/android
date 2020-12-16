@@ -26,10 +26,11 @@
   <project path="external/e2fsprogs" name="MoKee/android_external_e2fsprogs" groups="pdk" />
   <project path="external/elfutils" name="MoKee/android_external_elfutils" groups="pdk" />
   <project path="external/freetype" name="MoKee/android_external_freetype" groups="pdk" />
-  <project path="external/libbrillo" name="MoKee/android_external_libbrillo" groups="pdk" />
-  <project path="external/libchrome" name="MoKee/android_external_libchrome" groups="pdk" />
   <project path="external/gptfdisk" name="MoKee/android_external_gptfdisk" groups="pdk" />
   <project path="external/icu" name="MoKee/android_external_icu" groups="pdk" />
+  <project path="external/libaom" name="MoKee/android_external_libaom" groups="pdk" />
+  <project path="external/libbrillo" name="MoKee/android_external_libbrillo" groups="pdk" />
+  <project path="external/libchrome" name="MoKee/android_external_libchrome" groups="pdk" />
   <project path="external/libcxx" name="MoKee/android_external_libcxx" groups="pdk" />
   <project path="external/libexif" name="MoKee/android_external_libexif" groups="pdk" />
   <project path="external/libhevc" name="MoKee/android_external_libhevc" groups="pdk" />
@@ -74,6 +75,7 @@
   <project path="packages/apps/Bluetooth" name="MoKee/android_packages_apps_Bluetooth" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/Camera2" name="MoKee/android_packages_apps_Camera2" groups="pdk-fs" />
   <project path="packages/apps/CarrierConfig" name="MoKee/android_packages_apps_CarrierConfig" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/apps/Car/Settings" name="MoKee/android_packages_apps_Car_Settings" groups="pdk-fs" />
   <project path="packages/apps/CellBroadcastReceiver" name="MoKee/android_packages_apps_CellBroadcastReceiver" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/CertInstaller" name="MoKee/android_packages_apps_CertInstaller" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/Contacts" name="MoKee/android_packages_apps_Contacts" groups="pdk-fs" />
