@@ -152,6 +152,7 @@
   <project path="system/core" name="MoKee/android_system_core" groups="pdk" />
   <project path="system/extras" name="MoKee/android_system_extras" groups="pdk" />
   <project path="system/keymaster" name="MoKee/android_system_keymaster" groups="pdk" />
+  <project path="system/media" name="MoKee/android_system_media" groups="pdk" />
   <project path="system/netd" name="MoKee/android_system_netd" groups="pdk" />
   <project path="system/nfc" name="MoKee/android_system_nfc" groups="pdk" />
   <project path="system/security" name="MoKee/android_system_security" groups="pdk" />
