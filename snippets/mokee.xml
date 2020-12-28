@@ -46,7 +46,9 @@
   <!-- <project path="packages/apps/WarpShare" name="MoKee/android_packages_apps_WarpShare" /> -->
   <project path="packages/overlays/MoKee" name="MoKee/android_packages_overlays_MoKee" />
   <project path="packages/resources/devicesettings" name="MoKee/android_packages_resources_devicesettings" />
+  <project path="prebuilts/extract-tools" name="MoKee/android_prebuilts_extract-tools" clone-depth="1" />
   <project path="prebuilts/tools-mokee" name="MoKee/android_prebuilts_tools-mokee" clone-depth="1" />
+  <project path="tools/extract-utils" name="MoKee/android_tools_extract-utils" />
   <project path="vendor/mokee" name="MoKee/android_vendor_mk" >
     <copyfile src="noop/Android.mk" dest="kernel/Android.mk" />
   </project>
