@@ -56,6 +56,7 @@
   <project path="external/zlib" name="MoKee/android_external_zlib" />
   <project path="frameworks/av" name="MoKee/android_frameworks_av" />
   <project path="frameworks/base" name="MoKee/android_frameworks_base" />
+  <project path="frameworks/layoutlib" name="MoKee/android_frameworks_layoutlib" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/native" name="MoKee/android_frameworks_native" />
   <project path="frameworks/opt/datetimepicker" name="MoKee/android_frameworks_opt_datetimepicker" />
   <project path="frameworks/opt/net/wifi" name="MoKee/android_frameworks_opt_net_wifi" />
@@ -138,6 +139,7 @@
   <project path="system/gatekeeper" name="MoKee/android_system_gatekeeper" groups="pdk" />
   <project path="system/keymaster" name="MoKee/android_system_keymaster" />
   <project path="system/libhidl" name="MoKee/android_system_libhidl" />
+  <project path="system/media" name="MoKee/android_system_media" groups="pdk" />
   <project path="system/netd" name="MoKee/android_system_netd" />
   <project path="system/nfc" name="MoKee/android_system_nfc" />
   <project path="system/security" name="MoKee/android_system_security" />
