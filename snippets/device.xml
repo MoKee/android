@@ -121,6 +121,7 @@
   <project path="device/xiaomi/scorpio" name="MoKee/android_device_xiaomi_scorpio" />
   <project path="device/xiaomi/sdm845-common" name="MoKee/android_device_xiaomi_sdm845-common" />
   <project path="device/xiaomi/sm6125-common" name="MoKee/android_device_xiaomi_sm6125-common" />
+  <project path="device/xiaomi/sm6150-common" name="MoKee/android_device_xiaomi_sm6150-common" />
   <project path="device/xiaomi/twolip" name="MoKee/android_device_xiaomi_twolip" />
   <project path="hardware/xiaomi" name="MoKee/android_hardware_xiaomi" />
   <project path="kernel/xiaomi/davinci" name="MoKee/android_kernel_xiaomi_davinci" />
