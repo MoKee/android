@@ -39,6 +39,7 @@
   <project path="device/motorola/sdm632-common" name="MoKee/android_device_motorola_sdm632-common" />
   <project path="device/motorola/sdm660-common" name="MoKee/android_device_motorola_sdm660-common" />
   <project path="external/bson" name="MoKee/android_external_bson" />
+  <project path="hardware/motorola" name="MoKee/android_hardware_motorola" />
   <project path="kernel/motorola/msm8916" name="MoKee/android_kernel_motorola_msm8916" />
   <project path="kernel/motorola/msm8996" name="MoKee/android_kernel_motorola_msm8996" />
   <project path="kernel/motorola/msm8998" name="MoKee/android_kernel_motorola_msm8998" />
