@@ -45,6 +45,7 @@
   <project path="frameworks/opt/timezonepicker" name="MoKee/android_frameworks_opt_timezonepicker" groups="pdk-cw-fs,pdk-fs" />
   <project path="hardware/broadcom/libbt" name="MoKee/android_hardware_broadcom_libbt" groups="pdk" />
   <project path="hardware/interfaces" name="MoKee/android_hardware_interfaces" groups="pdk" />
+  <project path="hardware/knowles/athletico/sound_trigger_hal" name="MoKee/android_hardware_knowles_athletico_sound_trigger_hal" groups="coral,generic_fs" />
   <project path="hardware/libhardware" name="MoKee/android_hardware_libhardware" groups="pdk" />
   <project path="hardware/nxp/nfc" name="MoKee/android_hardware_nxp_nfc" groups="pdk" />
   <project path="hardware/qcom/audio" name="MoKee/android_hardware_qcom_audio" groups="qcom,qcom_audio,pdk-qcom" />
@@ -54,6 +55,7 @@
   <project path="hardware/qcom/keymaster" name="MoKee/android_hardware_qcom_keymaster" groups="qcom,qcom_keymaster,pdk-qcom" />
   <project path="hardware/qcom/media" name="MoKee/android_hardware_qcom_media" groups="qcom,pdk-qcom" />
   <project path="hardware/qcom/sdm845/display" name="MoKee/android_hardware_qcom_sdm845_display" groups="generic_fs,qcom_sdm845" />
+  <project path="hardware/qcom/sm8150/data/ipacfg-mgr" name="MoKee/android_hardware_qcom_sm8150_data_ipacfg-mgr" groups="qcom_sm8150" />
   <project path="hardware/ril" name="MoKee/android_hardware_ril" groups="pdk" />
   <project path="packages/apps/BasicSmsReceiver" name="MoKee/android_packages_apps_BasicSmsReceiver" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/Bluetooth" name="MoKee/android_packages_apps_Bluetooth" groups="pdk-cw-fs,pdk-fs" />
@@ -113,7 +115,6 @@
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" name="MoKee/android_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.9" groups="pdk,linux,arm" />
   <project path="prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9" name="MoKee/android_prebuilts_gcc_linux-x86_x86_x86_64-linux-android-4.9" groups="pdk,linux,x86" />
   <project path="platform_testing" name="MoKee/android_platform_testing" groups="pdk-fs,pdk-cw-fs,cts" />
-  <project path="system/apex" name="platform/system/apex" groups="pdk" remote="aosp" />
   <project path="system/bt" name="MoKee/android_system_bt" groups="pdk" />
   <project path="system/core" name="MoKee/android_system_core" groups="pdk" />
   <project path="system/incremental_delivery" name="MoKee/android_system_incremental_delivery" groups="pdk" />
