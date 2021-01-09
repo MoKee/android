@@ -5,7 +5,7 @@
            fetch=".."
            review="https://mokeedev.review" />
 
-  <default revision="refs/heads/mkr"
+  <default revision="refs/heads/mkr-mr1"
            remote="mokee"
            sync-c="true"
            sync-j="4" />
@@ -110,7 +110,7 @@
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" name="MoKee/android_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.9" groups="pdk,linux,arm" />
   <project path="prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9" name="MoKee/android_prebuilts_gcc_linux-x86_x86_x86_64-linux-android-4.9" groups="pdk,linux,x86" />
   <project path="platform_testing" name="MoKee/android_platform_testing" groups="pdk-fs,pdk-cw-fs,cts" />
-  <project path="system/apex" name="MoKee/android_system_apex" groups="pdk" />
+  <project path="system/apex" name="platform/system/apex" groups="pdk" remote="aosp" />
   <project path="system/bt" name="MoKee/android_system_bt" groups="pdk" />
   <project path="system/core" name="MoKee/android_system_core" groups="pdk" />
   <project path="system/incremental_delivery" name="MoKee/android_system_incremental_delivery" groups="pdk" />
