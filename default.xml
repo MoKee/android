@@ -48,6 +48,7 @@
   <project path="external/toybox" name="MoKee/android_external_toybox" groups="pdk" />
   <project path="frameworks/av" name="MoKee/android_frameworks_av" groups="pdk" />
   <project path="frameworks/base" name="MoKee/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" />
+  <project path="frameworks/minikin" name="MoKee/android_frameworks_minikin" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/native" name="MoKee/android_frameworks_native" groups="pdk" />
   <project path="frameworks/opt/net/wifi" name="MoKee/android_frameworks_opt_net_wifi" groups="pdk" />
   <project path="frameworks/opt/telephony" name="MoKee/android_frameworks_opt_telephony" groups="pdk" />
@@ -141,6 +142,7 @@
   <project path="system/libufdt" name="MoKee/android_system_libufdt" groups="pdk" />
   <project path="system/netd" name="MoKee/android_system_netd" groups="pdk" />
   <project path="system/nfc" name="MoKee/android_system_nfc" groups="pdk" />
+  <project path="system/security" name="MoKee/android_system_security" groups="pdk" />
   <project path="system/sepolicy" name="MoKee/android_system_sepolicy" groups="pdk" />
   <project path="system/tools/aidl" name="MoKee/android_system_tools_aidl" groups="pdk" />
   <project path="system/timezone" name="MoKee/android_system_timezone" groups="pdk" />
