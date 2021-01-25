@@ -57,6 +57,7 @@
   <project path="frameworks/av" name="MoKee/android_frameworks_av" />
   <project path="frameworks/base" name="MoKee/android_frameworks_base" />
   <project path="frameworks/layoutlib" name="MoKee/android_frameworks_layoutlib" groups="pdk-cw-fs,pdk-fs" />
+  <project path="frameworks/minikin" name="MoKee/android_frameworks_minikin" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/native" name="MoKee/android_frameworks_native" />
   <project path="frameworks/opt/datetimepicker" name="MoKee/android_frameworks_opt_datetimepicker" />
   <project path="frameworks/opt/net/wifi" name="MoKee/android_frameworks_opt_net_wifi" />
