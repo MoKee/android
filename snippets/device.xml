@@ -10,6 +10,11 @@
   <project path="kernel/essential/msm8998" name="MoKee/android_kernel_essential_msm8998" />
   <project path="vendor/essential/mata" name="MoKee/android_vendor_essential_mata" />
 
+  <!-- Huawei -->
+  <project path="device/huawei/kiwi" name="MoKee/android_device_huawei_kiwi" />
+  <project path="kernel/huawei/kiwi" name="MoKee/android_kernel_huawei_kiwi" />
+  <project path="vendor/huawei/kiwi" name="MoKee/android_vendor_huawei_kiwi" />
+
   <!-- Leeco -->
   <project path="device/leeco/msm8996-common" name="MoKee/android_device_leeco_msm8996-common" />
   <project path="device/leeco/x2" name="MoKee/android_device_leeco_x2" />
@@ -25,31 +30,43 @@
   <project path="vendor/lenovo/kuntao" name="MoKee/android_vendor_lenovo_kuntao" />
 
   <!-- Motorola -->
+  <project path="device/motorola/ahannah" name="MoKee/android_device_motorola_ahannah" />
+  <project path="device/motorola/cedric" name="MoKee/android_device_motorola_cedric" />
   <project path="device/motorola/chef" name="MoKee/android_device_motorola_chef" />
   <project path="device/motorola/evert" name="MoKee/android_device_motorola_evert" />
   <project path="device/motorola/griffin" name="MoKee/android_device_motorola_griffin" />
+  <project path="device/motorola/hannah" name="MoKee/android_device_motorola_hannah" />
+  <project path="device/motorola/hannah-common" name="MoKee/android_device_motorola_hannah-common" />
   <project path="device/motorola/harpia" name="MoKee/android_device_motorola_harpia" />
   <project path="device/motorola/lake" name="MoKee/android_device_motorola_lake" />
   <project path="device/motorola/lux" name="MoKee/android_device_motorola_lux" />
+  <project path="device/motorola/montana" name="MoKee/android_device_motorola_montana" />
   <project path="device/motorola/msm8916-common" name="MoKee/android_device_motorola_msm8916-common" />
+  <project path="device/motorola/msm8937-common" name="MoKee/android_device_motorola_msm8937-common" />
   <project path="device/motorola/nash" name="MoKee/android_device_motorola_nash" />
   <project path="device/motorola/osprey" name="MoKee/android_device_motorola_osprey" />
   <project path="device/motorola/payton" name="MoKee/android_device_motorola_payton" />
+  <project path="device/motorola/rhannah" name="MoKee/android_device_motorola_rhannah" />
   <project path="device/motorola/river" name="MoKee/android_device_motorola_river" />
   <project path="device/motorola/sdm632-common" name="MoKee/android_device_motorola_sdm632-common" />
   <project path="device/motorola/sdm660-common" name="MoKee/android_device_motorola_sdm660-common" />
   <project path="external/bson" name="MoKee/android_external_bson" />
   <project path="hardware/motorola" name="MoKee/android_hardware_motorola" />
   <project path="kernel/motorola/msm8916" name="MoKee/android_kernel_motorola_msm8916" />
+  <project path="kernel/motorola/msm8953" name="MoKee/android_kernel_motorola_msm8953" />
   <project path="kernel/motorola/msm8996" name="MoKee/android_kernel_motorola_msm8996" />
   <project path="kernel/motorola/msm8998" name="MoKee/android_kernel_motorola_msm8998" />
+  <project path="vendor/motorola/cedric" name="MoKee/android_vendor_motorola_cedric" />
   <project path="vendor/motorola/chef" name="MoKee/android_vendor_motorola_chef" />
   <project path="vendor/motorola/evert" name="MoKee/android_vendor_motorola_evert" />
   <project path="vendor/motorola/griffin" name="MoKee/android_vendor_motorola_griffin" />
+  <project path="vendor/motorola/hannah-common" name="MoKee/android_vendor_motorola_hannah-common" />
   <project path="vendor/motorola/harpia" name="MoKee/android_vendor_motorola_harpia" />
   <project path="vendor/motorola/lake" name="MoKee/android_vendor_motorola_lake" />
   <project path="vendor/motorola/lux" name="MoKee/android_vendor_motorola_lux" />
+  <project path="vendor/motorola/montana" name="MoKee/android_vendor_motorola_montana" />
   <project path="vendor/motorola/msm8916-common" name="MoKee/android_vendor_motorola_msm8916-common" />
+  <project path="vendor/motorola/msm8937-common" name="MoKee/android_vendor_motorola_msm8937-common" />
   <project path="vendor/motorola/nash" name="MoKee/android_vendor_motorola_nash" />
   <project path="vendor/motorola/osprey" name="MoKee/android_vendor_motorola_osprey" />
   <project path="vendor/motorola/payton" name="MoKee/android_vendor_motorola_payton" />
@@ -58,7 +75,13 @@
   <project path="vendor/motorola/sdm660-common" name="MoKee/android_vendor_motorola_sdm660-common" />
   <project path="system/qcom" name="MoKee/android_system_qcom" />
 
+  <!-- Nextbit -->
+  <project path="device/nextbit/ether" name="MoKee/android_device_nextbit_ether" />
+  <project path="kernel/nextbit/msm8992" name="MoKee/android_kernel_nextbit_msm8992" />
+  <project path="vendor/nextbit/ether" name="MoKee/android_vendor_nextbit_ether" />
+
   <!-- OnePlus -->
+  <project path="device/oneplus/avicii" name="MoKee/android_device_oneplus_avicii" />
   <project path="device/oneplus/cheeseburger" name="MoKee/android_device_oneplus_cheeseburger" />
   <project path="device/oneplus/common" name="MoKee/android_device_oneplus_common" />
   <project path="device/oneplus/dumpling" name="MoKee/android_device_oneplus_dumpling" />
@@ -74,7 +97,9 @@
   <project path="kernel/oneplus/msm8994" name="MoKee/android_kernel_oneplus_msm8994" />
   <project path="kernel/oneplus/msm8998" name="MoKee/android_kernel_oneplus_msm8998" />
   <project path="kernel/oneplus/sdm845" name="MoKee/android_kernel_oneplus_sdm845" />
+  <project path="kernel/oneplus/sm7250" name="MoKee/android_kernel_oneplus_sm7250" />
   <project path="kernel/oneplus/sm8150" name="MoKee/android_kernel_oneplus_sm8150" />
+  <project path="vendor/oneplus/avicii" name="MoKee/android_vendor_oneplus_avicii" />
   <project path="vendor/oneplus/cheeseburger" name="MoKee/android_vendor_oneplus_cheeseburger" />
   <project path="vendor/oneplus/dumpling" name="MoKee/android_vendor_oneplus_dumpling" />
   <project path="vendor/oneplus/guacamole" name="MoKee/android_vendor_oneplus_guacamole" />
