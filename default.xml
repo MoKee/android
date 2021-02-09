@@ -46,6 +46,7 @@
   <project path="external/libtextclassifier" name="MoKee/android_external_libtextclassifier" groups="pdk" />
   <project path="external/mksh" name="MoKee/android_external_mksh" groups="pdk" />
   <project path="external/noto-fonts" name="MoKee/android_external_noto-fonts" groups="pdk" />
+  <project path="external/okhttp" name="MoKee/android_external_okhttp" groups="pdk" />
   <project path="external/one-true-awk" name="MoKee/android_external_one-true-awk" groups="pdk" />
   <project path="external/perfetto" name="MoKee/android_external_perfetto" groups="pdk" />
   <project path="external/ppp" name="MoKee/android_external_ppp" groups="pdk" />
@@ -58,6 +59,7 @@
   <project path="external/tinycompress" name="MoKee/android_external_tinycompress" groups="pdk" />
   <project path="external/toybox" name="MoKee/android_external_toybox" groups="pdk" />
   <project path="external/v8" name="MoKee/android_external_v8" groups="pdk" />
+  <project path="external/wpa_supplicant_8" name="MoKee/android_external_wpa_supplicant_8" groups="pdk" />
   <project path="external/zlib" name="MoKee/android_external_zlib" groups="pdk" />
   <project path="frameworks/av" name="MoKee/android_frameworks_av" groups="pdk" />
   <project path="frameworks/base" name="MoKee/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" />
@@ -96,6 +98,7 @@
   <project path="hardware/qcom/sdm845/vr" name="MoKee/android_hardware_qcom_sdm845_vr" groups="qcom_sdm845" />
   <project path="hardware/qcom/wlan" name="MoKee/android_hardware_qcom_wlan" groups="qcom_wlan,pdk-qcom" />
   <project path="hardware/ril" name="MoKee/android_hardware_ril" groups="pdk" />
+  <project path="libcore" name="MoKee/android_libcore" groups="pdk" />
   <project path="packages/apps/BasicSmsReceiver" name="MoKee/android_packages_apps_BasicSmsReceiver" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/Bluetooth" name="MoKee/android_packages_apps_Bluetooth" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/Camera2" name="MoKee/android_packages_apps_Camera2" groups="pdk-fs" />
