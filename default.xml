@@ -22,6 +22,7 @@
   <project path="device/google/atv" name="MoKee/android_device_google_atv" groups="device,broadcom_pdk,generic_fs,pdk" />
   <project path="external/aac" name="MoKee/android_external_aac" groups="pdk" />
   <project path="external/dng_sdk" name="MoKee/android_external_dng_sdk" groups="pdk" />
+  <project path="external/dnsmasq" name="MoKee/android_external_dnsmasq" groups="pdk" />
   <project path="external/drm_hwcomposer" name="MoKee/android_external_drm_hwcomposer" groups="drm_hwcomposer,pdk-fs" />
   <project path="external/chromium-libpac" name="MoKee/android_external_chromium-libpac" groups="pdk" />
   <project path="external/chromium-webview" name="MoKee/android_external_chromium-webview" groups="pdk" revision="master" />
@@ -153,6 +154,7 @@
   <project path="prebuilts/abi-dumps/vndk" name="MoKee/android_prebuilts_abi-dumps_vndk" groups="pdk-fs" />
   <project path="prebuilts/build-tools" name="MoKee/android_prebuilts_build-tools" groups="pdk" />
   <project path="system/bt" name="MoKee/android_system_bt" groups="pdk" />
+  <project path="system/connectivity/wificond" name="MoKee/android_system_connectivity_wificond" groups="pdk" />
   <project path="system/core" name="MoKee/android_system_core" groups="pdk" />
   <project path="system/extras" name="MoKee/android_system_extras" groups="pdk" />
   <project path="system/keymaster" name="MoKee/android_system_keymaster" groups="pdk" />
