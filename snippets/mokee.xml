@@ -123,6 +123,7 @@
   <project path="vendor/nxp/opensource/sn100x/halimpl" name="MoKee/android_vendor_nxp_opensource_halimpl" revision="mkr-mr1-sn100x" />
   <project path="vendor/nxp/opensource/sn100x/hidlimpl" name="MoKee/android_vendor_nxp_opensource_hidlimpl" revision="mkr-mr1-sn100x" />
   <project path="vendor/qcom/opensource/audio" name="MoKee/android_vendor_qcom_opensource_audio" groups="qcom,pdk-qcom" />
+  <project path="vendor/qcom/opensource/audio-hal/st-hal" name="MoKee/android_vendor_qcom_opensource_audio-hal_st-hal" groups="qcom,pdk-qcom"/>
   <project path="vendor/qcom/opensource/commonsys-intf/bluetooth" name="MoKee/android_vendor_qcom_opensource_bluetooth-commonsys-intf" groups="qcom,pdk-qcom"/>
   <project path="vendor/qcom/opensource/commonsys-intf/display" name="MoKee/android_vendor_qcom_opensource_display-commonsys-intf" groups="qcom,pdk-qcom"/>
   <project path="vendor/qcom/opensource/commonsys/bluetooth_ext" name="MoKee/android_vendor_qcom_opensource_bluetooth_ext" groups="qcom,pdk-qcom"/>
