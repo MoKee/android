@@ -20,6 +20,7 @@
   <project path="device/generic/goldfish" name="MoKee/android_device_generic_goldfish" groups="pdk" />
   <project path="external/aac" name="MoKee/android_external_aac" groups="pdk" />
   <project path="external/avb" name="MoKee/android_external_avb" groups="pdk" />
+  <project path="external/chromium-libpac" name="MoKee/android_external_chromium-libpac" groups="pdk" />
   <project path="external/chromium-webview" name="MoKee/android_external_chromium-webview" groups="pdk" revision="master" clone-depth="2" />
   <project path="external/cldr" name="MoKee/android_external_cldr" groups="pdk" />
   <project path="external/curl" name="MoKee/android_external_curl" groups="pdk" />
