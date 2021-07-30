@@ -68,6 +68,7 @@
   <project path="frameworks/minikin" name="MoKee/android_frameworks_minikin" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/native" name="MoKee/android_frameworks_native" groups="pdk" />
   <project path="frameworks/opt/datetimepicker" name="MoKee/android_frameworks_opt_datetimepicker" groups="pdk-cw-fs,pdk-fs" />
+  <project path="frameworks/opt/net/voip" name="MoKee/android_frameworks_opt_net_voip" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/opt/net/wifi" name="MoKee/android_frameworks_opt_net_wifi" groups="pdk" />
   <project path="frameworks/opt/telephony" name="MoKee/android_frameworks_opt_telephony" groups="pdk" />
   <project path="frameworks/support" name="MoKee/android_frameworks_support" groups="pdk-cw-fs,pdk-fs" />
@@ -159,6 +160,7 @@
   <project path="system/core" name="MoKee/android_system_core" groups="pdk" />
   <project path="system/extras" name="MoKee/android_system_extras" groups="pdk" />
   <project path="system/keymaster" name="MoKee/android_system_keymaster" groups="pdk" />
+  <project path="system/libfmq" name="MoKee/android_system_libfmq" groups="pdk" />
   <project path="system/media" name="MoKee/android_system_media" groups="pdk" />
   <project path="system/netd" name="MoKee/android_system_netd" groups="pdk" />
   <project path="system/nfc" name="MoKee/android_system_nfc" groups="pdk" />
