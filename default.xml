@@ -47,6 +47,7 @@
   <project path="external/selinux" name="MoKee/android_external_selinux" groups="pdk" />
   <project path="external/skia" name="MoKee/android_external_skia" groups="pdk,qcom_msm8x26" />
   <project path="external/sonivox" name="MoKee/android_external_sonivox" groups="pdk" />
+  <project path="external/sqlite" name="MoKee/android_external_sqlite" groups="pdk" />
   <project path="external/tinyalsa" name="MoKee/android_external_tinyalsa" groups="pdk" />
   <project path="external/tinycompress" name="MoKee/android_external_tinycompress" groups="pdk" />
   <project path="external/toybox" name="MoKee/android_external_toybox" groups="pdk" />
@@ -150,6 +151,7 @@
   <project path="system/hardware/interfaces" name="MoKee/android_system_hardware_interfaces" groups="pdk" />
   <project path="system/keymaster" name="MoKee/android_system_keymaster" groups="pdk" />
   <project path="system/libfmq" name="MoKee/android_system_libfmq" groups="pdk" />
+  <project path="system/libhwbinder" name="MoKee/android_system_libhwbinder" groups="pdk" />
   <project path="system/libufdt" name="MoKee/android_system_libufdt" groups="pdk" />
   <project path="system/netd" name="MoKee/android_system_netd" groups="pdk" />
   <project path="system/nfc" name="MoKee/android_system_nfc" groups="pdk" />
