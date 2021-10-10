@@ -43,7 +43,7 @@
   <project path="packages/apps/Snap" name="MoKee/android_packages_apps_Snap" />
   <project path="packages/apps/Trebuchet" name="MoKee/android_packages_apps_Trebuchet" />
   <!--<project path="packages/apps/UnifiedEmail" name="MoKee/android_packages_apps_UnifiedEmail" />-->
-  <!-- <project path="packages/apps/WarpShare" name="MoKee/android_packages_apps_WarpShare" /> -->
+  <project path="packages/apps/WarpShare" name="MoKee/android_packages_apps_WarpShare" />
   <project path="packages/overlays/MoKee" name="MoKee/android_packages_overlays_MoKee" />
   <project path="packages/resources/devicesettings" name="MoKee/android_packages_resources_devicesettings" />
   <project path="prebuilts/extract-tools" name="MoKee/android_prebuilts_extract-tools" clone-depth="1" />
