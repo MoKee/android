@@ -69,6 +69,7 @@
   <project path="hardware/qcom/sm8150/display" name="MoKee/android_hardware_qcom_sm8150_display" groups="qcom_sm8150" />
   <project path="hardware/qcom/sm8150/media" name="MoKee/android_hardware_qcom_sm8150_media" groups="qcom_sm8150" />
   <project path="hardware/ril" name="MoKee/android_hardware_ril" groups="pdk" />
+  <project path="libcore" name="MoKee/android_libcore" groups="pdk" />
   <project path="packages/apps/BasicSmsReceiver" name="MoKee/android_packages_apps_BasicSmsReceiver" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/Bluetooth" name="MoKee/android_packages_apps_Bluetooth" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/Camera2" name="MoKee/android_packages_apps_Camera2" groups="pdk-fs" />
