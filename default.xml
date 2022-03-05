@@ -30,9 +30,11 @@
   <project path="external/gptfdisk" name="MoKee/android_external_gptfdisk" groups="pdk" />
   <project path="external/guice" name="MoKee/android_external_guice" groups="pdk" />
   <project path="external/icu" name="MoKee/android_external_icu" groups="pdk" />
+  <project path="external/libavc" name="MoKee/android_external_libavc" groups="pdk" />
   <project path="external/libbrillo" name="MoKee/android_external_libbrillo" groups="pdk" />
   <project path="external/libchrome" name="MoKee/android_external_libchrome" groups="pdk" />
   <project path="external/libcxx" name="MoKee/android_external_libcxx" groups="pdk" />
+  <project path="external/libexif" name="MoKee/android_external_libexif" groups="pdk" />
   <project path="external/mksh" name="MoKee/android_external_mksh" groups="pdk" />
   <project path="external/noto-fonts" name="MoKee/android_external_noto-fonts" groups="pdk" />
   <project path="external/openssh" name="MoKee/android_external_openssh" groups="pdk" />
