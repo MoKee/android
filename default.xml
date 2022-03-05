@@ -133,6 +133,7 @@
   <project path="platform_testing" name="MoKee/android_platform_testing" groups="pdk-fs,pdk-cw-fs,cts" />
   <project path="system/bt" name="MoKee/android_system_bt" groups="pdk" />
   <project path="system/core" name="MoKee/android_system_core" groups="pdk" />
+  <project path="system/extras" name="MoKee/android_system_extras" groups="pdk" />
   <project path="system/incremental_delivery" name="MoKee/android_system_incremental_delivery" groups="pdk" />
   <project path="system/libufdt" name="MoKee/android_system_libufdt" groups="pdk" />
   <project path="system/media" name="MoKee/android_system_media" groups="pdk" />
