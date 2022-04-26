@@ -22,7 +22,6 @@
   <project path="device/google/atv" name="MoKee/android_device_google_atv" groups="device,broadcom_pdk,generic_fs,pdk" />
   <project path="external/avb" name="MoKee/android_external_avb" groups="pdk" />
   <project path="external/boringssl" name="MoKee/android_external_boringssl" groups="pdk" />
-  <project path="external/chromium-webview" name="MoKee/android_external_chromium-webview" groups="pdk" revision="master" />
   <project path="external/cldr" name="MoKee/android_external_cldr" groups="pdk" />
   <project path="external/curl" name="MoKee/android_external_curl" groups="pdk" />
   <project path="external/e2fsprogs" name="MoKee/android_external_e2fsprogs" groups="pdk" />

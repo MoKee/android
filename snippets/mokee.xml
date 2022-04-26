@@ -8,6 +8,19 @@
   <project path="device/mokee/sepolicy" name="MoKee/android_device_mokee_sepolicy" />
   <project path="external/airbnb-lottie" name="MoKee/android_external_airbnb-lottie" />
   <project path="external/bash" name="MoKee/android_external_bash" />
+  <project path="external/chromium-webview/patches" name="MoKee/android_external_chromium-webview_patches" groups="pdk" revision="main" >
+    <linkfile src="Android.mk" dest="external/chromium-webview/Android.mk" />
+    <linkfile src="CleanSpec.mk" dest="external/chromium-webview/CleanSpec.mk" />
+    <linkfile src="README" dest="external/chromium-webview/README" />
+  </project>
+  <project path="external/chromium-webview/prebuilt/arm" name="MoKee/android_external_chromium-webview_prebuilt_arm" groups="pdk" revision="main" />
+  <project path="external/chromium-webview/prebuilt/arm64" name="MoKee/android_external_chromium-webview_prebuilt_arm64" groups="pdk" revision="main" />
+  <project path="external/chromium-webview/prebuilt/x86" name="MoKee/android_external_chromium-webview_prebuilt_x86" groups="pdk" revision="main" />
+  <!-- The below will sync if you have a gitlab remote defined, but review/approval
+       does not run through Gerrit. Additionally, those who sync referncing a
+       mirror won't get that benefit from this remote/project. Place a line in
+       a local manifest if you desire x86_64 Webview -->
+  <!-- <project path="external/chromium-webview/prebuilt/x86_64" name="MoKee/android/android_external_chromium-webview_prebuilt_x86_64" groups="pdk" revision="main" remote="gitlab" /> -->
   <project path="external/exfatprogs" name="MoKee/android_external_exfatprogs" />
   <project path="external/htop" name="MoKee/android_external_htop" />
   <project path="external/libncurses" name="MoKee/android_external_libncurses" />
