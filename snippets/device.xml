@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <!-- Motorola -->
+  <project path="device/motorola/ahannah" name="MoKee/android_device_motorola_ahannah" />
+  <project path="device/motorola/hannah-common" name="MoKee/android_device_motorola_hannah-common" />
+  <project path="device/motorola/msm8937-common" name="MoKee/android_device_motorola_msm8937-common" />
+  <project path="external/bson" name="MoKee/android_external_bson" />
+  <project path="hardware/motorola" name="MoKee/android_hardware_motorola" />
+  <project path="kernel/motorola/msm8953" name="MoKee/android_kernel_motorola_msm8953" />
+  <project path="vendor/motorola/hannah-common" name="MoKee/android_vendor_motorola_hannah-common" />
+  <project path="vendor/motorola/msm8937-common" name="MoKee/android_vendor_motorola_msm8937-common" />
+  <project path="system/qcom" name="MoKee/android_system_qcom" />
+
 </manifest>
