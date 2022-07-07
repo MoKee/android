@@ -12,4 +12,12 @@
   <project path="vendor/motorola/msm8937-common" name="MoKee/android_vendor_motorola_msm8937-common" />
   <project path="system/qcom" name="MoKee/android_system_qcom" />
 
+  <!-- Sony -->
+  <project path="device/sony/akari" name="MoKee/android_device_sony_akari" />
+  <project path="device/sony/tama-common" name="MoKee/android_device_sony_tama-common" />
+  <project path="hardware/sony/SonyOpenTelephony" name="MoKee/android_hardware_sony_SonyOpenTelephony" />
+  <project path="kernel/sony/sdm845" name="MoKee/android_kernel_sony_sdm845" />
+  <project path="vendor/sony/akari" name="MoKee/android_vendor_sony_akari" />
+  <project path="vendor/sony/tama-common" name="MoKee/android_vendor_sony_tama-common" />
+
 </manifest>
