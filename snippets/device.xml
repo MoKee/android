@@ -22,4 +22,12 @@
   <project path="vendor/sony/akatsuki" name="MoKee/android_vendor_sony_akatsuki" />
   <project path="vendor/sony/tama-common" name="MoKee/android_vendor_sony_tama-common" />
 
+  <!-- XiaoMi -->
+  <project path="device/xiaomi/alioth" name="MoKee/android_device_xiaomi_alioth" />
+  <project path="device/xiaomi/sm8250-common" name="MoKee/android_device_xiaomi_sm8250-common" />
+  <project path="hardware/xiaomi" name="MoKee/android_hardware_xiaomi" />
+  <project path="kernel/xiaomi/sm8250" name="MoKee/android_kernel_xiaomi_sm8250" />
+  <project path="vendor/xiaomi/alioth" name="MoKee/android_vendor_xiaomi_alioth" />
+  <project path="vendor/xiaomi/sm8250-common" name="MoKee/android_vendor_xiaomi_sm8250-common" />
+
 </manifest>
