@@ -14,10 +14,12 @@
 
   <!-- Sony -->
   <project path="device/sony/akari" name="MoKee/android_device_sony_akari" />
+  <project path="device/sony/akatsuki" name="MoKee/android_device_sony_akatsuki" />
   <project path="device/sony/tama-common" name="MoKee/android_device_sony_tama-common" />
   <project path="hardware/sony/SonyOpenTelephony" name="MoKee/android_hardware_sony_SonyOpenTelephony" />
   <project path="kernel/sony/sdm845" name="MoKee/android_kernel_sony_sdm845" />
   <project path="vendor/sony/akari" name="MoKee/android_vendor_sony_akari" />
+  <project path="vendor/sony/akatsuki" name="MoKee/android_vendor_sony_akatsuki" />
   <project path="vendor/sony/tama-common" name="MoKee/android_vendor_sony_tama-common" />
 
 </manifest>
