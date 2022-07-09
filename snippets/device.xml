@@ -49,6 +49,7 @@
   <project path="device/xiaomi/apollon" name="MoKee/android_device_xiaomi_apollon" />
   <project path="device/xiaomi/beryllium" name="MoKee/android_device_xiaomi_beryllium" />
   <project path="device/xiaomi/chiron" name="MoKee/android_device_xiaomi_chiron" />
+  <project path="device/xiaomi/dipper" name="MoKee/android_device_xiaomi_dipper" />
   <project path="device/xiaomi/msm8998-common" name="MoKee/android_device_xiaomi_msm8998-common" />
   <project path="device/xiaomi/sdm845-common" name="MoKee/android_device_xiaomi_sdm845-common" />
   <project path="device/xiaomi/sm8250-common" name="MoKee/android_device_xiaomi_sm8250-common" />
@@ -60,6 +61,7 @@
   <project path="vendor/xiaomi/apollon" name="MoKee/android_vendor_xiaomi_apollon" />
   <project path="vendor/xiaomi/beryllium" name="MoKee/android_vendor_xiaomi_beryllium" />
   <project path="vendor/xiaomi/chiron" name="MoKee/android_vendor_xiaomi_chiron" />
+  <project path="vendor/xiaomi/dipper" name="MoKee/android_vendor_xiaomi_dipper" />
   <project path="vendor/xiaomi/msm8998-common" name="MoKee/android_vendor_xiaomi_msm8998-common" />
   <project path="vendor/xiaomi/sdm845-common" name="MoKee/android_vendor_xiaomi_sdm845-common" />
   <project path="vendor/xiaomi/sm8250-common" name="MoKee/android_vendor_xiaomi_sm8250-common" />
