@@ -6,6 +6,7 @@
   <project path="device/motorola/beckham" name="MoKee/android_device_motorola_beckham" />
   <project path="device/motorola/cedric" name="MoKee/android_device_motorola_cedric" />
   <project path="device/motorola/channel" name="MoKee/android_device_motorola_channel" />
+  <project path="device/motorola/chef" name="MoKee/android_device_motorola_chef" />
   <project path="device/motorola/hannah-common" name="MoKee/android_device_motorola_hannah-common" />
   <project path="device/motorola/msm8937-common" name="MoKee/android_device_motorola_msm8937-common" />
   <project path="device/motorola/sdm632-common" name="MoKee/android_device_motorola_sdm632-common" />
@@ -18,6 +19,7 @@
   <project path="vendor/motorola/beckham" name="MoKee/android_vendor_motorola_beckham" />
   <project path="vendor/motorola/cedric" name="MoKee/android_vendor_motorola_cedric" />
   <project path="vendor/motorola/channel" name="MoKee/android_vendor_motorola_channel" />
+  <project path="vendor/motorola/chef" name="MoKee/android_vendor_motorola_chef" />
   <project path="vendor/motorola/hannah-common" name="MoKee/android_vendor_motorola_hannah-common" />
   <project path="vendor/motorola/msm8937-common" name="MoKee/android_vendor_motorola_msm8937-common" />
   <project path="vendor/motorola/sdm632-common" name="MoKee/android_vendor_motorola_sdm632-common" />
