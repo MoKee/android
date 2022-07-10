@@ -37,7 +37,6 @@
   <project path="kernel/oneplus/sdm845" name="MoKee/android_kernel_oneplus_sdm845" />
   <project path="vendor/oneplus/cheeseburger" name="MoKee/android_vendor_oneplus_cheeseburger" />
   <project path="vendor/oneplus/dumpling" name="MoKee/android_vendor_oneplus_dumpling" />
-  <project path="vendor/oneplus/enchilada" name="MoKee/android_vendor_oneplus_enchilada" />
   <project path="vendor/oneplus/msm8998-common" name="MoKee/android_vendor_oneplus_msm8998-common" />
   <project path="vendor/oneplus/sdm845-common" name="MoKee/android_vendor_oneplus_sdm845-common" />
 
