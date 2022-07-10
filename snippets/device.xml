@@ -26,6 +26,11 @@
   <project path="vendor/motorola/sdm660-common" name="MoKee/android_vendor_motorola_sdm660-common" />
   <project path="system/qcom" name="MoKee/android_system_qcom" />
 
+  <!-- Nextbit -->
+  <project path="device/nextbit/ether" name="MoKee/android_device_nextbit_ether" />
+  <project path="kernel/nextbit/msm8992" name="MoKee/android_kernel_nextbit_msm8992" />
+  <project path="vendor/nextbit/ether" name="MoKee/android_vendor_nextbit_ether" />
+
   <!-- OnePlus -->
   <project path="device/oneplus/cheeseburger" name="MoKee/android_device_oneplus_cheeseburger" />
   <project path="device/oneplus/dumpling" name="MoKee/android_device_oneplus_dumpling" />
@@ -49,6 +54,7 @@
   <project path="hardware/sony/macaddrsetup" name="MoKee/android_hardware_sony_macaddrsetup" />
   <project path="hardware/sony/simdetect" name="MoKee/android_hardware_sony_simdetect" />
   <project path="hardware/sony/SonyOpenTelephony" name="MoKee/android_hardware_sony_SonyOpenTelephony" />
+  <project path="hardware/sony/timekeep" name="MoKee/android_hardware_sony_timekeep" />
   <project path="kernel/sony/sdm660" name="MoKee/android_kernel_sony_sdm660" />
   <project path="kernel/sony/sdm845" name="MoKee/android_kernel_sony_sdm845" />
   <project path="vendor/sony/akari" name="MoKee/android_vendor_sony_akari" />
