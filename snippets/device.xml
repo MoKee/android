@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <!-- Lenovo -->
+  <project path="device/lenovo/heart" name="MoKee/android_device_lenovo_heart" />
+  <project path="device/lenovo/sm8150-common" name="MoKee/android_device_lenovo_sm8150-common" />
+  <project path="kernel/lenovo/sm8150" name="MoKee/android_kernel_lenovo_sm8150" />
+  <project path="vendor/lenovo/heart" name="MoKee/android_vendor_lenovo_heart" />
+  <project path="vendor/lenovo/sm8150-common" name="MoKee/android_vendor_lenovo_sm8150-common" />
+
   <!-- Motorola -->
   <project path="device/motorola/ahannah" name="MoKee/android_device_motorola_ahannah" />
   <project path="device/motorola/beckham" name="MoKee/android_device_motorola_beckham" />
