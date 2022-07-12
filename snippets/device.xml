@@ -17,6 +17,7 @@
   <project path="device/motorola/evert" name="MoKee/android_device_motorola_evert" />
   <project path="device/motorola/hannah" name="MoKee/android_device_motorola_hannah" />
   <project path="device/motorola/hannah-common" name="MoKee/android_device_motorola_hannah-common" />
+  <project path="device/motorola/kiev" name="MoKee/android_device_motorola_kiev" />
   <project path="device/motorola/msm8937-common" name="MoKee/android_device_motorola_msm8937-common" />
   <project path="device/motorola/sdm632-common" name="MoKee/android_device_motorola_sdm632-common" />
   <project path="device/motorola/sdm660-common" name="MoKee/android_device_motorola_sdm660-common" />
@@ -25,12 +26,14 @@
   <project path="kernel/motorola/msm8953" name="MoKee/android_kernel_motorola_msm8953" />
   <project path="kernel/motorola/msm8998" name="MoKee/android_kernel_motorola_msm8998" />
   <project path="kernel/motorola/sdm632" name="MoKee/android_kernel_motorola_sdm632" />
+  <project path="kernel/motorola/sm7250" name="MoKee/android_kernel_motorola_sm7250" />
   <project path="vendor/motorola/beckham" name="MoKee/android_vendor_motorola_beckham" />
   <project path="vendor/motorola/cedric" name="MoKee/android_vendor_motorola_cedric" />
   <project path="vendor/motorola/channel" name="MoKee/android_vendor_motorola_channel" />
   <project path="vendor/motorola/chef" name="MoKee/android_vendor_motorola_chef" />
   <project path="vendor/motorola/evert" name="MoKee/android_vendor_motorola_evert" />
   <project path="vendor/motorola/hannah-common" name="MoKee/android_vendor_motorola_hannah-common" />
+  <project path="vendor/motorola/kiev" name="MoKee/android_vendor_motorola_kiev" />
   <project path="vendor/motorola/msm8937-common" name="MoKee/android_vendor_motorola_msm8937-common" />
   <project path="vendor/motorola/sdm632-common" name="MoKee/android_vendor_motorola_sdm632-common" />
   <project path="vendor/motorola/sdm660-common" name="MoKee/android_vendor_motorola_sdm660-common" />
