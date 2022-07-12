@@ -51,6 +51,7 @@
   <project path="device/oneplus/hotdogb" name="MoKee/android_device_oneplus_hotdogb" />
   <project path="device/oneplus/instantnoodle" name="MoKee/android_device_oneplus_instantnoodle" />
   <project path="device/oneplus/instantnoodlep" name="MoKee/android_device_oneplus_instantnoodlep" />
+  <project path="device/oneplus/kebab" name="MoKee/android_device_oneplus_kebab" />
   <project path="device/oneplus/msm8998-common" name="MoKee/android_device_oneplus_msm8998-common" />
   <project path="device/oneplus/sdm845-common" name="MoKee/android_device_oneplus_sdm845-common" />
   <project path="device/oneplus/sm8150-common" name="MoKee/android_device_oneplus_sm8150-common" />
@@ -67,6 +68,7 @@
   <project path="vendor/oneplus/hotdogb" name="MoKee/android_vendor_oneplus_hotdogb" />
   <project path="vendor/oneplus/instantnoodle" name="MoKee/android_vendor_oneplus_instantnoodle" />
   <project path="vendor/oneplus/instantnoodlep" name="MoKee/android_vendor_oneplus_instantnoodlep" />
+  <project path="vendor/oneplus/kebab" name="MoKee/android_vendor_oneplus_kebab" />
   <project path="vendor/oneplus/msm8998-common" name="MoKee/android_vendor_oneplus_msm8998-common" />
   <project path="vendor/oneplus/sdm845-common" name="MoKee/android_vendor_oneplus_sdm845-common" />
   <project path="vendor/oneplus/sm8150-common" name="MoKee/android_vendor_oneplus_sm8150-common" />
