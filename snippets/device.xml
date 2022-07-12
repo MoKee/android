@@ -3,9 +3,12 @@
 
   <!-- Lenovo -->
   <project path="device/lenovo/heart" name="MoKee/android_device_lenovo_heart" />
+  <project path="device/lenovo/kuntao" name="MoKee/android_device_lenovo_kuntao" />
   <project path="device/lenovo/sm8150-common" name="MoKee/android_device_lenovo_sm8150-common" />
+  <project path="kernel/lenovo/msm8953" name="MoKee/android_kernel_lenovo_msm8953" />
   <project path="kernel/lenovo/sm8150" name="MoKee/android_kernel_lenovo_sm8150" />
   <project path="vendor/lenovo/heart" name="MoKee/android_vendor_lenovo_heart" />
+  <project path="vendor/lenovo/kuntao" name="MoKee/android_vendor_lenovo_kuntao" />
   <project path="vendor/lenovo/sm8150-common" name="MoKee/android_vendor_lenovo_sm8150-common" />
 
   <!-- Motorola -->
