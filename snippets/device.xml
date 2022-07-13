@@ -118,6 +118,8 @@
   <project path="device/xiaomi/ginkgo" name="MoKee/android_device_xiaomi_ginkgo" />
   <project path="device/xiaomi/jason" name="MoKee/android_device_xiaomi_jason" />
   <project path="device/xiaomi/lavender" name="MoKee/android_device_xiaomi_lavender" />
+  <project path="device/xiaomi/lithium" name="MoKee/android_device_xiaomi_lithium" />
+  <project path="device/xiaomi/lmi" name="MoKee/android_device_xiaomi_lmi" />
   <project path="device/xiaomi/msm8996-common" name="MoKee/android_device_xiaomi_msm8996-common" />
   <project path="device/xiaomi/msm8998-common" name="MoKee/android_device_xiaomi_msm8998-common" />
   <project path="device/xiaomi/sdm660-common" name="MoKee/android_device_xiaomi_sdm660-common" />
@@ -142,6 +144,8 @@
   <project path="vendor/xiaomi/ginkgo" name="MoKee/android_vendor_xiaomi_ginkgo" />
   <project path="vendor/xiaomi/jason" name="MoKee/android_vendor_xiaomi_jason" />
   <project path="vendor/xiaomi/lavender" name="MoKee/android_vendor_xiaomi_lavender" />
+  <project path="vendor/xiaomi/lithium" name="MoKee/android_vendor_xiaomi_lithium" />
+  <project path="vendor/xiaomi/lmi" name="MoKee/android_vendor_xiaomi_lmi" />
   <project path="vendor/xiaomi/msm8996-common" name="MoKee/android_vendor_xiaomi_msm8996-common" />
   <project path="vendor/xiaomi/msm8998-common" name="MoKee/android_vendor_xiaomi_msm8998-common" />
   <project path="vendor/xiaomi/sdm660-common" name="MoKee/android_vendor_xiaomi_sdm660-common" />
