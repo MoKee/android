@@ -22,9 +22,13 @@
   <project path="device/motorola/hannah-common" name="MoKee/android_device_motorola_hannah-common" />
   <project path="device/motorola/kiev" name="MoKee/android_device_motorola_kiev" />
   <project path="device/motorola/lake" name="MoKee/android_device_motorola_lake" />
+  <project path="device/motorola/montana" name="MoKee/android_device_motorola_montana" />
   <project path="device/motorola/msm8937-common" name="MoKee/android_device_motorola_msm8937-common" />
+  <project path="device/motorola/nairo" name="MoKee/android_device_motorola_nairo" />
+  <project path="device/motorola/nash" name="MoKee/android_device_motorola_nash" />
   <project path="device/motorola/sdm632-common" name="MoKee/android_device_motorola_sdm632-common" />
   <project path="device/motorola/sdm660-common" name="MoKee/android_device_motorola_sdm660-common" />
+  <project path="device/motorola/sm7250-common" name="MoKee/android_device_motorola_sm7250-common" />
   <project path="external/bson" name="MoKee/android_external_bson" />
   <project path="hardware/motorola" name="MoKee/android_hardware_motorola" />
   <project path="kernel/motorola/msm8953" name="MoKee/android_kernel_motorola_msm8953" />
@@ -39,9 +43,13 @@
   <project path="vendor/motorola/hannah-common" name="MoKee/android_vendor_motorola_hannah-common" />
   <project path="vendor/motorola/kiev" name="MoKee/android_vendor_motorola_kiev" />
   <project path="vendor/motorola/lake" name="MoKee/android_vendor_motorola_lake" />
+  <project path="vendor/motorola/montana" name="MoKee/android_vendor_motorola_montana" />
   <project path="vendor/motorola/msm8937-common" name="MoKee/android_vendor_motorola_msm8937-common" />
+  <project path="vendor/motorola/nairo" name="MoKee/android_vendor_motorola_nairo" />
+  <project path="vendor/motorola/nash" name="MoKee/android_vendor_motorola_nash" />
   <project path="vendor/motorola/sdm632-common" name="MoKee/android_vendor_motorola_sdm632-common" />
   <project path="vendor/motorola/sdm660-common" name="MoKee/android_vendor_motorola_sdm660-common" />
+  <project path="vendor/motorola/sm7250-common" name="MoKee/android_vendor_motorola_sm7250-common" />
   <project path="system/qcom" name="MoKee/android_system_qcom" />
 
   <!-- Nextbit -->
