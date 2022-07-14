@@ -26,6 +26,7 @@
   <project path="device/motorola/msm8937-common" name="MoKee/android_device_motorola_msm8937-common" />
   <project path="device/motorola/nairo" name="MoKee/android_device_motorola_nairo" />
   <project path="device/motorola/nash" name="MoKee/android_device_motorola_nash" />
+  <project path="device/motorola/nio" name="MoKee/android_device_motorola_nio" />
   <project path="device/motorola/sdm632-common" name="MoKee/android_device_motorola_sdm632-common" />
   <project path="device/motorola/sdm660-common" name="MoKee/android_device_motorola_sdm660-common" />
   <project path="device/motorola/sm7250-common" name="MoKee/android_device_motorola_sm7250-common" />
@@ -35,6 +36,7 @@
   <project path="kernel/motorola/msm8998" name="MoKee/android_kernel_motorola_msm8998" />
   <project path="kernel/motorola/sdm632" name="MoKee/android_kernel_motorola_sdm632" />
   <project path="kernel/motorola/sm7250" name="MoKee/android_kernel_motorola_sm7250" />
+  <project path="kernel/motorola/sm8250" name="MoKee/android_kernel_motorola_sm8250" />
   <project path="vendor/motorola/beckham" name="MoKee/android_vendor_motorola_beckham" />
   <project path="vendor/motorola/cedric" name="MoKee/android_vendor_motorola_cedric" />
   <project path="vendor/motorola/channel" name="MoKee/android_vendor_motorola_channel" />
@@ -47,6 +49,7 @@
   <project path="vendor/motorola/msm8937-common" name="MoKee/android_vendor_motorola_msm8937-common" />
   <project path="vendor/motorola/nairo" name="MoKee/android_vendor_motorola_nairo" />
   <project path="vendor/motorola/nash" name="MoKee/android_vendor_motorola_nash" />
+  <project path="vendor/motorola/nio" name="MoKee/android_vendor_motorola_nio" />
   <project path="vendor/motorola/sdm632-common" name="MoKee/android_vendor_motorola_sdm632-common" />
   <project path="vendor/motorola/sdm660-common" name="MoKee/android_vendor_motorola_sdm660-common" />
   <project path="vendor/motorola/sm7250-common" name="MoKee/android_vendor_motorola_sm7250-common" />
@@ -133,6 +136,7 @@
   <project path="device/xiaomi/msm8996-common" name="MoKee/android_device_xiaomi_msm8996-common" />
   <project path="device/xiaomi/msm8998-common" name="MoKee/android_device_xiaomi_msm8998-common" />
   <project path="device/xiaomi/natrium" name="MoKee/android_device_xiaomi_natrium" />
+  <project path="device/xiaomi/onclite" name="MoKee/android_device_xiaomi_onclite" />
   <project path="device/xiaomi/sdm660-common" name="MoKee/android_device_xiaomi_sdm660-common" />
   <project path="device/xiaomi/sdm845-common" name="MoKee/android_device_xiaomi_sdm845-common" />
   <project path="device/xiaomi/sm6125-common" name="MoKee/android_device_xiaomi_sm6125-common" />
@@ -143,6 +147,7 @@
   <project path="kernel/xiaomi/gauguin" name="MoKee/android_kernel_xiaomi_gauguin" />
   <project path="kernel/xiaomi/msm8996" name="MoKee/android_kernel_xiaomi_msm8996" />
   <project path="kernel/xiaomi/msm8998" name="MoKee/android_kernel_xiaomi_msm8998" />
+  <project path="kernel/xiaomi/onclite" name="MoKee/android_kernel_xiaomi_onclite" />
   <project path="kernel/xiaomi/sdm660" name="MoKee/android_kernel_xiaomi_sdm660" />
   <project path="kernel/xiaomi/sdm845" name="MoKee/android_kernel_xiaomi_sdm845" />
   <project path="kernel/xiaomi/sm6125" name="MoKee/android_kernel_xiaomi_sm6125" />
@@ -166,6 +171,7 @@
   <project path="vendor/xiaomi/msm8996-common" name="MoKee/android_vendor_xiaomi_msm8996-common" />
   <project path="vendor/xiaomi/msm8998-common" name="MoKee/android_vendor_xiaomi_msm8998-common" />
   <project path="vendor/xiaomi/natrium" name="MoKee/android_vendor_xiaomi_natrium" />
+  <project path="vendor/xiaomi/onclite" name="MoKee/android_vendor_xiaomi_onclite" />
   <project path="vendor/xiaomi/sdm660-common" name="MoKee/android_vendor_xiaomi_sdm660-common" />
   <project path="vendor/xiaomi/sdm845-common" name="MoKee/android_vendor_xiaomi_sdm845-common" />
   <project path="vendor/xiaomi/sm6125-common" name="MoKee/android_vendor_xiaomi_sm6125-common" />
