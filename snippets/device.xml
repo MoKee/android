@@ -27,6 +27,7 @@
   <project path="device/motorola/nairo" name="MoKee/android_device_motorola_nairo" />
   <project path="device/motorola/nash" name="MoKee/android_device_motorola_nash" />
   <project path="device/motorola/nio" name="MoKee/android_device_motorola_nio" />
+  <project path="device/motorola/payton" name="MoKee/android_device_motorola_payton" />
   <project path="device/motorola/sdm632-common" name="MoKee/android_device_motorola_sdm632-common" />
   <project path="device/motorola/sdm660-common" name="MoKee/android_device_motorola_sdm660-common" />
   <project path="device/motorola/sm7250-common" name="MoKee/android_device_motorola_sm7250-common" />
@@ -50,6 +51,7 @@
   <project path="vendor/motorola/nairo" name="MoKee/android_vendor_motorola_nairo" />
   <project path="vendor/motorola/nash" name="MoKee/android_vendor_motorola_nash" />
   <project path="vendor/motorola/nio" name="MoKee/android_vendor_motorola_nio" />
+  <project path="vendor/motorola/payton" name="MoKee/android_vendor_motorola_payton" />
   <project path="vendor/motorola/sdm632-common" name="MoKee/android_vendor_motorola_sdm632-common" />
   <project path="vendor/motorola/sdm660-common" name="MoKee/android_vendor_motorola_sdm660-common" />
   <project path="vendor/motorola/sm7250-common" name="MoKee/android_vendor_motorola_sm7250-common" />
