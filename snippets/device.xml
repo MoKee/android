@@ -150,6 +150,8 @@
   <project path="device/xiaomi/onclite" name="MoKee/android_device_xiaomi_onclite" />
   <project path="device/xiaomi/platina" name="MoKee/android_device_xiaomi_platina" />
   <project path="device/xiaomi/polaris" name="MoKee/android_device_xiaomi_polaris" />
+  <project path="device/xiaomi/sagit" name="MoKee/android_device_xiaomi_sagit" />
+  <project path="device/xiaomi/scorpio" name="MoKee/android_device_xiaomi_scorpio" />
   <project path="device/xiaomi/sdm660-common" name="MoKee/android_device_xiaomi_sdm660-common" />
   <project path="device/xiaomi/sdm845-common" name="MoKee/android_device_xiaomi_sdm845-common" />
   <project path="device/xiaomi/sm6125-common" name="MoKee/android_device_xiaomi_sm6125-common" />
@@ -187,6 +189,8 @@
   <project path="vendor/xiaomi/onclite" name="MoKee/android_vendor_xiaomi_onclite" />
   <project path="vendor/xiaomi/platina" name="MoKee/android_vendor_xiaomi_platina" />
   <project path="vendor/xiaomi/polaris" name="MoKee/android_vendor_xiaomi_polaris" />
+  <project path="vendor/xiaomi/sagit" name="MoKee/android_vendor_xiaomi_sagit" />
+  <project path="vendor/xiaomi/scorpio" name="MoKee/android_vendor_xiaomi_scorpio" />
   <project path="vendor/xiaomi/sdm660-common" name="MoKee/android_vendor_xiaomi_sdm660-common" />
   <project path="vendor/xiaomi/sdm845-common" name="MoKee/android_vendor_xiaomi_sdm845-common" />
   <project path="vendor/xiaomi/sm6125-common" name="MoKee/android_vendor_xiaomi_sm6125-common" />
