@@ -163,6 +163,9 @@
   <project path="device/xiaomi/tissot" name="MoKee/android_device_xiaomi_tissot" />
   <project path="device/xiaomi/twolip" name="MoKee/android_device_xiaomi_twolip" />
   <project path="device/xiaomi/vayu" name="MoKee/android_device_xiaomi_vayu" />
+  <project path="device/xiaomi/wayne" name="MoKee/android_device_xiaomi_wayne" />
+  <project path="device/xiaomi/wayne-common" name="MoKee/android_device_xiaomi_wayne-common" />
+  <project path="device/xiaomi/whyred" name="MoKee/android_device_xiaomi_whyred" />
   <project path="hardware/xiaomi" name="MoKee/android_hardware_xiaomi" />
   <project path="kernel/xiaomi/msm8953" name="MoKee/android_kernel_xiaomi_msm8953" />
   <project path="kernel/xiaomi/msm8996" name="MoKee/android_kernel_xiaomi_msm8996" />
@@ -209,5 +212,8 @@
   <project path="vendor/xiaomi/tissot" name="MoKee/android_vendor_xiaomi_tissot" />
   <project path="vendor/xiaomi/twolip" name="MoKee/android_vendor_xiaomi_twolip" />
   <project path="vendor/xiaomi/vayu" name="MoKee/android_vendor_xiaomi_vayu" />
+  <project path="vendor/xiaomi/wayne" name="MoKee/android_vendor_xiaomi_wayne" />
+  <project path="vendor/xiaomi/wayne-common" name="MoKee/android_vendor_xiaomi_wayne-common" />
+  <project path="vendor/xiaomi/whyred" name="MoKee/android_vendor_xiaomi_whyred" />
 
 </manifest>
