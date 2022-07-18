@@ -159,9 +159,11 @@
   <project path="device/xiaomi/sm6125-common" name="MoKee/android_device_xiaomi_sm6125-common" />
   <project path="device/xiaomi/sm6250-common" name="MoKee/android_device_xiaomi_sm6250-common" />
   <project path="device/xiaomi/sm7250-common" name="MoKee/android_device_xiaomi_sm7250-common" />
+  <project path="device/xiaomi/sm8150-common" name="MoKee/android_device_xiaomi_sm8150-common" />
   <project path="device/xiaomi/sm8250-common" name="MoKee/android_device_xiaomi_sm8250-common" />
   <project path="device/xiaomi/tissot" name="MoKee/android_device_xiaomi_tissot" />
   <project path="device/xiaomi/twolip" name="MoKee/android_device_xiaomi_twolip" />
+  <project path="device/xiaomi/vayu" name="MoKee/android_device_xiaomi_vayu" />
   <project path="hardware/xiaomi" name="MoKee/android_hardware_xiaomi" />
   <project path="kernel/xiaomi/gauguin" name="MoKee/android_kernel_xiaomi_gauguin" />
   <project path="kernel/xiaomi/msm8953" name="MoKee/android_kernel_xiaomi_msm8953" />
@@ -173,6 +175,7 @@
   <project path="kernel/xiaomi/sm6125" name="MoKee/android_kernel_xiaomi_sm6125" />
   <project path="kernel/xiaomi/sm6250" name="MoKee/android_kernel_xiaomi_sm6250" />
   <project path="kernel/xiaomi/sm7250" name="MoKee/android_kernel_xiaomi_sm7250" />
+  <project path="kernel/xiaomi/sm8150" name="MoKee/android_kernel_xiaomi_sm8150" />
   <project path="kernel/xiaomi/sm8250" name="MoKee/android_kernel_xiaomi_sm8250" />
   <project path="kernel/xiaomi/surya" name="MoKee/android_kernel_xiaomi_surya" />
   <project path="vendor/xiaomi/alioth" name="MoKee/android_vendor_xiaomi_alioth" />
@@ -204,8 +207,10 @@
   <project path="vendor/xiaomi/sm6125-common" name="MoKee/android_vendor_xiaomi_sm6125-common" />
   <project path="vendor/xiaomi/sm6250-common" name="MoKee/android_vendor_xiaomi_sm6250-common" />
   <project path="vendor/xiaomi/sm7250-common" name="MoKee/android_vendor_xiaomi_sm7250-common" />
+  <project path="vendor/xiaomi/sm8150-common" name="MoKee/android_vendor_xiaomi_sm8150-common" />
   <project path="vendor/xiaomi/sm8250-common" name="MoKee/android_vendor_xiaomi_sm8250-common" />
   <project path="vendor/xiaomi/tissot" name="MoKee/android_vendor_xiaomi_tissot" />
   <project path="vendor/xiaomi/twolip" name="MoKee/android_vendor_xiaomi_twolip" />
+  <project path="vendor/xiaomi/vayu" name="MoKee/android_vendor_xiaomi_vayu" />
 
 </manifest>
