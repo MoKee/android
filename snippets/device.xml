@@ -124,6 +124,7 @@
   <project path="device/sony/discovery" name="MoKee/android_device_sony_discovery" />
   <project path="device/sony/nile-common" name="MoKee/android_device_sony_nile-common" />
   <project path="device/sony/tama-common" name="MoKee/android_device_sony_tama-common" />
+  <project path="device/sony/xz2c" name="MoKee/android_device_sony_xz2c" />
   <project path="hardware/sony/macaddrsetup" name="MoKee/android_hardware_sony_macaddrsetup" />
   <project path="hardware/sony/simdetect" name="MoKee/android_hardware_sony_simdetect" />
   <project path="hardware/sony/SonyOpenTelephony" name="MoKee/android_hardware_sony_SonyOpenTelephony" />
@@ -135,6 +136,7 @@
   <project path="vendor/sony/discovery" name="MoKee/android_vendor_sony_discovery" />
   <project path="vendor/sony/nile-common" name="MoKee/android_vendor_sony_nile-common" />
   <project path="vendor/sony/tama-common" name="MoKee/android_vendor_sony_tama-common" />
+  <project path="vendor/sony/xz2c" name="MoKee/android_vendor_sony_xz2c" />
 
   <!-- XiaoMi -->
   <project path="device/xiaomi/alioth" name="MoKee/android_device_xiaomi_alioth" />
