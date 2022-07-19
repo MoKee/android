@@ -121,22 +121,34 @@
   <!-- Sony -->
   <project path="device/sony/akari" name="MoKee/android_device_sony_akari" />
   <project path="device/sony/akatsuki" name="MoKee/android_device_sony_akatsuki" />
+  <project path="device/sony/common" name="MoKee/android_device_sony_common" />
   <project path="device/sony/discovery" name="MoKee/android_device_sony_discovery" />
+  <project path="device/sony/msm8974-common" name="MoKee/android_device_sony_msm8974-common" />
   <project path="device/sony/nile-common" name="MoKee/android_device_sony_nile-common" />
+  <project path="device/sony/shinano-common" name="MoKee/android_device_sony_shinano-common" />
   <project path="device/sony/tama-common" name="MoKee/android_device_sony_tama-common" />
   <project path="device/sony/xz2c" name="MoKee/android_device_sony_xz2c" />
+  <project path="device/sony/z3" name="MoKee/android_device_sony_z3" />
+  <project path="device/sony/z3c" name="MoKee/android_device_sony_z3c" />
+  <project path="hardware/broadcom/fm" name="MoKee/android_hardware_broadcom_fm" />
   <project path="hardware/sony/macaddrsetup" name="MoKee/android_hardware_sony_macaddrsetup" />
   <project path="hardware/sony/simdetect" name="MoKee/android_hardware_sony_simdetect" />
   <project path="hardware/sony/SonyOpenTelephony" name="MoKee/android_hardware_sony_SonyOpenTelephony" />
+  <project path="hardware/sony/thermanager" name="MoKee/android_hardware_sony_thermanager" />
   <project path="hardware/sony/timekeep" name="MoKee/android_hardware_sony_timekeep" />
+  <project path="kernel/sony/msm8974" name="MoKee/android_kernel_sony_msm8974" />
   <project path="kernel/sony/sdm660" name="MoKee/android_kernel_sony_sdm660" />
   <project path="kernel/sony/sdm845" name="MoKee/android_kernel_sony_sdm845" />
   <project path="vendor/sony/akari" name="MoKee/android_vendor_sony_akari" />
   <project path="vendor/sony/akatsuki" name="MoKee/android_vendor_sony_akatsuki" />
   <project path="vendor/sony/discovery" name="MoKee/android_vendor_sony_discovery" />
+  <project path="vendor/sony/msm8974-common" name="MoKee/android_vendor_sony_msm8974-common" />
   <project path="vendor/sony/nile-common" name="MoKee/android_vendor_sony_nile-common" />
+  <project path="vendor/sony/shinano-common" name="MoKee/android_vendor_sony_shinano-common" />
   <project path="vendor/sony/tama-common" name="MoKee/android_vendor_sony_tama-common" />
   <project path="vendor/sony/xz2c" name="MoKee/android_vendor_sony_xz2c" />
+  <project path="vendor/sony/z3" name="MoKee/android_vendor_sony_z3" />
+  <project path="vendor/sony/z3c" name="MoKee/android_vendor_sony_z3c" />
 
   <!-- XiaoMi -->
   <project path="device/xiaomi/alioth" name="MoKee/android_device_xiaomi_alioth" />
