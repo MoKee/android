@@ -79,6 +79,7 @@
   <project path="vendor/nextbit/ether" name="MoKee/android_vendor_nextbit_ether" />
 
   <!-- OnePlus -->
+  <project path="device/oneplus/bacon" name="MoKee/android_device_oneplus_bacon" />
   <project path="device/oneplus/cheeseburger" name="MoKee/android_device_oneplus_cheeseburger" />
   <project path="device/oneplus/dumpling" name="MoKee/android_device_oneplus_dumpling" />
   <project path="device/oneplus/enchilada" name="MoKee/android_device_oneplus_enchilada" />
@@ -123,6 +124,8 @@
 
   <!-- Oppo -->
   <project path="device/oppo/common" name="MoKee/android_device_oppo_common" />
+  <project path="device/oppo/msm8974-common" name="MoKee/android_device_oppo_msm8974-common" />
+  <project path="kernel/oppo/msm8974" name="MoKee/android_kernel_oppo_msm8974" />
 
   <!-- Sony -->
   <project path="device/sony/akari" name="MoKee/android_device_sony_akari" />
