@@ -127,6 +127,7 @@
   <!-- Sony -->
   <project path="device/sony/akari" name="MoKee/android_device_sony_akari" />
   <project path="device/sony/akatsuki" name="MoKee/android_device_sony_akatsuki" />
+  <project path="device/sony/aurora" name="MoKee/android_device_sony_aurora" />
   <project path="device/sony/common" name="MoKee/android_device_sony_common" />
   <project path="device/sony/discovery" name="MoKee/android_device_sony_discovery" />
   <project path="device/sony/msm8974-common" name="MoKee/android_device_sony_msm8974-common" />
@@ -147,6 +148,7 @@
   <project path="kernel/sony/sdm845" name="MoKee/android_kernel_sony_sdm845" />
   <project path="vendor/sony/akari" name="MoKee/android_vendor_sony_akari" />
   <project path="vendor/sony/akatsuki" name="MoKee/android_vendor_sony_akatsuki" />
+  <project path="vendor/sony/aurora" name="MoKee/android_vendor_sony_aurora" />
   <project path="vendor/sony/discovery" name="MoKee/android_vendor_sony_discovery" />
   <project path="vendor/sony/msm8974-common" name="MoKee/android_vendor_sony_msm8974-common" />
   <project path="vendor/sony/nile-common" name="MoKee/android_vendor_sony_nile-common" />
