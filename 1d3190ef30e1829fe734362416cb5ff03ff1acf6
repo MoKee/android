@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b95ee124_116987d6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 2044
+      },
+      "writtenOn": "2022-07-20T10:59:05Z",
+      "side": 1,
+      "message": "Needed for thyme.\nthyme using prebuilt vendor, and that vendor image host on GitLab.",
+      "revId": "1d3190ef30e1829fe734362416cb5ff03ff1acf6",
+      "serverId": "83d63960-fecf-4fd1-a7f6-e01518638a62"
+    }
+  ]
+}
