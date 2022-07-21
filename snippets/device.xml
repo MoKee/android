@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <!-- Google -->
+  <project path="device/google/blueline" name="MoKee/android_device_google_blueline" />
+  <project path="device/google/bonito" name="MoKee/android_device_google_bonito" />
+  <project path="device/google/bramble" name="MoKee/android_device_google_bramble" />
+  <project path="device/google/crosshatch" name="MoKee/android_device_google_crosshatch" />
+  <project path="device/google/redbull" name="MoKee/android_device_google_redbull" />
+  <project path="kernel/google/msm-4.9" name="MoKee/android_kernel_google_msm-4.9" />
+  <project path="kernel/google/redbull" name="MoKee/android_kernel_google_redbull" />
+  <project path="packages/apps/ElmyraService" name="MoKee/android_packages_apps_ElmyraService" />
+  <project path="vendor/google/blueline" name="MoKee/android_vendor_google_blueline" />
+  <project path="vendor/google/bonito" name="MoKee/android_vendor_google_bonito" />
+  <project path="vendor/google/bramble" name="MoKee/android_vendor_google_bramble" />
+  <project path="vendor/google/crosshatch" name="MoKee/android_vendor_google_crosshatch" />
+
   <!-- Leeco -->
   <project path="device/leeco/msm8996-common" name="MoKee/android_device_leeco_msm8996-common" />
   <project path="device/leeco/x2" name="MoKee/android_device_leeco_x2" />
