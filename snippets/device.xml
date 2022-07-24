@@ -159,7 +159,6 @@
   <project path="device/sony/msm8974-common" name="MoKee/android_device_sony_msm8974-common" />
   <project path="device/sony/nile-common" name="MoKee/android_device_sony_nile-common" />
   <project path="device/sony/shinano-common" name="MoKee/android_device_sony_shinano-common" />
-  <project path="device/sony/sirius" name="MoKee/android_device_sony_sirius" />
   <project path="device/sony/tama-common" name="MoKee/android_device_sony_tama-common" />
   <project path="device/sony/voyager" name="MoKee/android_device_sony_voyager" />
   <project path="device/sony/xz2c" name="MoKee/android_device_sony_xz2c" />
@@ -182,7 +181,6 @@
   <project path="vendor/sony/msm8974-common" name="MoKee/android_vendor_sony_msm8974-common" />
   <project path="vendor/sony/nile-common" name="MoKee/android_vendor_sony_nile-common" />
   <project path="vendor/sony/shinano-common" name="MoKee/android_vendor_sony_shinano-common" />
-  <project path="vendor/sony/sirius" name="MoKee/android_vendor_sony_sirius" />
   <project path="vendor/sony/tama-common" name="MoKee/android_vendor_sony_tama-common" />
   <project path="vendor/sony/voyager" name="MoKee/android_vendor_sony_voyager" />
   <project path="vendor/sony/xz2c" name="MoKee/android_vendor_sony_xz2c" />
