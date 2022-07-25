@@ -57,6 +57,7 @@
   <project path="device/motorola/nash" name="MoKee/android_device_motorola_nash" />
   <project path="device/motorola/nio" name="MoKee/android_device_motorola_nio" />
   <project path="device/motorola/payton" name="MoKee/android_device_motorola_payton" />
+  <project path="device/motorola/racer" name="MoKee/android_device_motorola_racer" />
   <project path="device/motorola/rhannah" name="MoKee/android_device_motorola_rhannah" />
   <project path="device/motorola/river" name="MoKee/android_device_motorola_river" />
   <project path="device/motorola/sdm632-common" name="MoKee/android_device_motorola_sdm632-common" />
@@ -85,6 +86,7 @@
   <project path="vendor/motorola/nash" name="MoKee/android_vendor_motorola_nash" />
   <project path="vendor/motorola/nio" name="MoKee/android_vendor_motorola_nio" />
   <project path="vendor/motorola/payton" name="MoKee/android_vendor_motorola_payton" />
+  <project path="vendor/motorola/racer" name="MoKee/android_vendor_motorola_racer" />
   <project path="vendor/motorola/river" name="MoKee/android_vendor_motorola_river" />
   <project path="vendor/motorola/sdm632-common" name="MoKee/android_vendor_motorola_sdm632-common" />
   <project path="vendor/motorola/sdm660-common" name="MoKee/android_vendor_motorola_sdm660-common" />
