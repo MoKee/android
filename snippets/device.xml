@@ -63,6 +63,7 @@
   <project path="device/motorola/sdm632-common" name="MoKee/android_device_motorola_sdm632-common" />
   <project path="device/motorola/sdm660-common" name="MoKee/android_device_motorola_sdm660-common" />
   <project path="device/motorola/sm7250-common" name="MoKee/android_device_motorola_sm7250-common" />
+  <project path="device/motorola/victara" name="MoKee/android_device_motorola_victara" />
   <project path="external/bson" name="MoKee/android_external_bson" />
   <project path="hardware/motorola" name="MoKee/android_hardware_motorola" />
   <project path="kernel/motorola/msm8953" name="MoKee/android_kernel_motorola_msm8953" />
@@ -91,6 +92,7 @@
   <project path="vendor/motorola/sdm632-common" name="MoKee/android_vendor_motorola_sdm632-common" />
   <project path="vendor/motorola/sdm660-common" name="MoKee/android_vendor_motorola_sdm660-common" />
   <project path="vendor/motorola/sm7250-common" name="MoKee/android_vendor_motorola_sm7250-common" />
+  <project path="vendor/motorola/victara" name="MoKee/android_vendor_motorola_victara" />
   <project path="system/qcom" name="MoKee/android_system_qcom" />
 
   <!-- Nextbit -->
