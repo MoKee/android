@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "68d891dd_0fb27d0b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 2202
+      },
+      "writtenOn": "2022-07-27T04:33:03Z",
+      "side": 1,
+      "message": "Please merge this to fix mkn-mr1\u0027s sync.",
+      "revId": "efae6090b0c686d441886cab05578dda0259aa08",
+      "serverId": "83d63960-fecf-4fd1-a7f6-e01518638a62"
+    }
+  ]
+}
