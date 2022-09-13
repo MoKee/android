@@ -27,6 +27,7 @@
   <project path="external/curl" name="MoKee/android_external_curl" groups="pdk" />
   <project path="external/e2fsprogs" name="MoKee/android_external_e2fsprogs" groups="pdk" />
   <project path="external/elfutils" name="MoKee/android_external_elfutils" groups="pdk" />
+  <project path="external/expat" name="MoKee/android_external_expat" groups="pdk" />
   <project path="external/gptfdisk" name="MoKee/android_external_gptfdisk" groups="pdk" />
   <project path="external/guice" name="MoKee/android_external_guice" groups="pdk" />
   <project path="external/icu" name="MoKee/android_external_icu" groups="pdk" />
