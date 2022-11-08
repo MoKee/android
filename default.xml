@@ -25,6 +25,7 @@
   <project path="external/boringssl" name="MoKee/android_external_boringssl" groups="pdk" />
   <project path="external/cldr" name="MoKee/android_external_cldr" groups="pdk" />
   <project path="external/curl" name="MoKee/android_external_curl" groups="pdk" />
+  <project path="external/dtc" name="MoKee/android_external_dtc" groups="pdk" />
   <project path="external/e2fsprogs" name="MoKee/android_external_e2fsprogs" groups="pdk" />
   <project path="external/elfutils" name="MoKee/android_external_elfutils" groups="pdk" />
   <project path="external/expat" name="MoKee/android_external_expat" groups="pdk" />
